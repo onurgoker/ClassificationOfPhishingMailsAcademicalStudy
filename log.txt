@@ -1,0 +1,2 @@
+2017-12-24 19:15:53,262 - INFO: Parsing:test.eml
+2017-12-24 19:15:53,307 - INFO: Parse Email Done: 1 Eml Files Parsed
