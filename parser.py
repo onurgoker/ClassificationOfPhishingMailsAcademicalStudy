@@ -137,5 +137,5 @@ def caption (origin):
 
 f = open("test.eml", "rb")
 #print caption(f)
-print extract(f, f.name)
+print(extract(f, f.name))
 f.close()
