@@ -290,9 +290,16 @@ while word in uniqueList:
 
 print(vArray)
 
+<<<<<<< HEAD
 """
 if(llist.search("xx")):
     print("Data in list")
 else:
     print("Data NOT in list!")
 """
+=======
+f = open("test.eml", "rb")
+#print caption(f)
+print(extract(f, f.name))
+f.close()
+>>>>>>> 5bb22efea870c0e4731a3880e3ba731a60927eaf
