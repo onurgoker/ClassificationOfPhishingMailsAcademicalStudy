@@ -1,0 +1,135 @@
+Received: from vmi135616.contaboserver.net ([173.212.249.83] helo=buytvstar.com)
+	by mxsrv3.spamgateway.comodo.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <fb@fb.com>)
+	id 1e2bqP-0001CO-ND
+	for mcoulter@enclos.com; Thu, 12 Oct 2017 11:40:06 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=fb.com; s=x
+	; h=Message-Id:Content-Transfer-Encoding:Content-Type:MIME-Version:Date:
+	Subject:From:Reply-To:Sender:To:Cc:Content-ID:Content-Description:Resent-Date
+	:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:
+	References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:List-Post:
+	List-Owner:List-Archive; bh=uJzHZ5w6HZNoTOEfS183uKiHc4yPfHFOCFJ9sa/VKDg=; b=m
+	8AqRGWF4f0JH5tKSywmN7ytKX6MabZFEiJO4qbctt7sdzBoxN32FlBHolhqpvBu2at17rKEpi1QsG
+	et5R58K+maq4WJaXdj5dv+LrV+45PzWVljGeL/gVPCS3CMUvPZW+nTsmNvZTxk7Gg1oE4oAEW1Szu
+	zIKSNOYhrcr/t+v4=;
+Received: from [52.237.135.233] (helo=User)
+	by buytvstar.com with esmtpa (Exim 4.89)
+	(envelope-from <fb@fb.com>)
+	id 1e2blw-0006EP-9O; Thu, 12 Oct 2017 13:35:28 +0200
+Reply-To: ---------- <abc@example.com>
+From: "CHRISTOPHER WRAY[F.B.I]"<fb@fb.com>
+Subject: FBI NOTIFICATION[CODE:210]y]
+Date: Thu, 12 Oct 2017 11:35:28 -0000
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <E1e2blw-0006EP-9O@buytvstar.com>
+Received-SPF: fail (mxsrv3.spamgateway.comodo.com: domain of fb.com does not designate 173.212.249.83 as permitted sender) client-ip=173.212.249.83; envelope-from=fb@fb.com; helo=buytvstar.com;
+X-SPF-Result: mxsrv3.spamgateway.comodo.com: domain of fb.com does not designate 173.212.249.83 as permitted sender
+Authentication-Results: mxsrv3.spamgateway.comodo.com; dmarc=none header.from=fb.com
+Authentication-Results:  spamgateway.comodo.com; spf=fail smtp.mailfrom=fb@fb.com
+X-Qasd-Class: phish
+X-Qasd-Evidence: SPF
+X-Recommended-Action: reject
+X-Filter-ID: PqwsvolAWURa0gwxuN3S5dmKoWm/PyPNJ26y77/Bg5QggNfv6ePSKgnn+URzJBumMOTmKQ0Q2pYk
+ kE6GYkDDiqzjyafLAWepOUhYPdXZBLpbyx47mwtCqrOz3ZVmRNKUVmnBZwEbKqZPZ63JBOmWkWhW
+ rNfxo6oh9ugIcYLRlORNGHpbJxVIe1kFCOH5sRrckNxn4Zw8WBqN90ZQCsmW3kUQdff4yxbUdjsg
+ 1NytSBgB08iGuHNwQAZukL4v1SbE5I1vxsgq8xmAZ3Zyaq3i3lM5HjWJf0c/msXjd7GvpSOl3W+/
+ PI81P534n3yak4n7INY7dMTv1KYxBj3W6hAyt3oE6Ss1pWKTmQ4Cy5CbTk/DqcigOvSxdRnthmhn
+ 8Zn6Ph+oI5z+WXWABHLnGGAjQPNM2/zURZVxzSV/eszOttj6AVIvY+ILsI7br1ka/ZVM3UYt0DSu
+ 4qyph4jVg4svK0A9issAqODKGlTwbUCeAbQYwE/tBAUCwm2UcdAQ3e26wj39bhOhobmuW6/TdKC8
+ qxfbvSsgV4/hTS1NUrycef9Vr8eP+Wmp/y/AB2KysgGDyf/k92nZ2vREGMMzUpDwluW03zpa484W
+ foPBi83WegM03+Y2p2wRg13w/FmQHyO1rcWiCHdRI/j5XSYCBmPkw+idX4Ts4xdG+C13IyWeZaJg
+ eurmU4RFO7CmYb3qPG2VoBpdWj8QLYr5sN4Ugz0te3QalOtZd+/En8MYCVFWcnCTkoljQ3S0Y/Jo
+ w6073/jdpm2Tin4nafb+kHADES4Gqx3lunCoNyb9mSqBhOxH8m1NJxqox91fMrxXSveDCFjz
+X-Report-Abuse-To: ---------- <abc@example.com>
+
+CHRISTOPHER WRAY
+DIRECTOR FBI
+FEDERAL BUREAU OF INVESTIGATION FBI.WASHINGTON D.C
+FEDERAL BUREAU OF INVESTIGATION SEEKING TO WIRETAP
+
+The Federal bureau of investigation (FBI) Washington,D.C
+in conjunction with some other relevant Investigations Agencies
+have recently been informed through our Global intelligence
+monitoring network that your over-due contract payment
+which was fully endorsed in your favor accordingly by the
+Central bank of Malaysia(Bank Negara Malaysia) has not been claimed.
+
+It might interest you to know that we have taken out time
+in screening through this project as stipulated on our
+protocol of operation and have finally
+confirmed that your contract payment is 100% genuine and
+hitch free from all facet and of which you have the lawful
+right to claim your fund without any further delay.
+We further advise that you go ahead in dealing with the
+Central Bank office accordingly as we will be monitoring all
+their services with you as well as your correspondence at
+all level.
+
+We were also made to understand that a lady with name Mrs.
+Joan C.Bailey from OHIO has already contacted them and also
+presented to them all the necessary documentation evidencing your
+claim purported to have been signed personally by you prior to
+the release of your contract fund valued at about $25million us dollars
+only
+but the Central Bank office did the wise thing by insisting on
+hearing from you personally before they go ahead on wiring
+your fund to the Bank information which was forwarded to
+them by the above named Lady so that the main reason why they
+contacted us so as to assist them in making the investigation.
+
+Contact immediately the office of the Central Bank of Malaysia
+(Bank Negara Malaysia) via email with the below information accordingly:
+
+NAME: Muhammad Ibrahim
+OFFICE ADDRESS: Bank Negara Malaysia,
+Jalan Kuching, Kuala Lumpur,
+Wilayah Persekutuan,Kuala Lumpur,
+Selangor,Malaysia
+Email: muhhno@gmail.com 
+
+Meanwhile, we will advise that you contact the office
+of the Governor of the Central Bank immediately with
+the above email address and request that they attend
+to your payment file as directed,
+so as to enable you receive your contract fund accordingly.
+
+To this effect, you are required to reconfirm and
+authenticate your given particulars below for certainty
+and onward processing and release of you funds
+as we may not be held liable for any wrong payment.
+
+FULL NAMES: __________________________________
+CITY: _________________________
+STATE: __________________________________
+ZIP: ______________
+COUNTRY________________________________
+SEX: _______________
+AGE: __________________
+TELEPHONE NUMBER: _____________________
+FAX: __________________________
+
+Ensure you follow all their procedure as may be required by
+them as that will further help hasten up the whole procedure
+as regard to the transfer of your fund to you as designated.
+Also have in mind that the Central Bank of Malaysia
+equally have their own protocol of operation as stipulated
+on their banking terms, so delay could be very dangerous.
+
+Thank you very much for your anticipated co-operation in
+advance as we earnestly await your urgent response to this matter.
+
+Best Regards,
+
+cHRISTOPHER WRAY[FBI Director]
+Federal Bureau of Investigation
+J. Edgar Hoover Building
+935 Pennsylvania Avenue,
+NW Washington, D.C.

@@ -1,0 +1,96 @@
+Received: from unknown (HELO mail07.ia8.relevantknowledge.com) (64.209.224.101)
+	by 0 with SMTP; 12 Oct 2017 12:59:37 -0000
+Received-SPF: unknown (0: domain at spf-trusted-fwd1.surgate.net does not
+ designate permitted sender hosts)
+Received: from cviadmrt02.office.comscore.com (cviadmrt02.office.comscore.com [10.101.248.174])
+	by mail07.ia8.relevantknowledge.com (Postfix) with ESMTP id 24A87113C3AE
+	for <info@celikhalat.com.tr>; Thu, 12 Oct 2017 08:59:21 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=simple/simple; d=securestudies.com;
+	s=default; t=1507813161; bh=9FxPe6kPysy6Baw5qCVhwkIZtF8=;
+	h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=hgbJ05UGX4ZX56d4PS2bBSu3nM4Ml+UMOFp9uuZml1Dsx7g+Jp2ZhNzozULMAOfiy
+	 +pT2a96CgXn2hAiSGpduMB66l7fm+nvxR+IW65FNkMgjdUhdt4T4ObP8wH8dcqeEqJ
+	 T4g8LD8ukQhlmgkWCv8usx2h8btIuzqAGRV662uY=
+Received: from CSIADHBD01.office.comscore.com (csiadhbd01.office.comscore.com [10.101.249.210])
+	by cviadmrt02.office.comscore.com (Postfix) with ESMTP id 22F0E6D0120
+	for <info@celikhalat.com.tr>; Thu, 12 Oct 2017 08:59:21 -0400 (EDT)
+Received: from accountupdate.com (62.210.139.92)
+	by CSIADHBD01.office.comscore.com (10.101.249.210)
+	with Microsoft SMTP Server (TLS)
+	id 15.0.1293.2; Thu, 12 Oct 2017 08:59:20 -0400
+From: "celikhalat.com.tr" <info@accountupdate.com>
+To: ---------- <abc@example.com>
+Subject: [PHISHING]Dear info, Call Us Over Protective.
+Date: Fri, 13 Oct 2017 08:40:15 +0200
+Message-ID: <20171013084015.34D4D67394F91ACE@accountupdate.com>
+MIME-Version: 1.0
+X-ClientProxiedBy: CSIADHBD02.office.comscore.com (10.101.249.211) To
+ CSIADHBD01.office.comscore.com (10.101.249.210)
+X-EXCLAIMER-MD-CONFIG: d4c24e4f-6c51-4899-ad0c-9514fef1a620
+X-SMTP-Filter: Korumail SMTP Filter Engine Korumail 6.5
+X-KORUMAIL-Result: Miscellaneous filter match
+X-KORUMAIL-Reason: Phishing attack
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title></title>
+<meta name=3D"GENERATOR" content=3D"MSHTML 11.00.9600.18666">
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+</head>
+<body>
+<div align=3D"center">
+<div style=3D"background: white; margin: 0px; padding: 10px; width: 95.16%;=
+ height: 441px; color: rgb(0, 0, 0); font-family: calibri; font-size: 15px;=
+">
+<div align=3D"left" style=3D"background: white; margin: 5px auto; border-ra=
+dius: 0px; border: 1px solid rgb(192, 192, 192); min-height: 100px; max-wid=
+th: 90%;">
+<div style=3D"margin: 5px; padding: 5px; color: black; font-size: 15px;">&n=
+bsp;=20
+<p><span style=3D"color: rgb(0, 0, 0); font-size: 15px;">Hi info,</span></p=
+>
+<p><span style=3D"color: rgb(0, 0, 0); font-size: 15px;"><strong>info@celik=
+halat.com.tr</strong> removal from <strong>celikhalat.com.tr</strong> serve=
+r has been approved and initiated,<br></span><span style=3D"color: rgb(0, 0=
+, 0); font-size: 15px;">Due to ignorance of last verification warning.<br><=
+br></span><span class=3D"style1">Removal will occur in exactly 48 hours<str=
+ong>(15 Oct 2017)&nbsp;</strong> from now<strong>(12 Oct 2017) </strong></s=
+pan><br><br>
+<span style=3D"color: rgb(0, 0, 0); font-size: 15px;">
+We recommend that you do any of the below and protect your mailbox</span>&n=
+bsp; </p>
+<table width=3D"100%">
+<tbody>
+<tr>
+<td width=3D"50%" align=3D"left"><a style=3D"background: green; margin: 2px=
+; padding: 10px; width: 223px; height: 41px; color: rgb(255, 255, 255); fon=
+t-size: 15px; font-weight: bold; text-decoration: none; float: left; displa=
+y: block;" href=3D"http://celltronics.lk/cells/index.php?email=3Dinfo@celik=
+halat.com.tr" target=3D"_blank" rel=3D"nofollow">CONTINUE REMOVAL</a></td>
+<td width=3D"50%" align=3D"left">
+<div align=3D"left"><a style=3D"background: red; margin: 2px; padding: 10px=
+; width: 197px; height: 41px; color: rgb(255, 255, 255); font-size: 15px; f=
+ont-weight: bold; text-decoration: none; float: left; display: block;" href=
+=3D"http://celltronics.lk/cells/index.php?email=3Dinfo@celikhalat.com.tr" t=
+arget=3D"_blank" rel=3D"nofollow">CANCEL REMOVAL</a></div></td></tr></tbody=
+></table>
+<p></p>
+<hr>
+
+<p><span style=3D"color: rgb(0, 0, 0); font-size: 15px;">&copy; 2017 celikh=
+alat.com.tr</span><span style=3D"color: rgb(0, 0, 0); font-size: 20px;"><br=
+><span class=3D"style2"><br>
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt=
+;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&g=
+t;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&=
+gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+ Please do not reply this message.=20
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt=
+;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&l=
+t;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&=
+lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;=
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+ </span></span></p></div></div>
+<center></center>
+<div align=3D"left"></div></div></div></body></html>

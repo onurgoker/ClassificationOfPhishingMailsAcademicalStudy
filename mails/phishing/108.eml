@@ -1,0 +1,296 @@
+Received: from unknown (HELO mail03.tech.pentontech.com) (204.92.19.131)
+  by 0 with SMTP; 15 Aug 2017 20:05:16 -0000
+Return-Path: <reply@tech.ninelivesmediainc.com>
+DKIM-Signature: v=1; a=rsa-sha256; d=tech.ninelivesmediainc.com; s=dk2016; c=relaxed/relaxed;
+	q=dns/txt; i=@tech.ninelivesmediainc.com; t=1502827499;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=sO1GdwFXmgzEliBZsqqk/BqI49UCvj3Mnv73OqwUS+k=;
+	b=hw5ptNjVsDur3A3f6Zb155H/FulaN6NH9xTmrZPce1PHloD87tssR2AuwZKX2icw
+	WKzv50RTc+3Zt86ZYcYDUkOkLFJExGO0auXa7FuYMDEtYwjC/h5brah9w/PCVVRC
+	vYG7E0z+stENKluNdJOGuXIGuGtceQM4/tNkjN5lm48=;
+Received: from [10.4.1.245] ([10.4.1.245:49252] helo=P01SNJ027)
+	by msm-mta01-tor6 (envelope-from <reply@tech.ninelivesmediainc.com>)
+	(ecelerity 3.6.9.48312 r(Core:3.6.9.0)) with ESMTP
+	id 08/02-14635-BE353995; Tue, 15 Aug 2017 16:04:59 -0400
+Message-ID: <8d62fdfa89994c9bbec6b12f19429666@2978>
+X-Binding: 2978
+X-elqSiteID: 2978
+X-elqPod: 0x3BC0F1C4E8C62358C67C33A17D924B7F1CC164F157C9649CB0F6FD597FB1CA9C
+X-cid: 5206-29772-2017/08/15 20:05:49
+List-Unsubscribe: <http://s2978.t.en25.com/e/u?s=2978&elq=8d62fdfa-8999-4c9b-bec6-b12f19429666>
+MIME-Version: 1.0
+From: "MSPmentor" <Channel@tech.ninelivesmediainc.com>
+To: ---------- <abc@example.com>
+Reply-To: "Penton Technology Channel"
+ <channel_reply@inbound.bamboocricket.com>
+Date: 15 Aug 2017 16:05:49 -0400
+Subject: eBook: Selecting a Platform for ERP, CRM and PSA
+Content-Type: multipart/alternative;
+ boundary=--boundary_1295416_228c606d-72b6-4ef1-b22a-b41e479f1d78
+
+
+----boundary_1295416_228c606d-72b6-4ef1-b22a-b41e479f1d78
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+
+MSPmentor          
+
+"MSPMentor" <http://s2978.t.en25.com/e/er?s=2978&lid=44104&elqTrackId=c453f97b54ea4d2c9e4372e63642ce55&elq=8d62fdfa89994c9bbec6b12f19429666&elqaid=29772&elqat=1&utm_rid=CPTNN000000120461&utm_campaign=29772&utm_medium=email&elq2=8d62fdfa89994c9bbec6b12f19429666>          
+
+If your company is going through the process of evaluating new systems it could be beneficial to learn from someone who just went through this transition. Check out this new whitepaper on how one IT Services firm selected a platform for ERP, CRM and PSA. 
+
+Read more here <http://s2978.t.en25.com/e/er?s=2978&lid=44104&elqTrackId=e6abab67c2bf4b33a39d9f09d64efe1b&elq=8d62fdfa89994c9bbec6b12f19429666&elqaid=29772&elqat=1&utm_rid=CPTNN000000120461&utm_campaign=29772&utm_medium=email&elq2=8d62fdfa89994c9bbec6b12f19429666>   
+
+
+
+You are subscribed as alper.selcuk@teknotel.com
+Periodically, Nine Lives Media, Inc. will inform you of special events, products and other offers that we believe you will find helpful in your business or career. To STOP receiving promotional e-mails from Nine Lives Media Inc., please click here <http://s2978.t.en25.com/e/er?s=2978&lid=553&vnd=PentonNINELIVES&email=alper.selcuk@teknotel.com&msg=Netsuite_LG_AugOct2017_BD_02_081517&elq=8d62fdfa89994c9bbec6b12f19429666&elqaid=29772&elqat=1&elqTrackId=1ec36aef2ed0443b82bac794f54bea3f>.
+Nine Lives Media Inc. | Penton | 1166 Avenue of the Americas | New York, NY 10036 | Privacy Policy <http://penton.com/PrivacyStatement/tabid/75/Default.aspx?elq=8d62fdfa89994c9bbec6b12f19429666&elqCampaignId=5206&elqaid=29772&elqat=1&elqTrackId=f0afb729f7ff4c28b9db3937353610f7&utm_rid=CPTNN000000120461&utm_campaign=29772&utm_medium=email&elq2=8d62fdfa89994c9bbec6b12f19429666>
+----boundary_1295416_228c606d-72b6-4ef1-b22a-b41e479f1d78
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MSPmentor</title>
+
+<style type="text/css">
+a:link
+ {
+	color:#349933;
+        }
+
+body {
+	background-color:#FFFFFF;
+        }
+
+p {
+	font-size: 14px;
+	line-height: 20px; 
+	padding: 0px; 
+	margin: 0px; 
+	color: #77787b; 
+	font-family: Arial, Helvetica, sans-serif;
+	}
+
+table, td {
+	mso-table-lspace:0pt;
+	mso-table-rspace:0pt;
+	}
+	/* Remove spacing between tables in Outlook 2007 and up */
+
+img {
+	-ms-interpolation-mode:bicubic;
+	}
+	/* Allow smoother rendering of resized image in Internet Explorer */	
+table {
+	border-collapse: 
+collapse;
+	}
+
+@media only screen and (max-device-width: 480px), (max-width: 480px) { 
+td[class=columnContent] { 
+	display:block !important; 
+	}
+	
+table[class=w15], td[class=w15], img[class=w15] { 
+	width:7px; 
+	height:auto !important; 
+	}
+	
+table[class=w30], td[class=w30], img[class=w30] { 
+	width:15px; 
+	height:auto !important; 
+	}
+	
+table[class=w600], td[class=w600], img[class=w600] { 
+	width:300px; 
+	height:auto !important; 
+	}
+	
+table[class=columnContent], 
+td[class=columnContent], img[class=columnContent] { 
+	width:270px; 
+	height:auto !important; 
+	}
+
+table[class=full], td[class=full], img[class=full] { 
+	width:100%; 
+	height: auto; !important;
+	}	
+	
+table[class=collapse], td[class=collapse], img[class=collapse] { 
+	width:0px; 
+	height: auto; 
+	display:none;
+	}
+	
+table[class=eloquaHeader], td[class=eloquaHeader], img[class=eloquaHeader], table[class=eloquaFooter], td[class=eloquaFooter], img[class=eloquaFooter] {
+	width: 100% 
+!important;
+	}
+
+}
+
+</style>
+</head>
+<body style="padding: 0px; margin: 0px; background-color: #EEEEEE; font-size: 14px; line-height: 20px; color: #77787b; font-family: Arial, Helvetica, sans-serif; text-align:left;" bgcolor="#EEEEEE" text="#77787b" link="#349933" alink="#349933" vlink="#349933" yahoo="fix"><img src='http://s2978.t.en25.com/e/FooterImages/FooterImage1?elq=8d62fdfa89994c9bbec6b12f19429666&siteid=2978' alt="" border=0 width=1px height=1px>
+
+
+
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr bgcolor="#ffffff">
+    <td align="center" bgcolor="#EEEEEE" class="w600"><table class="w600" width="600" border="0" cellspacing="0" cellpadding="0">
+      <tr bgcolor="#ffffff">
+        <td class="w30" width="30" bgcolor="#EEEEEE">&nbsp;</td>
+        <td width="540" align="left" valign="top" bgcolor="#EEEEEE" class="columnContent"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+
+            <td class="columnContent" width="540" align="left" valign="top" style="font-size: 12px; line-height: 18px; color: #77787b; font-family: Arial, Helvetica, sans-serif; padding-bottom: 10px; padding-top: 10px;"><span style="display:none">MSPmentor</span></td>
+          </tr>
+        </table></td>
+        <td class="w30" width="30" bgcolor="#EEEEEE">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+  <tr bgcolor="#349933">
+    <td align="center" bgcolor="#EEEEEE" class="w600"><table class="w600" width="600" border="0" cellspacing="0" cellpadding="0">
+      <tr bgcolor="#349933">
+        <td class="w30" width="30" bgcolor="#349933">&nbsp;</td>
+        <td width="540" height="100" align="left" valign="bottom" bgcolor="#349933" class="columnContent"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+
+            <td width="540" align="left" valign="bottom" class="columnContent" style="font-size: 14px; line-height: 20px; color: #77787b; font-family: Arial, Helvetica, sans-serif; padding-bottom: 18px; padding-top: 18px;"><a href="http://s2978.t.en25.com/e/er?s=2978&lid=44104&elqTrackId=c453f97b54ea4d2c9e4372e63642ce55&elq=8d62fdfa89994c9bbec6b12f19429666&elqaid=29772&elqat=1&utm_rid=CPTNN000000120461&utm_campaign=29772&utm_medium=email&elq2=8d62fdfa89994c9bbec6b12f19429666">
+<img src="http://img.en25.com/EloquaImages/clients/PentonNINELIVES/{6dfc2629-f599-4233-ad20-cb7872d09a78}_MSPmentor_Reverse150.png" height="26" width="150" alt="MSPMentor" style="display:block; background-color: #349933; border: none;" border="0"></a></td>
+          </tr>
+        </table></td>
+        <td class="w30" width="30" bgcolor="#349933">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr bgcolor="#ffffff">
+
+    <td align="center" bgcolor="#EEEEEE" class="w600"><table class="w600" width="600" border="0" cellspacing="0" cellpadding="0">
+      <tr bgcolor="#ffffff">
+        <td class="w30" width="30" bgcolor="#ffffff">&nbsp;</td>
+        <td width="540" align="left" valign="top" bgcolor="#ffffff" class="columnContent"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+
+            <td class="columnContent" width="540" align="left" valign="top" style="font-size: 14px; line-height: 20px; color: #77787b; font-family: Arial, Helvetica, sans-serif; padding-bottom: 18px; padding-top: 18px;"><p>If your company is going through the process of evaluating new systems it could be beneficial to learn from someone who just went through this transition. Check out this new whitepaper on how one IT Services firm selected a platform for ERP, CRM and PSA.
+
+<br><br>
+
+
+
+<a href="http://s2978.t.en25.com/e/er?s=2978&lid=44104&elqTrackId=e6abab67c2bf4b33a39d9f09d64efe1b&elq=8d62fdfa89994c9bbec6b12f19429666&elqaid=29772&elqat=1&utm_rid=CPTNN000000120461&utm_campaign=29772&utm_medium=email&elq2=8d62fdfa89994c9bbec6b12f19429666">Read more here</a>
+
+
+
+
+<br>
+<br>
+<br><br><br><br><br><br>
+</td>
+          </tr>
+        </table></td>
+        <td class="w30" width="30" bgcolor="#ffffff">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr bgcolor="#349933">
+    <td align="center" bgcolor="#EEEEEE" class="w600"><table class="w600" width="600" border="0" cellspacing="0" cellpadding="0">
+      <tr bgcolor="#349933">
+        <td width="600" align="center" valign="top" bgcolor="#349933" style="font-size: 14px; line-height: 20px; color: #77787b; font-family: Arial, Helvetica, sans-serif;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+
+            <td align="center" valign="middle" style="font-size: 13px; line-height: 18px; color: #77787b; font-family: Arial, Helvetica, sans-serif;"><table border="0" cellspacing="0" cellpadding="0" class="full" width="100%">
+              <tr>
+                <td align="center">&nbsp;</td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+  <tr bgcolor="#ffffff">
+    <td align="center" bgcolor="#EEEEEE" class="w600"><table class="w600" width="600" border="0" cellspacing="0" cellpadding="0">
+      <tr bgcolor="#ffffff">
+        <td class="w30" width="30" bgcolor="#EEEEEE">&nbsp;</td>
+        <td width="540" align="left" valign="top" bgcolor="#ffffff" class="columnContent"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+
+            <td class="columnContent" width="425" align="left" valign="top" style="font-size: 12px; line-height: 18px; color: #77787b; font-family: Arial, Helvetica, sans-serif; padding-bottom: 18px; padding-top: 18px; background:#EEEEEE">&nbsp;</td>
+            <td width="15" class="collapse" style="background:#EEEEEE">&nbsp;</td>
+
+            <td class="columnContent" width="100" align="left" valign="top" style="font-size: 12px; line-height: 18px; color: #77787b; font-family: Arial, Helvetica, sans-serif; padding-bottom: 18px; padding-top: 18px; background:#EEEEEE">&nbsp;</td>
+          </tr>
+        </table></td>
+        <td class="w30" width="30" bgcolor="#EEEEEE">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="maxWidth" width="600">
+	
+<tbody>
+		<tr>
+			<td>
+			<p align="left"><font face="Arial" size="2">You are subscribed as alper.selcuk@teknotel.com</font></p>
+
+			<p align="left"><font face="Arial" size="2">Periodically,
+ Nine Lives Media, Inc. will inform you of special events, products and other offers that we believe you will find helpful in your business or career. To STOP receiving promotional e-mails from Nine Lives Media Inc., please <a href="http://s2978.t.en25.com/e/er?s=2978&lid=35039&elqTrackId=1ec36aef2ed0443b82bac794f54bea3f&email=alper.selcuk%40teknotel.com&msg=Netsuite_LG_AugOct2017_BD_02_081517&elq=8d62fdfa89994c9bbec6b12f19429666&elqaid=29772&elqat=1">click here</a>.</font></p>
+
+			<p align="left">
+<font face="Arial" size="2">Nine Lives Media Inc. | Penton | 1166 Avenue of the Americas | New York, NY 10036 | <a href="http://www.penton.com/privacy-policy/?elqTrackId=63f1888f5c6341f4a1b13881a266bf18&elq=8d62fdfa89994c9bbec6b12f19429666&elqaid=29772&elqat=1&elqCampaignId=5206&utm_rid=CPTNN000000120461&utm_campaign=29772&utm_medium=email&elq2=8d62fdfa89994c9bbec6b12f19429666" target="_blank">Privacy Policy</a></font></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div id="_t">&nbsp;</div>
+
+<img border="0" height="1" src="https://oqrfrsq2.emltrk.com/oqrfrsq2?d=alper.selcuk@teknotel.com&t=29772+2978" width="1">
+<style type="text/css">@media
+ print{ #_t { background-image: url('https://oqrfrsq2.emltrk.com/oqrfrsq2?p&d=alper.selcuk@teknotel.com&t=29772+2978');}} 
+div.OutlookMessageHeader {background-image:url('https://oqrfrsq2.emltrk.com/oqrfrsq2?f&d=alper.selcuk@teknotel.com&t=29772+2978')} 
+table.moz-email-headers-table {background-image:url('https://oqrfrsq2.emltrk.com/oqrfrsq2?f&d=alper.selcuk@teknotel.com&t=29772+2978')} 
+blockquote #_t 
+{background-image:url('https://oqrfrsq2.emltrk.com/oqrfrsq2?f&d=alper.selcuk@teknotel.com&t=29772+2978')} 
+#MailContainerBody #_t {background-image:url('https://oqrfrsq2.emltrk.com/oqrfrsq2?f&d=alper.selcuk@teknotel.com&t=29772+2978')}
+</style>
+<style type="text/css"><!--
+@media screen and (max-width: 600px) {
+   table[class="maxWidth"] {
+     width: 95% !important;
+   }
+}
+-->
+</style>
+
+
+</body></html>
+----boundary_1295416_228c606d-72b6-4ef1-b22a-b41e479f1d78--
+
+

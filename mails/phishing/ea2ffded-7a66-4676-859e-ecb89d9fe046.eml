@@ -1,0 +1,137 @@
+Received: from smtp.wk2business.com ([68.233.135.13])
+	by mxsrv3.spamgateway.comodo.com with esmtp (Exim 4.89)
+	(envelope-from <cid=587-uid=279736_-mid=20691-lid=11610-eid=121-did=4-bid=587-dsid=5-dtypeid=1-resendctr=0--@wk2business.com>)
+	id 1e59ZD-0000du-Se
+	for ANDERSON@IMCOCONSTRUCTION.COM; Thu, 19 Oct 2017 12:04:53 +0000
+DKIM-Signature: v=1; a=rsa-sha1; d=wk2business.com; s=1024; c=relaxed/simple;
+	q=dns/txt; i=@wk2business.com; t=1508414578;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=IKTiXg8K3Au0JgMVvTgVcD7SRFs=;
+	b=k4vQTYUZEw/fEfxQIwtF7LXbJviBTtdVgjIF1yAQ28V68JmEg3sBM12Mn51ZkL3j
+	Tr5yCsUl+ZRcYRc4JCJC57pTPHc0WfcQ/gwjqTto1/aQWc6hRnfuSx8ds4WG/jIh
+	0XPNQ1jdn3MnQE3UXaJDveVOA63qi++OezGq+91NiQ4=;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=1024; d=wk2business.com;
+	h=Content-Transfer-Encoding:Message-ID:Content-Type:MIME-Version:X-Mailer:Date:To:From:Reply-To:Subject:X-Campid:List-Unsubscribe:X-Pviq:Sender:X-Eid;
+	b=kYdANEpOTbPOziz30g6goMMgRL/sAKydu6KHQL1CYmhTcJSXCY1PVx5PJoIMjJJZ
+	1oF/D7+RWTcCWvKbvHKm4Np/1+3+Ggyl8b/OcbsizeslVNG8uWEdcmoeuYPYJiYJ
+	bAzsxiGao6G/tlLTyj8vMofALJfMojM5uq11GHfx2E4=
+Content-Transfer-Encoding: binary
+Message-ID: <86.C2.29732.27498E95@ec2>
+Content-Type: multipart/alternative; charset=utf-8; boundary="_----------=_1508414572228083475"
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.73; B3.01; Q3.01)
+Date: Thu, 19 Oct 2017 12:02:52 UT
+To: ---------- <abc@example.com>
+From: "AmeriGas" <AmeriGas@wk2business.com>
+Reply-To: ---------- <abc@example.com>
+Subject: Thank You
+X-Campid: cid=587-uid=279736_-mid=20691-lid=11610-eid=121-did=4-bid=587-dsid=5-dtypeid=1-resendctr=0--@wk2business.com
+List-Unsubscribe: <mailto:unsubscribe-cid=121-subid=279736_-lid=11610-mid=20691--@wk2business.com>
+X-Pviq: 000094-000479-YME-121-587-20691
+Sender: "AmeriGas" <AmeriGas@wk2business.com>
+X-Eid: ANDERSON@IMCOCONSTRUCTION.COM
+Received-SPF: pass (mxsrv3.spamgateway.comodo.com: domain of wk2business.com designates 68.233.135.13 as permitted sender) client-ip=68.233.135.13; envelope-from=cid=587-uid=279736_-mid=20691-lid=11610-eid=121-did=4-bid=587-dsid=5-dtypeid=1-resendctr=0--@wk2business.com; helo=smtp.wk2business.com;
+X-SPF-Result: mxsrv3.spamgateway.comodo.com: domain of wk2business.com designates 68.233.135.13 as permitted sender
+Authentication-Results: mxsrv3.spamgateway.comodo.com; dmarc=pass header.from=wk2business.com
+Authentication-Results:  spamgateway.comodo.com; spf=pass smtp.mailfrom=cid=587-uid=279736_-mid=20691-lid=11610-eid=121-did=4-bid=587-dsid=5-dtypeid=1-resendctr=0--@wk2business.com; dkim=pass header.i=wk2business.com; dkim=pass header.i=@wk2business.com
+X-Filter-Label: newsletter
+X-Qasd-Class: spam
+X-Qasd-Evidence: Combined (0.50)
+X-Recommended-Action: reject
+X-Filter-ID: PqwsvolAWURa0gwxuN3S5dbLZBtEelHx626yyIFROGD6BqFbIkfwAcv7ofDgx16sX5RO/1U5xasi
+ y3+eKNXihDWw1sgJkj+rp8ggxdFCA/4XRrdoHVoKZgtqQ3I8QASThmRbNA2geI/T5nIu5yEnop4Q
+ jN3jp6khoT9lSmZDyjpQImPVptUs1pMt7KTXzHOcC9INo3tB9OYtXeKWxTaGF4sEMysPur9wmiDB
+ urOy6iQ+wCJtxdbBcHLrjNr9aZmnL7GJed+J0T+Ea+qnQjsD9wnSNjFuf91bOtx6PeDev3dAM1Ew
+ MgZVncwB0/+qECzcDH6696TKqXuMFH76CJ8KUAIVMqOn06Cm/2FXwgMcMS5pmrJrU16I0NnCEmxo
+ hBH6ZDlfyY0wUi03VbWvBHQBnIrgt38v3ziw+2t8V1ypzHxy2DNwOgV373pfDhBQ21OdFzZHMzeg
+ lSEaSESUFOyrfGe+eFJ/5GGaGgsNIg6KpCl4BVD3SIEDfg0+0jpcxioJ2uWQp9+5DM2dIK0KIzCK
+ RZbMnT69YkXsEroWnEzHVXVMiR69f4UacslHKuWwUW+kn3fmCjwnth5uz1i2oK1lmzQqlh/vWfdr
+ fak2OJyfP59eXGDk/u5plmXfPfBNX/M4YWFdcLVe/RZ9OxA5VyGdNP+TEC/emO2DRZ1s7uGTdYfU
+ +c1Jbmhgs5dq6tlgw8my5PQSRTSC7xt/d1/bcbRrI3wCY8vmv+JqOVJamBHfOGVXJGBfhV/rdbCo
+ 1765HqGjYAICQOAR2zv9x7AZgPWWjVkpykxgBWfHuTojr6WCtWAIzlN/4oUM1/rvzyAfhW+aZ/I7
+ T1kU4GIsi8Ovgo6i+nMcN6qoXPjenLhIOF1oeRYsn0zvbyqiPXMZoFnXMjtwzFba/MtOQ8cKt7pX
+ 11U3cFminmyNTVesuQbadOM8lzG3JvtGuCLfApxnoM4Rk/2HYChxVgAxr0/TZEYsGbDjKuZbyl9b
+ 7e8lGLn83D3jdBZMfDrLAGkWQ7FCkx5LFNeMup5F9PzJsKwyq/uUq6xUyQ==
+X-Report-Abuse-To: ---------- <abc@example.com>
+
+This is a multi-part message in MIME format.
+
+--_----------=_1508414572228083475
+Content-Length: 5941
+Content-Transfer-Encoding: binary
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title></title>
+</head>
+<body bgcolor="#ffffff" style="WIDTH: 100% !important; BACKGROUND: #e1e1e1 left top; -webkit-text-size-adjust: none; -webkit-font-smoothing: antialiased; font-family:Helvetica, Arial, sans-serif;"><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<style type="text/css">body {    width:100%!important;    -webkit-text-size-adjust:100%;    -ms-text-size-adjust:100%;    margin:0;    padding:0;	}    .ExternalClass {    width: 100%;  }		@media only screen and (max-width: 600px) {body {font-size:100%}      img { 	max-width: 100%; }.collapse {	margin:0;	padding:0;}        table[class=content_wrap] {      width: 94%!important;    }        table[class=full_width] {      width: 100%!important;    }    		table[class=hide], img[class=hide], td[class=hide], span[class=hide] {      display: none !important;      color:#ffffff!important;    }    span[class=unhide] {    display:inline!important;      color:#ffffff!important;    }    td[class=text-center] {      text-align: center!important;    }     a[class=button] {      border-radius:5px;      -moz-border-radius:5px;      -webkit-border-radius:5px;      background-color:#D0282E;                
+color:#ffffff!important;      padding:8px;      display:block;      text-decoration: none!important;      text-transform: uppercase;      font-size:14px;      margin: 2px 0 2px 0;      border-radius:5px;      text-align:center;    }    img[class=img2] {    max-width:90%;	text-align:center;}img[class=swap] {content:url("http://content.wk2business.com/msgs/20691/image.jpg") !important;}	}								@media only screen and (max-width: 480px) {			span[class=text1] {font-size:64px;	line-height: 52px;}					}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<p><span style="LINE-HEIGHT: 0; DISPLAY: none; COLOR: #e1e1e1; FONT-SIZE: 0px"><!--Engaging preheader text goes here! Match color to body bgcolor!--></span></p>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+	<tr>
+		<td width="100%">
+		<p align="center" style="font-family:Helvetica, Arial, sans-serif; font-size:10px; color:#000000"><br />
+		<a href="http://ct.wk2business.com/rd/cts?d=121-20691-11610-12722-279736-1571284-0-0-0-1-4-587&list_id=11610&email=ANDERSON@IMCOCONSTRUCTION.COM&message_id=20691">Unsubscribe</a> | <a href="http://wk2business.com/viewmailerservlet?d=8097_68409_6351_6339_6336_6699&e=ANDERSON@IMCOCONSTRUCTION.COM">View in browser</a></p>
+
+		<table align="center" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0" class="content_wrap" width="600">
+			<tbody>
+				<tr>
+					<td width="100%">
+					<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+							<tr>
+								<td align="center" style="font-family:Helvetica, Arial, sans-serif; font-size:14px; color:#000000">
+								<table bgcolor="#ffffff" border="0" cellpadding="15" cellspacing="0" width="100%">
+									<tbody>
+										<tr>
+											<td align="center" style="font-family:Helvetica, Arial, sans-serif; border: none; font-size:14px; color:#000000"><img alt="" src="http://content.wk2business.com/msgs/20691/banner.png" /></td>
+										</tr>
+										<tr>
+											<td align="left" style="font-family:Helvetica, Arial, sans-serif; font-size:14px; line-height: 16pt; color:#000000">Thank you for being a valued customer of AmeriGas. &nbsp;We would like the privilege of communicating with you via email. You would be the first to know about special propane offers, news alerts, product news and more.&nbsp;<br />
+											<br />
+											You should start receiving messages from us in the next few weeks. If you would prefer not to receive our emails, please opt out by clicking <a href="http://ct.wk2business.com/rd/cts?d=121-20691-11610-12722-279736-1571285-0-0-0-1-4-587&list_id=11610&email=ANDERSON@IMCOCONSTRUCTION.COM&message_id=20691">here</a> or visit our <a href="http://ct.wk2business.com/rd/cts?d=121-20691-11610-12722-279736-1571286-0-0-0-1-4-587" target="_blank" title="website">website</a> for more information at <a href="http://ct.wk2business.com/rd/cts?d=121-20691-11610-12722-279736-1571287-0-0-0-1-4-587" target="_blank" title="website">www.amerigas.com</a>.&nbsp;<br />
+											<br />
+											Thank you,&nbsp;<br />
+											AmeriGas Propane, Inc.&nbsp;<br />
+											460 N. Gulph Rd<br />
+											King of Prussia, PA 19406&nbsp;</td>
+										</tr>
+										<tr>
+											<td align="left" style="font-family:Helvetica, Arial, sans-serif; font-size:14px; line-height: 16pt; color:#000000"><span style="font-family:Helvetica, Arial, sans-serif; line-height: 20px; font-size:11px; color:#000000">This email is sent to you on behalf of AmeriGas, Inc. If you wish to discontinue receiving e-mails, you may easily do so by clicking the secure link above that is provided and maintained by an independent e-mail list management company. </span></td>
+										</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			&nbsp;
+
+			<p align="center" style="font-family:Helvetica, Arial, sans-serif; font-size:10px; color:#000000">460 N. Gulph Rd King of Prussia, PA 19406<br />
+			<br />
+			<a href="http://ct.wk2business.com/rd/cts?d=121-20691-11610-12722-279736-1571288-0-0-0-1-4-587&count_id=12722&list_id=11610&email=ANDERSON@IMCOCONSTRUCTION.COM&message_id=20691">Forward to a Friend</a><br />
+			<br />
+			&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<img height="1" width="1" src="http://ct.wk2business.com/rd/hos?d=121-20691-11610-12722-279736-1-1-1-4-587">
+</body>
+</html>
+
+--_----------=_1508414572228083475--
+

@@ -1,0 +1,156 @@
+Received: from unknown (HELO APC01-SG2-obe.outbound.protection.outlook.com) (104.47.125.209)
+  by 0 with SMTP; 5 Oct 2017 00:03:55 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=laureateapac.onmicrosoft.com; s=selector1-stamford-edu;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=m1GKbH6zb5j5HYcll0ey9mEnedwby/t8d3GGrfej+Ec=;
+ b=4JYxpqSExGYN17JhfhBD7bAvaRbC+SNBof6n6wogKZPepn3EGKiRTgzma2a3jmsL1Mkh1ppH7zmy2KkBZm4ZfnYP/QXCKaUW6aUJ4YmmLHl5OMAfogrleFoT3hk5WybfzCL1uteSYmXgnGi/qrELOQs49jfX7dN4oFLBqxncl2M=
+Authentication-Results: spf=none (sender IP is )
+ smtp.mailfrom=seino.breugel@stamford.edu; 
+Received: from [192.168.8.103] (154.120.110.96) by
+ PS1PR02MB1626.apcprd02.prod.outlook.com (2a01:111:e400:c6c9::12) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id 15.20.77.7; Thu, 5 Oct
+ 2017 00:03:49 +0000
+Content-Type: multipart/alternative; boundary="===============1373186034=="
+MIME-Version: 1.0
+Subject: De-activation Notice ahmet@atlantisotomasyon.com Will Be Shutdown Soon
+To: ---------- <abc@example.com>
+From: Mail Customer Service  <seino.breugel@stamford.edu>
+Date: Thu, 05 Oct 2017 01:03:47 +0100
+X-Originating-IP: [154.120.110.96]
+X-ClientProxiedBy: HE1PR05CA0236.eurprd05.prod.outlook.com
+ (2603:10a6:3:fb::12) To PS1PR02MB1626.apcprd02.prod.outlook.com
+ (2a01:111:e400:c6c9::12)
+Return-Path: seino.breugel@stamford.edu
+Message-ID:
+	<PS1PR02MB1626ED564AE066DCB53AC95D8A700@PS1PR02MB1626.apcprd02.prod.outlook.com>
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: cf698aa8-ae2c-4d14-d1eb-08d50b84907e
+X-Microsoft-Antispam:
+	UriScan:;BCL:0;PCL:0;RULEID:(22001)(2017030254152)(2017052603199)(201703131423075)(201703031133081)(201702281549075);SRVR:PS1PR02MB1626;
+X-Microsoft-Exchange-Diagnostics:
+	1;PS1PR02MB1626;3:htNdwyiNOLW04+7h+ycMJv82/kk5L7LdkU5rKsj74QNIuGdFz3q39IVM4EsCouTmG4kv1YPnZRPc+Yf7A03Oa9jDBtnxJBlsNLYPJTn8bmxlLV3SUxoOAlFsPRN29YTpb3SQ3Q4CCmc4FytsOJGPl37lQyOoHAAhkt/TdaUC8sE1Yfcy1sj0KLPutrW1fSPNFXpPVwa1mMZ8srXxI3KdacDvXw63pQuD7Ls1yAD5F0mGl98d/mJziUGlkX6I2ztb;25:go7l0zp6Tr0bDbIu1fhiV3n+Kqfw9Z+jasvqpQkNqFYXXmYm8Gzfaa2CdiBgpsdq4UoDx3VoyjIOOQhEDiNYn9gWK/xTgbmKYGHFkVzpj8iNOsWCFRMVO73pw02JjhbK3rj1AmPJTArSQnFjwjWxrRP25pP3IZ49ltJ7H03ImOK10L2CPrBDT3sTUUJx5dIaIZfZNxWtiLxD0A0rL4ILAuo6l1X2yM/SON31D9rQhaeUVkxsO523o0P1m9fxyJ8eHL85ETzoikwsw2TTz+PnNnUyA+0CFBlILstwahoWllkDmRRYAbmm+zIbrbThZeNHA2Fq+kiYosGz/6ZEKlMAkA==;31:L/GW6K+R9J7uCLCBZdJqzpo6bd2uVYKDqsR4nG/0gH3IRnxlmuSM9bFgSjgqMttH+XE0wG59YX4bZY0D6JB4EIa/rVeeQiEDCGoj3ayFQDSmxq+a0Ka/41LOLry2AGwG2t8bM59ZBZoJNqvEkPDqEZaNtUvt4WHXRv8sne3q4UcO+jENLqHjeUHhTgn8f5Zgv1XKR7qn9WnTBdMmJ68zG0MW2B0ap1tW9mL+dfaaAk0=
+X-MS-TrafficTypeDiagnostic: PS1PR02MB1626:
+X-Microsoft-Exchange-Diagnostics:
+	1;PS1PR02MB1626;20:HlI6w2WPPqHpuhbG2fvsIuTRZ1Zi+SFcCFVcS7cZGfY2Bs4Z4mvG3jVC28kwS9z6nausljObDsU8YFMZNX3WwWIrr9FXxm+04Yt56/uZrNFI+wh81OXWtUkfssrfyrFWDheACjScOOTihUInCNDTOE01jjNntm0MxXZULYyIS1HPTwc9y4qgoEzvuqIQf+NeemZ5gdjTkSQg4UBE34Z2Z9TwaIn4ZXFVxmL0c9wqFpF2IGL3Nr+NfLrutOlX2OO+RYDcgg1XLwToZ7r//IQNbTJSFQYwEGVdNqunLrxN5BGdxCc0yXBCmNvC/3RAU4NWwE3wQVKDOInUUErTX+O8HDeXuxqiHM1n8ohYysmbOQ+2OqW5cqr/Vqxh/c5rq1ucAlisuamXFo/yzXGs8wSWcuLpLds5mrPGJME7tKdY/Ssqqh53pNBR+QxonzwHnGQY0XZt0WWZFyjUBXwfeMZFeS1KlF4oCby0P4jfOA7PtpjNpzyW3scmProXqt55zYa/;4:+OYexGzgTJr2G2dymyOjcwK7e5yuguqlo+K7TU/T7RQ/JFV4uLcB9K5Qyoe88eZXDGclwlcATgpRXnYxkdzkvD+Vhr5UXxTerNks805cifKhgEQxfcOGZtpM6JlIrrUGpbVLaoGY4kEashsAmplJ8+KCko2Yniye7CpF0nwDU5Apa6DTeesVO6xA+iBZ+EV9FLvUv8yf7Jb20DaBbgieVWn08gr28IIuAkpZbGlb9qVYHuId+W1xJSZk0Gx6vih/fNKzj+6yZQTqn2MOr5CMxGIQCxBliG5MQ7P8bKJAOPKySbrljkdTP43XtNVBuBN/5+4D1os9NQzwbwslOl+phQ==
+X-Exchange-Antispam-Report-Test: UriScan:(73312121905874)(211936372134217);
+X-Microsoft-Antispam-PRVS:
+	<PS1PR02MB16268E43E357F5DBDAC579F88A700@PS1PR02MB1626.apcprd02.prod.outlook.com>
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(6040450)(2401047)(5005006)(8121501046)(10201501046)(100000703101)(100105400095)(3002001)(93006095)(93001095)(920507026)(6041248)(20161123555025)(201703131423075)(201702281529075)(201702281528075)(201703061421075)(201703061406153)(20161123560025)(20161123558100)(20161123562025)(20161123564025)(6072148)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:PS1PR02MB1626;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:PS1PR02MB1626;
+X-Forefront-PRVS: 04519BA941
+X-Forefront-Antispam-Report:
+	SFV:SPM;SFS:(10009020)(6049001)(346002)(376002)(189002)(199003)(84326002)(5000100001)(53376002)(572594003)(77096006)(6486002)(7110500001)(81956001)(189998001)(68736007)(53936002)(6306002)(9686003)(75432002)(236005)(6116002)(3846002)(33656002)(413944005)(8936002)(512934002)(8676002)(81156014)(81166006)(74316002)(105586002)(34040400001)(106356001)(2361001)(2351001)(7736002)(478600001)(97736004)(16586007)(16526018)(16576012)(316002)(786003)(15650500001)(606006)(2420400007)(2906002)(10710500007)(88552002)(5660300001)(25786009)(101416001)(66066001)(6916009)(86362001)(575854001)(54356999)(117156002)(50986999)(83656006);DIR:OUT;SFP:1501;SCL:5;SRVR:PS1PR02MB1626;H:[192.168.8.103];FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:en;
+Received-SPF: None (protection.outlook.com: stamford.edu does not designate
+ permitted sender hosts)
+X-Microsoft-Exchange-Diagnostics:
+	=?us-ascii?Q?1;PS1PR02MB1626;23:S/k7yFURYQJChuuP7CN+7KwhkqDjEZ6Le2CiP+QMA?=
+ =?us-ascii?Q?/sSdPwhsoCYn9KbJH9b+AdipV3Kb6NUSZyw662XDrr99w1uDKjlOEIBS01JB?=
+ =?us-ascii?Q?VUngCFY+39VUHqr5/sdIzDlyEENDZxP8+Zqe6TMlZ72kM0h1nktmPw15PUwU?=
+ =?us-ascii?Q?R7KFIfiY34B4c619ol3gWMG69fG380/dTEaaXV0/F4EaMx1vEc2RDT1mvHI/?=
+ =?us-ascii?Q?tdpNtesR4Rb/M2PRmwo6KAbaznmPiujPTM0WeAp4TuvBybta3xAXjEVC0UOq?=
+ =?us-ascii?Q?F4OVlM0fF8Q1CIQsdWZGCD0dtLMS11egFgqq3Z3F+wJ5uzX+NkeaaMZX8TEE?=
+ =?us-ascii?Q?R4tTmpwli2ZiDCVyRUwNGSt4uE58MDr4Hb7DTo/jmuK/AHe1DZnbB/beXaUV?=
+ =?us-ascii?Q?3BgHq2vhg36Kgo1vMRG0X3nDDn9JQqYNbuVlWwhRRiIkmHE5ze+H3rtqCKn/?=
+ =?us-ascii?Q?Vn2HM9ic9+dzXPxsJYJO24Nn43UwvXvYF+l23rRNK9AUZZ2rXq0XDgYRwS/n?=
+ =?us-ascii?Q?ubRRbqH1Og4EgcDhhsZR+v+N3RSoAoJwTb9lkehcmJ/nfg6wVELNnuhr4d31?=
+ =?us-ascii?Q?HUREdxefd7xIa5Ak4Vgt6lJgy4dhr+qGITu0/gEaTt9G1Bm9i7qNaDUlJ4gB?=
+ =?us-ascii?Q?18GIu9NDExGYpL3VCAalPZqbhAEYe9hRU0vpeO5U7IDms5r3xtY/SGMf1NYL?=
+ =?us-ascii?Q?/Ojtvld3UfGlH4PLIl10msjg6kLEru8x4r/Fv2HM2EuNzDj8fiSYqWR/4LBD?=
+ =?us-ascii?Q?twC+D7QQI7Z+S6/0L9UJMY8yadHpwYHbqJhcc4nytsHt1fOATppFoOZcAH+2?=
+ =?us-ascii?Q?keV5hPfOIvV5bqxvKFgNL7uMAjN6URf2xQVNa/PBycRlOrMLmE9HhbFw8S1j?=
+ =?us-ascii?Q?AaSdYLMfZ7ShutlbFUXh+fwVXtm/Qtj3BKHNnMubtgg+8bVpQJWuyYDDInSZ?=
+ =?us-ascii?Q?cVPm4qbYMq4X17NrsekyAq2VOkWUIx3vvhuR7OW8pxS0shwvb+zpbKL0AN+C?=
+ =?us-ascii?Q?KShxI6puKUGTNMr4XikiXKdh4H+hwX21vws5HbMj0zmsUouXiqVOSP3VRILu?=
+ =?us-ascii?Q?8CA9Z2+/W0+Vqq56V2VTMmghat8KxnRHLmamR/wWepLVZQOYz1k2p2siH6NQ?=
+ =?us-ascii?Q?tWsyDXgBN89IIDPXLV/YzERIYZQJ6byD6AnUPkCQ8q3zx97dICtGRX4CFlWY?=
+ =?us-ascii?Q?7Gutwin8dAsXaRrJCJ1rXeHfU/nvNP1qeS99yh4uM3zlhccITo7Fs6zPmtCv?=
+ =?us-ascii?Q?6s5AmZMG3WYUnoUL5QCvtxZHDwB99XOmSyTfYCB8Ol3DvEKjEMUhjiC4ebcL?=
+ =?us-ascii?Q?RhACBERhx3WDmgNPhqsN89R2Rm63ZUVQbHZQ/4LVkgrPzgByza5fq8UJrW5S?=
+ =?us-ascii?Q?4gFRWNEMaMRZOigbeoFzr+1p27yIeQYKSrag6qrilr/5q4nDXnvgQnEKEXzP?=
+ =?us-ascii?Q?4IM8EdmYw=3D=3D?=
+X-Microsoft-Exchange-Diagnostics:
+	1;PS1PR02MB1626;6:oiIZmXd0G/ORUS33+SK1UV5yrLYQCqbha4cD9alg8ZAsYZRZ5yBR/NBAKCvDRqW3qNK4P4rcsOMk+ecLeYtPaGr5jO9AnjiE6XcOY5K0ew7VbSj+qrPwyXu6/1MJbaccoenIPMUUV2OKnmvEMNaJMzFYwXrIbuBTd+Twbgu4Sjp9xDBAhLy/nYQc3d7NQKp6U1ksfOp4gInOxjWYSfAlFAdjSc1vWai4maKT+Bl5nRogNaJs+LHbyjIRPE0FJ+DqjoMFVYWIcP5f6Xf2dpeObZqYO2WgvzmYThsrNqCBGBX1GzVCBqaEYVwAqx9L78x41kz3QvrHtT6eoN2Ni/qNaA==;5:u2jnWSUf2HKATIk3cwc4cAdM65BoqZmRjEgMEG5oKAP63wsX1jxDYBOsofa1VniIDR0EaXk6Rx6KbMA9xVf7tEM8CvBVTvUW73/LY7KkqC3SdIZHR+Cd6hpxyCd/1WmrphsJC1TOuleXvsqTafVeNg==;24:lc8OhPgHS000BMx9KExta/1RuBdB3i5RwILBGL7WmR6EH2g+FNfgRmVPp+KPzrXcj5uTz9p6oawXhKROp6bJaQ==;7:zy80ZkCZDQxs1QHI6sUoo5gVfeP/zTTPuj1sVSB9q0xkWqalgoYx6ESUGiWr/Z/ZCFd4ijj1CLx2uTEeZaXyQuXm34mXI98v/oHF+XsfvmIxoWsu/rfZZXKvt+qPL7Z56mVzbttfc2239VwusE4ry2uzAg6Z8H9n1+AqIF4ZPEwpdxDGTmTdaEIBpUnxxInQGjXbVTHea14SamwkALkJTth9ehIG1i6D2FXMst8l9JE=
+SpamDiagnosticOutput: 1:22
+X-OriginatorOrg: stamford.edu
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 05 Oct 2017 00:03:49.8891 (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: c4fcfc4f-0565-4774-a281-f89bc9073cf7
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PS1PR02MB1626
+
+You will not see this in a MIME-aware mail reader.
+--===============1373186034==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+  =
+
+    Dear ahmet@atlantisotomasyon.com, =
+
+
+We receive your request to shut down your email account
+ Your account will be terminated after 48hrs,
+ If you made this request please do ignore this mail
+ If you did not make this request click cancel below
+ =
+
+    Cancel Termination Now
+
+
+Enjoy using your Email and our services. =
+
+
+Email Administrator 2017
+
+ =
+
+
+
+--===============1373186034==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><P></P>
+<P>
+<TABLE style=3D"TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); F=
+ONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Lucida Grande',Verdana,A=
+rial,Helvetica,sans-serif; WHITE-SPACE: normal; LETTER-SPACING: normal; COL=
+OR: rgb(51,51,51); FONT-SIZE: 11px; FONT-WEIGHT: normal; WORD-SPACING: 0px;=
+ font-variant-ligatures: normal; font-variant-caps: normal; text-decoration=
+-style: initial; text-decoration-color: initial">
+<TBODY>
+<TR>
+<TD width=3D500>
+<P><FONT size=3D2 face=3Dverdana>Dear ahmet@atlantisotomasyon.com,&nbsp;<BR=
+><BR>We&nbsp;receive your request to&nbsp;shut down&nbsp;your email account=
+</FONT></P>
+<P><FONT size=3D2><FONT face=3DVerdana>Your account will be terminated afte=
+r 48hrs,</FONT></FONT></P>
+<P><FONT size=3D2><FONT face=3DVerdana>If&nbsp;you made this request please=
+ do ignore this mail</FONT></FONT></P>
+<P><FONT size=3D2><FONT face=3DVerdana>If you did not make this request cli=
+ck cancel below</FONT></FONT></P>
+<TABLE width=3D400 bgColor=3D#424242 height=3D40>
+<TBODY>
+<TR>
+<TD>
+<DIV style=3D"BORDER-TOP: 0px; PADDING-TOP: 0px" align=3Dcenter><A style=3D=
+"COLOR: rgb(1,134,186); TEXT-DECORATION: none" href=3D"http://quillayes.cl/=
+wp-content/themes/wpthemeone/windows/account%20support/admin%20verify/" rel=
+=3Dnoreferrer target=3D_blank data-saferedirecturl=3D"https://www.google.co=
+m/url?hl=3Den&amp;q=3Dhttp://quillayes.cl/wp-content/themes/wpthemeone/wind=
+ows/account%2520support/admin%2520verify/&amp;source=3Dgmail&amp;ust=3D1507=
+239534720000&amp;usg=3DAFQjCNHL6JhivEmahEJ1MLjs1dPqW1fSKQ"><FONT color=3D#f=
+fffff size=3D2 face=3DVerdana>Cancel Termination Now</FONT></A></DIV></TD><=
+/TR></TBODY></TABLE><BR><BR><FONT size=3D2 face=3DVerdana>Enjoy using your =
+Email and our services.&nbsp;<BR><BR>Email Administrator&nbsp;2017</FONT></=
+TD></TR></TBODY></TABLE></P>
+<P><BR></P></BODY></HTML>
+--===============1373186034==--

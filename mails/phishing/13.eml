@@ -1,0 +1,64 @@
+Received: from unknown (HELO host.cihanturgut.com) (178.211.49.242)
+  by 0 with SMTP; 16 Oct 2017 23:36:00 -0000
+Received: from balonpat by host.cihanturgut.com with local (Exim 4.89)
+	(envelope-from <balonpat@host.cihanturgut.com>)
+	id 1e4EvP-000573-76
+	for sermin.etem@mefar.com; Tue, 17 Oct 2017 02:35:59 +0300
+To: ---------- <abc@example.com>
+Subject: You have received a file document on our adobe server
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: Adobe Online Services <adobe@online-service.com>
+Reply-To: ---------- <abc@example.com>
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: balonpatlatmaoyunlari.gen.tr
+Message-Id: <E1e4EvP-000573-76@host.cihanturgut.com>
+Date: Tue, 17 Oct 2017 02:35:59 +0300
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - host.cihanturgut.com
+X-AntiAbuse: Original Domain - mefar.com
+X-AntiAbuse: Originator/Caller UID/GID - [1006 995] / [47 12]
+X-AntiAbuse: Sender Address Domain - host.cihanturgut.com
+X-Get-Message-Sender-Via: host.cihanturgut.com: authenticated_id: balonpat/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: host.cihanturgut.com: balonpat
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php /home/balonpat/public_html/img/maxo2017.php 
+X-Source-Dir: balonpatlatmaoyunlari.gen.tr:/public_html/img
+
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<table border="2" cellpadding="10" cellspacing="0" summary="layout" width="575">
+<tbody>
+<tr>
+<td>
+<p align="center">
+<img height="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Adobe_PDF.svg/2000px-Adobe_PDF.svg.png" width=100" /></p><br />
+<p>
+Hi <br />
+<br />
+<font face="Verdana" size="3">You </font><font face="Verdana" size="3">have received a file document on our adobe server.</font><br />
+<br /><font face="Verdana" size="3">We recommend that you subscribe to adobe online reader services to view the document and contiue using our services.
+<br />
+<br />
+<font face="Verdana, Arial, Helvetica, sans-serif" size="3">To view message,visit <a href="http://loja.rebobine.com/update/adope/index.htm">www.adobeonline.com/register</a><br />
+<br />
+<font face="Verdana, Arial, Helvetica, sans-serif" size="3">*Kindly attend to this details within 48hours,which may be deleted from our server if not reviewed.</font></font></p>
+<p align="left">
+<font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><font face="Verdana"><br /><font face="Verdana" size="3">Regards.
+<br></font></font></p>
+<br><font face="Verdana" size="3">Adobe Online Services.
+<br />
+<p align="center">
+<br><img height="60" src="http://allstudentdeals.com/media/2016/02/adobe-logo.png" width=80" /></p><br>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+�</p>
+</body>
+</html> 

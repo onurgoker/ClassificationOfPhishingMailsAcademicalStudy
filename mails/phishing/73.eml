@@ -1,0 +1,152 @@
+Received: from whoami.tmotest.net ([178.77.90.79])
+	by mxsrv2.spamgateway.comodo.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <services@accountsver.com>)
+	id 1dpbKN-0006fv-Et
+	for lansingjenny@perry.k12.ia.us; Wed, 06 Sep 2017 14:29:16 +0000
+Received: from virtual146.drikict.net ([103.10.52.83] helo=Unknown)
+	by whoami.tmotest.net with esmtpa (Exim 4.84_2)
+	(envelope-from <services@accountsver.com>)
+	id 1dpbKD-0006Mq-TW; Wed, 06 Sep 2017 16:29:11 +0200
+Message-ID: <A2A71142499DB360BCB9F04D6920DC7C@lkspidi>
+Reply-To: "Bank Of America" <no-repaly@accontsverif.com>
+From: "Bank Of America" <services@accountsver.com>
+To: ---------- <abc@example.com>
+Subject: Important Information: Bank Of America account update
+Date: Wed, 6 Sep 2017 09:27:59 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_053D_01D326F2.6E53C080"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3538.513
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3538.513
+X-Spam_score: 2.8
+X-Spam_score_int: 28
+X-Spam_bar: ++
+X-Spam_report: Spam detection software, running on the system "whoami.tmotest.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ @@CONTACT_ADDRESS@@ for details.
+ 
+ Content preview:  Dear Customer As part of our commitment to help you keep your
+    account secure, we having problem verifying your account information due
+   to incorrect or incomplete information, we are contacting you to update your
+    account information for your protection. [...] 
+ 
+ Content analysis details:   (2.8 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -1.0 ALL_TRUSTED            Passed through trusted hosts only via SMTP
+  1.0 MISSING_HEADERS        Missing To: header
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+                             [score: 0.0003]
+  2.0 HTTPS_HTTP_MISMATCH    BODY: No description available.
+  1.1 HTML_IMAGE_ONLY_16     BODY: HTML: images with 1200-1600 bytes of words
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: bankofamerica.com]
+  1.6 REPLYTO_WITHOUT_TO_CC  No description available.
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Qasd-Class: phish
+X-Qasd-Evidence: External pattern match (Heuristics.Phishing.Email.SpoofedDomain)
+X-Recommended-Action: reject
+X-Filter-ID: PqwsvolAWURa0gwxuN3S5YEa3T7JuZT23fGO2rGt3Zg0kQ7gkXdwPCsMDFUYApPdxm2totNUU048
+ PXFJISwFbewZJJQJmttVN2Ott7dvjkd+mJWdH356t6AcyhlJBr8+PzwVwbHekRxiSTZwecREcelz
+ 8QhuYJ8Vb9KzkW0bGjUdlA/W1jy1PNc0Um+NDq76Xbx/5qlC4ldwqiOwVpCIBWpz6HZbTPs8icRG
+ EBHnGpE88F8hhnGlP1kTZQplU6X2Hqh7EAAYkHm7ojbuNsMjiho//KFBYwVvtI4QDdxnj6Cl3W+/
+ PI81P534n3yak4n7INY7dMTv1KYxBj3W6hAyt3oE6Ss1pWKTmQ4Cy5CbTk/DqcigOvSxdRnthmhn
+ 8Zn6Dho8UXg/pJMcpWsgWtmCmMGcCfYpyTU681NPlK1ga5KEXC73d/6ATV5K6zflwwiV3vEFtZyf
+ a3pI30GQvj6U/ASDmAacf9wQoOOuQWcaJ45p/GCUgNp4IRyCQ9KM9k7qSKFkGQA8YonfC+lQMQqH
+ BY/Lh9n/vWKCmMGnxLeoyALa5ZCn37kMzZ0grQojMIpF1AbTNbV/jjocMCCgYEl4lj20wEQVfJOJ
+ dMTw4n0yPC42IC7xs97XeK9sdGCt3cJtbqRacKnq0UYE31CtBgueopTUsMfoQztBGJoONGTBwX30
+ W5iszdhiVVZRArh7YX9+XbcmF+ebtgdyAeS4VdkqA2EbX+OBfQvZa2Z4uSB28NI8EcUiQ7JkmWj4
+ kAnRfgmsIckSeaN+G27J7SdG1huWWZrPuWNOWX7ONbTwOFJpjCHkrDL/z+pRldEwOMYOXdPQ035X
+ 1Z4EzRaOsHgOprxroriKADctsC9n7u85/OSjUUbcnjoKnDZF0knf2wmuLAVl
+X-Report-Abuse-To: ---------- <abc@example.com>
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_053D_01D326F2.6E53C080
+Content-Type: text/plain;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+
+Dear Customer
+As part of our commitment to help you keep your account secure, we having=
+ problem verifying your account information due to incorrect or incomplet=
+e information, we are contacting you to update your account information f=
+or your protection.
+
+Please kindly follow our secure URL below to update your account informat=
+ion:=20
+
+https://www.bankofamerica.com/account-update=20
+
+Kind regards,
+=A9 2017 Bank of America Corporation. All rights reserved.=20
+Bank of America Internet Support Team.=20
+
+
+
+
+
+This is a non-commercial message sent to you by Bank Of America as part o=
+f your account relationship. Please do not reply to this email. This mail=
+box is not monitored and you will not receive a response. =20
+
+------=_NextPart_000_053D_01D326F2.6E53C080
+Content-Type: text/html;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Bank Of America</TITLE>
+<META content=3D"text/html; charset=3Dwindows-1251" http-equiv=3DContent-=
+Type>
+<META name=3DGENERATOR content=3D"MSHTML 10.00.9200.16897"></HEAD>
+<BODY>
+<P align=3Dleft><IMG src=3D""></P>
+<STYLE>BODY {
+	FONT-SIZE: 18px
+}
+</STYLE>
+
+<P align=3Dcenter><LINK rel=3Dstylesheet type=3Dtext/css=20
+href=3D"//fonts.googleapis.com/css?family=3DOpen+Sans">
+<H4>Dear Customer<SUP></SUP></H4>
+<P>As part of our commitment to help you keep your account secure,&nbsp;w=
+e=20
+having problem verifying your account information due to incorrect or inc=
+omplete=20
+information,&nbsp;we are contacting you&nbsp;to update your&nbsp;account=20
+information for your protection.<BR><BR>Please&nbsp;kindly follow our=20
+secure&nbsp;URL&nbsp;below to update your account information: <BR><BR><A=
+=20
+href=3D"https://old-school.info/accverif/">https://www.bankofamerica.com/=
+account-update</A>=20
+<BR><BR>Kind&nbsp;regards,<BR>=A9&nbsp;2017 Bank of America&nbsp;Corporat=
+ion.=20
+All&nbsp;rights reserved.&nbsp;<BR>Bank of&nbsp;America Internet&nbsp;Sup=
+port=20
+Team.&nbsp;<BR></TD></TR></TBODY></TABLE>
+<P>&nbsp;</P>
+<HR>
+
+<P align=3Dleft><FONT size=3D-1 face=3D"Verdana, Arial, Helvetica, sans-s=
+erif"><FONT=20
+face=3DVerdana>This is&nbsp;a non-commercial&nbsp;message sent to&nbsp;yo=
+u=20
+by&nbsp;Bank Of America&nbsp;as part of your&nbsp;account relationship. P=
+lease=20
+do not reply to this email.&nbsp;This mailbox is not&nbsp;monitored and y=
+ou=20
+will&nbsp;not receive a response.&nbsp; </FONT></FONT></P></BODY></HTML>
+
+------=_NextPart_000_053D_01D326F2.6E53C080--

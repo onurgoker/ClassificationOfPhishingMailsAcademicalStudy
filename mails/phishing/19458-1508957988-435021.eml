@@ -1,0 +1,260 @@
+Received: from unknown (HELO zsmtp-out2.bankmega.com) (103.222.239.100)
+  by 0 with SMTP; 25 Oct 2017 18:59:49 -0000
+Received: from zsmtp-out2.bankmega.com (localhost [127.0.0.1])
+	by zsmtp-out2.bankmega.com (Postfix) with ESMTPS id 118EEADE43;
+	Thu, 26 Oct 2017 01:19:37 +0700 (WIT)
+DKIM-Filter: OpenDKIM Filter v2.7.1 zsmtp-out2.bankmega.com 118EEADE43
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=bankmega.com;
+	s=selector; t=1508955577;
+	bh=J7fNqvkUo12Gcm0AKdOJVq+sXgGBqqGTf6xgTfma4PY=;
+	h=Content-Type:MIME-Version:Subject:To:From:Date:Message-Id;
+	b=pQqMs/VE9av7zLIX5S1HKquRE2BydTVeGYhJt9UgFZOFnhY+g4FYtm6DqlcM3nxd6
+	 FztW1H7ziVU4/MJxDen0xvnanUF6WayK/k00ynV46/+Bgiyy3Tl2jh7Ru0AqEEtbeJ
+	 Us6WaqkLs3kmTE71qAkmuflf7bn8NjDsDizy7jFQ=
+Received: from zmta3.bankmega.com (zsmtp-out1.bankmega.com [10.14.1.165])
+	by zsmtp-out2.bankmega.com (Postfix) with ESMTP id E8801ACE88;
+	Thu, 26 Oct 2017 01:19:36 +0700 (WIT)
+Received: from zmta3.bankmega.com (localhost [127.0.0.1])
+	by zmta3.bankmega.com (Postfix) with ESMTP id 89DAD1A0199;
+	Thu, 26 Oct 2017 01:13:21 +0700 (WIT)
+Received: from CHCSTA-03.chc.local (50-205-22-242-static.hfc.comcastbusiness.net [50.205.22.242])
+	by zmta3.bankmega.com (Postfix) with ESMTPSA id E2B531A01B3;
+	Thu, 26 Oct 2017 01:13:15 +0700 (WIT)
+Content-Type: multipart/alternative; boundary="===============1323619900=="
+MIME-Version: 1.0
+Subject: MAILBOX TERMINATION NOTICE
+To: ---------- <abc@example.com>
+From: "Email Administrator" <romy@bankmega.com>
+Date: Wed, 25 Oct 2017 11:12:36 -0700
+Message-Id: <20171025181315.E2B531A01B3@zmta3.bankmega.com>
+
+You will not see this in a MIME-aware mail reader.
+--===============1323619900==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+ =
+
+   =
+
+ =
+
+    =
+
+   =
+
+ =
+
+   Mailbox Security Message
+
+  =
+
+
+ =
+
+   Dear User
+ Your E-mail account has just been suspended from our server you will not b=
+e able to receive or send messages.kindly note that You have one more step =
+to regain your mailbox account.
+  =
+
+
+   =
+
+    Click to Verify and Secure Account
+  =
+
+
+   =
+
+   to re-verify and keep your mailbox safe. Failure to re-verify will lead =
+to permanent termination.Email Administrator
+  =
+
+
+   =
+
+    =
+
+ =
+
+   =
+
+   This message is auto-generated from E-mail security server, and replies =
+sent to this email can not be delivered. =
+
+
+ =
+
+
+
+
+
+--===============1323619900==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><P>
+<TABLE id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4916 styl=
+e=3D"FONT-SIZE: 16px; FONT-FAMILY: arial, sans-serif; WHITE-SPACE: normal; =
+WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(34,34=
+,34); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BA=
+CKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures:=
+ normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-de=
+coration-style: initial; text-decoration-color: initial" width=3D"100%" ali=
+gn=3Dcenter>
+<TBODY id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4917>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4918>
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4921 style=
+=3D"FONT-SIZE: small; FONT-FAMILY: arial, sans-serif; MARGIN: 0px" width=3D=
+"70%"><BR class=3DApple-interchange-newline>
+<TABLE id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4922 styl=
+e=3D"FONT-SIZE: 17px; BORDER-TOP: rgb(164,164,164) 1px solid; BORDER-RIGHT:=
+ rgb(164,164,164) 1px solid; BORDER-BOTTOM: rgb(164,164,164) 1px solid; BOR=
+DER-LEFT: rgb(164,164,164) 1px solid" cellSpacing=3D0>
+<TBODY id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4923>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4924>
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4925 style=
+=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px">
+<TABLE id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4926 cell=
+Spacing=3D0 width=3D"100%">
+<TBODY id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4927>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4928 style=
+=3D"COLOR: rgb(51,51,51)">
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4929 style=
+=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" bgColor=3D#045fb4 height=
+=3D110><BR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4930>
+<TABLE id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4931 widt=
+h=3D"80%" align=3Dcenter>
+<TBODY id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4932>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4933>
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4934 style=
+=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px"><FONT id=3Dm_-165900662863=
+0869690yui_3_16_0_ym19_1_1508926760232_4935 color=3D#ffffff face=3Dcalibri>=
+<FONT id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4936 size=
+=3D+0><FONT id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4937=
+ size=3D6>Mailbox Security Message</FONT><BR id=3Dm_-1659006628630869690yui=
+_3_16_0_ym19_1_1508926760232_4938></FONT></FONT></TD></TR></TBODY></TABLE><=
+/TD></TR>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4939 style=
+=3D"COLOR: rgb(51,51,51)">
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4940 style=
+=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" bgColor=3D#f8f8f8><BR id=
+=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4941><BR id=3Dm_-1=
+659006628630869690yui_3_16_0_ym19_1_1508926760232_4942>
+<TABLE id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4943 widt=
+h=3D"80%" align=3Dcenter>
+<TBODY id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4944>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4945>
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4946 style=
+=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px"><FONT id=3Dm_-165900662863=
+0869690yui_3_16_0_ym19_1_1508926760232_4947 size=3D+2 face=3Dcalibri><B id=
+=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4948>Dear<SPAN id=
+=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4949>&nbsp;User</S=
+PAN></B></FONT><BR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_15089267602=
+32_4950>
+<DIV id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4951 style=
+=3D"FONT-FAMILY: Arial; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT=
+: 0px; MARGIN: 14px 0px; PADDING-RIGHT: 0px"><FONT id=3Dm_-1659006628630869=
+690yui_3_16_0_ym19_1_1508926760232_4952 size=3D2>Your E-mail account has ju=
+st been suspended from our server you will not be able to receive or send m=
+essages.</FONT></DIV><FONT id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_150=
+8926760232_4953 size=3D2>kindly note that You have one more step to regain =
+your mailbox account.</FONT></TD></TR></TBODY></TABLE></TD></TR>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4954 style=
+=3D"COLOR: rgb(51,51,51)">
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4955 style=
+=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" bgColor=3D#f8f8f8 height=
+=3D15><BR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4956><=
+/TD></TR>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4957 style=
+=3D"COLOR: rgb(51,51,51)">
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4958 style=
+=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" bgColor=3D#f8f8f8>
+<TABLE id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4959 heig=
+ht=3D60 width=3D"80%" align=3Dcenter bgColor=3D#045fb4>
+<TBODY id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4960>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4961>
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4962 style=
+=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px">
+<DIV id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4963 align=
+=3Dcenter><A id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_496=
+4 style=3D"COLOR: rgb(17,85,204); text-decoration-line: none" href=3D"http:=
+//sr-groups.com/v111/crypt/index.html" target=3D_blank data-saferedirecturl=
+=3D"https://www.google.com/url?hl=3Den&amp;q=3Dhttps://deadcelldeadfriend.c=
+om/wp-content/upgrade/admin/uk/index.htm&amp;source=3Dgmail&amp;ust=3D15090=
+14428807000&amp;usg=3DAFQjCNFP6sSvWshz0z9n019_FBQPSm8SjQ"><FONT id=3Dm_-165=
+9006628630869690yui_3_16_0_ym19_1_1508926760232_4965 color=3D#ffffff size=
+=3D+2 face=3Dcalibri>Click to Verify and Secure Account</FONT></A></DIV></T=
+D></TR></TBODY></TABLE></TD></TR>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4966 style=
+=3D"COLOR: rgb(51,51,51)">
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4967 style=
+=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" bgColor=3D#f8f8f8 height=
+=3D20><BR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4968><=
+/TD></TR>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4969 style=
+=3D"COLOR: rgb(51,51,51)">
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4970 style=
+=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" bgColor=3D#f8f8f8 height=
+=3D70>
+<TABLE id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4971 widt=
+h=3D"80%" align=3Dcenter>
+<TBODY id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4972>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4973>
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4974 style=
+=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px"><FONT id=3Dm_-165900662863=
+0869690yui_3_16_0_ym19_1_1508926760232_4975 size=3D2 face=3Dcalibri>to re-v=
+erify and keep your mailbox safe.</FONT>
+<DIV id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4976 style=
+=3D"FONT-SIZE: 13px; FONT-FAMILY: Arial; PADDING-BOTTOM: 0px; PADDING-TOP: =
+0px; PADDING-LEFT: 0px; MARGIN: 14px 0px; PADDING-RIGHT: 0px"><FONT id=3Dm_=
+-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4977 size=3D2>Failure t=
+o re-verify will lead to permanent termination</FONT>.</DIV><FONT id=3Dm_-1=
+659006628630869690yui_3_16_0_ym19_1_1508926760232_4978 size=3D3 face=3Dcali=
+bri><B id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4979>Emai=
+l Administrator</B></FONT></TD></TR></TBODY></TABLE></TD></TR>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4980 style=
+=3D"COLOR: rgb(51,51,51)">
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4981 style=
+=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" bgColor=3D#f8f8f8 height=
+=3D10><BR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4982><=
+/TD></TR>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4983 style=
+=3D"COLOR: rgb(51,51,51)">
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4984 style=
+=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" bgColor=3D#f8f8f8>
+<TABLE id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4985 heig=
+ht=3D10 width=3D"80%" align=3Dcenter>
+<TBODY id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4986>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4987>
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4988 style=
+=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px">
+<HR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4989 align=
+=3Dcenter width=3D"100%">
+</TD></TR></TBODY></TABLE></TD></TR>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4990 style=
+=3D"COLOR: rgb(51,51,51)">
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4991 style=
+=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px" bgColor=3D#f8f8f8>
+<TABLE id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4992 widt=
+h=3D"80%" align=3Dcenter>
+<TBODY id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4993>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4994>
+<TD id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4995 style=
+=3D"FONT-FAMILY: arial, sans-serif; MARGIN: 0px"><FONT id=3Dm_-165900662863=
+0869690yui_3_16_0_ym19_1_1508926760232_4996 size=3D2 face=3Dcalibri>This me=
+ssage is auto-generated from E-mail security server, and replies sent to th=
+is email can not be delivered.<SPAN id=3Dm_-1659006628630869690yui_3_16_0_y=
+m19_1_1508926760232_4997>&nbsp;</SPAN><BR id=3Dm_-1659006628630869690yui_3_=
+16_0_ym19_1_1508926760232_4998></FONT></TD></TR></TBODY></TABLE></TD></TR>
+<TR id=3Dm_-1659006628630869690yui_3_16_0_ym19_1_1508926760232_4999 style=
+=3D"COLOR: rgb(51,51,51)"></TR></TBODY></TABLE><BR id=3Dm_-1659006628630869=
+690yui_3_16_0_ym19_1_1508926760232_5000></TD></TR></TBODY></TABLE></TD></TR=
+></TBODY></TABLE></P></BODY></HTML>
+--===============1323619900==--

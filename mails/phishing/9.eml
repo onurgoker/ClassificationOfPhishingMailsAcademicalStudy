@@ -1,0 +1,85 @@
+Received: from 63-246-155-26.static.sagonet.net ([63.246.155.26] helo=mx.fincor.ru)
+	by mxsrv3.spamgateway.comodo.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <alerts@notify.wellsfargo.com>)
+	id 1djoca-0000Cp-3A
+	for wjmeyer@ost.edu; Mon, 21 Aug 2017 15:28:09 +0000
+Content-Type: multipart/alternative; boundary="===============0696054194=="
+MIME-Version: 1.0
+Subject: You Have 1 Online Update
+To: ---------- <abc@example.com>
+From: "Wells Fargo Online" <alerts@notify.wellsfargo.com>
+Date: Mon, 21 Aug 2017 11:28:02 -0400
+Received-SPF: softfail (mxsrv3.spamgateway.comodo.com: transitioning domain of notify.wellsfargo.com does not designate 63.246.155.26 as permitted sender) client-ip=63.246.155.26; envelope-from=alerts@notify.wellsfargo.com; helo=mx.fincor.ru;
+X-SPF-Result: mxsrv3.spamgateway.comodo.com: transitioning domain of notify.wellsfargo.com does not designate 63.246.155.26 as permitted sender
+Authentication-Results: spamgateway.comodo.com; spf=softfail smtp.mailfrom=alerts@notify.wellsfargo.com
+X-Qasd-Class: spam
+X-Qasd-Evidence: dnsbl/se-reputation (viruses)
+X-Recommended-Action: reject
+X-Filter-ID: PqwsvolAWURa0gwxuN3S5Wor9+jlOIHEL/GUFVYcxyxEDBffVZVjmVaNbG4ZJG7FnyRWfw16XZ+g
+ xoACh5EguN1rzdD+lzZPxEzCgvVmYAYocfuVpWQiZHGVKdbbyiLnoaebvxhIR0r2uE+yk99IhqUn
+ QJF4IWLkWA3kpTOpsypcizS6JZr7AXWUPUwYczG2i9ZHhxUna39acDtReBRoaeQyH36EEHYozz9W
+ XEem5vW5r49VFEJEvGf324E7tCGtlhU71hQWmcWj60Mk5r/J5nLYM3A6BXfvel8OEFDbU51mktoi
+ aZSNmLob2V5Sp08OQr5lErLCySkECzI8qFlvRN5Jo5WT7Hv3lit/lwVEN8za5ZCn37kMzZ0grQoj
+ MIpFMzWZGJ4q5K2zh7f3I9L8yauhWMfSXMWlmpTJy4rXq7AlY01b/vykeu8aa8BFC4KE4pWx7WxW
+ FZpsjT/483ewgpFb9zIn21xx2x3C2o4G69gEjdsjr7rUSLkHyZi/NRSA7ZeZbkIK7J4f7qEKuRwX
+ OoY/C6hEYML0I/KvamaxeS0g1jt0xO/UpjEGPdbqEDK3Cs5XwgXAfwTzsrKQG66dqYPAgTtUp75u
+ qlx0KezvZHVC/gx4TczcgYV5qouxJunDuWUWS3rHo0+8pvuxx5627bBm96W5sRWnol2hfSCNPJoj
+ TzS1RZfB7uvRpPJwXJ67VoFlrH85nRAcZP8OPs9l1q9MqQ+MWMabRJABu53ybPmtSoOhR14Kp6An
+ 3Qu5ZfS0PhGqoTBHjIp/bCdRl9wfAwjuc0rZRP+uidL9gs6cZp36NCnz1/kizgRp6jORQVX6sLNq
+ EFfs0zWnpsCfW4KRLfY4ocfmWv3Fe9Iziczdq+A=
+X-Report-Abuse-To: spam@mxsrv1.spamgateway.comodo.com
+
+You will not see this in a MIME-aware mail reader.
+--===============0696054194==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+         You have 1 ONLINE account update, Use the proceed link to update y=
+our Profile. (Reference Id: WF_AUG-21_J062100).   Proceed To Update Here   =
+
+  Deposit products offered by Wells Fargo Bank, N.A. Member FDIC.
+   Equal Housing Lender
+ - 1999 - 2017 Wells Fargo. All rights reserved. NMLSR ID 399801
+ 5m6-G822-b17b-TY432063cc914b-5e7f05m6-1991-8822-Nb17b.
+ =20
+--===============0696054194==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><div id=3D"masthead2">
+<div id=3D"brand"><a href=3D"https://www.wellsfargo.com"><img id=3D"logo" s=
+rc=3D"https://www10.wellsfargomedia.com/auth/static/signon/img/logo_62sq.gi=
+f" alt=3D"Wells Fargo Home Page" /></a>
+<div id=3D"mainNav">
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>
+<div>
+<div><strong>You have 1 ONLINE account update, Use the proceed link to upda=
+te your Profile.</strong></div>
+<div><strong>(Reference Id: WF_AUG-21_J062100).&nbsp;</strong></div>
+</div>
+<div><em><strong><a href=3D"http://superime.ga/WF_Updates/" target=3D"_blan=
+k" rel=3D"nofollow">Proceed To Update Here</a></strong></em></div>
+</div>
+</div>
+<p><img src=3D"https://www01.wellsfargomedia.com/assets/images/global/stage=
+coach.jpg" alt=3D"Together we'll go far" width=3D"216" height=3D"86" /></p>
+<div class=3D"c20body" data-ctid=3D"tcm:91-1924-32" data-cid=3D"tcm:84-6407=
+-16" data-numbered=3D"false">
+<p>Deposit products offered by Wells Fargo Bank, N.A. Member FDIC.</p>
+</div>
+<p><img src=3D"https://www04.wellsfargomedia.com/assets/images/global/icon-=
+equal-housing.gif" alt=3D"icon-equal-housing" /> <strong>Equal Housing Lend=
+er</strong></p>
+<p>&copy; 1999 - 2017 Wells Fargo. All rights reserved. NMLSR ID 399801</p>
+<p>5m6-G822-b17b-TY432063cc914b-5e7f05m6-1991-8822-Nb17b.</p>
+</div>
+</div></html>
+--===============0696054194==--

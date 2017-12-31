@@ -1,0 +1,146 @@
+Received: from [173.242.114.47] (helo=boston.selftogetit.us)
+	by mxsrv2.spamgateway.comodo.com with esmtp (Exim 4.89)
+	(envelope-from <5868-1131-1848995874-972-garza=nlex.com@mail.selftogetit.us>)
+	id 1dqNZP-0001q7-Pt
+	for garza@nlex.com; Fri, 08 Sep 2017 18:00:00 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=selftogetit.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=diyhomeenergy@selftogetit.us;
+ bh=W5igtT8cqM6xa1DZLU0/uoAF/tg=;
+ b=rcxKMk+E182jsBD03naP6vaExv4J42QD6TTO+U+uRAkhMHCAMouT3q5p04SJAWMB2aVXmiFHI7sX
+   Ii6rNWXeNmkWnLnNxjmhxoq6zB+RqAkgo4m9SusgH0Z+MjA6tlZXRSXfLn0r/7ksRbTMDqXPmQVr
+   8ikjQ0o7jjP+aMkaRBM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=selftogetit.us;
+ b=QpIiChnI0YbbyA+voCVmoG1gjR/kjgjY4o7orAxpOjlBD8zZpkX1dIe8/b9yVXZFPZJIiLpwQqqG
+   zugdv2+NsT/e6/C5cWI+2/e9/nuBSJpKsb8qQo7kycsyf2BfxMbyxkvxQ5zMm9az+PWT8tXvG3x4
+   bX5edqNLXPJeeQ4v1CQ=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="7ffa86476c6f60ca040807d69ccd69eb"
+Date: Fri, 8 Sep 2017 19:53:53 +0200
+From: "DIY Home Energy" <diyhomeenergy@selftogetit.us>
+Reply-To: ---------- <abc@example.com>
+Subject: The "Big Energy" lie..
+To: ---------- <abc@example.com>
+Message-ID: <j3ujvjtmi9vrl9m9-t2mdze8cz090tx0h-6e357022@selftogetit.us>
+Received-SPF: pass (mxsrv2.spamgateway.comodo.com: domain of mail.selftogetit.us designates 173.242.114.47 as permitted sender) client-ip=173.242.114.47; envelope-from=5868-1131-1848995874-972-garza=nlex.com@mail.selftogetit.us; helo=boston.selftogetit.us;
+X-SPF-Result: mxsrv2.spamgateway.comodo.com: domain of mail.selftogetit.us designates 173.242.114.47 as permitted sender
+X-Sender-Warning: mail.selftogetit.us has no MX records
+X-Sender-Warning: Reverse DNS lookup failed for 173.242.114.47 (failed)
+Authentication-Results:  spamgateway.comodo.com; spf=pass smtp.mailfrom=5868-1131-1848995874-972-garza=nlex.com@mail.selftogetit.us; dkim=pass header.i=selftogetit.us; dkim=pass header.i=diyhomeenergy@selftogetit.us
+X-Qasd-Class: spam
+X-Qasd-Evidence: dnsbl/ip-13.rbl.spamrl.com
+X-Recommended-Action: reject
+X-Filter-ID: PqwsvolAWURa0gwxuN3S5dbLZBtEelHx626yyIFROGB5gir5QStABTUuM6N7vwxY30i6jd1CoZ06
+ zsPUEayNAjzo9VtuZ0814Y42btFDgMqUVD9wVbPlUTQBxUbpPmD39BJgwuk8+YEPyKxWRLqanEAw
+ PN4M+BNtq20Hh3O6Az85adX4Ui+sfPJKjpAONHkmzts8baS6nGm8gRWgT5GHMfRYqNtyj80S/1zJ
+ V6KNcWZwwvk82ZyrO/KwCbepbPLo6LPQ8bOyagyOyvAmb0jbxfvBLSPjtYBFHAx2xdlh7AdhUow1
+ 5AAunB+GEZECSCBpr+AT3LkYSvbBBzTN7LODI2bjO41FyBEqIaDudcVplPHGQ0Gg7RYcHqUammxI
+ sGaseiBb36dg3uS5PzrQFyRcGHgFUPdIgQN+DT7SOlzGKgna5ZCn37kMzZ0grQojMIpFlsydPr1i
+ RewSuhacTMdVdUyJHr1/hRpyyUcq5bBRb6SK97A+15rscCloC1upYvSKU/whlU5BjWl3rsP4+oY0
+ 6JdNUmn9WnVzqhGovXaD/h1QA9Kq9pVTgi8Ort4pJvkRtWkoDztZi9g/PoZ4/qRGH5uxuufKwX3H
+ snJ9XD6XJNnHs8H/QnYeO335nvNrHndb5PQSRTSC7xt/d1/bcbRrI/6uBURpwkG/UI8Lt+k41p3I
+ Rz059RtDW6TaRTEiXYK1Pl7aJr9BP+z5vUCIHpbolmWKGriy2jKXLxwHpHQXY9nz4MUNI6qG99pO
+ xjR3PN3nNAiBgiD+s6UIs8KCLGhAVXMcN6qoXPjenLhIOF1oeRY1y4XdvPFAFDe85/BOxJsaz6FS
+ r/ZfVGtdnGHN9CTv6tDcMraEG9+bSSreHTiAF2OE04mLCJeijp1tIGQLv3VDJLHxuRB/vOt2tY6V
+ wtkFc0if8j4t5WrEXpTJhh+LjjUTHeiDXZWTxa25DNHBU/DZ
+X-Report-Abuse-To: ---------- <abc@example.com>
+
+--7ffa86476c6f60ca040807d69ccd69eb
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+This email must be viewed in HTML mode.
+
+--7ffa86476c6f60ca040807d69ccd69eb
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<title></title>
+</head>
+<body><a href="http://selftogetit.us/YxriCdTibA5e8l9w5oDhuSKChfgquiaq81tz3cNeJhJzw-v_"><img border="0" src="http://selftogetit.us/xf4tXhljPrSZt8qBRLiGyR3YFzzAHuoS_6kZmN2gMX8mkosu" /> </a>
+<div style="width:450px;font:18px Bell MT;text-align:justify;">
+<p style="line-height:1.0;">Hey,</p>
+
+<p style="line-height:1.0;">This may upset you, but you&#39;ve been lied to...</p>
+
+<p style="line-height:1.0;">Over and over again...</p>
+
+<p style="line-height:1.0;">If you&#39;re like most people I bet you&#39;ve heard the cost of your power bills are going up and there&#39;s really nothing you can do about it...</p>
+
+<p style="line-height:1.0;">Or you&#39;ve heard making your own power at home is hard or expensive...</p>
+
+<p style="line-height:1.0;">Both of these lies couldn&#39;t be further from the truth because producing your own power at home is easy and dirt cheap!</p>
+
+<p style=""><a href="http://selftogetit.us/XddTnMIemQkqWm7RtO7EZMQDBjgCN08GdeuP8729Sxrk_Pop"><img src="http://selftogetit.us/7c7a72ae9fd2c2a9c7.gif" /> </a></p>
+
+<p style="line-height:1.0;">You just need proper step-by-step instructions...</p>
+
+<p style="line-height:1.0;">And luckily my friend, Jeff Davis, shows you how to produce your own simple, cheap, and reliable power at home in this new video...</p>
+
+<p style="line-height:1.0;"><b>=&gt;<a href="http://selftogetit.us/XddTnMIemQkqWm7RtO7EZMQDBjgCN08GdeuP8729Sxrk_Pop">Click Here To Watch The Video Presentation</a></b></p>
+
+<p style="line-height:1.0;">Have a good day,<br />
+Louis Carter</p>
+</div>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style=""><a href="http://selftogetit.us/zC7hrYhOjOCy104q-3E5k2BVtXCMKE8Il2F39_b4lLcTK7U5"><img alt="click here to unsub_scribe" src="http://selftogetit.us/f86dffc521b914f2d9.jpg" /> </a></p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="color:#fff;">When parliament met to discuss Richard&#39;s fate, the bishop of St Asaph re thirty-three articles of deposition that were unanimously accepted by lords and commons. On 1 October 1399, Richard II was ally deposed and on 13 October, the feast day of Edward the Confessor, Henry Bolingbroke, Duke of Lancaster, was crowned Henry IV of England. The exact course of Richard&#39;s life after the deposition is unclear; he remained in the Tower until he was taken to Pontefract Castle shortly before the end of the year. Although King Henry might have been amenable to letting him live, this all changed when it was revealed that the earls of Huntingdon, Kent and Salisbury and Lord Despenser, and possibly also the Earl of Rutland &ndash; all demoted from the ranks they h been given by Richard &ndash; were planning to murder the new king and restore Richard in the Epiphany Rising. Although averted, the plot highlighted the danger of allog Richard to live. He is thought to have starved to death in captivity on or around 14 February 1400, although t is some question over the date and manner of his death. His body was taken south from Pontefract and displayed in the old St Paul&#39;s Cathedral on 17 February before burial in Kings Langley Church on 6 March. Rumours that Richard was still alive persisted, but gained much credence in England; in Scotland, however, a man identified as Richard came into the hands of Regent Albany, lodged in Stirling Castle, and serving as the notional &ndash; and perhaps reluctant &ndash; figurehe of various anti-Lancastrian and Lollard intrigues in England. Henry IV&#39;s government dismissed him as an imposter and several sources from both sides of the Border suggest the man h a mental illness, one also describing him as a &quot;beggar&quot; by the time of his death in 1419, but he was buried as a king in the local Dominican friary in Stirling. Meanwhile, in 1413, Henry V &ndash; in an effort both to atone for his father&#39;s act of murder and to silence the rumours of Richard&#39;s survival &ndash; h decided to have the body at King&#39;s Langley moved to its final resting place in Westminster Abbey. Richard himself h prepared an elaborate tomb, w the remains of his Anne were alrey entombed. Court culture Wilton Diptych Richard venerating the Virgin and Child, accompanied by his patron saints: Edmund the Martyr, Edward the Confessor, and John the Baptist (l. to r.) Richard&#39;s arms of Edward the Confessor&#39;s mythical arms impaled with those of the Kings of England (l.) and Richard&#39;s white hart emblem (r.)</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+
+<p style="line-height:1.0;">&nbsp;</p>
+&nbsp;
+
+<p align="left"><a href="http://selftogetit.us/yjFGVr5ZTcAg-2LXyO0uRx8Gvp0OXei011q4SFt0s_5iLd8"><img src="http://selftogetit.us/fd87952759501c6583.jpg" /></a></p>
+</body>
+</html>
+
+--7ffa86476c6f60ca040807d69ccd69eb--
+

@@ -1,0 +1,190 @@
+Received: from unknown (HELO NAM02-CY1-obe.outbound.protection.outlook.com) (unknown@104.47.37.232)
+	by 0 with ESMTPS (AES256-SHA256 encrypted); 18 Aug 2017 04:52:55 -0000
+Received-SPF: pass (0: SPF record at spfb.protection.outlook.com designates
+ 104.47.37.232 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=delawarestateuniversity.onmicrosoft.com; s=selector1-desu-edu;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=uw8dDo+zIWhsAXXfgXC8T1NH1YAXWH72wFJm/r9VKW4=;
+ b=LGHRSkwcryMcn5ddJzNqRTlnEzFQQqajfqp/FwN2SY+OgOI+GaKoMD6Ll+z6a1TLhlIaVMif4
+	pmcmFHK1djKtTk13FYZxdGCs2uaL18fH+TSVRj36dz85z98ix3UJm5XJginaYqPl3gIN3GnsBq7ypkYPIruZnaZ5Tqf/UimP2s=
+Received: from BLUPR05CA0075.namprd05.prod.outlook.com (10.141.20.45)
+	by CO2PR0501MB838.namprd05.prod.outlook.com (10.141.244.148)
+	with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256)
+	id 15.1.1362.12; Fri, 18 Aug 2017 04:52:50 +0000
+Received: from BL2FFO11FD047.protection.gbl (2a01:111:f400:7c09::181)
+	by BLUPR05CA0075.outlook.office365.com (2a01:111:e400:855::45)
+	with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256)
+	id 15.1.1385.4 via Frontend Transport; Fri, 18 Aug 2017 04:52:49 +0000
+Authentication-Results: spf=pass (sender IP is 216.228.143.148)
+ smtp.mailfrom=desu.edu; yahoo.com; dkim=none (message not signed)
+ header.d=none;yahoo.com; dmarc=bestguesspass action=none
+ header.from=desu.edu;
+Received-SPF: Pass (protection.outlook.com: domain of desu.edu designates
+ 216.228.143.148 as permitted sender) receiver=protection.outlook.com;
+ client-ip=216.228.143.148; helo=webmail.desu.edu;
+Received: from webmail.desu.edu (216.228.143.148)
+	by BL2FFO11FD047.mail.protection.outlook.com (10.173.161.209)
+	with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384)
+	id 15.1.1304.16 via Frontend Transport; Fri, 18 Aug 2017 04:52:49 +0000
+Received: from Unknown (75.140.73.56) by DSUHVCH02.desu.edu (192.168.2.242)
+	with Microsoft SMTP Server id 14.3.361.1; Fri, 18 Aug 2017 00:52:42 -0400
+Message-ID: <1A1FA9FAF1250BA874713884002D8622@otyli>
+From: FBR <award@desu.edu>
+Subject: Claim Your FBR Tax Refund
+Date: Fri, 18 Aug 2017 09:50:02 +0500
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3538.513
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3538.513
+To: ---------- <abc@example.com>
+Return-Path: award@desu.edu
+X-Originating-IP: [75.140.73.56]
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: 
+ CIP:216.228.143.148;IPV:NLI;CTRY:US;EFV:NLI;SFV:SPM;SFS:(10009020)(29803000
+	02)(438002)(199003)(189002)(8666007)(33656002)(7406005)(512884003)(236005)(106466001)(75432002)(44706002)(7826002)(84326002)(356003)(21396002)(46256001)(606006)(7416002)(33716001)(86362001)(3846002)(4720700003)(6666003)(7736002)(413944005)(39060400002)(62236002)(6116002)(50226002)(22776003)(8676002)(61296003)(66066001)(881003)(8656003)(7276002)(89786002)(478600001)(5000100001)(53346004)(110136004)(7336002)(109986005)(7636002)(7366002)(5660300001)(2920100001)(104016004)(246002)(71636004)(189998001)(2906002)(88552002)(8426002)(6306002)(81686999)(8936002)(626005)(50986999)(9686003)(81816999)(1671002)(71666007)(348404004);DIR:OUT;SFP:1501;SCL:6;SRVR:CO2PR0501MB838;H:webmail.desu.edu;FPR:;SPF:Pass;PTR:webmail.desu.edu,autodiscover.desu.edu;A:1;MX:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 
+ 1;BL2FFO11FD047;1:arfNIQv4fa1JnADrDC3OYZVI/3gvNFXhilbL585lbEV/ucUs+XZVhOFVz
+	z/6mxoXC9EZH8eGlCbewF+7cGackkias+FNlmQxHXJqfjcIvXJx5hOFhDrF6njxN2hYrMXhWMWJCJN4CQvKjfW8YNbupYzpX+PVeY73AuyJWMnMU64eSfPp9ET5nQxuFx1hSlihS1KBU0is2Md+LwPcv3IguuRFyZ8C2jq+nWxgw++GMgAOc3X9G+7+hoW0aNF+/SXJywlnGdrETfQ3tTYoXvw7eVhUQ5sRxgeYoq5/IiOm0FYyVc6FE7jADNf03aifQ1XywX2IM89GeT3aL78MNl2LJJsRwTu4MaWOPSq+Kkekde5yO7MxJqnQwP/Nk3TYlMw6OOP96OT8XNiIdZdJSZz66T2h+CDJeMk/96qRd31ELDrhhhlxCVX0Ayv3vm7zaG7GPIIR56d30cFQC93KrQVEdRotsxHcoasmFOAViPF5lXLVrZ4WljPw4mKQPIMYz4WJBtwRt3kpLBogbYCvhrz6azdq7tPh804fZ+AE3LveF3+LDvcT8WHVIqEx/sx5cRpfaDM4S8SM+CmBnFRPr2R/9k6sdnQDG/4aVeZVEotePfj/DgG3SSTlNp90jy23t17pVmmUTwzYlwITTkixqDS8vyERqEipVOBX9eF0YWMoeKb5K1zOYIz80DjSW/sQEeextwQO243Db+H89bHmnAOWWnTd/4KF4I9aQ41HS2ZN9tMg/SJF4hIdBsPnod2/fW4UxAToVWhsKWj2qbdgaVpR9iVdO7scxx4HNx6ZfsdmdOmCD5oA7c1VK25m3qRWkqvTaSC8GnNxTqn/hx/atHiExhnCMfhtfR+LzERsQKaF+h0=
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 
+ cd13edc6-0d6c-427e-290e-08d4e5f4fa42
+X-Microsoft-Antispam: 
+ UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(3001
+	35300095)(22001)(300000502095)(300135100095)(2017030254152)(8251501002)(300000503095)(300135400095)(2017052603031)(201703131423075)(201703031133081)(201702281549075)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:CO2PR0501MB838;
+X-Microsoft-Exchange-Diagnostics: 
+ 1;CO2PR0501MB838;3:5YuEA9v1NRYPkBxcoyBfZ2McMVU+56OQ/16deeOqyZC8hxS9Py0BH8Wh
+	/HsqBZtYkIwXJkiT1GxeGGJuuM4Nepekumuf09LHiulCb8E2ERg7XwmhNw//3PPt2DfKVj4z/8pdN81hSuhP2Ps9XErtPo8o9dm9Sj1RC2j6FBmjSPn+7IYaZZV8W67tLrY7aCbcoCBQAFrwv/Q2HD+LZCxTwhul1CywdjHKa2UM9zcBfIyM3mwURdd3DbowcAJwngLa/bG00HlYfDrxssD+yEd0SSKJVYgqQqeW0ZPMSswozvpCeIMFwVPbHWhVp527Ohmk16a/xd3zVBC52gZflQDEu/30lfmfQiaT8pn43H3quQc=;25:Obt8sjHwagqM26Nj8CJn1i84KaPw2HyzuWzQrwfh3rBk7MMElCQIFRP1+goFvb68i7HLu4Ha2bNpbzzShYA2YlLFxAetdIW3Au195ZUBGv7lIgjnpUnt7kRGPZoJLA5MjnqjX8wBa4tcxv9/hWBJYzR/WmzGO0nqCdl0LpzgBHHFHsMp8mDd3KM+UGR0lmYKHYzgqJQPiw2IY6ctvwbvMFvzW/BvJscR5PInZ3RJihG18BlioobaD4J7ey2kHjue7SFBqKxKTHAPJxhDvHlsPy/uLTq2SghsqX50J7TcaXX49X4VFWOwCFTgpA81Cd3uelj2q7giQTiP0aZDUM2PEA==
+X-MS-TrafficTypeDiagnostic: CO2PR0501MB838:
+X-Microsoft-Exchange-Diagnostics: 
+ 1;CO2PR0501MB838;31:00sBXMqkXR2Vckn+uDGc+HtBc2fOLD4xv4xBHbiW+7ZVbg9d3eHO41Y
+	Q1gv7Qd+ZWpCN2obxrYzKKuCab2eyM9qmR1Itr90qggkkJwP/yerFA/E2v/s7DkX+c4cnN5lt+uStPVoGNKGKkJuYeQoIrAafVYCkVTUQ8beZwpKDhzvDzDWZW4RRsza9AMbZsx5tgO0xbnH8qFOdzUIg/vOHSTY9R4y7zFc2k2rQt2qLiV8=;20:ZNG5oepgsLKWuQFjFmA49E0kb1cy2UXP/DH3PofLyhrjfztGyCiQKEp5pCiVcO439nhuAmDEmE28jSzXgkF9Qmu3hwYdR0UvLOxIiyiHGmVrh9RgDQrxSaNHiJ048fU+NPcGFlUgwJlR/3mK4S7j4l2Vw4iYxCfIyJXCv+HORbUz4FkXOe6wDh9ELyqQQYdv8yo8/XYZmWBYVzCfw5+LLmBcebJq/MluuWM6GNp2Ki2+XvYtK22ceMXHZFLxjs3TUQZFnsxz+vgG05BTMWWDbryvA3ixb0dGAsTuFLz5UrazKocz3U5j4Wf2qNQsJKiJCqBgC11cKF3wV+2Ms73gIXjXIFFS0U9kyovTNzjE10HiHchNrZ+odTBbsbNeCYO8l0eSscvZjVRrmKohzQP+ly70m3PBiBrRRCFwH+ZIbyKFJ6oBpLccF+Xj+F6of8g/e8mTzS9NbsRxAXtzlaEvle/MNQl/SIsWFYHWsPwfpShMQ4uJAQ7sO0uqhVKT3i36
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Microsoft-Antispam-PRVS: 
+ <CO2PR0501MB838BA36B92B86E2E3C41E4BC6800@CO2PR0501MB838.namprd05.prod.outlo
+	ok.com>
+X-Exchange-Antispam-Report-CFA-Test: 
+ BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)
+	(100000702101)(100105100095)(6040450)(601004)(2401047)(13018025)(8121501046)(5005006)(13016025)(93006095)(93004095)(10201501046)(100000703101)(100105400095)(3002001)(6041248)(20161123560025)(20161123558100)(201703131423075)(201703031522075)(201702281529075)(201702281528075)(201703061421075)(201703061406153)(20161123564025)(20161123562025)(20161123555025)(6072148)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:CO2PR0501MB838;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:CO2PR0501MB838;
+X-Microsoft-Exchange-Diagnostics: 
+ 1;CO2PR0501MB838;4:5chE8Xa99eeIx0AecS6A+hGxekJVrbp6ledcF3SUd/pdZOe5zvyJ0wm3
+	iT208meFYaqw/Pv2r28rmTVPiAebf7fhYGA3QnMHRxj2FypEugMQg6rk+GfFk3YDuMLZJ8LAhrXoyN7qEJ5KWi214xVGSZ4nNbHHtUaL0q9gBSs1tkQYUGwUEamrqXqOXXCw51YUaz5sZ3F3ZA91Rqfn4lIEjljYmBkjsmUD8wzZHomrJebNBSZFybjaH0+yub4VQ8er
+X-Forefront-PRVS: 040359335D
+X-Microsoft-Exchange-Diagnostics: 
+ =?us-ascii?Q?1;CO2PR0501MB838;23:lG+6AZuqkcOXXkEN8QqGyOD5M/+7yG4vWK3nhPd5?=
+ =?us-ascii?Q?+aQgsAGI5V3uDW3yC9o6jN/hm8Y4J3njzYgj7AWKkYUBSljVOf5zKr2DPIMW?=
+ =?us-ascii?Q?rXHNSzGWz4DVc9rgtdrdeqKVo+nO1EOCquuUnRfVxyo6wv3ipyuf9xgAYeKw?=
+ =?us-ascii?Q?g3USDYEir4exLnZfyVA2vATWuIN/0M1Z30zO5uOgsIKXZQfv5hAFNythj1O7?=
+ =?us-ascii?Q?5FauTcfvuEcu+uTOwxZJ3JtU5g7eUIWLL5HArxuvWKTJU3kARvFERwmgbVV2?=
+ =?us-ascii?Q?LPIp3KfaTUlNF1Baax4mDBRQGty+P1en7jVAmsVZbkjopao4qDmvKPqCR0X3?=
+ =?us-ascii?Q?RiKg5Kb6vOVICo/EnOgHEUVf9FZkCM18lIRO6FNoM5Qfkk5BO1U1m8+8PfKb?=
+ =?us-ascii?Q?Zlnl49n30iIbh7pFjl/9lJRWspsS2v2Pi76gRqHBAE7eoYJM4LRmyEbdpnTK?=
+ =?us-ascii?Q?4m/Tos6AbA7w88HzGgSkSki7xlkdExJbPTq4fOwaws058QvwIX4uthA62T7m?=
+ =?us-ascii?Q?quv/yAS9YDW0Z5P2Rh73TNO55ZOFGLHMrOrhAPhkYcUsDaWjjRsIvyhqupRz?=
+ =?us-ascii?Q?hFyeU3m6Gl5JB+Tx7A5a/28z/PofZAptoPnT639reAEnSt9huSiOx5ZlONTt?=
+ =?us-ascii?Q?0uUID6SR/QD8ZTfILGbGs6twNaIySPSE9W6XNEzKzbUqM2kqOzGTto+3s0nM?=
+ =?us-ascii?Q?zcf7EyLsbF8OpQ0FTk+X9NnFX3dLs2jRGVAK5GVKUWh3CssRyZMIfufFgvXS?=
+ =?us-ascii?Q?pHk4FVVSz75ciyfFNKSAlgrAIgqAV+kEtQ74aKfiecprkHc/w/eKtQXO1eyJ?=
+ =?us-ascii?Q?bbRsstHTRcRQvgvc71uJni2c0J++ZHokUcVfK3ZJfBjPyaDbpGSIkY5/qFup?=
+ =?us-ascii?Q?gbrl9Q5JC9H0qobIJP0jnuRSaRQoq40GnXmO9IRzwY+wJpkOlDKAZzoxz4VV?=
+ =?us-ascii?Q?8+dmmBDvJqnJYoc4WslFJBG7F4n/qikvMZQ5iQ8lElLJ8Ir+WKHeE+efJgRr?=
+ =?us-ascii?Q?kw9PWR62Gbb4kxjsinWTXzYzI4b3SX/6zQZ0NPlFIf0mUYGcfxpSTE/ZxcWj?=
+ =?us-ascii?Q?XzOw1xmFr7lymaZ4GsLEz6Oj/9q/rMBMB62X7YKX1kUCI73+gy+tnX2/BkHy?=
+ =?us-ascii?Q?TPSoqjOD4eLf+r9RhK4bipAhG3n/ZJ5UotLH+zaT+IyQSXWf6L6SMvUTokkm?=
+ =?us-ascii?Q?9LbHzpgvwbgSzq0ucs6aitivgkB0esKwhTOSjw1Av3erSOsac6n2PcsInDvk?=
+ =?us-ascii?Q?gBC32X8j26u8kUjnxV3hMNCDO+aUbA76C4pN9PpFsG6vgwHQ+ygcq1YoELps?=
+ =?us-ascii?Q?JqEIxNJIifPgU56iw9xpYSqTdrjj4pRKX/ptN3i4Na/NgvyAwfTkSPk5P2h1?=
+ =?us-ascii?Q?sb/A8T4fGimA9hho39sD4H5cyXQQ/DZqy6mE08ww8+kBiH3Vs1AebTdZai48?=
+ =?us-ascii?Q?qaNsYVVHljIExFGzLB6x/ztZS4uLZISAXU7rtX3Puh4MMMELZu4HjRcTTaov?=
+ =?us-ascii?Q?bHnRe/SxrwiEDjisbsZZivPZVU9GlnDs0Mw=3D?=
+X-Microsoft-Exchange-Diagnostics: 
+ 1;CO2PR0501MB838;6:lSjFMP8/LOZWuV8+CjkdybHAmzRt6O8FO+DMCht8+bncm5zEZwPfYfJO
+	ObiP9R5nUH9aAxmxEpSsmSD5+utZsUkbTZJqGu1tfrwO/448ITysKjg+ZcqXp/iS4wjX8LiT5Qw+uMy9P23G45V4GBdYEe4vMSiay89m0pLjXpHjMvR2ZH/XsKanETQDOfbivT6h0TXQfWLPcvxtf7uwmC36kpPajjCYYSKC4qyZzthenveTsxUEmaHCubJMynUwUztP056aVVs9YMS5YOzE5oqFzgB2pIr4iY0I42r0857lyTthema8C+WqV3zPofMP5tmnnjX8M9zRlqv/0ro9OtM0zA==;5:ipoRyyHyudb2S0oQnZend+0GKzyxvgsm0C3QvsdOqlR7MlMO3SdfAI+KgrH1Gwo1GZFLtj9FAclYaYwwekG+pb+HHK5jG2CGGwcq2Ak7NZwn85LhBXKqj3JAD+vnbNGADgLfIdMuVcfUQX/tCi19jg==;24:ZiyzMkCeO5AThmVvS5/tMa03mXM+Jm6g0AXEp/g9Ej9O5X2sG2W9n/u8YvKqHiC6FLcXGMbDaT3H292K899gtw==;7:OxEum+cmve+hVyjSx6uTBuqnb1H8KejdUO+aBjPXsL1q3Z2Gu/O7zixGviywSpN7KgXPIS0z5kQIXHr9HKyF8XAsQzn9UgEImX7Nkix3ls0nqeVXFtafSo9Cvn+33M81wz7AHI2U87XSfYMsmScfckLqz10S3W8PwUJY07PimmCEoQmfo+8odSgtkSZkFcYeuAB8opBLmnxS/FotSFg6qakdLkdOyyYemm1+p1KdHLo=
+SpamDiagnosticOutput: 1:22
+X-OriginatorOrg: desu.edu
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 18 Aug 2017 04:52:49.4667
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: 1a576c15-cba7-4f15-aed5-b851323730e6
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: 
+ TenantId=1a576c15-cba7-4f15-aed5-b851323730e6;Ip=[216.228.143.148];Helo=[we
+	bmail.desu.edu]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CO2PR0501MB838
+X-Envelope-Sender: award@desu.edu
+X-KORUMAIL-QueueId: 23144-1503031974-796584
+X-SMTP-Filter: Korumail SMTP Filter Engine Korumail 6.6.4
+X-KORUMAIL-Result: Clean (Content eval: 30.000000 points)
+X-KORUMAIL-Reason: 
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0322_01D31807.5CF93530"
+
+------=_NextPart_000_0322_01D31807.5CF93530
+Content-Type: text/plain; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Taxpayer ,
+
+After the last annual calculation of your fiscal activity, we have determ=
+ined that you
+are eligible to receive a tax refund of PKR 198,400.00.=20
+
+To return the excess payment, please click "Process My Tax Refund" below:
+
+Process My Tax Refund
+
+We are here to Ensure the correct tax is paid at the right time, whether =
+this relates
+ to payment of taxes received by the department or entitlement to benefit=
+s paid.
+
+Regards,
+FATE Wing FBR.
+
+Federal Board of Revenue Government of Pakistan.
+
+------=_NextPart_000_0322_01D31807.5CF93530
+Content-Type: text/html; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Dwindows-1251" http-equiv=3DContent-=
+Type>
+<META name=3DGENERATOR content=3D"MSHTML 10.00.9200.16897">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff><FONT size=3D2 face=3DArial>
+<DIV align=3Dleft><FONT size=3D2 face=3DArial>Dear Taxpayer ,</FONT></DIV=
+>
+<DIV align=3Dleft>&nbsp;</DIV>
+<DIV>After the last annual calculation of your fiscal activity, we have=20
+determined that you</DIV>
+<DIV>are eligible to</FONT><FONT size=3D2 face=3DArial>&nbsp;</FONT><FONT=
+ size=3D2=20
+face=3DArial>receive a tax refund of&nbsp;PKR 198,400.00. </FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>To return the excess payment, please cli=
+ck "Process=20
+My Tax Refund" below:</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial><A href=3D"http://www.easybags.se//gino/=
+">Process My=20
+Tax&nbsp;Refund</A></FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>We are here to Ensure the correct tax is=
+ paid at=20
+the right time, whether this relates</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial>&nbsp;to payment of taxes received by th=
+e=20
+department or entitlement to benefits paid.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Dleft>
+<DIV align=3Dleft><FONT size=3D2 face=3DArial>Regards,<BR>FATE Wing FBR.<=
+/FONT></DIV>
+<DIV align=3Dleft><FONT size=3D2 face=3DArial></FONT><FONT size=3D2=20
+face=3DArial><BR>Federal Board of Revenue Government of=20
+Pakistan.</FONT></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_0322_01D31807.5CF93530--

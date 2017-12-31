@@ -1,0 +1,420 @@
+Received: from unknown (HELO web02.webruimteserver.nl) ()  by 0
+	with ESMTPS (DHE-RSA-AES256-GCM-SHA384 encrypted); 24 Oct 2017 06:06:21 -0000
+Received: from mailscanner.wrhg.nl ([185.12.13.30])
+	by web02.webruimteserver.nl
+	with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)	(Exim 4.89)	(envelope-from <bounces+1184371-4a4d-johan=sierens.com@email.investis.com>)
+	id 1e6sM1-001uy1-EA	for johan@sierens.com; Tue, 24 Oct 2017 08:06:21 +0200
+Received: (korumail 16515 invoked from network); 24 Oct 2017 06:06:19 -0000
+Received: from unknown (HELO o1.default.investis.com) (198.21.0.172)  by 0
+	with ESMTPS (DHE-RSA-AES256-GCM-SHA384 encrypted); 24 Oct 2017 06:06:17 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=investis.com; 
+	h=mime-version:from:to:subject:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=/05TmYoEPYrptE5zSkdRigqCTkw=; b=E5yoOp00jPLi6pPEol
+	/VIrXoj0ZxrEt3hke6815+Bjyqv6Jhvjofr1n+cAtJRjVmIMIXnn4SdzYc5/fpYx
+	OA0MwiC0B9x8x1y1F2Va5R5p4DU4FCXTrZehADsm3H2VYWwdzt7CNXotHEH33526
+	ajJ6ca6O8KkoaTSGZwhLw2GtY=
+Received: by filter0843p1mdw1.sendgrid.net with SMTP
+	id filter0843p1mdw1-20930-59EED852-13        2017-10-24 06:06:10.900027021 +0000 UTC
+Received: from potpeuw1svc01 (ec2-52-19-148-223.eu-west-1.compute.amazonaws.com [52.19.148.223])
+	by ismtpd0006p1iad1.sendgrid.net (SG) with ESMTP id aEoZQZgOQTmTriwOijpujA
+	for <hemant.shah@investis.com>; Tue, 24 Oct 2017 06:06:10.453 +0000 (UTC)
+MIME-Version: 1.0
+From: "M.P. Evans Group PLC Alerting Service" <alerting@investis.com>
+To: ---------- <abc@example.com>
+Date: Tue, 24 Oct 2017 06:06:15 +0000 (UTC)
+Subject: M.P. Evans Group PLC email alerting service
+Message-ID: <aEoZQZgOQTmTriwOijpujA@ismtpd0006p1iad1.sendgrid.net>
+X-SG-EID: 
+ wb/+B83PfYWqKfffWqZCAtAMHppgp3UU2mJENQCn9r+taZdUCBNUurkkFBUsrs+1lsposHEbCSr
+	oF5
+ 87Q7VDegxyJ5b7wwRKbsgEqeprjfqtQnx09vcgQYWzpOVTnQ6+5j6aoIufVqN3MrILMofcelrlq
+	8i1
+ ixsxSXxyss7I67qu0L0MzXiXVRifAra2orCFy/tsH4vkxzBnUA5EdHUoAnq88byBSuhKePs23dL
+	2z1 Qkl8jwvz1E9GkfQGBR1l3c
+X-SG-ID: NMHL7tc+AxXN/stbBh9h7HrAYuuBALlwNtiuOmNbOv47XOcwPH7/EDE4bVt1r1NS
+X-Envelope-Sender: 
+ =?us-ascii?Q?srs0=3D3+tvgg=3Dbx=3Demail=2Einvestis=2Ecom=3Dboun?=
+ =?us-ascii?Q?ces+1184371-4a4d-johan=3Dsierens=2Ecom=40sie?=
+ =?us-ascii?Q?rens=2Ecom?=
+X-KORUMAIL-QueueId: 16598-1508825181-660806
+X-SMTP-Filter: Korumail SMTP Filter Engine Korumail 6.6.8
+X-KORUMAIL-Result: Clean (Content eval: 40.000000 points)
+X-KORUMAIL-Reason: 
+X-DKIM: signer='investis.com' status='pass' reason=''
+DKIMCheck: Server passes DKIM test, -20 Spam score
+SpamTally: Final spam score: unset because ESF not run (SpamAssassin unset,
+ whitelist, or skippped)
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<center>  =0D
+<table id=3D"backgroundTable" width=3D"100%" height=3D"undefined" cellspaci=
+ng=3D"0" cellpadding=3D"0" border=3D"0" style=3D"margin: 0px; padding: 0px;=
+ height: 100% !important; width: 100% !important;">    =0D
+<tbody>      =0D
+<tr>        =0D
+<td valign=3D"top" align=3D"center">=0D
+<table id=3D"templateContainer" width=3D"1024" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0" style=3D"border: 1px solid #dddddd; background-color: =
+#fdfdfd;">            =0D
+<tbody>              =0D
+<tr>                =0D
+<td valign=3D"top" align=3D"center"><!-- // Begin Template Header \\ -->   =
+               =0D
+<table id=3D"templateHeader" width=3D"1024" cellspacing=3D"10" cellpadding=
+=3D"10" border=3D"0" style=3D"background-color: #ffffff;">                 =
+   =0D
+<tbody>                      =0D
+<tr>                        =0D
+<td class=3D"headerContent" style=3D"border-bottom: 1px solid #0d6535;"><!-=
+- // Begin Module: Standard Header Image \\ -->                          <i=
+mg src=3D"http://www.mpevans.co.uk/mpevans/templates_mpevans/assets/gfx/pag=
+e_logo.jpg" alt=3D"M.P.Evans Group PLC" width=3D"288" height=3D"95" border=
+=3D"0" style=3D"border-style: none; height: 95px; width: 288px; margin: 0px=
+; padding: 0px; font-size: 14px; font-weight: bold; line-height: 100%; outl=
+ine: medium none; text-decoration: none; text-transform: capitalize;" />   =
+                       <!-- // End Module: Standard Header Image \\ -->    =
+                    </td>                      </tr>                    </t=
+body>                  </table>                  <!-- // End Template Heade=
+r \\ -->                </td>              </tr>              =0D
+<tr>                =0D
+<td valign=3D"top" align=3D"center"><!-- // Begin Template Body \\ -->     =
+             =0D
+<table id=3D"templateBody" width=3D"1024" cellspacing=3D"0" cellpadding=3D"=
+10" border=3D"0">                    =0D
+<tbody>                      =0D
+<tr>                        =0D
+<td class=3D"bodyContent" valign=3D"top" style=3D"background-color: #fdfdfd=
+;"><!-- // Begin Module: Standard Content \\ -->                          =
+=0D
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"10" border=3D"0">   =
+                         =0D
+<tbody>                              =0D
+<tr>                                =0D
+<td valign=3D"top"><html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+ />
+<title></title>
+<meta name=3D"generator" content=3D"RNS" />
+<style type=3D"text/css">
+
+
+
+H2 {
+        FONT-FAMILY: "Times New Roman","serif"; MARGIN-LEFT: 0cm; FONT-SIZE=
+: 18pt; FONT-WEIGHT: bold; MARGIN-RIGHT: 0cm
+}
+P {
+        FONT-FAMILY: "Times New Roman","serif"; MARGIN-LEFT: 0cm; FONT-SIZE=
+: 12pt; MARGIN-RIGHT: 0cm
+}
+.o {
+        MARGIN: 72pt; size: 595.3pt 841.9pt
+}
+DIV.o {
+
+}
+P.ac {
+        TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Calibri","s=
+ans-serif"; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+SPAN.aa {
+        FONT-FAMILY: "Cambria","serif"
+}
+P.ad {
+        TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Calibri","s=
+ans-serif"; FONT-SIZE: 11pt
+}
+SPAN.y {
+        FONT-FAMILY: "Cambria","serif"
+}
+TABLE.ae {
+        WIDTH: 465pt; MARGIN-LEFT: -3pt
+}
+TD.u {
+        PADDING-BOTTOM: 3pt; PADDING-LEFT: 3pt; PADDING-RIGHT: 3pt; PADDING=
+-TOP: 3pt
+}
+P.af {
+        LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Calibri","s=
+ans-serif"; FONT-SIZE: 11pt
+}
+SPAN.w {
+        FONT-FAMILY: "Cambria","serif"; COLOR: black
+}
+P.e {
+        MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Calibri","sans-serif"; FONT-SIZE=
+: 11pt
+}
+LI.e {
+        MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Calibri","sans-serif"; FONT-SIZE=
+: 11pt
+}
+DIV.e {
+        MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Calibri","sans-serif"; FONT-SIZE=
+: 11pt
+}
+P.g {
+        MARGIN: 12.1pt 0cm; FONT-FAMILY: "Times New Roman","serif"; FONT-SI=
+ZE: 12pt
+}
+LI.g {
+        MARGIN: 12.1pt 0cm; FONT-FAMILY: "Times New Roman","serif"; FONT-SI=
+ZE: 12pt
+}
+DIV.g {
+        MARGIN: 12.1pt 0cm; FONT-FAMILY: "Times New Roman","serif"; FONT-SI=
+ZE: 12pt
+}
+SPAN.ag {
+        FONT-FAMILY: "Cambria","serif"; COLOR: black; FONT-SIZE: 11pt; FONT=
+-WEIGHT: bold
+}
+P.h {
+        MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman","serif"; FONT-S=
+IZE: 12pt
+}
+LI.h {
+        MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman","serif"; FONT-S=
+IZE: 12pt
+}
+DIV.h {
+        MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman","serif"; FONT-S=
+IZE: 12pt
+}
+SPAN.ah {
+        FONT-FAMILY: "Cambria","serif"; COLOR: black; FONT-SIZE: 11pt
+}
+SPAN.ai {
+        FONT-FAMILY: "Cambria","serif"; COLOR: black; FONT-SIZE: 11pt
+}
+SPAN.aj {
+        FONT-FAMILY: "Cambria","serif"; COLOR: black; FONT-SIZE: 11pt
+}
+P.ak {
+        MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Calibri","sans-serif"; FONT-SIZE=
+: 11pt; FONT-WEIGHT: bold
+}
+P.a {
+        LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 10pt; FONT-FAMILY: "Calibri","sa=
+ns-serif"; FONT-SIZE: 11pt
+}
+LI.a {
+        LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 10pt; FONT-FAMILY: "Calibri","sa=
+ns-serif"; FONT-SIZE: 11pt
+}
+DIV.a {
+        LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 10pt; FONT-FAMILY: "Calibri","sa=
+ns-serif"; FONT-SIZE: 11pt
+}
+
+
+</style>
+</head>
+<body><div>RNS Number : 3885U</div>  <div>M. P. Evans Group PLC</div>  <div=
+>24 October 2017</div>  <div>&#160;</div>
+<div class=3D"o">
+<p class=3D"ac"><span class=3D"aa">Transaction in Own Shares</span></p>
+<p class=3D"ad"><span class=3D"y">&#160;</span></p>
+<p class=3D"ad"><span class=3D"y">M.P. Evans Group PLC (the "Company") anno=
+unces that it has purchased for cancellation (through Peel Hunt LLP acting =
+as the Company's broker) the following number of its shares of 10p each on =
+the London Stock Exchange.</span></p>
+<p class=3D"ad"><span class=3D"y">&#160;</span></p>
+<table class=3D"ae" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"u" valign=3D"top">
+<p class=3D"af"><span class=3D"w">Date of purchase:</span></p>
+</td>
+<td class=3D"u" valign=3D"top">
+<p class=3D"af"><span class=3D"w">23 October 2017</span></p>
+</td>
+</tr>
+<tr>
+<td class=3D"u" valign=3D"top">
+<p class=3D"af"><span class=3D"w">Number of shares purchased (aggregated vo=
+lume):</span></p>
+</td>
+<td class=3D"u" valign=3D"top">
+<p class=3D"af"><span class=3D"w">876</span></p>
+</td>
+</tr>
+<tr>
+<td class=3D"u" valign=3D"top">
+<p class=3D"af"><span class=3D"w">Highest price paid per share (pence):</sp=
+an></p>
+</td>
+<td class=3D"u" valign=3D"top">
+<p class=3D"af"><span class=3D"w">820p</span></p>
+</td>
+</tr>
+<tr>
+<td class=3D"u" valign=3D"top">
+<p class=3D"af"><span class=3D"w">Lowest price paid per share (pence):</spa=
+n></p>
+</td>
+<td class=3D"u" valign=3D"top">
+<p class=3D"af"><span class=3D"w">820p</span></p>
+</td>
+</tr>
+<tr>
+<td class=3D"u" valign=3D"top">
+<p class=3D"af"><span class=3D"w">Volume weighted average price paid per sh=
+are (pence):</span></p>
+</td>
+<td class=3D"u" valign=3D"top">
+<p class=3D"af"><span class=3D"w">820p</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"ad"><span class=3D"y">&#160;</span></p>
+<p class=3D"ad"><span class=3D"y">Following the purchase of these shares, t=
+he Company has 55,050,332 shares in issue. All of the shares have equal vot=
+ing rights and there are no shares held in treasury. This figure 55,050,332=
+ represents the total voting rights in the Company and may be used by share=
+holders as the denominator for the calculations by which they can determine=
+ if they are required to notify their interest in, or a change to their int=
+erest in, the Company under the Financial Conduct Authority's Disclosure an=
+d Transparency Rules.</span></p>
+<p class=3D"e"><span class=3D"y">&#160;</span></p>
+<p class=3D"e"><span class=3D"y">The schedule below contains detailed infor=
+mation about the purchases made by Peel Hunt on behalf of the Company as pa=
+rt of the buyback programme.</span></p>
+<p class=3D"g"><span class=3D"ag">Enquiries: </span></p>
+<p class=3D"h"><span class=3D"ag">M.P. Evans Group PLC</span><span class=3D=
+"ah">&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#1=
+60;&#160;&#160;&#160;&#160;&#160; Telephone: +44 (0) 1892 516333 </span></p>
+<p class=3D"h"><span class=3D"ai">Peter Hadsley-Chaplin, Chairman </span></=
+p>
+<p class=3D"h"><span class=3D"ai">Tristan Price, Chief Executive</span></p>
+<p class=3D"h"><span class=3D"ai">Matthew Coulson, Finance Director</span><=
+/p>
+<p class=3D"h"><span class=3D"y">&#160;</span></p>
+<p class=3D"h"><span class=3D"ag">Peel Hunt LLP</span><span class=3D"aj"> &=
+#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#16=
+0;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&=
+#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Telephone: +44 (0) 20=
+ 7418 8900 </span></p>
+<p class=3D"h"><span class=3D"ai">Dan Webster </span></p>
+<p class=3D"h"><span class=3D"ai">Adrian Trimmings</span></p>
+<p class=3D"h"><span class=3D"ai">George Sellar</span></p>
+<p class=3D"h"><span class=3D"ai">Max Irwin</span></p>
+<p class=3D"h"><span class=3D"y">&#160;</span></p>
+<p class=3D"h"><span class=3D"ag">Hudson Sandler</span><span class=3D"aj"> =
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#1=
+60;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;=
+&#160;&#160;&#160;&#160;&#160; Telephone: +44 (0) 20 7796 4133 </span></p>
+<p class=3D"h"><span class=3D"ai">Charlie Jack </span></p>
+<p class=3D"h"><span class=3D"ai">Bertie Berger</span></p>
+<p class=3D"e"><span class=3D"y">&#160;</span></p>
+<p class=3D"e"><span class=3D"y">&#160;</span></p>
+<p class=3D"e"><span class=3D"y">&#160;</span></p>
+<p class=3D"ak"><span class=3D"y">Schedule of Purchases - Individual Transa=
+ctions</span></p>
+<p class=3D"e"><span class=3D"y">&#160;</span></p>
+<table class=3D"ae" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"u" valign=3D"top">
+<p class=3D"e"><span class=3D"y">Number of shares purchased</span></p>
+</td>
+<td class=3D"u" valign=3D"top">
+<p class=3D"e"><span class=3D"y">Transaction price<br />
+(pence per share)</span></p>
+</td>
+<td class=3D"u" valign=3D"top">
+<p class=3D"e"><span class=3D"y">Time of transaction</span></p>
+</td>
+<td class=3D"u" valign=3D"top">
+<p class=3D"e"><span class=3D"y">Trading venue</span></p>
+</td>
+</tr>
+<tr>
+<td class=3D"u" valign=3D"top">
+<p class=3D"e">876</p>
+</td>
+<td class=3D"u" valign=3D"top">
+<p class=3D"e"><span class=3D"y">820</span></p>
+</td>
+<td class=3D"u" valign=3D"top">
+<p class=3D"e"><span class=3D"y">16:37:35</span></p>
+</td>
+<td class=3D"u" valign=3D"top">
+<p class=3D"e"><span class=3D"y">London Stock Exchange</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"a"><span class=3D"y">&#160;</span></p>
+</div>
+<div style=3D"text-align:center;"><br/>This information is provided by RNS<=
+/div><div style=3D"text-align:center;">The company news service from the Lo=
+ndon Stock Exchange</div><div>&#160;</div>  END<div>&#160;</div><div>&#160;=
+</div>POSOKNDKOBDDKKB
+<img src=3D"http://email.investis.com/wf/open?upn=3DPk3hWoiqhw3oDYr8KscIzrX=
+IktNJVn2S4mUt-2F7u71YatcgxKC0c9tvoVv4hACZURiQneLIstdEGegtwb07h-2FB2d1WWBnCp=
+vg2by3-2FvpAGWraAokK95pmVYbiCd48hYsbAe-2Fv969b3b-2F0MbEt-2FynSLK7L8Zj19SLIk=
+dgDybx3icDpClbaQDjT3597DjfZs-2F4fnEO1RAALqkVt94UaEVi-2BVsfqeaoxYTBto2V-2BjN=
+6l4R2sh3qgQTzarzAjOkofE7NC9wcQ49p-2FvC8IylXl6xh38A-3D-3D" alt=3D"" width=3D=
+"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !imp=
+ortant;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !i=
+mportant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !=
+important;padding-bottom:0 !important;padding-right:0 !important;padding-le=
+ft:0 !important;"/>
+</body>
+</html></td>                              </tr>                            =
+</tbody>                          </table>                          <!-- //=
+ End Module: Standard Content \\ -->                        </td>          =
+            </tr>                    </tbody>                  </table>    =
+              <!-- // End Template Body \\ -->                </td>        =
+      </tr>              =0D
+<tr>                =0D
+<td valign=3D"top" align=3D"center"><!-- // Begin Template Footer \\ -->   =
+               =0D
+<table id=3D"templateFooter" width=3D"1024" cellspacing=3D"0" cellpadding=
+=3D"10" border=3D"0" style=3D"background-color: #fdfdfd; border-top: 0px no=
+ne;">                    =0D
+<tbody>                      =0D
+<tr>                        =0D
+<td class=3D"footerContent" valign=3D"top"><!-- // Begin Module: Standard F=
+ooter \\ -->                          =0D
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"10" border=3D"0">   =
+                         =0D
+<tbody>                              =0D
+<tr>                                =0D
+<td id=3D"utility" valign=3D"middle" style=3D"background-color: #fdfdfd; bo=
+rder-top: 1px solid #0d6535;">=0D
+<p style=3D"color: #525a61; font-family: arial,helvetica,sans-serif; font-s=
+ize: 14px; line-height: 125%; text-align: left;">To unsubscribe or to updat=
+e your account, go to:</p>=0D
+<p style=3D"color: #525a61; font-family: arial,helvetica,sans-serif; font-s=
+ize: 14px; line-height: 125%; text-align: left;"><a href=3D"http://email.in=
+vestis.com/wf/click?upn=3DMkB724k-2BRoClMxGR-2BWlevCJSCx0x8kiJD75Yb3dmYDbgF=
+9kUkPq-2FzaWkscux1W2RPFovlWfQwFh-2FnYGNWLbMqQ-3D-3D_Pk3hWoiqhw3oDYr8KscIzrX=
+IktNJVn2S4mUt-2F7u71YatcgxKC0c9tvoVv4hACZURiQneLIstdEGegtwb07h-2FB2d1WWBnCp=
+vg2by3-2FvpAGWpPC3gHssmav08Sxyhk1I-2B8OfVm4p2wXM7odmlPeXn684PbW6kstg26ru3oG=
+z4XuSGbPrfj9mafrlvqO8WvWFacIat2FUmZC3hOd1VYt-2BIcCDd-2F-2F3ewopPpWAQGkiUvj9=
+BMbAvHCp7ZngTtYcOtA3O3JSHnYG2HrDMV2rc8gcJsIg-3D-3D" style=3D"color: #0d6535=
+; font-weight: normal; text-decoration: underline;">http://www.mpevans.co.u=
+k/mpevans/en/news/ealerts</a></p>=0D
+<p style=3D"color: #525a61; font-family: arial,helvetica,sans-serif; font-s=
+ize: 14px; line-height: 150%; text-align: left;">This service is brought to=
+ you by <a href=3D"http://email.investis.com/wf/click?upn=3DMkB724k-2BRoClM=
+xGR-2BWlevM4sIXAdXf7ZiICs5JalLsbXa-2FM4xQg5HIUppzX3Bh9b_Pk3hWoiqhw3oDYr8Ksc=
+IzrXIktNJVn2S4mUt-2F7u71YatcgxKC0c9tvoVv4hACZURiQneLIstdEGegtwb07h-2FB2d1WW=
+BnCpvg2by3-2FvpAGWqFWUkVzgz1kYLiP3VBRzgohLiYU49nTTYXLe56nfDy-2BIzIdI5aroGR7=
+Si3exMhB5z3AJUiLROJdC-2FGxDjJGTuQcblt2xySun4P2ZfuWwl0-2Bi9sX3pvGFi1cqeovX4I=
+nJ5hdkmPaaEX8MYGJYKhs5ylnawCAMqKp-2B5NHONp7QeqqA-3D-3D" target=3D"_blank" t=
+itle=3D"Opens in a new window" style=3D"color: #0d6535;">http://www.investi=
+s.co.uk/</a>.</p></td></tr></tbody>                          </table>      =
+                    <!-- // End Module: Standard Footer \\ -->             =
+           </td>                      </tr>                    </tbody>    =
+              </table>                  <!-- // End Template Footer \\ --> =
+               </td>              </tr>            </tbody>          </tabl=
+e>          <br />=0D
+        </td>      </tr>    </tbody>  </table></center>
+
+

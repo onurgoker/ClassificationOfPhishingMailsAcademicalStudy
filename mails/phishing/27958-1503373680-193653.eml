@@ -1,0 +1,156 @@
+Received: from unknown (HELO NAM01-BN3-obe.outbound.protection.outlook.com) (unknown@104.47.33.242)
+	by 0 with ESMTPS (AES256-SHA256 encrypted); 22 Aug 2017 03:48:00 -0000
+Received-SPF: pass (0: SPF record at spfb.protection.outlook.com designates
+ 104.47.33.242 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=gvsu5.onmicrosoft.com; s=selector1-gvsu-edu;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=YLyTcKcmuGfRdFXqvcvpqcEhhjjusgY0w9N+OnTfwnc=;
+ b=ZC3eFaYEv/3pEM529HJSp38UvzzwsmUMQ0GjofK2ydrN7xcXtwX0rjs47HG3Xf6R1H4YKASbF
+	NwLpn23JCggu/C8Cni2zlUwuihmr9j+FE1vUZ3mjfvTamx6TiixIu6dr/8UAXV+hnev8wOEJ4x6CEv1YFTTBxD/8dLAST+75Bc=
+Received: from BN3PR03CA0079.namprd03.prod.outlook.com (2a01:111:e400:7a4d::39)
+	by BL2PR03MB515.namprd03.prod.outlook.com (2a01:111:e400:c2b::23)
+	with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256)
+	id 15.1.1362.18; Tue, 22 Aug 2017 03:47:40 +0000
+Received: from BL2FFO11FD010.protection.gbl (2a01:111:f400:7c09::100)
+	by BN3PR03CA0079.outlook.office365.com (2a01:111:e400:7a4d::39)
+	with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256)
+	id 15.1.1362.18 via Frontend Transport; Tue, 22 Aug 2017 03:47:40 +0000
+Authentication-Results: spf=pass (sender IP is 148.61.8.89)
+ smtp.mailfrom=gvsu.edu; tm.net.my; dkim=none (message not signed)
+ header.d=none;tm.net.my; dmarc=bestguesspass action=none
+ header.from=gvsu.edu;
+Received-SPF: Pass (protection.outlook.com: domain of gvsu.edu designates
+ 148.61.8.89 as permitted sender) receiver=protection.outlook.com;
+ client-ip=148.61.8.89; helo=smtpsend-htal1.exchange.gvsu.edu;
+Received: from smtpsend-htal1.exchange.gvsu.edu (148.61.8.89)
+	by BL2FFO11FD010.mail.protection.outlook.com (10.173.161.16)
+	with Microsoft SMTP Server (version=TLS1_0, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA_P384)
+	id 15.1.1341.15 via Frontend Transport; Tue, 22 Aug 2017 03:47:39 +0000
+Message-ID: <6B6ED88B80547AB965602990F4A13E56@gcco>
+From: AmOnline <thomasl@gvsu.edu>
+Subject: Credit Instruction 22-08-2017
+Date: Tue, 22 Aug 2017 03:42:13 +0100
+MIME-Version: 1.0
+X-Priority: 3
+To: ---------- <abc@example.com>
+Return-Path: thomasl@gvsu.edu
+X-Originating-IP: [155.97.236.110]
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: 
+ CIP:148.61.8.89;IPV:NLI;CTRY:US;EFV:NLI;SFV:SPM;SFS:(10019020)(2980300002)(
+	438002)(199003)(189002)(5423002)(109986005)(2920100001)(512884003)(5000100001)(8666007)(33716001)(106466001)(4001070100004)(1671002)(54896002)(6512007)(9686003)(230783001)(189998001)(84326002)(22776003)(2906002)(39060400002)(25786009)(626005)(6666003)(110136004)(6306002)(236005)(5660300001)(75432002)(50986999)(3846002)(33656002)(7596002)(7636002)(7736002)(7826002)(6486002)(478600001)(66066001)(54356999)(356003)(8936002)(246002)(89786002)(44706002)(5004910100001)(6116002)(86362001)(881003)(88552002)(8426002)(81686999)(71636004)(8676002)(575854001)(7336002)(7366002)(7406005)(71666007)(606006)(966005)(7416002)(7276002)(6970700004);DIR:OUT;SFP:1501;SCL:5;SRVR:BL2PR03MB515;H:smtpsend-htal1.exchange.gvsu.edu;FPR:;SPF:Pass;PTR:smtpsend-htal1.exchange.gvsu.edu;A:1;MX:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 
+ 1;BL2FFO11FD010;1:sEMY9Wpq9CVTFkttEYQHxwosEC88IqpmyUqo8IEDB62xQYuhuvMx+wV1w
+	F6NNwCZ4xrwjVPNxfqJ8+mt4AWmnPOoVLY2nnXCHHoSOAGFRHrDsMplP5mfq/yngk8bRzrb
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 
+ 33dc060b-2f91-4903-7168-08d4e91089a7
+X-Microsoft-Antispam: 
+ UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(3001
+	35300095)(22001)(300000502095)(300135100095)(2017030254152)(8251501002)(300000503095)(300135400095)(2017052603031)(201703131423075)(201703031133081)(201702281549075)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:BL2PR03MB515;
+X-Microsoft-Exchange-Diagnostics: 
+ 1;BL2PR03MB515;3:/gw7CW03108TsTo3ruMHmoNv9jEMW7Z7hxCfT6jaTTQgi2kf8+iVVr3UAp
+	uGlCV6H5U+5MLT6NFnvv6weDitoYmeZVryWXePkhwrxAeeyaWSlCmphnVc7DL+/aXwnJpy3um7UOkRZEhgrQbJyG3xmRmGw3RrA+wMcSOMEuzKXVi8K5vt21i86EiZoR9BpzWFKZFHdoANT1M6baCDVdkin/VUtHrdnJeYe6BNdK7MRogzWsVIhxIY8xadtdD04bkXScrkgebKfLIaLpVIPEfSwvnYNRkouDlnnEH5/CXay+9nMoFyLS4BL2JvQ70iokc8GgpViqBN7cRyl5Od9CFThA==;25:t9CUsn5eNgIdCkTKym64XJ3hMyV2f+Mf8d90bsEO4nd4KIUpkKrNxE1uapDCSPkDyweznb9vp7i40r5Z7P/MTDRYzoywmMtZ91sg74onATOGmFPR0muQpAOrD/InC/o//fx6iowo86S8XzeemWrsHMIISfdVMVDTYDxupaVG2iX7SeFxJl3XUhzK8L14GqfSn2FaYUuGNSbOff1+4WpliRXeaK8baWblfM0XrkcQHshMlu0LQ1vM427og810jG98IJuhYaF4fkoa/nBgGsDER7zVAUkJBxpGdd8f7LY+UQNKrD2Vn+n4lBt0katcKDZKIV4DnyXJNygjxK68DkCErA==;31:HtBP+ZSuGofj6uwBQ/6cZxaBPpM3z8AMp4WIMoNlkuoayP5KOqO/DkMuygjzA8250fl7U43irC4SOi1K5RIQPdASU0fLELZ2JvkB/WYfPeQqVtnyrExMJYJpL/rNuMLOmyaih0oX+2pOUAaAH9XbLU1ZTnVWhw5yKv1xazLnqZFHfK2lu5+RrUNQxnqLCtQekeLgrkTBqVOYSWmpXniRq2X7EXTf/rUgZokdJB2qGX8=
+X-MS-TrafficTypeDiagnostic: BL2PR03MB515:
+X-Microsoft-Exchange-Diagnostics: 
+ 1;BL2PR03MB515;20:r1OH/QG040X+63nbprQt4WZOIdcxg0s9HLUIQVkX8ymwMM3tuENWpRdhs
+	NiHzUFl0aBZfVYdvL98ZLPVcjN9zkYGFYyAthwdE17YLW56Y0v5LLCHYhcgbJhA0YucMo/Wok5B+TBKJxzgqTI9MBq1JT+ZiuhlwC0Fyc93qDqXCWx9BIyLNZcT8SzEJYVGmfTNY48L0wQK2g+F7aKIcfv6GLILWYPZlKpRl+4K2vUW3TWNjtNuNq09i5XSvmGI10ch8NNtHC6HPeW01tAT0hK+GqNZGUI6L1jbtPTQ8EozN/EVmx4UjB2YPM8TSDHf1jrov8d5qIs3Unz/GAQaCmjIUv1SP8po8lV72BEkqyX1eYiXPYBMforrI6jQrRBJZprznZxKxtqcOjuA41qG7xX5vy9gBFXS2wYWL4tUp1Cr44KoYZx7Sps+zNzVOq7JcPGdd61hkdzF+JWL3RMQBG2m45qKClmrtdVD5SlI9RR8khdjdYfw9ZcXkO1WqtE8m2sX;4:opVsoanSFMN5DEnHF/45elCWVRZYYjfW7GHjMeU+psULCjzJbgMrPFDrS2+cEDcbF/wAHuO3NVH1+USmovKkQIqSWhd47BaIFZSPvY/rzmuAt2due9RV1/Xd0ypnThrhk0byG6m7X4SRD6fovA+R6Oc0+VK7q8uVabw1W92FvJKNMwDWqXsQPg5w6IJjKMHVmtdpO72MMZBOQNfviA5RRg+ctibJMNVMPND88AXjlzxUaKmcAqGmazDB08zwHBAF
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Microsoft-Antispam-PRVS: 
+ <BL2PR03MB515F97AD7C246D653821422D7840@BL2PR03MB515.namprd03.prod.outlook.c
+	om>
+X-Exchange-Antispam-Report-CFA-Test: 
+ BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)
+	(100000702101)(100105100095)(6040450)(601004)(2401047)(13018025)(8121501046)(5005006)(13016025)(10201501046)(100000703101)(100105400095)(93006095)(93004095)(3002001)(6041248)(20161123560025)(20161123562025)(20161123555025)(201703131423075)(201702281529075)(201702281528075)(201703061421075)(201703061406153)(20161123564025)(20161123558100)(6072148)(201708071742011)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:BL2PR03MB515;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:BL2PR03MB515;
+X-Forefront-PRVS: 04073E895A
+X-Microsoft-Exchange-Diagnostics: 
+ =?us-ascii?Q?1;BL2PR03MB515;23:amIWRPIlrxLuFQcnl33u06VazPt60a8ohYlcaRk5Vj?=
+ =?us-ascii?Q?vdwVNK3ip6ZN0NKBLTCqcveCXpXoLc9JvH6VEZq0w1cGMbd8wM1jMh7Y0eR6?=
+ =?us-ascii?Q?rPO3J18DJg8vtbHqdfUqL2jrJRYVm/OB5UCwo3cdJ7OPP69TNM2AjV59bMeh?=
+ =?us-ascii?Q?09nUERuDjS+WlkXT2a2jqXAHiqKaI3M2lhqbOnOmFlcfIW7Xvlb/q8EoMRLN?=
+ =?us-ascii?Q?uVb7lrQiF56Zo3RngniOtqqvOFRedjctcFR0Hp4+siLgDT++n+K433LY1aR8?=
+ =?us-ascii?Q?/l7dTIn8OjbK4haSj3/MzEAbQeGZ3l6r5wEQ27Uf96gIrQI+ADy3aU4NCeMK?=
+ =?us-ascii?Q?5jrhfZRKdsc5fBwxwVlTLKuUroyU2L3Juit84k/0EliW0ThQ12aDAcTjR7v4?=
+ =?us-ascii?Q?cKdnd2ExAZkLVbQderzqzfh9eW4b5mNcWOwwomVgHulRblTEZdzpIZoDiuQQ?=
+ =?us-ascii?Q?buzN3avIaGng8llRfAp/biOB7zc4KvnmeF0TToIFbbdCVGDSefEz6GlADHV8?=
+ =?us-ascii?Q?N3xr5+onr56hywpwLcXdbQzKErhdwDrjrhWezyrO2gmmqQ/Pf418xzhoMoyX?=
+ =?us-ascii?Q?51JMsa63hqQBR6roBxe8Vs81FyTNTKEfSxrzWkWzdfQ3UOXM+CZ4V2S5r7fJ?=
+ =?us-ascii?Q?XrYqlGwnH2rNH6rFWgQtnDb6fqn6KmlS3cxP4yOwKaSnFhjEjSRMi+ZlFQYf?=
+ =?us-ascii?Q?cS18uevbsFQwUdf4JmgfRHLAlLEm+K9ln4AiAbTspfAFIf3SVpmSdOQuHp3V?=
+ =?us-ascii?Q?Mb1PsshWW9AYCy73Yvut/49B7LJMw/uJgjVETHNH6xLaJH+Oi8P7/HXUi3Js?=
+ =?us-ascii?Q?E4537GY1KM8+MIwyAI7BT0ofk7YCNjOCphnhb+Y6AXa932Wi7fjThvr4Csjk?=
+ =?us-ascii?Q?c/crZM+BN+RNAfpY/XHEr53+ZsihKzvBbDsEgHGYT3Z/OIQBLQ9qvDWcXzHy?=
+ =?us-ascii?Q?AtrcUD2wkBk3VzUuAQq6YDnT5p2KWomVrLBBD91bYzdkGN2C6JZK94WeIQhY?=
+ =?us-ascii?Q?vpCGC4KFQPJTYTc/p5sBco20ZjNLha5aSMr+YLIAMITdP0Iap8ZAgtBbBOXx?=
+ =?us-ascii?Q?KSLVeUhyBekN3+Eb1gCJuAWEzJGYfkNpVTFrqXnxQ1uoEUzrR6CihZyBPIRu?=
+ =?us-ascii?Q?c38w5GYAXjvuiUclBQ/abfIEI7/dz+ycl7RPm+WouxJnccLcVqsFK9aqGCFM?=
+ =?us-ascii?Q?NMWHnHdPuJ3XZ//xq43fiXqQGQZCG75IcMRlr81iuo74JJA12S0f/kd3QOAf?=
+ =?us-ascii?Q?JoSvEsaJlG/B6P1LVu+UJ3w26pAhSY9l6MyxLFr6Ak+56VurpPAH2x1nyC1I?=
+ =?us-ascii?Q?p7jltk0Uq8jRP4CSDOGWZ6qosKVFYKWxv9bIlTy4nxKwqw2SalySrLPD4W5P?=
+ =?us-ascii?Q?3VnmalAcypkeRAd49nmsH3FmlQten1OVzb17SPPu7Hgr7KPvEY1L1K+CQ9Ho?=
+ =?us-ascii?Q?N9A7AqOw1zJ6XDioIG+bYRYwHPm8QRELARZIwDyX8DUCnlO5vLPl49wZ+1Od?=
+ =?us-ascii?Q?H4IA0HINa56nVx9/mNAFPaDpF8n7kM9+rrNnWy4Tt8xjSmw7DBQVEW?=
+X-Microsoft-Exchange-Diagnostics: 
+ 1;BL2PR03MB515;6:MyhJfIS4rP+vp3L3HCoxeG+8lUO0vGdKFGmsg9A6AxBocbbH5cTrT7owkt
+	k+6MH96k4xsYF+j9+WLsXMOqSMSd+zc5DGRHDgBpJyT2I6gI6d/X67XRw/5di7ezyjMKq8VcvFkFS3294nChJ6qMo6a3laTmsnQ478yLwiPefZNDXS6bhReVrXQBCf5Mc2uJoDHiXFfRgVzMpbScv660Dxe8XbMXQXBBfGRsjxEnzYgFKWRTiKaBZI1xVHnQGfxWt3aY3Kq9Rb75qtrQIfnXSqo6C4tfR5+9LSLWaIXQ5YAKVKDP1KptXfL5HntuLRpap3XH30wxyjQWw5n6K1hN7egw==;5:kcLPoIpX3+jIeb5tyIU0L3rmAcIQT63wbCsCqSwceF5qe5+lN4h7jI5crPltFeWrg5ZVsTSvXM23xjLXdOM5GpUMkfnXUDPBX7f0vdE3rBrNkI7qPBx8ODXyWhHBjo9BKdZcB5T91wxjqsWkmE24znqaGcuFKLuZR84c1vMnwa0=;24:XK/3yrChpWEbjx8hQD6udxraTPN6Pstqe/3kq35EyvNYSSYLoHhQ9ISPvUfQ1uOZEIF9bppusowTW6lmiNiQIA==;7:DGbReH4utjW1yAHkRn3qDDDDHKIXe2tiDX7qvvhYGpmyY9WjCWMxz/FuzVvslv/730mvj2NqBp4QqWp6TyFHVXuUlVMqK4FhjoBwlInLTVIGdWTMvU3ewKiFkWPfKYiAdB+cjNUVAIm/rw1/1tjpN3ztkjZ0vLPna5Wg2TmwxtWC05HGn/V1F3K+kKHsG8CHr9wzvRUbn9r9Iom6g+w6X1BkKwWn8ZKHs2MHIkuJ++M=
+SpamDiagnosticOutput: 1:22
+X-OriginatorOrg: gvsu.edu
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 22 Aug 2017 03:47:39.7419
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: 72c01fb2-6fb7-4a52-9a5e-e1dae50fafbd
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: 
+ TenantId=72c01fb2-6fb7-4a52-9a5e-e1dae50fafbd;Ip=[148.61.8.89];Helo=[smtpse
+	nd-htal1.exchange.gvsu.edu]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL2PR03MB515
+X-Envelope-Sender: thomasl@gvsu.edu
+X-KORUMAIL-QueueId: 27958-1503373680-193653
+X-SMTP-Filter: Korumail SMTP Filter Engine Korumail 6.6.4
+X-KORUMAIL-Result: Clean (Content eval: 33.000000 points)
+X-KORUMAIL-Reason: 
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0418_01D31AF8.A46AF180"
+
+------=_NextPart_000_0418_01D31AF8.A46AF180
+Content-Type: text/plain; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+Greetings,
+
+There is an incoming credit instruction from the Inland Board Revenue on =
+your account. =20
+
+Click https://ambank.amonline.com.my/validate/ and follow the instruction=
+s
+
+Thank you
+
+------=_NextPart_000_0418_01D31AF8.A46AF180
+Content-Type: text/html; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-1=
+251">
+<META content=3D"MSHTML 8.00.6001.23588" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>Greetings,</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>
+<DIV><FONT face=3DArial size=3D2></FONT>There is an incoming credit instr=
+uction from=20
+the Inland Board Revenue on your account.&nbsp; </DIV>
+<DIV>&nbsp;</DIV></DIV>
+<DIV><FONT face=3DArial size=3D2>Click <A=20
+href=3D"https://bit.ly/2wsBpg5">https://ambank.amonline.com.my/validate/<=
+/A> and=20
+follow the instructions</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Thank you<BR></FONT></DIV>
+<DIV align=3Dleft><FONT face=3DArial size=3D2></FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0418_01D31AF8.A46AF180--

@@ -1,0 +1,186 @@
+Received: from unknown (HELO mail-ua0-f181.google.com) (209.85.217.181)
+  by 0 with SMTP; 18 Jul 2017 05:47:37 -0000
+Received: by mail-ua0-f181.google.com with SMTP id 64so11465247uae.2
+        for <ssarigul@doratelekom.com.tr>; Mon, 17 Jul 2017 22:47:35 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:delivered-to:dkim-signature:date:to:from
+         :reply-to:subject:message-id:list-unsubscribe:mime-version;
+        bh=JdLyfpUrbEszAGkMYG4y5DpqFLjhy9HEFBlt4iu5bZY=;
+        b=M8bCmFzxWyVHCEXRCKFpcsbex9cHMI+a5qF2Ql8GdUxfgwWw2ExHjGGGayjP7IaGwF
+         MRr8K6HtP3Rqk1YjQNEhKevcr+6Jq+PsW+RXdfVWrxeY9ObymAe4Pb27AXAeAsGY+sX8
+         nZiYKfpclDPJ8dGbsrpDx7wyhLRP37IA9hZdvE5TAB6k4wsYJh4pEwwEt2Wb/idmedRd
+         3v33bIZSv3JshGcqiCkcDKfXkipenc3fzKdVsnbThGAg31P8d3MU7mD+lZvjFPIgAZM1
+         vmMIeWmtq4kIyFF5KYA/8KmPyO++HM/FtHsmsEFuNCPVeO0LmAO4UEYV4kV/FPSwuc79
+         6WrA==
+X-Gm-Message-State: AIVw113cr/xgumgqyT4BnKuqhcZzXFezSkaCMStZzA+XVZgASlkSUzyA
+	cy6zF0MrWAfftZ7GADnJjx+Ceq3AEHlqaKNGY9IMeg==
+X-Received: by 10.31.135.8 with SMTP id j8mr574348vkd.150.1500356854404;
+        Mon, 17 Jul 2017 22:47:34 -0700 (PDT)
+X-Forwarded-To: ---------- <abc@example.com>
+X-Forwarded-For: ssari12345@gmail.com ssarigul@doratelekom.com.tr
+Delivered-To: ---------- <abc@example.com>
+Received: by 10.103.128.204 with SMTP id b195csp2184562vsd;
+        Mon, 17 Jul 2017 22:47:33 -0700 (PDT)
+X-Received: by 10.84.253.16 with SMTP id z16mr1362134pll.81.1500356853276;
+        Mon, 17 Jul 2017 22:47:33 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1500356853; cv=none;
+        d=google.com; s=arc-20160816;
+        b=kVIg+nTaLIzOlI8T7GGOLYeQbaOqIGrhGGM8ID/v4t3QCHsyRtqP/ok+jGRclDmd6N
+         tWQJoFn00LwSymC79hb79+DiHJmm/nRO6Vgbc84uZVu19rFLCTR6ruTrGJ28MXNEHFSs
+         zuQQOvBOuF9aNVd/y4UKbH00PHXyko6eYdT02fhvHDBL38xoaR5dI6q7j8gLsn58wHaR
+         5cqO3Fv9O4efZjOicmFoCj20iMz8fzKsbhZQS/zh4Wesxsz64EOwDSYKNO4SdRaF5czA
+         9zi7n4Gb7MhKL/tXN5NtffJldiwyzMKd8s1GNXBeVVTXI50OFfYWu5KmAk/eC7TzhnOk
+         Z58A==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:list-unsubscribe:message-id:subject:reply-to:from:to
+         :date:dkim-signature:arc-authentication-results;
+        bh=JdLyfpUrbEszAGkMYG4y5DpqFLjhy9HEFBlt4iu5bZY=;
+        b=RhEMzeHHfZhYikNuDFQhO4zZrQO5O8kN3SEFFHCauGXgZg9sq1NqY9OV/EdPNEkqwJ
+         tNXzjFhZVC/Qi+DPGFItT9EUNembNO5KUgo5TnI2bjPi/ke7eMTrihc7iaB3DJlEzP8F
+         mzin3WBYScGoYwiyVJQF8lLS0+hyUAqI05FWnw2dQWebDi318wv/24AnHWhBNk6wIjfh
+         0mTb8ZZgpTP4U7vw8V8d38mW6K0H6S4OCAqbUcA96IGymby06mPSCd4DN/7Vn9TvpAkN
+         jBsdGl5X394+Ren6vAE0FKniqPFfr27MYtA7wmopi+b758F45ULWVCRVfu/xl7j7eayt
+         RK4Q==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@11.trans.openstackmail.com header.b=i2ApmG4q;
+       spf=pass (google.com: domain of campaign-ebankings-14920-1354-20797686-ssari12345=gmail.com@11.trans.openstackmail.com designates 103.52.183.11 as permitted sender) smtp.mailfrom=campaign-ebankings-14920-1354-20797686-ssari12345=gmail.com@11.trans.openstackmail.com
+Return-Path: <campaign-ebankings-14920-1354-20797686-ssari12345=gmail.com@11.trans.openstackmail.com>
+Received: from 11.trans.openstackmail.com (11.trans.openstackmail.com. [103.52.183.11])
+        by mx.google.com with ESMTPS id 6si1003978pld.588.2017.07.17.22.47.31
+        for <ssari12345@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 17 Jul 2017 22:47:33 -0700 (PDT)
+Received-SPF: pass (google.com: domain of campaign-ebankings-14920-1354-20797686-ssari12345=gmail.com@11.trans.openstackmail.com designates 103.52.183.11 as permitted sender) client-ip=103.52.183.11;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@11.trans.openstackmail.com header.b=i2ApmG4q;
+       spf=pass (google.com: domain of campaign-ebankings-14920-1354-20797686-ssari12345=gmail.com@11.trans.openstackmail.com designates 103.52.183.11 as permitted sender) smtp.mailfrom=campaign-ebankings-14920-1354-20797686-ssari12345=gmail.com@11.trans.openstackmail.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=emm; d=11.trans.openstackmail.com;
+ h=Date:To:From:Reply-To:Subject:Message-ID:List-Unsubscribe:MIME-Version:Content-Type;
+ bh=lcTK9rMp1v8AK1xrTzIIv9scJBc=;
+ b=i2ApmG4qdfc8WOXb91g46nfZXZ75wSuQB3+pHg54IoaRgIbduiY4+roj3MtKVY7fI1aVlEUxn++H
+   QMloJDdfKKBP24Og86g64agMNJT+P3SZ7v65MYuSfHvT9X37+oZeprOuhzrWx8MVHJYIe0sYUGox
+   +lpU12GZJfH7K+Jotr4=
+Date: Tue, 18 Jul 2017 11:07:41 +0530
+To: ---------- <abc@example.com>
+From: "Kotak Securities Ltd." <notification@royzez.info>
+Reply-To: "Kotak Securities Ltd." <notification@royzez.info>
+Subject: Kotak Securities Triple Combo Offer
+Message-ID: <833051945020797686@trans.openstackmail.com>
+List-Unsubscribe: <mailto:ebankings-14920-1354-20797686-6eb533de719cba84c33a6f14c743a193@usub.openstackmail.com?subject=Unsubscribe>, <http://lt.email.openstackmail.com/ebankings/?p=unsubscribe&mid=1354&uid=6eb533de719cba84c33a6f14c743a193>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_1d1e8688ebed2e3830d653467b6037dc"
+
+
+
+
+--b1_1d1e8688ebed2e3830d653467b6037dc
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<http://lt.email.openstackmail.com/ltrack?id=MhoAUwlUA1MOUkpSBgRTBwBXUks=VAlWDAQOWVNEEURXFA8BUQpQBSJQC1cLWhoAWV4=
+&client=14920>
+
+Click here <http://lt.email.openstackmail.com/ltrack?id=MhoAUwlUBFYHUkpSBgRTBwBXUks=VAlWDAQOWVNEEURXFA8BUQpQBSJQC1cLWhoAWV4=
+&client=14920>
+ for detailed terms and conditions & disclaimer
+
+ Kotak Securities Limited. Registered Office: 27 BKC, C 27, G Block,
+Bandra Kurla Complex, Bandra (E), Mumbai 400051. CIN:
+U99999MH1994PLC134051, Telephone No.: +22 43360000, Fax No.: +22
+67132430. Website: www.kotak.com <http://lt.email.openstackmail.com/ltrack?id=MhoAUwlUBFYHVEpSBgRTBwBXUks=VAlWDAQOWVNEEURXFA8BUQpQBSJQC1cLWhoAWV4=
+&client=14920>
+ / www.kotaksecurities.com <http://lt.email.openstackmail.com/ltrack?id=MhoAUwlUBFYHV0pSBgRTBwBXUks=VAlWDAQOWVNEEURXFA8BUQpQBSJQC1cLWhoAWV4=
+&client=14920>
+ Corresponde nce Address: Infinity IT Park, Bldg. No 21, Opp. Film
+City Road, A K Vaidya Marg, Malad (East), Mumbai 400097. Telephone No:
+42856825. SEBI Registration No: NSE INB/INF/INE 230808130, BSE INB
+010808153/INF 011133230, MSEI INE 260808130/INB 260808135/INF
+260808135, AMFI ARN 0164,
+PMS I NP000000258 and Research Analyst INH000000586. NSDL/CDSL:
+IN-DP-NSDL-23-97. Compliance Officer Details: Mr. Manoj Agarwal. Call:
+(022) 4285 8484, or Email: ks.compliance@kotak.com
+<mailto:ks.compliance@kotak.com>
+ Click here
+<http://lt.email.openstackmail.com/ltrack?id=MhoAUwlUBFYHV0pSBgRTBwBXUks=VAlWDAQOWVNEEURXFA8BUQpQBSJQC1cLWhoAWV4=
+&client=14920landing-page/T&CPageDisclaimerbrokeragecampaign.htm>
+ for the detailed disclaimer
+
+Unlist here, Update Now <http://lt.email.openstackmail.com/ltrack?id=MhoAUwlUBFQCU0pSBgRTBwBXUks=VAlWDAQOWVNEEURXFA8BUQpQBSJQC1cLWhoAWV4=
+&client=14920>
+
+
+--b1_1d1e8688ebed2e3830d653467b6037dc
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+<meta content="text/html;charset=UTF-8" http-equiv="Content-Type"><title></title>
+<style type="text/css">
+body { font-size : 11px; font-family: Verdana, Arial, Helvetica, sans-serif; }
+a { font-size: 11px; color: #ff6600; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; }
+a:visited { color: #666666; }
+a:hover {  text-decoration: underline; }
+p { font-weight: normal; font-size: 11px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; }
+h1 {font-weight: bold; font-size: 14px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none;}
+h2 {font-weight: bold; font-size: 13px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none;}
+h3 {font-weight: bold; font-size: 12px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; margin:0px; padding:0px;}
+h4 {font-weight: bold; font-size: 11px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; margin:0px; padding:0px;}
+hr {width : 100%; height : 1px; color: #ff9900; size:1px;}
+ .forwardform {margin: 0 0 0 0; padding: 0 0 0 0;}
+ .forwardinput {margin: 0 0 0 0; padding: 0 0 0 0;}
+ .forwardsubmit {margin: 0 0 0 0; padding: 0 0 0 0;}
+div.emailfooter { font-size : 11px; font-family: Verdana, Arial, Helvetica, sans-serif; }
+div.emailfooter a { font-size: 11px; color: #ff6600; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; }
+</style>
+</head>
+<body><table align="center" width="600">
+<tbody>
+<tr>
+<td>
+<div style="text-align: center;">
+<table border="0" border-collapse:="" bordercolor="#111111" cellpadding="0" cellspacing="0" new="" style="font-family: " times="" width="600">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF" width="100%">
+<ul>
+<li><a href='http://lt.email.openstackmail.com/ltrack?id=LhoAUwlUA1MOUkpSBgRTBwBXUks=VAlWDAQOWVNEEURXFA8BUQpQBSJQC1cLWhoAWV4=
+&client=14920' ><img border="0" height="630" src="https://s3-us-west-2.amazonaws.com/mailer2017/Kotak/June/Mailer/Mailer-B.jpg" width="600" /></a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" width="100%">
+<p align="center" style="margin-top: 20px; margin-bottom: 0px;"><span style="font-size:9px;"><font face="Arial"><a href='http://lt.email.openstackmail.com/ltrack?id=LhoAUwlUBFYHUkpSBgRTBwBXUks=VAlWDAQOWVNEEURXFA8BUQpQBSJQC1cLWhoAWV4=
+&client=14920' >Click here</a>&nbsp;for detailed terms and conditions &amp; disclaimer</font><br />
+<font face="Arial" style="font-size: 7pt;">&nbsp;</font><span style="font-family: Arial, sans-serif; color: rgb(85, 85, 85);">Kotak Securities Limited. Registered Office: 27 BKC, C 27, G Block, Bandra Kurla Complex, Bandra (E), Mumbai 400051. CIN: U99999MH1994PLC134051, Telephone No.: +22 43360000, Fax No.: +22 67132430. Website:&nbsp;</span><a data-saferedirecturl="https://www.google.com/url?hl=en-GB&amp;q=http://www.kotak.com/&amp;source=gmail&amp;ust=1496737265835000&amp;usg=AFQjCNFgBcIWf_bmvcHLQG9_2FLKqKRDvw"
+href='http://lt.email.openstackmail.com/ltrack?id=LhoAUwlUBFYHVEpSBgRTBwBXUks=VAlWDAQOWVNEEURXFA8BUQpQBSJQC1cLWhoAWV4=
+&client=14920'  style="color: rgb(17, 85, 204);
+font-family: arial, sans-serif; font-size: 12.8px;" target="_blank"><strong><span style="font-family: Arial, sans-serif; color: rgb(85, 85, 85); text-decoration-line: none;">www.kotak.com</span></strong></a><span style="font-family: Arial, sans-serif; color: rgb(85, 85, 85);">&nbsp;/&nbsp;</span><a data-saferedirecturl="https://www.google.com/url?hl=en-GB&amp;q=http://www.kotaksecurities.com/&amp;source=gmail&amp;ust=1496737265835000&amp;usg=AFQjCNGEhtQCvDa_VSaM4AZYDUKeY08Heg" href='http://lt.email.openstackmail.com/ltrack?id=LhoAUwlUBFYHV0pSBgRTBwBXUks=VAlWDAQOWVNEEURXFA8BUQpQBSJQC1cLWhoAWV4=
+&client=14920'  style="color:
+rgb(17, 85, 204);
+font-family:
+arial, sans-serif; font-size: 12.8px;" target="_blank"><strong><span style="font-family: Arial, sans-serif; color: rgb(85, 85, 85); text-decoration-line: none;">www.kotaksecurities.com</span></strong></a><span style="font-family: Arial, sans-serif; color: rgb(85, 85, 85);">&nbsp;Corresponde <wbr />nce Address: Infinity IT Park, Bldg. No 21, Opp. Film City Road, A K Vaidya Marg, Malad (East), Mumbai 400097. Telephone No: 42856825. SEBI Registration No: NSE INB/INF/INE 230808130, BSE INB 010808153/INF 011133230, MSEI INE 260808130/INB 260808135/INF 260808135, AMFI ARN 0164,
+PMS I NP000000258 and Research Analyst INH000000586. NSDL/CDSL: IN-DP-NSDL-23-97. Compliance Officer Details: Mr. Manoj Agarwal. Call: (022) 4285 8484, or Email:&nbsp;<strong><a href="mailto:ks.compliance@kotak.com" style="color: rgb(17, 85, 204);" target="_blank"><span style="color: rgb(85, 85, 85);">ks.compliance@kotak.com</span></a> <wbr />&nbsp;<a data-saferedirecturl="https://www.google.com/url?hl=en-GB&amp;q=http://www.kotaksecurities.com/landing-page/T%26CPageDisclaimerbrokeragecampaign.htm&amp;source=gmail&amp;ust=1496737265835000&amp;usg=AFQjCNGtOr_QYosKWTnIv4NRVY4UIinC4w"
+href='http://lt.email.openstackmail.com/ltrack?id=LhoAUwlUBFYHVkpSBgRTBwBXUks=VAlWDAQOWVNEEURXFA8BUQpQBSJQC1cLWhoAWV4=
+&client=14920'  style="color: rgb(17, 85, 204);" target="_blank"><span style="color: rgb(85, 85, 85);">Click here</span></a></strong>&nbsp;for the detailed disclaimer</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><span style="font-size:10px;">Unlist here, </span><a href='http://lt.email.openstackmail.com/ltrack?id=LhoAUwlUBFQCU0pSBgRTBwBXUks=VAlWDAQOWVNEEURXFA8BUQpQBSJQC1cLWhoAWV4=
+&client=14920' ><span style="font-size:10px;">Update Now</span></a></p>
+<br/><div></div><img border="0" src="http://lt.email.openstackmail.com/ltrack?m=1354&u=6eb533de719cba84c33a6f14c743a193&client=14920&c=0000" ></body>
+</html>
+
+
+
+--b1_1d1e8688ebed2e3830d653467b6037dc--
+

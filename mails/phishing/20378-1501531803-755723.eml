@@ -1,0 +1,697 @@
+Received: from unknown (HELO relay738.mysmtp2.com) (185.99.122.100)
+  by 0 with SMTP; 31 Jul 2017 20:10:04 -0000
+Received-SPF: pass (0: SPF record at bounce.c.andyouropinion.com designates 185.99.122.100 as permitted sender)
+Received: from relay738.mysmtp2.com (relay738.mysmtp2.com [185.99.122.26]) 
+	by relay738.mysmtp2.com (Postfix) with ESMTPA id 491B21017F7
+	for <rob.stradling@comodo.com>; Mon, 31 Jul 2017 22:10:02 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=etselonvous.com;
+	s=default; t=1501531803;
+	bh=rzEJf2ABOCojP0TiwccJxy5PF9WtTpWqtFcx072Irhk=;
+	h=To:Subject:Date:From:Reply-To;
+	b=i4v5JiPJhBAnbtMbUIk/1VD04NtQLMeWTucjk2Y9PbOXeRTSE0TEeniGDPjq3SnFV
+	 3XoI+9C7M6u4N4wTAQqgaX9J+bZx6HOdmAchbPSXkgKbNTqkBDNgCIhDNU0w6xg5Nr
+	 oycyfT0eeAj1F/a8gY66UaGE24hMGKkJlSnQTGus=
+To: ---------- abc@example.com
+Subject: =?UTF-8?Q?Un=20ordinateur=20HP=20offert=20en=20r=C3=A9pondant=20?=
+ =?UTF-8?Q?=C3=A0=20l'enqu=C3=AAte?=
+Content-ID: oJScoTyhMl4mYwWcqP4kMaSbpwNhZJM2BQH2YzuwZt==$!$
+Date: Mon, 31 Jul 2017 20:10:02 +0000
+From: =?UTF-8?Q?Enqu=C3=AAte=20HP?= <info@etselonvous.com>
+Reply-To: =?UTF-8?Q?Enqu=C3=AAte=20HP?= <info@etselonvous.com>
+Content-Type: multipart/alternative;
+ boundary="=_94eda02d7ad5d0a624703130b73c1d77"
+MIME-Version: 1.0
+Message-Id: <20170731201003.491B21017F7@relay738.mysmtp2.com>
+
+--=_94eda02d7ad5d0a624703130b73c1d77
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Si le message ne s'affiche pas correctement merci de suivre ce=0Alien=0A=
+http://track.etselonvous.com/?xm=3DYk0kmJCfYILjmTUiXFR6oFtfXItvYs%3D%3Dt=
+&first_name=3Dwertyuiop&ocx_unsubscribe_link=3Dhttp://track.etselonvous.=
+com/?xul=3D5m7zqx5xobfxzyni1ot3mjvpnje2k2exbskcxpav9viqq5utxwuzjjb6dvdiq=
+xo1yqswyo8luhdssapk&xi=3Drob.stradling@comodo.com&email=3Drob.stradling@=
+comodo.com&last_name=3Dwertyuiop&zipcode=3D77210=0A=0Ahttp://track.etsel=
+onvous.com/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbcm930zdem2hxgndeh16afv0in8=
+lt3a46wq4yhpc3k5t0bj5jzx4o6vuamdhu47kv6a0h57urltknd9964p4korjcjipa47lkci=
+5z22rgeqkp012dtjdihguc53zcz3mxonm5fptq6my578eivffs41pq5p08gjhaaulkoxslmm=
+43v0y8cvgdnc8prsajznd8gchy8vm1li410it5vigoky1vukdy061p6i2ygrz25ztcrena5q=
+zyjr5njcf4gxk6nem949neujhtehtt&xi=3Drob.stradling@comodo.com&email=3Drob=
+.stradling@comodo.com&last_name=3Dwertyuiop&first_name=3Dwertyuiop&zipco=
+de=3D77210=0A=0ANOUVELLE ENQU=C3=8ATE EXCLUSIVE !=0Ahttp://track.etselon=
+vous.com/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbf02bbqvo0ax077fjlpavgqsuy7rg=
+gnagjnz4vw3mdjjeqqn23nwtxlgc4hyg444i18yhkdevdv4iet09br4j1thwjrdn2pvzox02=
+1mjqbwdxiv083rj8ztzbccjhbq4dgl2z1apckffgvor38msliqgjv4zlb2ld5sfzom6d44rf=
+1b1aclkft9u5to8ntul3czovxnix4jeihg1effxg9xtu88x3snhi0hrjh9mng9ctgdyc5ahd=
+judbdreehu5oinkxrpqa7o531ux4&xi=3Drob.stradling@comodo.com&email=3Drob.s=
+tradling@comodo.com&last_name=3Dwertyuiop&first_name=3Dwertyuiop&zipcode=
+=3D77210=0A=0Ahttp://track.etselonvous.com/?xtl=3D46kdi03sm9cf0siz4ug46b=
+3sh3lbf2ud68080s4vsvrxuplebj8f2au2pi2hv8hae9s88hk7tbvmmijtchdrpcnfuurgw0=
+5ren779nkdj03zmzmnqc0jpyvvcyaz2nc0xlrgun0rfczw7whwzm4jflyryd04yrh92e95ac=
+bvsk3jlitx3r72uwzaa1nw0ta39wbqn63tlsza90pnv7mmax4mjwkqqgswroyoy5k1m3i0xk=
+jneddelhnjx8rvi80l1wff6x3no8bbn3vpzyswbtnal4vjds1iv90oq8ina8pi&xi=3Drob.=
+stradling@comodo.com&email=3Drob.stradling@comodo.com&last_name=3Dwertyu=
+iop&first_name=3Dwertyuiop&zipcode=3D77210=0A=0ABonjour wertyuiop,=0A=0A=
+Vous avez =C3=A9t=C3=A9 choisi parmis nos panellistes pour r=C3=A9pondre=
+ =C3=A0=0Al=E2=80=99enqu=C3=AAte du moment.Donnez-nous votre avis en y r=
+=C3=A9pondant !=0A=0AQuel ordinateur souhaiteriez-vous remporter ?HP Pav=
+illon portable =C2=A0=C2=A0=C2=A0HP Omen bureau=0Ahttp://track.etselonvo=
+us.com/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbf4kez1t407a2bh191qn1xs13v5w9js=
+si56490kf5bfkyx0duuumthda4yx0eiicf2dzlxgxgd4ez1v70hhrbdk69ffneqhfye2rl6z=
+kmn199ckminbfiz2y5j8mlw3htpizh3i4wqzx8qveeduu6mrv7u0zpylzohuuv6h81u7d6j8=
+9zd0dfx52rhg0mpyjb31wx9po43q35apc8q48fnk23du2dc4l7dwy07ipmuis4fbeasu6lpc=
+5rzugx2ckuyw57z4y0x5zwmk5g&xi=3Drob.stradling@comodo.com&email=3Drob.str=
+adling@comodo.com&last_name=3Dwertyuiop&first_name=3Dwertyuiop&zipcode=
+=3D77210=0A=0Ahttp://track.etselonvous.com/?xtl=3D46kdi03sm9cf0siz4ug46b=
+3sh3lbf7qg3gjlll7xl6yiwqymskfplyytt0gid3of9a636dl1anlcc3zu0zwfhrbenn1dxv=
+6vrq0u8jyu62mqt3x456nym04134kytf5jdosc3du3a5k8rge8yh3q0slvtscg5pst4lll4w=
+sjo5tzv4udtrhotsz2xjl5cvol45cab9qhglhz916nz2gx32i9faild8ay3q1hwy8m2zws69=
+wmh4oqv4fxh1uhyj71q7idh7ekn6hzxigx3fgmxwpt6pp3ta8ud07ae2qejzj2&xi=3Drob.=
+stradling@comodo.com&email=3Drob.stradling@comodo.com&last_name=3Dwertyu=
+iop&first_name=3Dwertyuiop&zipcode=3D77210=0A=0AJe r=C3=A9ponds =C3=A0 c=
+ette enqu=C3=AAte=0Ahttp://track.etselonvous.com/?xtl=3D46kdi03sm9cf0siz=
+4ug46b3sh3lbf9ghwaqhlcd58u8w3qjvotxas3ab0x8jp0xpupv0zblsdz7kjb0u5vtv4mqd=
+bboc4mb38jr5ccspmxpe2ncuuqskc6i9dq3y7vhio0l5itcjxpxwvlcwyzwy3ba3qfy6ig93=
+63hpgtoy9d6umcvoas7tsiydwimkxw7r1s9nin2wedtyd1wfb0ycmne99cimrreyjqdz1gpq=
+sjqzkqheqmybmdwrlk2vu9e2wvs97v5dezkydnu6fjv5vxip9ldaoenfghfokl61wpbw&xi=
+=3Drob.stradling@comodo.com&email=3Drob.stradling@comodo.com&last_name=
+=3Dwertyuiop&first_name=3Dwertyuiop&zipcode=3D77210=0A=0AToujours le m=
+=C3=AAme principe, GAGNEZ des points et =C3=A9changez les contre des CAD=
+EAUX mais surtout r=C3=A9pondre =C3=A0 nos enqu=C3=AAtes vous offre la p=
+ossibilit=C3=A9 de remporter des lots exceptionnel !=0A=0Ahttp://track.e=
+tselonvous.com/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbfomj1thdlumatfg7yr8e80=
+pkiwciw5yjkjfjd2hk4zlhgks75mpumrq8p53d43zaz27z2sff8vm8r4t5zvhihyyn6paurz=
+8xjmxgibtxb7ldux8ia4aiys1g6kozo6tvan1b77cewq8n7ohp2ovjhsvysoysvgydsx1gkc=
+dl3oc9cv3y91lnckqhtwa8behx3yizdrtqv2uuh78hcw79jsj02qnm4gy7pyp3cglcvguxm5=
+1xic5ew180tzr9py697ir4kdr15hjm73te&xi=3Drob.stradling@comodo.com&email=
+=3Drob.stradling@comodo.com&last_name=3Dwertyuiop&first_name=3Dwertyuiop=
+&zipcode=3D77210=0A=0Ahttp://track.etselonvous.com/?xtl=3D46kdi03sm9cf0s=
+iz4ug46b3sh3lbfqckunozl9g7d5rh5rw13v69p1f43c0kwh2tle8hxy0mk9arohcurnmjxl=
+ecutkz5fc6i08sco43vzwv8e1n8gdzywsd3ipxz1nftq01tk8xrei8e9z8y8v2m7179voird=
+gn8ny7mn404kw7fkwv2shdrey5uekwnximi1mymqpkambxd2pfei70afw85gghdg0axs760m=
+zz9t33ubudsz7mg1249d5h8kk4j6v7i5hqdy4x24fqm4ihrak5t8wg30us2z0boeauff98&x=
+i=3Drob.stradling@comodo.com&email=3Drob.stradling@comodo.com&last_name=
+=3Dwertyuiop&first_name=3Dwertyuiop&zipcode=3D77210=0A=0Ahttp://track.et=
+selonvous.com/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbft6ll4fvl1pd0t1uarh9l1k=
+vfuhnzmql6en28txf2w0c1wizwt3uw77yggtbii9xax8cbvz484jka6zig06by2j02d8le5u=
+xoe1e22utmatrp0vwiqxwy10mprbd6i8978yj9rty07lb2w92xwx49t7ir8xgtdmp6yccfnf=
+9ts1zy2nx92engfl5i2s7xig6s14brsijtuedzcjnmgg8lftxxzekqzbv4nv63u2b8t88937=
+w7vt008xcpct1wglqk4xd6uypvbrdsv1y&xi=3Drob.stradling@comodo.com&email=3D=
+rob.stradling@comodo.com&last_name=3Dwertyuiop&first_name=3Dwertyuiop&zi=
+pcode=3D77210=0A=0ADONNEZ VOTRE OPINION=0Aen r=C3=A9pondant aux enqu=C3=
+=AAtesGAGNEZ DES POINTS=0A1 enqu=C3=AAte =3D 50 pointsRECEVEZ DES CADEAU=
+X=0A=C3=A9changes & tirage au sort=0A=0AHP n'est ni l'organisateur ni le=
+ sponsor de cette enqu=C3=AAte &Selon Vous=0ADepuis 2005 l'institut de s=
+ondage &SelonVous publie chaque mois des enqu=C3=AAtes th=C3=A9matiques=
+ ayant pour but l'=C3=A9tude de votre opinion et vos modes de consommati=
+on sur Internet. Dans le cadre de chaque nouveau sondage une dotation a=
+ gagner est propos=C3=A9e a l'ensemble des r=C3=A9pondants car l'institu=
+t ne pourrait exister sans vous !=0A=0ACe Jeu gratuit et sans obligation=
+ d'achat est ouvert a toute personne majeure residant en France m=C3=A9t=
+ropolitaine exclusivement (incluant la Corse), a l'exclusion des membres=
+ du personnel de l'Organisateur, et d'une facon g=C3=A9n=C3=A9rale des s=
+oci=C3=A9t=C3=A9s participant a la mise en =C5=93uvre de ce Jeu.=0A=0ALe=
+s informations nominatives recueillies dans le cadre du pr=C3=A9sent jeu=
+ sont trait=C3=A9es conformement a la loi du 6 janvier 1978, dite =C2=AB=
+Informatique et Libert=C3=A9=C2=BB (modifi=C3=A9e par la loi du 6 aout 2=
+004) relative a la protection des personnes physiques a l'=C3=A9gard des=
+ traitements de donn=C3=A9es =C3=A0 caract=C3=A8e personnel. Les partici=
+pants sont inform=C3=A9s que les donn=C3=A9es nominatives les concernant=
+ enregistr=C3=A9es dans le cadre du jeu sont n=C3=A9cessaires a la prise=
+ en compte de leur participation. Tout participant au jeu, dispose, en a=
+pplication de l'article 27 de cette loi, d'un droit d'acc=C3=A9s et de r=
+ectification aux donn=C3=A9es les concernant.=0A=0Ahttp://track.etselonv=
+ous.com/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbfvz1rkmrkejm9ez67s6ugwcg9ljv6=
+gelebvyt6kcvu154i4he2sub34o3b6bnmww7odmv31dbjdfebdmr8o3ln2ouk18sqzx2udcy=
+d0j3qc9m86j0vvixftusaqn493xkbrvmvp0c4hq05jjp6xbstw1qaxvsby61zx6cyniatbov=
+fjwd36fiddn3no71kft488c9tyakcji20dv305culdipmvevw96la479fy6wex1cwmvok4xc=
+omxndljatplf8b2mq81cy7038fg&xi=3Drob.stradling@comodo.com&email=3Drob.st=
+radling@comodo.com&last_name=3Dwertyuiop&first_name=3Dwertyuiop&zipcode=
+=3D77210=0A=0ANOUVELLE ENQU=C3=8ATE EXCLUSIVE !=0Ahttp://track.etselonvo=
+us.com/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbfy32iddnkwsfv48fcstdc3v4cslccr=
+70qye6bina0s1w87p3lzfufl11ovhabahuc49goysr7cxaj8ga0stuov7al4ft4zewe9tb7r=
+voi4l37rg94au8xxkcvj2h1xkkc685nz8rs1d2jdye4eymzti6q4x8rzjkiaryzigvhvp1tx=
+vw93xnkbvsmw86u0ederod3uosrl30smxch5t826274jmyasegh0b8s55zj3jh81puuoe7sr=
+ls9fufe3ewaoepq9fbjuk8bkxi&xi=3Drob.stradling@comodo.com&email=3Drob.str=
+adling@comodo.com&last_name=3Dwertyuiop&first_name=3Dwertyuiop&zipcode=
+=3D77210=0A=0Ahttp://track.etselonvous.com/?xtl=3D46kdi03sm9cf0siz4ug46b=
+3sh3lbfav4px87ko0oergt9sf0xynr6k1k9lx10w0ckxaxtq1lnuxo796ukgjcxqwa436t8h=
+eq65h2bvrw1dk1xayibdp1rnxbeijwu07ze41eah7j4ztx8fswxqrkz5dqkkgntz0dod3g5k=
+ydhpnyiqyhgu8npwwjqy9ddbm2x7p72x0crp5vd3lg0znxtf45k2e2sysdjv27j784gwrkzm=
+ebxootiw1sfpoucpm9ysb59rmabustzdrf6van7h1bhc75vshau5rq4rbtoapo&xi=3Drob.=
+stradling@comodo.com&email=3Drob.stradling@comodo.com&last_name=3Dwertyu=
+iop&first_name=3Dwertyuiop&zipcode=3D77210=0A=0ABonjour wertyuiop,=0A=0A=
+Vous avez =C3=A9t=C3=A9 choisi parmis nos panellistes=0Apour r=C3=A9pond=
+re =C3=A0 l=E2=80=99enqu=C3=AAte du moment !=0A=0AQuel ordinateur souhai=
+teriez-vous remporter ?=0Ahttp://track.etselonvous.com/?xtl=3D46kdi03sm9=
+cf0siz4ug46b3sh3lbfcl5gqb3k3vi1ds4et49t53bzr45fvl1yt9n7n1uko2qqffwqgvv3c=
+grg99zuttrdzmjlb9c7o9r6n1r6ien2luphupkt62w7cjyoew8txsd1h4jokqix6j6cqrkin=
+ba93fppgl8hhusel0ta0zt1uwsp0wypwxwyc4uuthg9yarp4dv94qo2x3cb205q4dp4fwedv=
+dlqrp98gm6rs474uyea6emk9i6xbhmee8yxczu6lvsf63qizp65iwxloxcqwkly112nosblq=
+5e&xi=3Drob.stradling@comodo.com&email=3Drob.stradling@comodo.com&last_n=
+ame=3Dwertyuiop&first_name=3Dwertyuiop&zipcode=3D77210=0A=0AHP Pavillon=
+ portableHP Omen bureau=0Ahttp://track.etselonvous.com/?xtl=3D46kdi03sm9=
+cf0siz4ug46b3sh3lbffr7n85ljh3rn31entruozi03i6pp4p28qths0qsrm2fu51eyriv8y=
+d533kyiheqmqftf8apb53mmg4ee4jbs7zcnb675r7vjtzwjt2amnbwl2e9t3p8wlqqfz4ufa=
+x10wxlqkgzxeq5cwborya28uixoswnoujptckkreqtsao4mipud4eg4uhhimi4g6czf0afxw=
+tchzupz44q7xrazaj3rfv536rgt2snl3e3k20nasyrkwd0yd213k3u2l0n9b2mbiycu97ky3=
+jw&xi=3Drob.stradling@comodo.com&email=3Drob.stradling@comodo.com&last_n=
+ame=3Dwertyuiop&first_name=3Dwertyuiop&zipcode=3D77210=0A=0Ahttp://track=
+.etselonvous.com/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbfhh8e1yhjyykwqzrgtcd=
+86amwp8wiad2gncrabdpi838xsm0g19vpuzgnkzynm3of6o1ye316jj5rp86pp33frf2dhkr=
+faovz8pvu5x431kqimrxx8nwwdhyihf2d1spe1qxs2c2nb9ga6q778azrv8cniw0nt96odfq=
+p2j4zblf8zlu957o6sa13ve4m8bkt7egrx7uohzu1pkxlcd66h7q7s9l82luor1p5rnxmpp5=
+5jbr3lqyogci1lyq6xqi4f5xfe8qb5l78fbi&xi=3Drob.stradling@comodo.com&email=
+=3Drob.stradling@comodo.com&last_name=3Dwertyuiop&first_name=3Dwertyuiop=
+&zipcode=3D77210=0A=0AJe r=C3=A9ponds =C3=A0 cette enqu=C3=AAte=0Ahttp:/=
+/track.etselonvous.com/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbfknm8h3djq6tfc=
+93pu203bsx0gmes953s8kljr4np63zadu91yyvuqwvwfoxbaqnnjgxsntaacd0vinvkx8u6z=
+kr82catjtvol3u2g3vhe78fu2jbp9iwwoh04tyaqncvu77t6xt1y5vxe31kgb8yvwhnovbmr=
+wl7ezgmprdgdzu6rxtd5xg8qs6mea3cmb95qih9xj9g3eyrzefdi2zc1tal30folv67dyqnc=
+h2yabkzqeq9q282krd015mm7fslj8ijzg2i2crhvtw&xi=3Drob.stradling@comodo.com=
+&email=3Drob.stradling@comodo.com&last_name=3Dwertyuiop&first_name=3Dwer=
+tyuiop&zipcode=3D77210=0A=0AToujours le m=C3=AAme principe, GAGNEZ des p=
+oints et =C3=A9changez les contre des CADEAUX mais surtout r=C3=A9pondre=
+ =C3=A0 nos enqu=C3=AAtes vous offre la possibilit=C3=A9 de remporter de=
+s lots exceptionnel !=0A=0Ahttp://track.etselonvous.com/?xtl=3D46kdi03sm=
+9cf0siz4ug46b3sh3lbg0dnbawzj5c131gciup8l88htnollfv4267w64t8g442e2ct97lvz=
+mt8fa1x42b9gbp59gio6vwharqjvfpivi3da9uj66yv2bfszuxlaus2cbc9fu88wog33p66x=
+d73mklfumshdv18vpdicsbffvj0mevq9pie2fum7zkr1fn7477t960omo8nu1w36oavfy0i3=
+yz1nnjcfjz1w1q597dlcbdzti2g347ru2qvl02e4hhpqebff24xk2a6pg81h1o81vrd2ltau=
+99j&xi=3Drob.stradling@comodo.com&email=3Drob.stradling@comodo.com&last_=
+name=3Dwertyuiop&first_name=3Dwertyuiop&zipcode=3D77210=0A=0Ahttp://trac=
+k.etselonvous.com/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbg37p6u1vij9wopsqrua=
+tgd15jer7vpj4a3s4qfg6n24thpkbsfove6pk2ucwut08pshb3qmlaoqcekun51vmj4944sn=
+5grduesvr874rt8aizjpxjz6ww5nn6xgcv42s2rervqomtrijslsdu2cr0w95m8v38o8wjgo=
+c4kt28gki1kfsd6qgom0sbms2yqzgtf4ijzoeew2h87t9o6byeq2muoutyeytksesapk1nnr=
+xyokow7prv5fsi472tsyyc5rv5r1r9i8j4l1t&xi=3Drob.stradling@comodo.com&emai=
+l=3Drob.stradling@comodo.com&last_name=3Dwertyuiop&first_name=3Dwertyuio=
+p&zipcode=3D77210=0A=0AHP n'est ni l'organisateur ni le sponsor de cette=
+ enqu=C3=AAte &Selon Vous=0ADepuis 2005 l'institut de sondage &SelonVous=
+ publie chaque mois des enqu=C3=AAtes th=C3=A9matiques ayant pour but l'=
+=C3=A9tude de votre opinion et vos modes de consommation sur Internet. D=
+ans le cadre de chaque nouveau sondage une dotation a gagner est propos=
+=C3=A9e a l'ensemble des r=C3=A9pondants car l'institut ne pourrait exis=
+ter sans vous !=0A=0ACe Jeu gratuit et sans obligation d'achat est ouver=
+t a toute personne majeure residant en France m=C3=A9tropolitaine exclus=
+ivement (incluant la Corse), a l'exclusion des membres du personnel de l=
+'Organisateur, et d'une facon g=C3=A9n=C3=A9rale des soci=C3=A9t=C3=A9s=
+ participant a la mise en =C5=93uvre de ce Jeu.=0A=0ALes informations no=
+minatives recueillies dans le cadre du pr=C3=A9sent jeu sont trait=C3=A9=
+es conformement a la loi du 6 janvier 1978, dite =C2=ABInformatique et L=
+ibert=C3=A9=C2=BB (modifi=C3=A9e par la loi du 6 aout 2004) relative a l=
+a protection des personnes physiques a l'=C3=A9gard des traitements de d=
+onn=C3=A9es =C3=A0 caract=C3=A8e personnel. Les participants sont inform=
+=C3=A9s que les donn=C3=A9es nominatives les concernant enregistr=C3=A9e=
+s dans le cadre du jeu sont n=C3=A9cessaires a la prise en compte de leu=
+r participation. Tout participant au jeu, dispose, en application de l'a=
+rticle 27 de cette loi, d'un droit d'acc=C3=A9s et de rectification aux=
+ donn=C3=A9es les concernant.=0A=0AVous pouvez a tout moment acceder, fa=
+ire rectifier ou supprimer les informations personnelles vous concernant=
+ ou vous opposer a &SelonVous.=0APour ne plus participer a nos enquetes=
+ &SelonVous, vous pouvez vous rendre sur cette=0Apage=0Ahttp://track.ets=
+elonvous.com/?xul=3D5m7zqx5xobfxzyni1ot3mjvpnje2k2exbskcxpav9viqq5utxwuz=
+jjb6dvdiqxo1yqswyo8luhdssapk&xi=3Drob.stradling@comodo.com
+
+--=_94eda02d7ad5d0a624703130b73c1d77
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://ww=
+w.w3.org/TR/REC-html40/loose.dtd">=0A<html><head><title>NOUVELLE ENQU=C3=
+=8ATE</title><meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"=
+Content-Type"><style type=3D"text/css">.ReadMsgBody { width: 100%;backgr=
+ound-color:#fff;}=0A=09=09=09.ExternalClass {width: 100%;background-colo=
+r:#fff;}=0A=09=09    td { border-collapse: collapse; }=0A=09=09=09img {o=
+utline:none; text-decoration:none; }=0A=09=09=09a img {border:none;}=0A=
+=09=09=09body{background-color:#fff;}=0A=09=09=09.ExternalClass * {line-=
+height: 100%;}=0A=09=09=09.hide {display:none;}=0A=0A=09=09=09=09 @media=
+ screen and (min-width: 480px) { =0A         =09      #Small {display:no=
+ne !important;=09=09=09 =09      =0A         =09        }=0A         =09=
+      #imgFID{ width: 100%;=0A         =09          }=0A               =
+   }=0A=0A=09=09=09 @media screen and (max-width: 480px) {=0A=09=09=09 #=
+Big {display:none !important;=0A=09=09=09 =09=09=09=09     }=0A=09=09=09=
+ =09 #imgFID{ width: 100%;=0A         =09          }=0A                }=
+=0A=09</style></head><body>=0A<div>=0A<table width=3D"100%"><tbody><tr><=
+td align=3D"center">=0A<br><font face=3D"Verdana" size=3D"1" style=3D"co=
+lor:#776d5f">Si le message ne s'affiche pas correctement merci de suivre=
+ ce <a data-id=3D"952081585" href=3D"http://track.etselonvous.com/?xm=3D=
+Yk0kmJCfYILjmTUiXFR6oFtfXItvYs%3D%3Dt&first_name=3Dwertyuiop&ocx_unsubsc=
+ribe_link=3Dhttp://track.etselonvous.com/?xul=3D5m7zqx5xobfxzyni1ot3mjvp=
+nje2k2exbskcxpav9viqq5utxwuzjjb6dvdiqxo1yqswyo8luhdssapk&amp;xi=3Drob.st=
+radling@comodo.com&email=3Drob.stradling@comodo.com&last_name=3Dwertyuio=
+p&zipcode=3D77210" style=3D"color:#776d5f; outline:none; text-decoration=
+: none;" target=3D"_blank"><u>lien</u></a></font>=0A</td>=0A=09=09</tr><=
+/tbody></table></div>=0A=0A<center>=0A<!-- D&eacute;but Mail Desktop -->=
+=0A<div border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"Big" widt=
+h=3D"100%">=0A<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"590"><tbody><tr><td bgcolor=3D"#fff" height=3D"29" style=3D"backg=
+round-color:#fff;text-align:center;" width=3D"513"></td>=0A=09=09=09<td=
+ bgcolor=3D"#ceb680" style=3D"background-color:#ceb680;text-align:center=
+;"><a data-id=3D"952081586" href=3D"http://track.etselonvous.com/?xtl=3D=
+46kdi03sm9cf0siz4ug46b3sh3lbob4jwjk1x2oy1ht39mbpb5geesbwqq8edcw6uti5f756=
+nvsnsihx19gr492g4d2cjekd1q3j3o1qx6ta7354h68x07ttps9vcrjw5i036xi4tvrsur1m=
+1yfe4h91nx3ad0ndzgly7yvyucbl5uvb65jb8ubua8nonfhtq5i452tvjyt0anmsw1ht6300=
+snzkr8ulsw5qmzzxc8xj6p0krafc0xa6doed0l83cnqbcw9joheq3lujij1qf9gec4k9t1iv=
+wajq4kvvxzjy&amp;xi=3Drob.stradling@comodo.com&amp;email=3Drob.stradling=
+@comodo.com&amp;last_name=3Dwertyuiop&amp;first_name=3Dwertyuiop&amp;zip=
+code=3D77210" style=3D"font-family:Arial, Verdana, sans-serif;color:#fff=
+;font-size:17px; text-decoration:none;"><img alt=3D"50 pts" border=3D"0"=
+ height=3D"29" src=3D"http://assets.andyouropinion.fr/SURVEYS/FID/Base_2=
+017/images/img_02.jpg" style=3D"display:block;" width=3D"77"></a></td>=
+=0A=09=09</tr></tbody></table><table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"590"><tbody><tr><td bgcolor=3D"#fff" height=3D"3"=
+ style=3D"background-color:#fff;text-align:center;" width=3D"15"></td>=
+=0A=09=09=09<td bgcolor=3D"#23b7e4" height=3D"3" style=3D"background-col=
+or:#23b7e4;text-align:center;" width=3D"498"></td>=0A=09=09=09<td bgcolo=
+r=3D"#ceb680" style=3D"background-color:#ceb680;text-align:center;"><img=
+ alt=3D"" height=3D"3" src=3D"http://assets.andyouropinion.fr/SURVEYS/FI=
+D/Base_2017/images/img_04.jpg" style=3D"display:block;" width=3D"77"></t=
+d>=0A=09=09</tr></tbody></table><table border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"590"><tbody><tr><td bgcolor=3D"#fff" height=3D"=
+31" style=3D"background-color:#fff;text-align:center;" width=3D"15"></td=
+>=0A=09=09=09<td bgcolor=3D"#fdf5de" height=3D"31" style=3D"background-c=
+olor:#fdf5de;text-align:center;" width=3D"134"></td>=0A=09=09=09<td bgco=
+lor=3D"#23b7e4" height=3D"31" style=3D"background-color:#23b7e4;text-ali=
+gn:center;" width=3D"303"><a data-id=3D"952081587" href=3D"http://track.=
+etselonvous.com/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbodwl1dqjwfi5n72cen0yw=
+az38jddjkyfpzecd793m55xqgavau8x65d4p3dfv5pbswtmgjuwx4h9bbx1enmv8qpjsq9c1=
+bqvs6zucwuulo4kqd2eyvly1rn083jx8jl1ut4pakh0jvrnsoqfj4wmp69g7kb7z6z56gbjn=
+sqdo458hq306nakxlzypnhlipz93rz0mwh5dhec4us4kuorkh40e8r0i9oqinf4iyk72hycg=
+ohp9q6vz0c9dnpafdogo5lgawv2nhme8pbc&amp;xi=3Drob.stradling@comodo.com&am=
+p;email=3Drob.stradling@comodo.com&amp;last_name=3Dwertyuiop&amp;first_n=
+ame=3Dwertyuiop&amp;zipcode=3D77210" style=3D"font-family:Arial, Verdana=
+, sans-serif;color:#fff;font-size:15px; letter-spacing:0.5px;text-decora=
+tion:none;"><font><b>NOUVELLE ENQU=C3=8ATE</b><i> EXCLUSIVE !</i></font>=
+ </a></td>=0A=09=09=09<td bgcolor=3D"#fdf5de" height=3D"31" style=3D"bac=
+kground-color:#fdf5de;text-align:center;" width=3D"61"></td>=0A=09=09=09=
+<td bgcolor=3D"#ceb680" style=3D"background-color:#ceb680;text-align:cen=
+ter;"><a data-id=3D"952081588" href=3D"http://track.etselonvous.com/?xtl=
+=3D46kdi03sm9cf0siz4ug46b3sh3lbog10uwhfwxrawuaqnnnhs7rpbqfltv0flx1mliy0d=
+360u5idi3xxn1zfxksejvazlnlgasj82jb4g8arpvrjxyv9ix1kbkvv5jptn90ke2penkc4c=
+ajk17e8noy56mgq9jilc2crzsn0pk3aacwhw6xl7qaiy4kk1hwp8cjqv5ejf5alao3szjrdw=
+wdloryvdyd14xwj93jguemoczzju1qnvh5h15i2daq62ktar6lwnfkoqeg5p4r4boiwjpdr7=
+m35es4cue20h3tu&amp;xi=3Drob.stradling@comodo.com&amp;email=3Drob.stradl=
+ing@comodo.com&amp;last_name=3Dwertyuiop&amp;first_name=3Dwertyuiop&amp;=
+zipcode=3D77210" style=3D"font-family:Arial, Verdana, sans-serif;color:#=
+fff;font-size:12px; text-decoration:none;"><img alt=3D"OFFERTS" border=
+=3D"0" height=3D"31" src=3D"http://assets.andyouropinion.fr/SURVEYS/FID/=
+Base_2017/images/img_09.jpg" style=3D"display:block;" width=3D"77"></a><=
+/td>=0A=09=09</tr></tbody></table><table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"590"><tbody><tr><td bgcolor=3D"#fff" height=
+=3D"27" style=3D"background-color:#fff;text-align:center;" width=3D"15">=
+</td>=0A=09=09=09<td bgcolor=3D"#fdf5de" height=3D"27" style=3D"backgrou=
+nd-color:#fdf5de;text-align:center;" width=3D"502"></td>=0A=09=09=09<td=
+ bgcolor=3D"#fdf5de" style=3D"background-color:#fdf5de;text-align:center=
+;"><img alt=3D"" height=3D"27" src=3D"http://assets.andyouropinion.fr/SU=
+RVEYS/FID/Base_2017/images/img_12.jpg" style=3D"display:block;" width=3D=
+"59"></td>=0A=09=09=09<td bgcolor=3D"#fff" height=3D"27" style=3D"backgr=
+ound-color:#fff;text-align:center;" width=3D"14"></td>=0A=09=09</tr></tb=
+ody></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"590"><tbody><tr><td bgcolor=3D"#fff" height=3D"41" style=3D"backgro=
+und-color:#fff;text-align:center;" width=3D"15"></td>=0A=09=09=09<td bgc=
+olor=3D"#fdf5de" style=3D"background-color:#fdf5de;text-align:center;"><=
+img alt=3D"" height=3D"41" src=3D"http://assets.andyouropinion.fr/SURVEY=
+S/FID/Base_2017/images/img_15.jpg" style=3D"display:block;" width=3D"67"=
+></td>=0A=09=09=09<td bgcolor=3D"#fdf5de" height=3D"41" style=3D"backgro=
+und-color:#fdf5de;text-align:left;" width=3D"494"><font style=3D"font-fa=
+mily:Arial, Verdana, sans-serif;color:#2f2f2f;font-size:17px;font-weight=
+:bold;">Bonjour wertyuiop,</font></td>=0A=09=09=09<td bgcolor=3D"#fff" h=
+eight=3D"41" style=3D"background-color:#fff;text-align:center;" width=3D=
+"14"></td>=0A=09=09</tr></tbody></table><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"590"><tbody><tr><td bgcolor=3D"#fff" h=
+eight=3D"74" style=3D"background-color:#fff;text-align:center;" width=3D=
+"15"></td>=0A=09=09=09<td bgcolor=3D"#fdf5de" height=3D"74" style=3D"bac=
+kground-color:#fdf5de;text-align:left; padding-left:40px;" width=3D"561"=
+><font style=3D"font-family:Arial, Verdana, sans-serif;color:#2f2f2f;fon=
+t-size:17px;"><b>Vous avez =C3=A9t=C3=A9 choisi</b> parmis nos panellist=
+es pour r=C3=A9pondre =C3=A0<br>=0A=09=09=09l=E2=80=99enqu=C3=AAte du mo=
+ment.<b>Donnez-nous votre avis en y r=C3=A9pondant !</b> </font></td>=0A=
+=09=09=09<td bgcolor=3D"#fff" height=3D"74" style=3D"background-color:#f=
+ff;text-align:center;" width=3D"14"></td>=0A=09=09</tr></tbody></table><=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"590"><tb=
+ody><tr><td bgcolor=3D"#fff" height=3D"86" style=3D"background-color:#ff=
+f;text-align:center;" width=3D"15"></td>=0A=09=09=09<td bgcolor=3D"#fdf5=
+de" height=3D"86" style=3D"background-color:#fdf5de;text-align:center;"=
+ width=3D"561"><a data-id=3D"952081589" href=3D"http://track.etselonvous=
+.com/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lboit1lqobwol7fgm1gnz4nc7a5hi713qg=
+xu9h8xkk816rxt503akxrjwugf5enjlyu3uqu0nhwculkddekdxnkgayodg7q7auha3rhjvq=
+weyy96psgfim109sqxmb3zbd1qbxd6xgpp6bnvevsoxsd6k46gaxx3mciiqf61s1c7sycjml=
+6otkbh7idfzketxgrfh1kymaco2kj24wuelr17ayntib62rcz0l79m15duopfn1nw7td383l=
+zqrt10602q6sincqbaf9tf9o&amp;xi=3Drob.stradling@comodo.com&amp;email=3Dr=
+ob.stradling@comodo.com&amp;last_name=3Dwertyuiop&amp;first_name=3Dwerty=
+uiop&amp;zipcode=3D77210" style=3D"font-family:Arial, Verdana, sans-seri=
+f;color:#23b7e4;font-size:16px; font-weight:bold;text-decoration:none;">=
+<font style=3D"font-size:20px; font-family: Arial Rounded MT bold, Arial=
+, sans-serif;">Quel ordinateur souhaiteriez-vous remporter ?</font><br><=
+br><input checked name=3D"reponse" type=3D"radio" value=3D"1"> HP Pavill=
+on portable =C2=A0=C2=A0=C2=A0 <input name=3D"reponse" type=3D"radio" va=
+lue=3D"2"> HP Omen bureau </a></td>=0A=09=09=09<td bgcolor=3D"#fff" heig=
+ht=3D"86" style=3D"background-color:#fff;text-align:center;" width=3D"14=
+"></td>=0A=09=09</tr></tbody></table><table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"590"><tbody><tr><td bgcolor=3D"#fff" heigh=
+t=3D"185" style=3D"background-color:#fff;text-align:center;" width=3D"15=
+"></td>=0A=09=09=09<td bgcolor=3D"#fdf5de" height=3D"185" style=3D"backg=
+round-color:#fdf5de;text-align:center;" width=3D"29"></td>=0A=09=09=09<t=
+d bgcolor=3D"#fff" style=3D"background-color:#fff;text-align:center;"><a=
+ data-id=3D"952081590" href=3D"http://track.etselonvous.com/?xtl=3D46kdi=
+03sm9cf0siz4ug46b3sh3lbokj3s7fxw4ud35hbpnkp78lkyokqwzeh7rurtnnhal6gaep8n=
+mnxwft83zgdcomx0h0knvcv2voh3mh6vlcco2fkekys2sfuxqfqsy1gpuhs6q0ekkgy0ecat=
+fl910x3ehu7emt93m2q95tq7ky1k7m96mamw1yvdj993nkaj94naaikaoisdf01l2vk8vx54=
+0l2ez0s7w83nnkemkmiwpkj34zvmklqupw8rxwz3fb7me4mby5ofnegxrkp4ywwju9e07o2i=
+xwu4v1i&amp;xi=3Drob.stradling@comodo.com&amp;email=3Drob.stradling@como=
+do.com&amp;last_name=3Dwertyuiop&amp;first_name=3Dwertyuiop&amp;zipcode=
+=3D77210"><img alt=3D"Pour visualiser ce visuel, vous devez activer les=
+ images de ce mail" border=3D"0" height=3D"185" id=3D"imgFID" src=3D"htt=
+p://assets.andyouropinion.fr/SURVEYS/FID/NEW/HP/2017-03-06/images/Visuel=
+.jpg" style=3D"display:block;" width=3D"504"></a></td>=0A=09=09=09<td bg=
+color=3D"#fdf5de" height=3D"185" style=3D"background-color:#fdf5de;text-=
+align:center;" width=3D"28"></td>=0A=09=09=09<td bgcolor=3D"#fff" height=
+=3D"185" style=3D"background-color:#fff;text-align:center;" width=3D"14"=
+></td>=0A=09=09</tr></tbody></table><table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"590"><tbody><tr><td bgcolor=3D"#fff" height=
+=3D"19" style=3D"background-color:#fff;text-align:center;" width=3D"15">=
+</td>=0A=09=09=09<td bgcolor=3D"#fdf5de" height=3D"19" style=3D"backgrou=
+nd-color:#fdf5de;text-align:center;" width=3D"561"></td>=0A=09=09=09<td=
+ bgcolor=3D"#fff" height=3D"19" style=3D"background-color:#fff;text-alig=
+n:center;" width=3D"14"></td>=0A=09=09</tr></tbody></table><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"590"><tbody><tr><td=
+ bgcolor=3D"#fff" height=3D"57" style=3D"background-color:#fff;text-alig=
+n:center;" width=3D"15"></td>=0A=09=09=09<td bgcolor=3D"#fdf5de" height=
+=3D"57" style=3D"background-color:#fdf5de;text-align:center;" width=3D"1=
+04"></td>=0A=09=09=09<td bgcolor=3D"#28b7e5" height=3D"57" style=3D"back=
+ground-color:#28b7e5;border-radius:5px; border:1px solid #318bbf;box-sha=
+dow:inset 1px 1px 2px #77deff; text-align:center;" width=3D"355"><a data=
+-id=3D"952081591" href=3D"http://track.etselonvous.com/?xtl=3D46kdi03sm9=
+cf0siz4ug46b3sh3lbp1p4j1mtvi2mottoio9y2de92g0y486hfoclc0af5j79e3xsuhaxbb=
+pjouvd4cxvvyvu5356wo6c7fkw57i4bmln95qacbkun5vp1mwm694m3xa533ek0x7ix2zekp=
+sswomffqozf6k36d68lwyz57yq5czlulkoyk3b0yto4me0ysuk6pmkfce76nrjaxwre833yz=
+c7aep7bxf033yq3w97gdqprhv2pc59xj44s520e979h0ekvrtbvtt988l5eyp342jd3uncd8=
+fo&amp;xi=3Drob.stradling@comodo.com&amp;email=3Drob.stradling@comodo.co=
+m&amp;last_name=3Dwertyuiop&amp;first_name=3Dwertyuiop&amp;zipcode=3D772=
+10" style=3D"font-family:Arial, Verdana, sans-serif;color:#fff;font-size=
+:21px; font-weight:bold;text-shadow:1px 0px 1px #1a6e6c; letter-spacing:=
+1px;text-decoration:none;"><font>Je r=C3=A9ponds =C3=A0 cette enqu=C3=AA=
+te</font> </a></td>=0A=09=09=09<td bgcolor=3D"#fdf5de" height=3D"57" sty=
+le=3D"background-color:#fdf5de;text-align:center;" width=3D"102"></td>=
+=0A=09=09=09<td bgcolor=3D"#fff" height=3D"57" style=3D"background-color=
+:#fff;text-align:center;" width=3D"14"></td>=0A=09=09</tr></tbody></tabl=
+e><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"590">=
+<tbody><tr><td bgcolor=3D"#fff" height=3D"100" style=3D"background-color=
+:#fff;text-align:center;" width=3D"15"></td>=0A=09=09=09<td bgcolor=3D"#=
+fdf5de" height=3D"100" style=3D"background-color:#fdf5de;text-align:just=
+ify; padding:0 40px;" width=3D"561"><font style=3D"font-family:Arial, Ve=
+rdana, sans-serif;color:#2f2f2f;font-size:16px;">Toujours le m=C3=AAme p=
+rincipe, <b style=3D"color:#23b7e4;">GAGNEZ</b> des points et =C3=A9chan=
+gez les contre des <b style=3D"color:#23b7e4;">CADEAUX</b> mais surtout=
+ r=C3=A9pondre =C3=A0 nos enqu=C3=AAtes vous offre la possibilit=C3=A9 d=
+e <b style=3D"color:#23b7e4;">remporter des lots exceptionnel !</b> </fo=
+nt></td>=0A=09=09=09<td bgcolor=3D"#fff" height=3D"100" style=3D"backgro=
+und-color:#fff;text-align:center;" width=3D"14"></td>=0A=09=09</tr></tbo=
+dy></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"590"><tbody><tr><td bgcolor=3D"#fff" height=3D"67" style=3D"backgrou=
+nd-color:#fff;text-align:center;" width=3D"15"></td>=0A=09=09=09<td bgco=
+lor=3D"#fff" style=3D"background-color:#fff;text-align:center;"><a data-=
+id=3D"952081592" href=3D"http://track.etselonvous.com/?xtl=3D46kdi03sm9c=
+f0siz4ug46b3sh3lbp3f6pgdpvzxfxf30rowgkmwvvn2fzewir9lvkc1cyh7ahqfact1xgxm=
+yxp8cv4iu2q21kyvg250xop1jcs1v2v4zbo6jql3u0i9nxl2bklp40fnt78dm0pb4anoohcn=
+fnf3rgu82v3fe4oh3d6z8o7kv56zatkm5tkk4jillnorbw84japbshawopwnj4zvcsr74sar=
+l60uo3hz7h8jhycvuyq57we2c92cme8zxesqg9cm90rsw9v6wtv05nhpczcsq7kvrmr2lpkx=
+u&amp;xi=3Drob.stradling@comodo.com&amp;email=3Drob.stradling@comodo.com=
+&amp;last_name=3Dwertyuiop&amp;first_name=3Dwertyuiop&amp;zipcode=3D7721=
+0" style=3D"font-family:Arial, Verdana, sans-serif;color:#2f2f2f;font-si=
+ze:16px; text-decoration:none;"><img alt=3D"L'=C3=A9quipe =C2=A0 &SelonV=
+ous.com" border=3D"0" src=3D"http://assets.andyouropinion.fr/SURVEYS/FID=
+/Base_2017/images/img_41.jpg" style=3D"display:block;"></a></td>=0A=09=
+=09=09<td bgcolor=3D"#fff" style=3D"background-color:#fff;text-align:cen=
+ter;"><a data-id=3D"952081593" href=3D"http://track.etselonvous.com/?xtl=
+=3D46kdi03sm9cf0siz4ug46b3sh3lbp697ga89vr5oh4azkoi3ffofle517okj17847rqa3=
+f83kc1ik2qxlt7ng7jbjv7sx5wxe5ktvjgssi5nna6jrdm05ul6388tcylm6zx5dbxjk0kfn=
+pby066odw0if37639i1hy3t90bt1kvkuezfv8ma4yzpsixkolewh7uyuq3qtlcj6q3kjyotw=
+f7iwbv14yn5mb5cz8zsu5trzq9p5iffq0i1bayq4rnnkw734ddzd7p85g45lyhrrwv1rtenu=
+gvbng53tng80ap4&amp;xi=3Drob.stradling@comodo.com&amp;email=3Drob.stradl=
+ing@comodo.com&amp;last_name=3Dwertyuiop&amp;first_name=3Dwertyuiop&amp;=
+zipcode=3D77210" style=3D"font-family:Arial, Verdana, sans-serif;color:#=
+23b7e4;font-size:16px;"><img alt=3D" &gt; Gagnez 50 points" border=3D"0"=
+ src=3D"http://assets.andyouropinion.fr/SURVEYS/FID/Base_2017/images/img=
+_42.jpg" style=3D"display:block;"></a></td>=0A=09=09=09<td bgcolor=3D"#f=
+ff" height=3D"67" style=3D"background-color:#fff;text-align:center;" wid=
+th=3D"14"></td>=0A=09=09</tr></tbody></table><table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"590"><tbody><tr><td bgcolor=3D"#ff=
+f" style=3D"background-color:#fff;text-align:center;"><a data-id=3D"9520=
+81594" href=3D"http://track.etselonvous.com/?xtl=3D46kdi03sm9cf0siz4ug46=
+b3sh3lbp8b9ntb5v6ai4smntp7obo54s978cjojz4sas4dxwd8v21m55zdy4p4132ybnjur3=
+j35xbp51canxr8aiionelroxbdqdtptspb8do3xwrgdh8y5ruzjlkzwgebscs2ugcazibkhk=
+jx5lw8fmqaqc8yf42z2rgjd80z0eu19brd3rdoiaquslw4ye23i0dunefr64bhu4sewirnzr=
+vwgb3445zyhgx61ldip4hcwt34t8as7n8ddbcwmpy1jv46ipkz0rbcda8xszq5m&amp;xi=
+=3Drob.stradling@comodo.com&amp;email=3Drob.stradling@comodo.com&amp;las=
+t_name=3Dwertyuiop&amp;first_name=3Dwertyuiop&amp;zipcode=3D77210"><img=
+ alt=3D"" border=3D"0" src=3D"http://assets.andyouropinion.fr/SURVEYS/FI=
+D/Base_2017/images/img_44.jpg" style=3D"display:block;"></a></td>=0A=09=
+=09</tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"590"><tbody><tr><td bgcolor=3D"#fff" height=3D"45" styl=
+e=3D"background-color:#fff;text-align:center;" width=3D"208"><font style=
+=3D"font-family: Arial Rounded MT Bold, Arial, sans-serif; color:#af9d73=
+; font-size:13px;">DONNEZ VOTRE OPINION<br><font style=3D"font-size:12px=
+;">en r=C3=A9pondant aux enqu=C3=AAtes</font> </font></td>=0A=09=09=09<t=
+d bgcolor=3D"#fff" height=3D"45" style=3D"background-color:#fff;text-ali=
+gn:center;" width=3D"176"><font style=3D"font-family: Arial Rounded MT B=
+old, Arial, sans-serif; color:#af9d73; font-size:13px;">GAGNEZ DES POINT=
+S<br><font style=3D"font-size:12px;">1 enqu=C3=AAte =3D 50 points</font>=
+ </font></td>=0A=09=09=09<td bgcolor=3D"#fff" height=3D"45" style=3D"bac=
+kground-color:#fff;text-align:center;" width=3D"206"><font style=3D"font=
+-family: Arial Rounded MT Bold, Arial, sans-serif; color:#af9d73; font-s=
+ize:13px;">RECEVEZ DES CADEAUX<br><font style=3D"font-size:12px;">=C3=A9=
+changes & tirage au sort</font> </font></td>=0A=09=09</tr></tbody></tabl=
+e><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"590">=
+<tbody><tr><td bgcolor=3D"#ffffff" height=3D"123" style=3D"text-align:le=
+ft;background-color:#ffffff;" width=3D"590"><font color=3D"#292929" face=
+=3D"Arial, sans-serif" style=3D"font-size:9px;">HP n'est ni l'organisate=
+ur ni le sponsor de cette enqu=C3=AAte &Selon Vous<br>=0A=09=09=09Depuis=
+ 2005 l'institut de sondage &SelonVous publie chaque mois des enqu=C3=AA=
+tes th=C3=A9matiques ayant pour but l'=C3=A9tude de votre opinion et vos=
+ modes de consommation sur Internet. Dans le cadre de chaque nouveau son=
+dage une dotation a gagner est propos=C3=A9e a l'ensemble des r=C3=A9pon=
+dants car l'institut ne pourrait exister sans vous !<br><br>=0A=09=09=09=
+Ce Jeu gratuit et sans obligation d'achat est ouvert a toute personne ma=
+jeure residant en France m=C3=A9tropolitaine exclusivement (incluant la=
+ Corse), a l'exclusion des membres du personnel de l'Organisateur, et d'=
+une facon g=C3=A9n=C3=A9rale des soci=C3=A9t=C3=A9s participant a la mis=
+e en =C5=93uvre de ce Jeu.<br><br>=0A=09=09=09Les informations nominativ=
+es recueillies dans le cadre du pr=C3=A9sent jeu sont trait=C3=A9es conf=
+ormement a la loi du 6 janvier 1978, dite =C2=ABInformatique et Libert=
+=C3=A9=C2=BB (modifi=C3=A9e par la loi du 6 aout 2004) relative a la pro=
+tection des personnes physiques a l'=C3=A9gard des traitements de donn=
+=C3=A9es =C3=A0 caract=C3=A8e personnel. Les participants sont inform=C3=
+=A9s que les donn=C3=A9es nominatives les concernant enregistr=C3=A9es d=
+ans le cadre du jeu sont n=C3=A9cessaires a la prise en compte de leur p=
+articipation. Tout participant au jeu, dispose, en application de l'arti=
+cle 27 de cette loi, d'un droit d'acc=C3=A9s et de rectification aux don=
+n=C3=A9es les concernant. </font></td>=0A=09=09</tr></tbody></table></di=
+v>=0A<!-- FIN Mail Desktop --><!-- D&eacute;but Mail Smartphone -->=0A=
+=0A<div border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"Small" wi=
+dth=3D"100%">=0A<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"320"><tbody><tr><td bgcolor=3D"#fff" height=3D"19" style=3D"ba=
+ckground-color:#fff;text-align:center;" width=3D"257"></td>=0A=09=09=09<=
+td bgcolor=3D"#ceb680" style=3D"background-color:#ceb680;text-align:cent=
+er;"><a data-id=3D"952081595" href=3D"http://track.etselonvous.com/?xtl=
+=3D46kdi03sm9cf0siz4ug46b3sh3lbpn5men61uk8rpdhl0puxwgjqic9smtck91b8ag4v1=
+b8k5oupp94y990cnjnacnfpyaxbr8devvu6bko2u4tc67wb1ivzrcut64r7o0y1p63xes9tv=
+zy9ld4ek1q0zejhy7t9jfgmagsgj5ja20alj8kk3uydqf9w31tsbeviitqepuki6qil1tidl=
+mlhsftyt0v6kcx9xajbmb5h7aio89qqjmpbltbbh4tqn7m1fqtmc5v6szrprg95nzwfycxt9=
+2cnvxorh5obm3j8&amp;xi=3Drob.stradling@comodo.com&amp;email=3Drob.stradl=
+ing@comodo.com&amp;last_name=3Dwertyuiop&amp;first_name=3Dwertyuiop&amp;=
+zipcode=3D77210" style=3D"font-family:Arial, Verdana, sans-serif;color:#=
+fff;font-size:12px; text-decoration:none;"><img alt=3D"50 pts" border=3D=
+"0" height=3D"19" src=3D"http://assets.andyouropinion.fr/SURVEYS/FID/Bas=
+e_2017/images-SMALL/img_02.jpg" style=3D"display:block;" width=3D"63"></=
+a></td>=0A=09=09</tr></tbody></table><table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"320"><tbody><tr><td bgcolor=3D"#23b7e4" he=
+ight=3D"29" style=3D"background-color:#23b7e4;text-align:center;" width=
+=3D"257"><a data-id=3D"952081596" href=3D"http://track.etselonvous.com/?=
+xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbba8bfmveo6leuroj3kpsjfkm6lrx7wy132lwb1=
+tcbzp8i43hd8hmkwop33yzuz7itepidogwvmtvytqdfnep1qxyi7nu1jd1n7zlhjfixgchb4=
+8csb6ijc7bnjudmhsqt44zvqybb2aiefx7zna5oko5mp304ojsjnpl0kf6uh6h344p8s88gm=
+72y8b2yfjwekhqcog6agfjsrj7uwkl61sgym22e14qocfo9vdc2fmp2uwhecd7qtjxrp33k0=
+mkvdst5oiced2o4rtb&amp;xi=3Drob.stradling@comodo.com&amp;email=3Drob.str=
+adling@comodo.com&amp;last_name=3Dwertyuiop&amp;first_name=3Dwertyuiop&a=
+mp;zipcode=3D77210" style=3D"font-family:Arial, Verdana, sans-serif;colo=
+r:#fff;font-size:13px; letter-spacing:0.5px;text-decoration:none;"><font=
+><b>NOUVELLE ENQU=C3=8ATE</b><i> EXCLUSIVE !</i></font> </a></td>=0A=09=
+=09=09<td bgcolor=3D"#ceb680" style=3D"background-color:#ceb680;text-ali=
+gn:center;"><a data-id=3D"952081597" href=3D"http://track.etselonvous.co=
+m/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbbcadm40ankvndckwykabfocwzsted501b08=
+4jcga6xpzlro3kg8n3s92nknyj1uh0viswi9813nqd0u5qvjdqycloq3cc6i10kpksyooqwl=
+byni2wg58juajr67n88nd8wj9wuu4qlwxcrm2qjacvkam9f2b3n99eo8qk9nfbigw0hcocsy=
+ci7l7ftx22hiht5lrwpvk62l1gbdrmcmsb7d5pieiija283qprhn7r4z6vlzgk5qf4xyspqy=
+01ybvqhve98uqlzfwd59d&amp;xi=3Drob.stradling@comodo.com&amp;email=3Drob.=
+stradling@comodo.com&amp;last_name=3Dwertyuiop&amp;first_name=3Dwertyuio=
+p&amp;zipcode=3D77210" style=3D"font-family:Arial, Verdana, sans-serif;c=
+olor:#fff;font-size:9px; text-decoration:none;"><img alt=3D"OFFERTS" bor=
+der=3D"0" height=3D"29" src=3D"http://assets.andyouropinion.fr/SURVEYS/F=
+ID/Base_2017/images-SMALL/img_04.jpg" style=3D"display:block;" width=3D"=
+63"></a></td>=0A=09=09</tr></tbody></table><table border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"320"><tbody><tr><td bgcolor=3D"#fdf5=
+de" style=3D"background-color:#fdf5de;text-align:center;"><img alt=3D""=
+ height=3D"20" src=3D"http://assets.andyouropinion.fr/SURVEYS/FID/Base_2=
+017/images-SMALL/img_05.jpg" style=3D"display:block;" width=3D"320"></td=
+>=0A=09=09</tr></tbody></table><table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"320"><tbody><tr><td bgcolor=3D"#fdf5de" style=3D=
+"background-color:#fdf5de;text-align:center;"><img alt=3D"" height=3D"26=
+" src=3D"http://assets.andyouropinion.fr/SURVEYS/FID/Base_2017/images-SM=
+ALL/img_06.jpg" style=3D"display:block;" width=3D"40"></td>=0A=09=09=09<=
+td bgcolor=3D"#fdf5de" height=3D"26" style=3D"background-color:#fdf5de;t=
+ext-align:left;" width=3D"280"><font style=3D"font-family:Arial, Verdana=
+, sans-serif;color:#2f2f2f;font-size:14px;font-weight:bold;">Bonjour wer=
+tyuiop,</font></td>=0A=09=09</tr></tbody></table><table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"320"><tbody><tr><td bgcolor=3D=
+"#fdf5de" height=3D"53" style=3D"background-color:#fdf5de;text-align:lef=
+t; padding-left:20px;" width=3D"320"><font style=3D"font-family:Arial, V=
+erdana, sans-serif;color:#2f2f2f;font-size:14px;"><b>Vous avez =C3=A9t=
+=C3=A9 choisi</b> parmis nos panellistes<br>=0A=09=09=09pour <b>r=C3=A9p=
+ondre =C3=A0 l=E2=80=99enqu=C3=AAte du moment !</b> </font></td>=0A=09=
+=09</tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"320"><tbody><tr><td bgcolor=3D"#fdf5de" height=3D"40" s=
+tyle=3D"background-color:#fdf5de;text-align:center;" width=3D"320"><a da=
+ta-id=3D"952081598" href=3D"http://track.etselonvous.com/?xtl=3D46kdi03s=
+m9cf0siz4ug46b3sh3lbbf4ecjtwnc2h12w85klkahuh3jw0mbq2mjsb6s7xzvq32cwo6rxn=
+8o5dwf0ynrffvnr0qrzhui59hvxule35dginewhlqs10cb3j1mge7n8vvvvqal3wjn65uqhh=
+5x7401bhxypv4isma0kj6vbncl0r992q29x2zp2ghvgsiku8kzoo8t18k5dp0ct1uji65p3s=
+qq9bzn468lxz2hxk8q1s5vvd1g7c3rlqy6gads001scg3w2qgbnnns4i59449lz3p4436wwf=
+ph1v&amp;xi=3Drob.stradling@comodo.com&amp;email=3Drob.stradling@comodo.=
+com&amp;last_name=3Dwertyuiop&amp;first_name=3Dwertyuiop&amp;zipcode=3D7=
+7210" style=3D"font-family: Arial Rounded MT bold, Arial, sans-serif;col=
+or:#23b7e4;font-size:16px; font-weight:bold;text-decoration:none;"><font=
+>Quel ordinateur souhaiteriez-vous remporter ?</font> </a></td>=0A=09=09=
+</tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"320"><tbody><tr><td bgcolor=3D"#fdf5de" height=3D"80" st=
+yle=3D"background-color:#fdf5de;text-align:left; padding-left:70px;" wid=
+th=3D"320"><a data-id=3D"952081599" href=3D"http://track.etselonvous.com=
+/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbbhwg7cksntyqmq5haln7wqn5wqy7g9e2igb9=
+r5wv4tqu61ewq0knp82sfzbxbg4e22jw7l2v0al502aix08w531a8da82b60srfhxlp801tp=
+sd6cf41ij3zpxzwr2k2sduutyc8jgfnlxyzdk5bijlow8b2317ihupjmegp4405jiqknctrd=
+03vu7lp0klhsfw7t8qlt4v9mz9rgh0jrdwncj6mx6cdpkewreuq63dofujff8kc0wf069tze=
+8hub53cqslbdpto20wf1&amp;xi=3Drob.stradling@comodo.com&amp;email=3Drob.s=
+tradling@comodo.com&amp;last_name=3Dwertyuiop&amp;first_name=3Dwertyuiop=
+&amp;zipcode=3D77210" style=3D"font-family:Arial Rounded MT bold, Arial,=
+ sans-serif;color:#23b7e4;font-size:12px;text-decoration:none;"><font><i=
+nput checked name=3D"reponse" type=3D"radio" value=3D"1"> HP Pavillon po=
+rtable<br><input name=3D"reponse" type=3D"radio" value=3D"2"> HP Omen bu=
+reau</font></a></td>=0A=09=09</tr></tbody></table><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"320"><tbody><tr><td bgcolor=
+=3D"#fdf5de" height=3D"112" style=3D"background-color:#fdf5de;text-align=
+:center;" width=3D"8"></td>=0A=09=09=09<td bgcolor=3D"#fff" style=3D"bac=
+kground-color:#fff;text-align:center;"><a data-id=3D"952081600" href=3D"=
+http://track.etselonvous.com/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbbk0hawro=
+n95jvbdv7lysrj3s0harpg63udjfzgjsxrqj9p0exynnu3l62uqx48rcwgs41ut6utf04xem=
+68pkun70akssckn066vg6zhzedc7pkg2j908ii4xai8l0mjfuln3zg4owc7av8oybdcu4lab=
+851e068apqdcc4hdn1fyg6wn8tg921nzr890r1gdtdnu2rb8xdqr1vm2z68jmcy1af1rnzn1=
+g55skfjzs2bz0qieqppymib17v6aotjm07fbwhnrwq3mzmxj&amp;xi=3Drob.stradling@=
+comodo.com&amp;email=3Drob.stradling@comodo.com&amp;last_name=3Dwertyuio=
+p&amp;first_name=3Dwertyuiop&amp;zipcode=3D77210"><img alt=3D"Pour visua=
+liser ce visuel, vous devez activer les images de ce mail " border=3D"0"=
+ id=3D"imgFID" src=3D"http://assets.andyouropinion.fr/SURVEYS/FID/NEW/HP=
+/2017-03-06/images/Visuel.jpg" style=3D"display:block;"></a></td>=0A=09=
+=09=09<td bgcolor=3D"#fdf5de" height=3D"112" style=3D"background-color:#=
+fdf5de;text-align:center;" width=3D"7"></td>=0A=09=09</tr></tbody></tabl=
+e><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"320">=
+<tbody><tr><td bgcolor=3D"#fdf5de" height=3D"13" style=3D"background-col=
+or:#fdf5de;text-align:center;" width=3D"320"></td>=0A=09=09</tr></tbody>=
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"320"><tbody><tr><td bgcolor=3D"#fdf5de" height=3D"44" style=3D"backgrou=
+nd-color:#fdf5de;text-align:center;" width=3D"26"></td>=0A=09=09=09<td h=
+eight=3D"44" style=3D"background-color:#28b7e5;border-radius:5px; border=
+:1px solid #318bbf;box-shadow:inset 1px 1px 2px #77deff; text-align:cent=
+er;" width=3D"268"><a data-id=3D"952081601" href=3D"http://track.etselon=
+vous.com/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbc0sj5pi8n0bsf1p6cljbnrhctocy=
+jqw44b6piwmq2prooa90f7anylhhnp3wuycb3xkzh1hg0myh94hzdsvohvop558br7rlhj9e=
+doq3xtl1n6tr1pkwiaxfe4jujzf6ms3bajldmz3psg1ttpd3o00g7x1sl4wt8ry6zrqqu3tn=
+dk6mcu8d3l3eyt4lh3g25kruisr02lvvrf4mrnwqfiiosre9svgbbtcu55t4eq2sthldve18=
+10pi5wbws4nghnj0acj3dmgvm0p9&amp;xi=3Drob.stradling@comodo.com&amp;email=
+=3Drob.stradling@comodo.com&amp;last_name=3Dwertyuiop&amp;first_name=3Dw=
+ertyuiop&amp;zipcode=3D77210" style=3D"font-family:Arial, Verdana, sans-=
+serif;color:#fff;font-size:16px; font-weight:bold;text-shadow:1px 0px 1p=
+x #1a6e6c; letter-spacing:1px;text-decoration:none;"><font>Je r=C3=A9pon=
+ds =C3=A0 cette enqu=C3=AAte</font> </a></td>=0A=09=09=09<td bgcolor=3D"=
+#fdf5de" height=3D"44" style=3D"background-color:#fdf5de;text-align:cent=
+er;" width=3D"26"></td>=0A=09=09</tr></tbody></table><table border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"320"><tbody><tr><td bgcolo=
+r=3D"#fdf5de" height=3D"94" style=3D"background-color:#fdf5de;text-align=
+:justify; padding:0 20px;" width=3D"320"><font style=3D"font-family:Aria=
+l, Verdana, sans-serif;color:#2f2f2f;font-size:12px;">Toujours le m=C3=
+=AAme principe, <b style=3D"color:#23b7e4;">GAGNEZ</b> des points et =C3=
+=A9changez les contre des <b style=3D"color:#23b7e4;">CADEAUX</b> mais s=
+urtout r=C3=A9pondre =C3=A0 nos enqu=C3=AAtes vous offre la possibilit=
+=C3=A9 de <b style=3D"color:#23b7e4;">remporter des lots exceptionnel !<=
+/b> </font></td>=0A=09=09</tr></tbody></table><table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"320"><tbody><tr><td bgcolor=3D"#f=
+df5de" style=3D"background-color:#fdf5de;text-align:center;"><a data-id=
+=3D"952081602" href=3D"http://track.etselonvous.com/?xtl=3D46kdi03sm9cf0=
+siz4ug46b3sh3lbc2iky7p4me902okgm08k6ka0jfegskk4cyqk59znvnrdrlt90f1ndheww=
+7evj11zypt7axmtu3scpzl1oaad8dtbxo0k3swlxzldo0ivq87h8q4d5uiiit31hpy2h0av1=
+iinc1h60vl2qrco8ldav0ol7115k2im3ssywbj1b550bbem8uz95ihjfc0ln5fog5vvct4dw=
+7azg2ku7ship36z82v3xsqpwgnvnt0y4br9lp2cb6afd42d3y8svccrcs0neyudk7xdic53&=
+amp;xi=3Drob.stradling@comodo.com&amp;email=3Drob.stradling@comodo.com&a=
+mp;last_name=3Dwertyuiop&amp;first_name=3Dwertyuiop&amp;zipcode=3D77210"=
+ style=3D"font-family:Arial, Verdana, sans-serif;color:#2f2f2f;font-size=
+:14px; text-decoration:none;"><img alt=3D"L'=C3=A9quipe =C2=A0 &SelonVou=
+s.com" height=3D"50" src=3D"http://assets.andyouropinion.fr/SURVEYS/FID/=
+Base_2017/images-SMALL/img_18.jpg" style=3D"display:block;" width=3D"172=
+"></a></td>=0A=09=09=09<td bgcolor=3D"#fdf5de" style=3D"background-color=
+:#fdf5de;text-align:center;"><a data-id=3D"952081603" href=3D"http://tra=
+ck.etselonvous.com/?xtl=3D46kdi03sm9cf0siz4ug46b3sh3lbc5p030g0mvevnawtf0=
+w72tsnqmh20vo5ovzupl0909s6vmbt8qqnidb9f2tvnroy54ldu4b4limxu72qjig5xlz21u=
+f6dbblnqbbibql6ksb5xe39zh8i9w9kymyepvhfpajd5cwcsgdo1r70xe9c0b46t0gj182kt=
+n2u0rai6ebztq9cv1d7ga30kikd7ezuozwwtgv1rfe8oebly7pi9sjlb9jcok1s6iwtew3t0=
+e3sg5bgxort7dy1zdozp50xw3yiu4s54p0vrjl&amp;xi=3Drob.stradling@comodo.com=
+&amp;email=3Drob.stradling@comodo.com&amp;last_name=3Dwertyuiop&amp;firs=
+t_name=3Dwertyuiop&amp;zipcode=3D77210" style=3D"font-family:Arial, Verd=
+ana, sans-serif;color:#23b7e4;font-size:15px;"><img alt=3D" &gt; Gagnez=
+ 50 points " border=3D"0" height=3D"50" src=3D"http://assets.andyouropin=
+ion.fr/SURVEYS/FID/Base_2017/images-SMALL/img_19.jpg" style=3D"display:b=
+lock;" width=3D"148"></a></td>=0A=09=09</tr></tbody></table><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"320"><tbody><tr><td=
+ bgcolor=3D"#fdf5de" height=3D"9" style=3D"background-color:#fdf5de;text=
+-align:center;" width=3D"320"></td>=0A=09=09</tr></tbody></table><table=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"320"><tbody><=
+tr><td bgcolor=3D"#fff6de" height=3D"123" style=3D"text-align:left;backg=
+round-color:#fff6de;" width=3D"320"><font color=3D"#292929" face=3D"Aria=
+l, sans-serif" style=3D"font-size:9px;">HP n'est ni l'organisateur ni le=
+ sponsor de cette enqu=C3=AAte &Selon Vous<br>=0A=09=09=09Depuis 2005 l'=
+institut de sondage &SelonVous publie chaque mois des enqu=C3=AAtes th=
+=C3=A9matiques ayant pour but l'=C3=A9tude de votre opinion et vos modes=
+ de consommation sur Internet. Dans le cadre de chaque nouveau sondage u=
+ne dotation a gagner est propos=C3=A9e a l'ensemble des r=C3=A9pondants=
+ car l'institut ne pourrait exister sans vous !<br><br>=0A=09=09=09Ce Je=
+u gratuit et sans obligation d'achat est ouvert a toute personne majeure=
+ residant en France m=C3=A9tropolitaine exclusivement (incluant la Corse=
+), a l'exclusion des membres du personnel de l'Organisateur, et d'une fa=
+con g=C3=A9n=C3=A9rale des soci=C3=A9t=C3=A9s participant a la mise en=
+ =C5=93uvre de ce Jeu.<br><br>=0A=09=09=09Les informations nominatives r=
+ecueillies dans le cadre du pr=C3=A9sent jeu sont trait=C3=A9es conforme=
+ment a la loi du 6 janvier 1978, dite =C2=ABInformatique et Libert=C3=A9=
+=C2=BB (modifi=C3=A9e par la loi du 6 aout 2004) relative a la protectio=
+n des personnes physiques a l'=C3=A9gard des traitements de donn=C3=A9es=
+ =C3=A0 caract=C3=A8e personnel. Les participants sont inform=C3=A9s que=
+ les donn=C3=A9es nominatives les concernant enregistr=C3=A9es dans le c=
+adre du jeu sont n=C3=A9cessaires a la prise en compte de leur participa=
+tion. Tout participant au jeu, dispose, en application de l'article 27 d=
+e cette loi, d'un droit d'acc=C3=A9s et de rectification aux donn=C3=A9e=
+s les concernant. </font></td>=0A=09=09</tr></tbody></table></div>=0A<im=
+g alt=3D"" border=3D"0" height=3D"1" src=3D"http://surveyus.andyouropini=
+on.fr/tracking/trackopen/11563/2367/0/spacer" width=3D"1"></center>=0A=
+=0A<div>=0A<table width=3D"100%"><tbody><tr><td align=3D"center">=0A<br>=
+<font face=3D"arial" size=3D"1" style=3D"color:#776d5f">Vous pouvez a to=
+ut moment acceder, faire rectifier ou supprimer les informations personn=
+elles vous concernant ou vous opposer a &SelonVous.<br>=0A=09=09=09Pour=
+ ne plus participer a nos enquetes &SelonVous, vous pouvez vous rendre s=
+ur cette <a data-id=3D"952081604" href=3D"http://track.etselonvous.com/?=
+xul=3D5m7zqx5xobfxzyni1ot3mjvpnje2k2exbskcxpav9viqq5utxwuzjjb6dvdiqxo1yq=
+swyo8luhdssapk&amp;xi=3Drob.stradling@comodo.com" style=3D"color:#776d5f=
+; outline:none; text-decoration: none;" target=3D"_blank"><u>page</u></a=
+></font>=0A</td>=0A=09=09</tr></tbody></table></div>=0A=0A=0A<img src=3D=
+"http://track.etselonvous.com/?xol=3D34d9d46xmqzwp54r0hwu&xi=3Drob.strad=
+ling@comodo.com" alt=3D"" width=3D"1" height=3D"1"></body></html>=0A
+
+--=_94eda02d7ad5d0a624703130b73c1d77--

@@ -1,0 +1,927 @@
+Received: from usloft2270.dedicatedpanel.com ([209.239.127.106] helo=usloft2270.startdedicated.com)
+	by mxsrv2.spamgateway.comodo.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <bounce@app2.mailzilla.com.ar>)
+	id 1dcJfJ-0007gg-Ob
+	for bilgi@bayraktarhukuk.com; Mon, 31 Jul 2017 23:00:00 +0000
+Received: by usloft2270.startdedicated.com (Postfix, from userid 10001)
+	id A243E23E71; Mon, 31 Jul 2017 22:54:43 +0000 (UTC)
+To: ---------- <abc@example.com>
+Subject: Trae tu usado, llevate uno nuevo!
+X-PHP-Originating-Script: 10001:SimpleMailInvoker.php
+DKIM-Signature: v=1; a=rsa-sha1; bh=1tERrbiOuRdNBVXH8QpPAMadSbE=;
+ d=tucorreodigital.org; h=Message-ID: Date: From: Reply-To: MIME-Version:
+ Content-Type: Precedence: List-Unsubscribe: List-Id: Feedback-ID;
+ i=@tucorreodigital.org; s=mailer; c=relaxed/relaxed; t=1501541683;
+ b=IX6FwA9HPRVMQPFSKW9tzfCRAZI+rG/5ylhcXUJQnk9qGUTlZyE4sIVddZWhz9FzEKH7y+rX4
+ wGLv+gXYbGT5R4pttnuF1vuZjsfJl3l8GpItkIPN8jPTWmYTTUxfypKPP5Zz0QKQ1d62qgJSa
+ Wz9+BgdN5U3uRjTR6UckzAIsg=
+Message-ID: <1eed2e7c34ef66ff696abe7064da058f@app2.mailzilla.com.ar>
+Date: Mon, 31 Jul 2017 22:54:43 +0000
+From: Procrecambio <envios@tucorreodigital.org>
+Reply-To: Procrecambio <envios@tucorreodigital.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1501541683_ef12e34fd6bd328393b2b32044a493de_=_"
+X-Sender: bounce@app2.mailzilla.com.ar
+X-Report-Abuse: Please report abuse for this campaign here:
+ http://tucorreodigital.org/index.php/campaigns/nt089xyv3m306/report-abuse/hl194ogrbb59e/am6883czj5c65
+X-Receiver: bilgi@bayraktarhukuk.com
+X-Mw-Tracking-Did: 1
+X-Mw-Subscriber-Uid: am6883czj5c65
+X-Mw-Mailer: SwiftMailer - 5.4.x
+X-Mw-EBS: http://tucorreodigital.org/index.php/lists/block-address
+X-Mw-Delivery-Sid: 19
+X-Mw-Customer-Uid: me604h29g4f79
+X-Mw-Customer-Gid: 1
+X-Mw-Campaign-Uid: nt089xyv3m306
+Precedence: bulk
+List-Unsubscribe: <http://tucorreodigital.org/index.php/lists/hl194ogrbb59e/unsubscribe/am6883czj5c65/nt089xyv3m306/unsubscribe-direct?source=email-client-unsubscribe-button>
+List-Id: hl194ogrbb59e <V2.92>
+Feedback-ID: nt089xyv3m306:am6883czj5c65:hl194ogrbb59e:me604h29g4f79
+X-Filter-Label: newsletter
+X-Qasd-Class: spam
+X-Qasd-Evidence: urlbl/url-02.rbl.spamrl.com tucorreodigital . org
+X-Recommended-Action: reject
+X-Filter-ID: PqwsvolAWURa0gwxuN3S5YEa3T7JuZT23fGO2rGt3Zgjy4bxzrnyNvWpZ4aEmFhpLWcSI1HKTaIe
+ gH+nZEBrGTOQ7P4fTVd0BNZBkGOdl0UoS0gIUpgKCNyuZIgfrMVP3CtHXECI6AlaenS1s4oBupYz
+ Obf7RZatbZhYg1bsNByLimLsJewaa2ND1HsXUmalIEYzoOkc//BPB/lidrDD0wAhIelysZofuzZ/
+ nNZVsZceXve973oYEUTCXXdcePfEWfeLSBuMu/AMzVHOMFQmXxfLFP7CmT09ogeFwuiGXe4wH3tT
+ HDqxsRowDcs9OnE15YE5enyccp7RH4WQio3uGUAWtrH6fF3YxSRVnxuuBQe5ZRZLesejT7ym+7HH
+ nrbtvJ/dxc27qdRUGMwhS52kfXDI+4eHsSX+bbBgfBzXsmq1fnrPPpUB1s6AVwRNomzDn78RO7di
+ 3dn/A2AIXp/cnxIwFo1PfDzQCw0IEYMY73u7giiv6WRwukEpzWx+spqvvIwXANSJAN0ckpwJtd16
+ YcBUouRLDBNXK9XoAFZCYrWuwJNkWp2BCtZYe6eT/VFR5PQSRTSC7xt/d1/bcbRrI24pV/hLCLtI
+ wPJ9XBizpkcgdG+rWdRyckhA1MDzcz9KuRk8fOW3IHshI1lPruUURGWKGriy2jKXLxwHpHQXY9k/
+ sjZjFO4ru8F8pGlIYQtfHnYPIh1tDSAs1XtbPyFk4HMcN6qoXPjenLhIOF1oeRYQBleNQSPx1fjo
+ ceIIKBW2UwKr7gxP0D2yGCCq3RD7JYUu9RUUo5sBcItSDR9jMqH6ZIOqV+Tn1tkApADApuEgGNJk
+ cdj5GzRHzCssZ2V7wbbxCdg0su66LhpL/khhwAfgyq0qsXTcazVaTAFeOgyZ0GouRcZrOe4J9pDX
+ D8mk4Q==
+X-Report-Abuse-To: spam@mxsrv1.spamgateway.comodo.com
+
+
+--_=_swift_v4_1501541683_ef12e34fd6bd328393b2b32044a493de_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+ 		=C2=A0
+
+ 		 http://www.plan-canje.org
+
+ Tra=C3=A9 tu usado, llevate uno Nuevo!
+ Continua=C2=A0Plan Automotor PRO-CRE-CAMBIO=20
+- Consigue por tu usado el valor REAL.
+ - Financiacion del 100% del valor restante.
+ - Hasta en 84 Cuotas
+ - Entrega pactada desde la COMPRA.
+ - Solo con tu DNI. Con PRO-CRE-CAMBIO, la posibilidad de cambiar de
+auto,
+ ahora es real.=20
+
+ 		=C2=A0
+
+ 		=C2=A1Quiero conocer todo sobre PRO-CRE-CAMBIO!
+http://www.pro-cre-cambio.org/?source=3Dhtml
+
+ ---------------------------
+ legales:
+ ---------------------------
+ Este mensaje puede contener informacion confidencial, privilegiada
+o=C2=A0
+ datos de caracter personal.=C2=A0
+ Si usted no es el destinatario indicado o el responsable de su
+entrega,
+ no revele, copie, distribuya o use este mensaje.=C2=A0
+ Por favor comunique su recepcion y eliminelo. No hay renuncia a la=C2=A0
+ confidencialidad por transmision erronea o mal funcionamiento del=C2=A0
+ sistema. Los correos electronicos no son seguros, no garantizan la=C2=A0
+ onfidencialidad de su contenido ni su correcta y completa recepcion=C2=A0
+ ya que pueden ser interceptados, manipulados, destruidos, llegar=C2=A0
+ retrasados o incompletos.
+ El remitente declina cualquier responsabilidad por las alteraciones
+que=C2=A0
+ pudieran hacerse del mensaje una vez enviado.
+ http://tucorreodigital.org/index.php/lists/hl194ogrbb59e/unsubscribe/am68=
+83czj5c65/nt089xyv3m306
+ =C2=A0=20
+
+=20
+
+--_=_swift_v4_1501541683_ef12e34fd6bd328393b2b32044a493de_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:schemas-micro=
+soft-com:office:office" xmlns:v=3D"urn:schemas-microsoft-com:vml">
+<head><meta charset=3D"UTF-8"><meta http-equiv=3D"X-UA-Compatible" cont=
+ent=3D"IE=3Dedge"><meta name=3D"viewport" content=3D"width=3Ddevice-width,=
+ initial-scale=3D1"><meta name=3D"charset" content=3D"utf-8">
+	<style type=3D"text/css">p{
+			margin:10px 0;
+			padding:0;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			padding:0;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=3Dtel],a[href^=3Dsms]{
+			color:inherit;
+			cursor:default;
+			text-decoration:none;
+		}
+		p,a,li,td,body,table,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.Ext=
+ernalClass span,.ExternalClass font{
+			line-height:100%;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+		#bodyCell{
+			padding:10px;
+		}
+		.templateContainer{
+			max-width:600px !important;
+		}
+		a.mcnButton{
+			display:block;
+		}
+		.mcnImage{
+			vertical-align:bottom;
+		}
+		.mcnTextContent{
+			word-break:break-word;
+		}
+		.mcnTextContent img{
+			height:auto !important;
+		}
+		.mcnDividerBlock{
+			table-layout:fixed !important;
+		}
+	/*
+	@tab Page
+	@section Background Style
+	@tip Set the background color and top border for your email. You may want =
+to choose colors that match your company's branding.
+	*/
+		body,#bodyTable{
+			/*@editable*/background-color:#FAFAFA;
+		}
+	/*
+	@tab Page
+	@section Background Style
+	@tip Set the background color and top border for your email. You may want=
+ to choose colors that match your company's branding.
+	*/
+		#bodyCell{
+			/*@editable*/border-top:0;
+		}
+	/*
+	@tab Page
+	@section Email Border
+	@tip Set the border for your email.
+	*/
+		.templateContainer{
+			/*@editable*/border:0;
+		}
+	/*
+	@tab Page
+	@section Heading 1
+	@tip Set the styling for all first-level headings in your emails. These s=
+hould be the largest of your headings.
+	@style heading 1
+	*/
+		h1{
+			/*@editable*/color:#202020;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:26px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section Heading 2
+	@tip Set the styling for all second-level headings in your emails.
+	@style heading 2
+	*/
+		h2{
+			/*@editable*/color:#202020;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:22px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section Heading 3
+	@tip Set the styling for all third-level headings in your emails.
+	@style heading 3
+	*/
+		h3{
+			/*@editable*/color:#202020;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:20px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section Heading 4
+	@tip Set the styling for all fourth-level headings in your emails. These =
+should be the smallest of your headings.
+	@style heading 4
+	*/
+		h4{
+			/*@editable*/color:#202020;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:18px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Preheader
+	@section Preheader Style
+	@tip Set the background color and borders for your email's preheader area.
+	*/
+		#templatePreheader{
+			/*@editable*/background-color:#FAFAFA;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:9px;
+			/*@editable*/padding-bottom:9px;
+		}
+	/*
+	@tab Preheader
+	@section Preheader Text
+	@tip Set the styling for your email's preheader text. Choose a size and =
+color that is easy to read.
+	*/
+		#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{
+			/*@editable*/color:#656565;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:12px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Preheader
+	@section Preheader Link
+	@tip Set the styling for your email's preheader links. Choose a color th=
+at helps them stand out from your text.
+	*/
+		#templatePreheader .mcnTextContent a,#templatePreheader .mcnTextContent=
+ p a{
+			/*@editable*/color:#656565;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	/*
+	@tab Header
+	@section Header Style
+	@tip Set the background color and borders for your email's header area.
+	*/
+		#templateHeader{
+			/*@editable*/background-color:#FFFFFF;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:9px;
+			/*@editable*/padding-bottom:0;
+		}
+	/*
+	@tab Header
+	@section Header Text
+	@tip Set the styling for your email's header text. Choose a size and col=
+or that is easy to read.
+	*/
+		#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+			/*@editable*/color:#202020;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:16px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Header
+	@section Header Link
+	@tip Set the styling for your email's header links. Choose a color that he=
+lps them stand out from your text.
+	*/
+		#templateHeader .mcnTextContent a,#templateHeader .mcnTextContent p a{
+			/*@editable*/color:#2BAADF;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	/*
+	@tab Body
+	@section Body Style
+	@tip Set the background color and borders for your email's body area.
+	*/
+		#templateBody{
+			/*@editable*/background-color:#FFFFFF;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:2px solid #EAEAEA;
+			/*@editable*/padding-top:0;
+			/*@editable*/padding-bottom:9px;
+		}
+	/*
+	@tab Body
+	@section Body Text
+	@tip Set the styling for your email's body text. Choose a size and color t=
+hat is easy to read.
+	*/
+		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{
+			/*@editable*/color:#202020;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:16px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Body
+	@section Body Link
+	@tip Set the styling for your email's body links. Choose a color that help=
+s them stand out from your text.
+	*/
+		#templateBody .mcnTextContent a,#templateBody .mcnTextContent p a{
+			/*@editable*/color:#2BAADF;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	/*
+	@tab Footer
+	@section Footer Style
+	@tip Set the background color and borders for your email's footer area.
+	*/
+		#templateFooter{
+			/*@editable*/background-color:#FAFAFA;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:9px;
+			/*@editable*/padding-bottom:9px;
+		}
+	/*
+	@tab Footer
+	@section Footer Text
+	@tip Set the styling for your email's footer text. Choose a size and color=
+ that is easy to read.
+	*/
+		#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+			/*@editable*/color:#656565;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:12px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:center;
+		}
+	/*
+	@tab Footer
+	@section Footer Link
+	@tip Set the styling for your email's footer links. Choose a color that he=
+lps them stand out from your text.
+	*/
+		#templateFooter .mcnTextContent a,#templateFooter .mcnTextContent p a{
+			/*@editable*/color:#656565;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	@media only screen and (min-width:768px){
+		.templateContainer{
+			width:600px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#bodyCell{
+			padding-top:10px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImage{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCap=
+tionBottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer=
+,.mcnImageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcn=
+CaptionRightTextContentContainer,.mcnCaptionLeftImageContentContainer,.m=
+cnCaptionRightImageContentContainer,.mcnImageCardLeftTextContentContaine=
+r,.mcnImageCardRightTextContentContainer{
+			max-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer{
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupContent{
+			padding:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOute=
+r .mcnTextContent{
+			padding-top:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardTopImageContent,.mcnCaptionBlockInner .mcnCaptionTopConten=
+t:last-child .mcnTextContent{
+			padding-top:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardBottomImageContent{
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockInner{
+			padding-top:0 !important;
+			padding-bottom:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockOuter{
+			padding-top:9px !important;
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent,.mcnBoxedTextContentColumn{
+			padding-right:18px !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
+			padding-right:18px !important;
+			padding-bottom:0 !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcpreview-image-uploader{
+			display:none !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Heading 1
+	@tip Make the first-level headings larger in size for better readability=
+ on small screens.
+	*/
+		h1{
+			/*@editable*/font-size:22px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Heading 2
+	@tip Make the second-level headings larger in size for better readabilit=
+y on small screens.
+	*/
+		h2{
+			/*@editable*/font-size:20px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Heading 3
+	@tip Make the third-level headings larger in size for better readability=
+ on small screens.
+	*/
+		h3{
+			/*@editable*/font-size:18px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Heading 4
+	@tip Make the fourth-level headings larger in size for better readabilit=
+y on small screens.
+	*/
+		h4{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Boxed Text
+	@tip Make the boxed text larger in size for better readability on small =
+screens. We recommend a font size of at least 16px.
+	*/
+		.mcnBoxedTextContentContainer .mcnTextContent,.mcnBoxedTextContentConta=
+iner .mcnTextContent p{
+			/*@editable*/font-size:14px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Preheader Visibility
+	@tip Set the visibility of the email's preheader on small screens. You ca=
+n hide it to save space.
+	*/
+		#templatePreheader{
+			/*@editable*/display:block !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Preheader Text
+	@tip Make the preheader text larger in size for better readability on sm=
+all screens.
+	*/
+		#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{
+			/*@editable*/font-size:14px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Header Text
+	@tip Make the header text larger in size for better readability on small s=
+creens.
+	*/
+		#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Body Text
+	@tip Make the body text larger in size for better readability on small s=
+creens. We recommend a font size of at least 16px.
+	*/
+		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Footer Text
+	@tip Make the footer content text larger in size for better readability on=
+ small screens.
+	*/
+		#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+			/*@editable*/font-size:14px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}
+	</style>
+	<!--[if gte mso 15]>
+		<xml>
+			<o:OfficeDocumentSettings>
+			<o:AllowPNG/>
+			<o:PixelsPerInch>96</o:PixelsPerInch>
+			</o:OfficeDocumentSettings>
+		</xml>
+		<![endif]-->
+	<title>*|MC:SUBJECT|*</title>
+</head>
+<body>
+<center>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+id=3D"bodyTable" style=3D"height:100%;" width=3D"100%">
+	<tbody>
+		<tr>
+			<td align=3D"center" id=3D"bodyCell" valign=3D"top"><!-- BEGIN TEMPLA=
+TE // --><!--[if gte mso 9]>
+						<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"600" style=3D"width:600px;">
+						<tr>
+						<td align=3D"center" valign=3D"top" width=3D"600" style=3D"width:600p=
+x;">
+						<![endif]-->
+			<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"templ=
+ateContainer" width=3D"100%">
+				<tbody>
+					<tr>
+						<td id=3D"templatePreheader" valign=3D"top">=C2=A0</td>
+					</tr>
+					<tr>
+						<td id=3D"templateHeader" valign=3D"top">
+						<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mc=
+nImageBlock" style=3D"min-width:100%;" width=3D"100%">
+							<tbody class=3D"mcnImageBlockOuter">
+								<tr>
+									<td class=3D"mcnImageBlockInner" style=3D"padding:9px;" valig=
+n=3D"top">
+									<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"mcnImageContentContainer" style=3D"min-width:100%;" wi=
+dth=3D"100%">
+										<tbody>
+											<tr>
+												<td class=3D"mcnImageContent" style=3D"padding-right:9px;paddin=
+g-left:9px;padding-top:0;padding-bottom:0;text-align:center;" valign=3D"to=
+p"><a href=3D"http://www.plan-canje.org" target=3D"_blank" title=3D""><img=
+ alt=3D"" class=3D"mcnImage" src=3D"http://pro-cre-cambio.org/procrecambio=
+-cover.jpg" style=3D"max-width: 3634px; padding-bottom: 0px; vertical-alig=
+n: bottom; width: 600px; height: 228px; display: inline !important;" /><=
+/a></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td id=3D"templateBody" valign=3D"top">
+						<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnT=
+extBlock" style=3D"min-width:100%;" width=3D"100%">
+							<tbody class=3D"mcnTextBlockOuter">
+								<tr>
+									<td class=3D"mcnTextBlockInner" style=3D"padding-top:9px;" valig=
+n=3D"top"><!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]--><!--[if mso]>
+				<td valign=3D"top" width=3D"599" style=3D"width:599px;">
+				<![endif]-->
+									<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"mcnTextContentContainer" style=3D"max-width:100%;min-wid=
+th:100%;" width=3D"100%">
+										<tbody>
+											<tr>
+												<td class=3D"mcnTextContent" style=3D"padding-top:0;padding-rig=
+ht:18px;padding-bottom:9px;padding-left:18px;" valign=3D"top">
+												<h2 class=3D"null" style=3D"text-align:center;"><span style=
+=3D"font-size:22px;"><span style=3D"font-family:arial, helvetica, sans-s=
+erif;"><span style=3D"color:#444444;">Tra=C3=A9 tu usado, llevate uno Nuevo=
+!<br />
+												Continua=C2=A0Plan Automotor PRO-CRE-CAMBIO</span></span></spa=
+n></h2>
+
+												<div class=3D"null" style=3D"text-align:center;"><span style=3D=
+"font-family:arial, helvetica, sans-serif;"><span style=3D"font-size:14px;=
+"><span style=3D"color:#444444;">- Consigue por tu usado el <strong>valor =
+REAL</strong>.<br />
+												- Financiacion del <strong>100%</strong> del valor restante.<br=
+ />
+												- Hasta en<strong> 84 Cuotas</strong><br />
+												- <strong>Entrega pactada</strong> desde la COMPRA.<br />
+												- Solo con tu <strong>DNI.</strong></span></span></span></div>
+
+												<h4 class=3D"null" style=3D"text-align:center;"><span style=3D"=
+font-size:16px;"><span style=3D"font-family:arial, helvetica, sans-serif;"=
+><strong><span style=3D"color:#444444;">Con PRO-CRE-CAMBIO, la posibilidad=
+ de cambiar de auto,<br />
+												ahora es real.</span></strong></span></span></h4>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!--[if mso]>
+    </td>
+    <![endif]--><!--[if mso]>
+    </tr>
+    </table>
+    <![endif]--></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td id=3D"templateFooter" valign=3D"top">
+						<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mc=
+nDividerBlock" style=3D"min-width:100%;" width=3D"100%">
+							<tbody class=3D"mcnDividerBlockOuter">
+								<tr>
+									<td class=3D"mcnDividerBlockInner" style=3D"min-width:100%;paddin=
+g:10px 18px 25px;">
+									<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"mcnDividerContent" style=3D"min-width:100%;border-top-width:2px;border-to=
+p-style:solid;border-top-color:#EEEEEE;" width=3D"100%">
+										<tbody>
+											<tr>
+												<td>=C2=A0</td>
+											</tr>
+										</tbody>
+									</table>
+									<!--           =20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;"=
+>
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-col=
+or:none; border-left-color:none; border-right-color:none; border-bottom-=
+width:0; border-left-width:0; border-right-width:0; margin-top:0; margin=
+-right:0; margin-bottom:0; margin-left:0;" />
+--></td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mc=
+nButtonBlock" style=3D"min-width:100%;" width=3D"100%">
+							<tbody class=3D"mcnButtonBlockOuter">
+								<tr>
+									<td align=3D"center" class=3D"mcnButtonBlockInner" style=3D"paddin=
+g-top:0;padding-right:18px;padding-bottom:18px;padding-left:18px;" valig=
+n=3D"top">
+									<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"m=
+cnButtonContentContainer" style=3D"border-collapse:separate !important;bor=
+der-radius:3px;background-color:#F1CA07;">
+										<tbody>
+											<tr>
+												<td align=3D"center" class=3D"mcnButtonContent" style=3D"font=
+-family:Arial;font-size:18px;padding:15px;" valign=3D"middle"><a class=
+=3D"mcnButton" href=3D"http://www.pro-cre-cambio.org/?source=3Dhtml" style=
+=3D"font-weight:bold;letter-spacing:normal;line-height:100%;text-align:cen=
+ter;text-decoration:none;color:#5A5454;" target=3D"_blank" title=3D"=
+=C3=82=C2=A1Quiero conocer todo sobre PRO-CRE-CAMBIO!">=C2=A1Quiero conocer=
+ todo sobre PRO-CRE-CAMBIO!</a></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mc=
+nTextBlock" style=3D"min-width:100%;" width=3D"100%">
+							<tbody class=3D"mcnTextBlockOuter">
+								<tr>
+									<td class=3D"mcnTextBlockInner" style=3D"padding-top:9px;" valig=
+n=3D"top"><!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]--><!--[if mso]>
+				<td valign=3D"top" width=3D"599" style=3D"width:599px;">
+				<![endif]-->
+									<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"mcnTextContentContainer" style=3D"max-width:100%;min-wid=
+th:100%;" width=3D"100%">
+										<tbody>
+											<tr>
+												<td class=3D"mcnTextContent" style=3D"padding-top:0;padding-rig=
+ht:18px;padding-bottom:9px;padding-left:18px;" valign=3D"top"><br />
+												<br />
+												---------------------------<br />
+												legales:<br />
+												---------------------------<br />
+												Este mensaje puede contener informacion confidencial, privile=
+giada o=C2=A0<br />
+												datos de caracter personal.=C2=A0<br />
+												Si usted no es el destinatario indicado o el responsable de su=
+ entrega,<br />
+												no revele, copie, distribuya o use este mensaje.=C2=A0<br />
+												Por favor comunique su recepcion y eliminelo. No hay renuncia=
+ a la=C2=A0<br />
+												confidencialidad por transmision erronea o mal funcionamiento d=
+el=C2=A0<br />
+												sistema. Los correos electronicos no son seguros, no garantiza=
+n la=C2=A0<br />
+												onfidencialidad de su contenido ni su correcta y completa rec=
+epcion=C2=A0<br />
+												ya que pueden ser interceptados, manipulados, destruidos, lleg=
+ar=C2=A0<br />
+												retrasados o incompletos.<br />
+												El remitente declina cualquier responsabilidad por las alterac=
+iones que=C2=A0<br />
+												pudieran hacerse del mensaje una vez enviado.<br />
+												http://tucorreodigital.org/index.php/lists/hl194ogrbb59e/unsubs=
+cribe/am6883czj5c65/nt089xyv3m306<br />
+												=C2=A0</td>
+											</tr>
+										</tbody>
+									</table>
+									<!--[if mso]>
+    </td>
+    <![endif]--><!--[if mso]>
+    </tr>
+    </table>
+    <![endif]--></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<!--[if gte mso 9]>
+      </td>
+      </tr>
+      </table>
+      <![endif]--><!-- // END TEMPLATE --></td>
+		</tr>
+	</tbody>
+</table>
+</center>
+<img width=3D"1" height=3D"1" src=3D"http://tucorreodigital.org/index.php/c=
+ampaigns/nt089xyv3m306/track-opening/am6883czj5c65" alt=3D"" />
+</body>
+</html>
+
+
+--_=_swift_v4_1501541683_ef12e34fd6bd328393b2b32044a493de_=_--
+

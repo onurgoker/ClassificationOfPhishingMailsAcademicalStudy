@@ -1,0 +1,572 @@
+Received: from unknown (HELO mail26.wt1.edmmessage.com) (101.78.203.26)
+  by 0 with ESMTPS (DHE-RSA-AES256-GCM-SHA384 encrypted); 13 Oct 2017 17:07:11 -0000
+Received-SPF: pass (0: SPF record at edmmessage.com designates 101.78.203.26 as permitted sender)
+Received: from 101.78.203.26 (mail26.wt1.edmmessage.com [101.78.203.26])
+	by mail26.wt1.edmmessage.com (Postfix) with ESMTP id 96F02165EF6
+	for <choong.liew@comodo.com>; Sat, 14 Oct 2017 01:07:08 +0800 (HKT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; t=1507914428; s=default;
+	d=edmmessage.com;
+	h=Date:From:Reply-To:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding;
+	bh=1TUUoJohm6tUlsaMogjPhhRqc4iDEBT1uCxdI6R31Zs=;
+	b=Y7db9pv5prdXPt9cJsTQy0XX0kgFJIvdL3iqQDvUET370oZ49Xe83q9RDWvRTlNI
+	hodVTFfEKLdtM1x6EZyn1pfb4csQrDFkDDqzpFMM4PZPdXKUOKeo8WyBtpFra6sQSvK
+	hlWgp7/CPUHj2j1u/VSWuZbCU3PELHQLUp8AN9u8=
+Date: Sat, 14 Oct 2017 01:07:08 +0800 (HKT)
+From: Facebook Firing <erik@complianceclinik.com>
+Reply-To: ---------- <abc@example.com>
+To: ---------- <abc@example.com>
+Message-ID: <1069731095.1075471.1507914428617.JavaMail.tomcat@wt10>
+Subject: Last Call: When can you fire someone for their facebook posts?
+Errors-To: ---------- <abc@example.com>
+MIME-Version: 1.0
+Content-Type: text/html;charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-Content-ID: Z1DyzwkKOFvqLiCARhVrMqJs51/Bh4ZDMrT/vNANKCdLKp5Wp+jSQpdGE2nwBJkUV6gbHcXseg+oeqxGshWpVRbw+Kb6VEBf3kXLBoGLwkPtaxZjGTa+G1CWSyXdw+YusJWp+cY3uiLerVsr5BzLlhDwigRhGr6HsZCs01Ve61RNGBN9G6Pal0CmSZ+0IHvPqmRMNuYEga4=
+Feedback-ID: 487220489177310:906450796632525:560867597691281:edmmessage.com
+
+<!DOCTYPE html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>
+<meta charset=3D"UTF-8">
+<style type=3D"text/css">
+.email-footer-ios-link a { color: #444444 !important; text-decoration: none=
+ !important; } @media only screen and (max-width: 480px) { .email-footer { =
+width: 100% !important; -moz-text-size-adjust: none; -webkit-text-size-adju=
+st: none; -ms-text-size-adjust: none; } .email-footer-column { vertical-ali=
+gn: top; } .email-footer-email-address { word-break: break-word; } }=20
+
+<!--
+body{margin:0; padding:0}
+table,tr,td{vertical-align:top; border-collapse:collapse}
+.ie-browser table,.mso-container table{table-layout:fixed}
+*{line-height:inherit}
+a[x-apple-data-detectors=3Dtrue]{color:inherit !important; text-decoration:=
+none !important}
+[owa] .img-container div,[owa] .img-container button{display:block !importa=
+nt}
+[owa] .fullwidth button{width:100% !important}
+[owa] .block-grid .col{display:table-cell; float:none !important; vertical-=
+align:top}
+.ie-browser .num12,.ie-browser .block-grid,[owa] .num12,[owa] .block-grid{w=
+idth:600px !important}
+.ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass font,.Ex=
+ternalClass td,.ExternalClass div{line-height:100%}
+.ie-browser .mixed-two-up .num4,[owa] .mixed-two-up .num4{width:200px !impo=
+rtant}
+.ie-browser .mixed-two-up .num8,[owa] .mixed-two-up .num8{width:400px !impo=
+rtant}
+.ie-browser .block-grid.two-up .col,[owa] .block-grid.two-up .col{width:300=
+px !important}
+.ie-browser .block-grid.three-up .col,[owa] .block-grid.three-up .col{width=
+:200px !important}
+.ie-browser .block-grid.four-up .col,[owa] .block-grid.four-up .col{width:1=
+50px !important}
+.ie-browser .block-grid.five-up .col,[owa] .block-grid.five-up .col{width:1=
+20px !important}
+.ie-browser .block-grid.six-up .col,[owa] .block-grid.six-up .col{width:100=
+px !important}
+.ie-browser .block-grid.seven-up .col,[owa] .block-grid.seven-up .col{width=
+:85px !important}
+.ie-browser .block-grid.eight-up .col,[owa] .block-grid.eight-up .col{width=
+:75px !important}
+.ie-browser .block-grid.nine-up .col,[owa] .block-grid.nine-up .col{width:6=
+6px !important}
+.ie-browser .block-grid.ten-up .col,[owa] .block-grid.ten-up .col{width:60p=
+x !important}
+.ie-browser .block-grid.eleven-up .col,[owa] .block-grid.eleven-up .col{wid=
+th:54px !important}
+.ie-browser .block-grid.twelve-up .col,[owa] .block-grid.twelve-up .col{wid=
+th:50px !important}
+@media only screen and (min-width:620px){.block-grid{width:600px !important=
+}
+.block-grid .col{vertical-align:top}
+.block-grid .col.num12{width:600px !important}
+.block-grid.mixed-two-up .col.num4{width:200px !important}
+.block-grid.mixed-two-up .col.num8{width:400px !important}
+@media (max-width:620px){.block-grid,.col{min-width:320px !important; max-w=
+idth:100% !important; display:block !important}
+.block-grid{width:calc(100% - 40px) !important}
+.col{width:100% !important}
+.col > div{margin:0 auto}
+img.fullwidth{max-width:100% !important}
+@media (max-width:520px){.block-grid{min-width:320px!important; max-width:1=
+00%!important; width:100%!important; display:block!important}
+.col{min-width:320px!important; max-width:100%!important; width:100%!import=
+ant; display:block!important}
+img.fullwidth{max-width:100%!important}
+@font-face{font-family:'Montserrat'; font-style:normal; font-weight:400; sr=
+c:local('Montserrat Regular'),local('Montserrat-Regular'),url(https://fonts=
+.gstatic.com/s/montserrat/v10/zhcz-_WihjSQC0oHJ9TCYC3USBnSvpkopQaUR-2r7iU.t=
+tf) format('truetype')}
+@font-face{font-family:'Lato'; font-style:normal; font-weight:400; src:loca=
+l('Lato Regular'),local('Lato-Regular'),url(https://fonts.gstatic.com/s/lat=
+o/v13/v0SdcGFAl2aezM9Vq_aFTQ.ttf) format('truetype')}
+body{margin:0; padding:0; -webkit-text-size-adjust:100%; background-color:#=
+FFFFFF}
+
+-->
+</style>
+<title>Last Call: When can you fire someone for their facebook posts?</titl=
+e>
+<!--[if gte mso 9]>
+<xml>
+=09<o:OfficeDocumentSettings>
+=09<o:AllowPNG/>
+=09<o:PixelsPerInch>96</o:PixelsPerInch>
+=09</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+</head>
+<body>
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" alig=
+n=3D"left"><tr><td align=3D"left"></td></tr><tr><td align=3D"left"><table c=
+ellspacing=3D"0" class=3D"nl-container" style=3D"background-color:#ffffff; =
+border-collapse:collapse; border-spacing:0; margin:0 auto; min-width:320px;=
+ mso-table-lspace:0pt; mso-table-rspace:0pt; table-layout:fixed; vertical-a=
+lign:top; width:100%">=20
+ <tbody>=20
+  <tr style=3D"vertical-align:top">=20
+   <td style=3D"border-collapse:collapse !important; word-break:break-word"=
+ valign=3D"top">=20
+    <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"><tr><td align=3D"center" style=3D"background-color: #FF=
+FFFF;"><![endif]-->=20
+    <div style=3D"background-image:url('images/homepage-bg.png');background=
+-position:top center;background-repeat:repeat;;background-color:#152b55;">=
+=20
+     <div class=3D"block-grid " style=3D"Margin: 0 auto;min-width: 320px;ma=
+x-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: =
+break-word;background-color: transparent;">=20
+      <div style=3D"border-collapse: collapse;display: table;width: 100%;ba=
+ckground-color:transparent;">=20
+       <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0"><tr><td style=3D"background-image:url('images/homepa=
+ge-bg.png');background-position:top center;background-repeat:repeat;;backgr=
+ound-color:#152b55" align=3D"center"><table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"width: 600px;"><tr class=3D"layout-full-width"=
+ style=3D"background-color:transparent;"><![endif]-->
+       <!--[if (mso)|(IE)]><td align=3D"center" width=3D"600" style=3D" wid=
+th:600px; padding-right: 0px; padding-left: 0px; padding-top:30px; padding-=
+bottom:20px; border-top: 0px solid transparent; border-left: 0px solid tran=
+sparent; border-bottom: 0px solid transparent; border-right: 0px solid tran=
+sparent;" valign=3D"top"><![endif]-->=20
+       <div class=3D"col num12" style=3D"min-width: 320px;max-width: 600px;=
+display: table-cell;vertical-align: top;">=20
+        <div style=3D"background-color: transparent; width: 100% !important=
+;">=20
+         <!--[if (!mso)&(!IE)]><!-->=20
+         <div style=3D"border-top: 0px solid transparent; border-left: 0px =
+solid transparent; border-bottom: 0px solid transparent; border-right: 0px =
+solid transparent; padding-top:30px; padding-bottom:20px; padding-right: 0p=
+x; padding-left: 0px;">=20
+          <!--<![endif]-->=20
+          <div style=3D"padding-right: 10px; padding-left: 10px; padding-to=
+p: 10px; padding-bottom: 10px;">=20
+           <!--[if (mso)]><table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0"><tr><td style=3D"padding-right: 10px;padding-left: 10=
+px; padding-top: 10px; padding-bottom: 10px;"><table width=3D"100%" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td><![end=
+if]-->=20
+           <div align=3D"center">=20
+            <div style=3D"border-top: 10px solid transparent; width:100%; l=
+ine-height:10px; height:10px; font-size:10px;">
+              &nbsp;=20
+            </div>=20
+           </div>
+           <!--[if (mso)]></td></tr></table></td></tr></table><![endif]-->=
+=20
+          </div>
+          <!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"><tr><td style=3D"padding-right: 0px; padding-left: 0px;=
+ padding-top: 0px; padding-bottom: 5px;"><![endif]-->=20
+          <div style=3D"font-family: Montserrat, 'Trebuchet MS', 'Lucida Gr=
+ande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; line-heigh=
+t: 28px; color: rgb(255, 255, 255); padding: 0px 0px 5px;">=20
+           <div style=3D"font-size: 12px; line-height: 28px; font-family: M=
+ontserrat, 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida =
+Sans', Tahoma, sans-serif; color: rgb(255, 255, 255); text-align: center;">=
+=20
+            <span style=3D"font-size:28px"><span style=3D"line-height:57px"=
+><strong><span style=3D"line-height:57px"><span style=3D"line-height:43px">=
+Facebook Firing 2017: How To Legally Fire Employees For Their Social Media =
+Posts</span></span></strong></span></span>=20
+           </div>=20
+          </div>=20
+          <div style=3D"text-align: center;">=20
+           <!--[if mso]></td></tr></table><![endif]-->
+           <!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"><tr><td style=3D"padding-right: 25px; padding-left: 25p=
+x; padding-top: 10px; padding-bottom: 20px;"><![endif]-->=20
+          </div>=20
+          <div style=3D"font-family: Lato, Tahoma, Verdana, Segoe, sans-ser=
+if; line-height: 32px; color: rgb(255, 255, 255); padding: 10px 25px 20px;"=
+>=20
+           <div style=3D"font-size: 12px; line-height: 24px; font-family: L=
+ato, Tahoma, Verdana, Segoe, sans-serif; color: rgb(255, 255, 255); text-al=
+ign: center;">=20
+            <span style=3D"font-size:16px; line-height:32px">Mon - Oct 16, =
+2017 | Presenter: Melissa Fleischer, Esq</span>
+            <br />
+            <span style=3D"font-size:16px; line-height:32px">(Pre-approved =
+for 1.5 RCH through HRCI)</span>=20
+           </div>=20
+          </div>
+          <!--[if mso]></td></tr></table><![endif]-->=20
+          <div align=3D"center" class=3D"button-container center" style=3D"=
+padding-right: 10px; padding-left: 10px; padding-top:10px; padding-bottom:1=
+0px;">=20
+           <!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"border-spacing: 0; border-collapse: collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td style=3D"padding-right=
+: 10px; padding-left: 10px; padding-top:10px; padding-bottom:10px;" align=
+=3D"center"><v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=
+=3D"urn:schemas-microsoft-com:office:word" href=3D"https://www.compliancepr=
+ime.com/live/detail/facebook-firing" style=3D"height:50px; v-text-anchor:mi=
+ddle; width:204px;" arcsize=3D"8%" strokecolor=3D"#3AAEE0" fillcolor=3D"#3A=
+AEE0"><w:anchorlock/><center style=3D"color:#ffffff; font-family:'Montserra=
+t', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', =
+Tahoma, sans-serif; font-size:18px;"><![endif]-->
+           <a href=3D"http://da6.edmmessage.com/dd/daecs?token=3DuxkXkR5KwH=
+zawUL6ICTOUsjQo%2BDmXSzodEkiDaMSRQuaalgRMvCHpXbI%2FDDw6lqorP%2Bx7w1np%2BsjQ=
+3o%2FARRl41cl%2Fzr4Iy%2FiB9KAGVb%2Fvto0AM6kdMvVfu1dGauoq5RGvV%2F5lFNm3q7dxC=
+Hz%2Fz%2F7TxYuHDxX1Gw0tKiG9JQrfvKeMItUEnYAdCOTHu1cSWoYzvCUskcwngA%3D" style=
+=3D"display: inline-block;text-decoration: none;-webkit-text-size-adjust: n=
+one;text-align: center;color: #ffffff; background-color: #3AAEE0; border-ra=
+dius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; max-width: =
+204px; width: 164px;width: auto; border-top: 0px solid transparent; border-=
+right: 0px solid transparent; border-bottom: 4px solid #1571A7; border-left=
+: 0px solid transparent; padding-top: 5px; padding-right: 20px; padding-bot=
+tom: 5px; padding-left: 20px; font-family: 'Montserrat', 'Trebuchet MS', 'L=
+ucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;mso=
+-border-alt: none" target=3D"_blank"><span style=3D"font-size:12px; line-he=
+ight:24px"><span data-mce-style=3D"font-size: 18px;" style=3D"font-size:18p=
+x; line-height:36px"><strong><span data-mce-style=3D"line-height: 48px;" st=
+yle=3D"font-size:18px; line-height:36px">REGISTER HERE</span></strong></spa=
+n></span> </a>=20
+           <!--[if mso]></center></v:roundrect></td></tr></table><![endif]-=
+->=20
+          </div>=20
+          <div style=3D"padding-right: 10px; padding-left: 10px; padding-to=
+p: 10px; padding-bottom: 10px;">=20
+           <!--[if (mso)]><table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0"><tr><td style=3D"padding-right: 10px;padding-left: 10=
+px; padding-top: 10px; padding-bottom: 10px;"><table width=3D"100%" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td><![end=
+if]-->=20
+           <div align=3D"center">=20
+            <div style=3D"border-top: 10px solid transparent; width:100%; l=
+ine-height:10px; height:10px; font-size:10px;">
+              &nbsp;=20
+            </div>=20
+           </div>
+           <!--[if (mso)]></td></tr></table></td></tr></table><![endif]-->=
+=20
+          </div>
+          <!--[if (!mso)&(!IE)]><!-->=20
+         </div>
+         <!--<![endif]-->=20
+        </div>=20
+       </div>
+       <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->=
+=20
+      </div>=20
+     </div>=20
+    </div>=20
+    <div style=3D"background-color:transparent;">=20
+     <div class=3D"block-grid " style=3D"Margin: 0 auto;min-width: 320px;ma=
+x-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: =
+break-word;background-color: transparent;">=20
+      <div style=3D"border-collapse: collapse;display: table;width: 100%;ba=
+ckground-color:transparent;">=20
+       <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0"><tr><td style=3D"background-color:transparent;" alig=
+n=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=
+=3D"width: 600px;"><tr class=3D"layout-full-width" style=3D"background-colo=
+r:transparent;"><![endif]-->
+       <!--[if (mso)|(IE)]><td align=3D"center" width=3D"600" style=3D" wid=
+th:600px; padding-right: 0px; padding-left: 0px; padding-top:5px; padding-b=
+ottom:5px; border-top: 0px solid transparent; border-left: 0px solid transp=
+arent; border-bottom: 0px solid transparent; border-right: 0px solid transp=
+arent;" valign=3D"top"><![endif]-->=20
+       <div class=3D"col num12" style=3D"min-width: 320px;max-width: 600px;=
+display: table-cell;vertical-align: top;">=20
+        <div style=3D"background-color: transparent; width: 100% !important=
+;">=20
+         <!--[if (!mso)&(!IE)]><!-->=20
+         <div style=3D"border-top: 0px solid transparent; border-left: 0px =
+solid transparent; border-bottom: 0px solid transparent; border-right: 0px =
+solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px;=
+ padding-left: 0px;">=20
+          <!--<![endif]-->
+          <!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"><tr><td style=3D"padding-right: 10px; padding-left: 10p=
+x; padding-top: 10px; padding-bottom: 10px;"><![endif]-->=20
+          <div style=3D"color: rgb(85, 85, 85); line-height: 19px; font-fam=
+ily: Lato, Tahoma, Verdana, Segoe, sans-serif; padding: 10px;">=20
+           <div style=3D"font-size:12px;line-height:14px;color:#555555;font=
+-family:'Lato', Tahoma, Verdana, Segoe, sans-serif;text-align:left;">
+             What can your employees say and do on social media and what ca=
+n you as an employer do about it. Social media has raised so many questions=
+ for HR regarding what you can and cannot do when an employee posts an e-ma=
+il regarding your workplace. There are many legal issues employers need to =
+understand about what they can do and there are many laws that govern what =
+you can do. This conference will provide you with the essentials on what yo=
+u should know prior to terminating an employee for what they say or post on=
+ Facebook or other social media. It will also help you better understand wh=
+at you need to include in your social media policy to protect your organiza=
+tion from liability.
+            <br />
+            <br />
+            <strong>Learning Objectives:</strong>
+            <br />&nbsp;=20
+            <ul>=20
+             <li style=3D"font-size: 14px; line-height: 16px;">Action you c=
+an take to terminate employees for what they say on social media sites like=
+ Facebook and what actions you should avoid taking</li>=20
+             <li style=3D"font-size: 14px; line-height: 16px;">Recent activ=
+ity the NLRB has taken targeting employers who terminate employees for soci=
+al media site posts</li>=20
+             <li style=3D"font-size: 14px; line-height: 16px;">Overview of =
+the recent cases on what is lawful and unlawful regarding social media and =
+your employees</li>=20
+             <li style=3D"font-size: 14px; line-height: 16px;">Summary of o=
+ther laws that prohibit terminations for lawful off-duty conduct</li>=20
+             <li style=3D"font-size: 14px; line-height: 16px;">Understandin=
+g of what actually constitutes lawful off-duty conduct</li>=20
+             <li style=3D"font-size: 14px; line-height: 16px;">Best Practic=
+es to protect your organization from these legal issues</li>=20
+             <li style=3D"font-size: 14px; line-height: 16px;">Recommendati=
+ons for best practices when drafting your Social Media Policy</li>=20
+             <li style=3D"font-size: 14px; line-height: 16px;">How to Avoid=
+ Legal Liability When Drafting your Social Media Policy</li>=20
+            </ul>=20
+           </div>=20
+          </div>
+          <!--[if mso]></td></tr></table><![endif]-->
+          <!--[if (!mso)&(!IE)]><!-->=20
+         </div>
+         <!--<![endif]-->=20
+        </div>=20
+       </div>
+       <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->=
+=20
+      </div>=20
+     </div>=20
+    </div>=20
+    <div style=3D"background-color:#FFFFFF;">=20
+     <div class=3D"block-grid " style=3D"Margin: 0 auto;min-width: 320px;ma=
+x-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: =
+break-word;background-color: transparent;">=20
+      <div style=3D"border-collapse: collapse;display: table;width: 100%;ba=
+ckground-color:transparent;">=20
+       <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0"><tr><td style=3D"background-color:#FFFFFF;" align=3D=
+"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"w=
+idth: 600px;"><tr class=3D"layout-full-width" style=3D"background-color:tra=
+nsparent;"><![endif]-->
+       <!--[if (mso)|(IE)]><td align=3D"center" width=3D"600" style=3D" wid=
+th:600px; padding-right: 30px; padding-left: 30px; padding-top:25px; paddin=
+g-bottom:25px; border-top: 0px solid transparent; border-left: 0px solid tr=
+ansparent; border-bottom: 0px solid transparent; border-right: 0px solid tr=
+ansparent;" valign=3D"top"><![endif]-->=20
+       <div class=3D"col num12" style=3D"min-width: 320px;max-width: 600px;=
+display: table-cell;vertical-align: top;">=20
+        <div style=3D"background-color: transparent; width: 100% !important=
+;">=20
+         <!--[if (!mso)&(!IE)]><!-->=20
+         <div style=3D"border-top: 0px solid transparent; border-left: 0px =
+solid transparent; border-bottom: 0px solid transparent; border-right: 0px =
+solid transparent; padding-top:25px; padding-bottom:25px; padding-right: 30=
+px; padding-left: 30px;">=20
+          <!--<![endif]-->=20
+          <div style=3D"padding-right: 0px; padding-left: 0px; padding-top:=
+ 0px; padding-bottom: 0px;">=20
+           <!--[if (mso)]><table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0"><tr><td style=3D"padding-right: 0px;padding-left: 0px=
+; padding-top: 0px; padding-bottom: 0px;"><table width=3D"100%" align=3D"ce=
+nter" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td><![endif]-->=
+=20
+           <div align=3D"center">=20
+            <div style=3D"border-top: 2px dotted #DADADA; width:100%; line-=
+height:2px; height:2px; font-size:2px;">
+              &nbsp;=20
+            </div>=20
+           </div>
+           <!--[if (mso)]></td></tr></table></td></tr></table><![endif]-->=
+=20
+          </div>
+          <!--[if (!mso)&(!IE)]><!-->=20
+         </div>
+         <!--<![endif]-->=20
+        </div>=20
+       </div>
+       <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->=
+=20
+      </div>=20
+     </div>=20
+    </div>=20
+    <div style=3D"background-image:url('images/pattern_bg.jpg');background-=
+position:top left;background-repeat:repeat;;background-color:#61626F;">=20
+     <div class=3D"block-grid " style=3D"Margin: 0 auto;min-width: 320px;ma=
+x-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: =
+break-word;background-color: transparent;">=20
+      <div style=3D"border-collapse: collapse;display: table;width: 100%;ba=
+ckground-color:transparent;">=20
+       <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0"><tr><td style=3D"background-image:url('images/patter=
+n_bg.jpg');background-position:top left;background-repeat:repeat;;backgroun=
+d-color:#61626F" align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0" style=3D"width: 600px;"><tr class=3D"layout-full-width" styl=
+e=3D"background-color:transparent;"><![endif]-->
+       <!--[if (mso)|(IE)]><td align=3D"center" width=3D"600" style=3D" wid=
+th:600px; padding-right: 0px; padding-left: 0px; padding-top:30px; padding-=
+bottom:30px; border-top: 0px solid transparent; border-left: 0px solid tran=
+sparent; border-bottom: 0px solid transparent; border-right: 0px solid tran=
+sparent;" valign=3D"top"><![endif]-->=20
+       <div class=3D"col num12" style=3D"min-width: 320px;max-width: 600px;=
+display: table-cell;vertical-align: top;">=20
+        <div style=3D"background-color: transparent; width: 100% !important=
+;">=20
+         <!--[if (!mso)&(!IE)]><!-->=20
+         <div style=3D"border-top: 0px solid transparent; border-left: 0px =
+solid transparent; border-bottom: 0px solid transparent; border-right: 0px =
+solid transparent; padding-top:30px; padding-bottom:30px; padding-right: 0p=
+x; padding-left: 0px;">=20
+          <!--<![endif]-->
+          <!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"><tr><td style=3D"padding-right: 10px; padding-left: 10p=
+x; padding-top: 25px; padding-bottom: 10px;"><![endif]-->=20
+          <div style=3D"font-family: Lato, Tahoma, Verdana, Segoe, sans-ser=
+if; line-height: 19px; color: rgb(255, 255, 255); padding: 25px 10px 10px;"=
+>=20
+           <div style=3D"font-size: 12px; line-height: 16px; color: rgb(255=
+, 255, 255); font-family: Lato, Tahoma, Verdana, Segoe, sans-serif; text-al=
+ign: left;">=20
+            <span style=3D"font-size:16px"><span style=3D"line-height:28px"=
+><strong>Register as a group to save upto 50%, call now at 888-527-3477</st=
+rong></span></span>=20
+           </div>=20
+          </div>
+          <!--[if mso]></td></tr></table><![endif]-->=20
+          <div align=3D"center" class=3D"button-container center" style=3D"=
+padding-right: 10px; padding-left: 10px; padding-top:10px; padding-bottom:1=
+0px;">=20
+           <!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"border-spacing: 0; border-collapse: collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td style=3D"padding-right=
+: 10px; padding-left: 10px; padding-top:10px; padding-bottom:10px;" align=
+=3D"center"><v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=
+=3D"urn:schemas-microsoft-com:office:word" href=3D"https://www.compliancepr=
+ime.com/live/detail/facebook-firing" style=3D"height:50px; v-text-anchor:mi=
+ddle; width:200px;" arcsize=3D"8%" strokecolor=3D"#F1B55D" fillcolor=3D"#F1=
+B55D"><w:anchorlock/><center style=3D"color:#ffffff; font-family:'Montserra=
+t', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', =
+Tahoma, sans-serif; font-size:18px;"><![endif]-->
+           <a href=3D"http://da6.edmmessage.com/dd/daecs?token=3DuxkXkR5KwH=
+zPTnF7rdb8md3nWeOpcCV%2FdEkiDaMSRQuaalgRMvCHpXbI%2FDDw6lqorP%2Bx7w1np%2BsjQ=
+3o%2FARRl41cl%2Fzr4Iy%2FiB9KAGVb%2Fvto0AM6kdMvVfu1dGauoq5RGvV%2F5lFNm3q7dxC=
+Hz%2Fz%2F7TxYuHDxX1Gw0tKiG9JQrfvKeMItUEnYAdCOTHu1cSWoYzvCUskcwngA%3D" style=
+=3D"display: inline-block;text-decoration: none;-webkit-text-size-adjust: n=
+one;text-align: center;color: #ffffff; background-color: #F1B55D; border-ra=
+dius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; max-width: =
+200px; width: 160px;width: auto; border-top: 0px solid transparent; border-=
+right: 0px solid transparent; border-bottom: 4px solid #D2A25B; border-left=
+: 0px solid transparent; padding-top: 5px; padding-right: 20px; padding-bot=
+tom: 5px; padding-left: 20px; font-family: 'Montserrat', 'Trebuchet MS', 'L=
+ucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;mso=
+-border-alt: none" target=3D"_blank"><span style=3D"font-size:12px; line-he=
+ight:24px"><span data-mce-style=3D"font-size: 18px;" mce-data-marked=3D"1" =
+style=3D"font-size:18px; line-height:36px"><strong><span data-mce-style=3D"=
+line-height: 48px;" mce-data-marked=3D"1" style=3D"font-size:18px; line-hei=
+ght:36px">REGISTER NOW</span></strong></span></span> </a>=20
+           <!--[if mso]></center></v:roundrect></td></tr></table><![endif]-=
+->=20
+          </div>=20
+          <div style=3D"padding-right: 10px; padding-left: 10px; padding-to=
+p: 10px; padding-bottom: 10px;">=20
+           <!--[if (mso)]><table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0"><tr><td style=3D"padding-right: 10px;padding-left: 10=
+px; padding-top: 10px; padding-bottom: 10px;"><table width=3D"100%" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td><![end=
+if]-->=20
+           <div align=3D"center">=20
+            <div style=3D"border-top: 0px solid transparent; width:100%; li=
+ne-height:0px; height:0px; font-size:0px;">
+              &nbsp;=20
+            </div>=20
+           </div>
+           <!--[if (mso)]></td></tr></table></td></tr></table><![endif]-->=
+=20
+          </div>
+          <!--[if (!mso)&(!IE)]><!-->=20
+         </div>
+         <!--<![endif]-->=20
+        </div>=20
+       </div>
+       <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->=
+=20
+      </div>=20
+     </div>=20
+    </div>
+    <!--[if (mso)|(IE)]></td></tr></table><![endif]--> </td>=20
+  </tr>=20
+ </tbody>=20
+</table>
+<!--[if (mso)|(IE)]></div><![endif]-->
+</td></tr><tr><td align=3D"left">=20
+<table align=3D"left" cellpadding=3D"0" cellspacing=3D"0" class=3D"email-fo=
+oter" style=3D"background-color: #FFFFFF; width: 600px;">=20
+ <tbody>=20
+  <tr>=20
+   <td align=3D"left" style=3D"padding: 5px; border-color: #D0D0D0; border-=
+style: none; border-width: 0px;" valign=3D"top">=20
+    <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width: 100%;">=20
+     <tbody>=20
+      <tr>=20
+       <td class=3D"email-footer-column" align=3D"left" valign=3D"top">=20
+        <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width: 100%;">=20
+         <tbody>=20
+          <tr>=20
+           <td align=3D"left" style=3D"padding: 5px; font-family: Verdana, =
+sans-serif; font-size: 11px; line-height: 18px; color: #444444;" valign=3D"=
+top">Email was sent To: ---------- <abc@example.com>
+lto:choong.liew@comodo.com" style=3D"color: #3399ff;"><strong>choong.liew@c=
+omodo.com</strong></a> by <strong class=3D"email-footer-ios-link">Complianc=
+e Prime</strong><br /></td>=20
+          </tr>=20
+          <tr>=20
+           <td align=3D"left" style=3D"padding: 5px; font-family: Verdana, =
+sans-serif; font-size: 11px; line-height: 18px; color: #444444;" valign=3D"=
+bottom"><a id=3D"unsubscribe_link" href=3D"http://da6.edmmessage.com/dd/uml=
+s?token=3DrrRtt9GauEoUMPYmYBSaKos5ZX1bRKMBk1ZVdFhRanbcpA4r4DO0apahLLJCjlgRX=
+eFv22HIYGkZPXP8oiWaK293Vb52K4xRRIWAqWPTPuA%3D&amp;lang=3Den" style=3D"color=
+: #3399ff;">Unsubscribe</a></td>=20
+          </tr>=20
+         </tbody>=20
+        </table> </td>=20
+       <td class=3D"email-footer-column" align=3D"left" valign=3D"bottom" w=
+idth=3D"126">=20
+        <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width: 100%;">=20
+         <tbody>=20
+          <tr>=20
+           <td align=3D"right" style=3D"padding: 5px; font-family: Verdana,=
+ sans-serif; font-size: 11px; line-height: 18px; color: #444444;" valign=3D=
+"bottom"><img alt=3D"" border=3D"0" height=3D"70" src=3D"http://da6.edmmess=
+age.com/dd/daecs?token=3D7ow9FiCrllx0SSINoxJFC4u716rhfhlCpzqNfLYz%2FqZY989D=
+3eVpt3bI%2FDDw6lqorP%2Bx7w1np%2BsjQ3o%2FARRl48z0FIokmvMhdOZI0fHI1GitpRbEGaK=
+FLg%3D%3D" style=3D"display: block" width=3D"126" /></td>=20
+          </tr>=20
+         </tbody>=20
+        </table> </td>=20
+      </tr>=20
+     </tbody>=20
+    </table> </td>=20
+  </tr>=20
+ </tbody>=20
+</table></td></tr></table>
+</body>
+</html>

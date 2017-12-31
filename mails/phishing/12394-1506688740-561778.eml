@@ -1,0 +1,207 @@
+Received: from unknown (HELO mta863.chtah.net) (63.236.31.149)
+  by 0 with ESMTPS (DHE-RSA-AES256-GCM-SHA384 encrypted); 29 Sep 2017 12:39:00 -0000
+Received-SPF: pass (0: SPF record at b.webinar.compliancekey.net designates 63.236.31.149 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=webinar.compliancekey.net; s=20160211080518; t=1506688740;
+	x=1522327140; bh=22FVL9v365EVhK57kIelxXaER4Sj3U+x55KvZPDQAiI=;
+	h=From:Reply-To;
+	b=CklcGxrupWrI0uQ7xdwvq9u6Go0p1DzO4js/uRNhUzP4ImMU/lnIOmDzzDZWBnkYb
+	 mPz0oE2Vc1vj0DP/DpSM5SUX7O9c0Lh8FFmmciQtt4xnfXgI8cPvfPyoZKGDhufaFw
+	 t/jXVdadarTGCXGImVIBt5DGLnbQNTNp4yZrbx7H8tHtRgcl0oNdxqd3mW7U1kpPAF
+	 cphgZNmA72ww7SdG5O1KFd3ldoIuZnoeDrgPU4BSrb5AYJmA9YjYzpVYUIFNXrlznm
+	 lGJrl1ev0DNF9nuQ9kSlsXqFrEUHdDkbyEQqixamlhhs3aRMmNXL6uHTYVFntjEZaK
+	 0+iQVqwdaXgEg==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=200505; d=webinar.compliancekey.net;
+  b=mQNzO2nw6/itbSk16lN9xAAmMHEckIiBpTUmz5emhoh1uiu3Iwgznv3thnVDPuHjsf/bVFurVbabyWnbhDcN5I72Jcq85ac6cwj+Mf9KdBvJOOkgzbpvFq8N529ZHrCY5kHhZFayhD8qtVoRfa7QXMzmT9OtLmSm2fiiNdhsaSM=;
+ h=Date:Message-ID:List-Unsubscribe:From:To:Subject:MIME-Version:Reply-To:X-Mailer:X-mid:X-aid:Content-type;
+Date: Fri, 29 Sep 2017 12:39:00 -0000
+Message-ID: <b334p9kbf5qcthauchyw5byjgt4etw.6726043.9597@mta863.webinar.compliancekey.net>
+List-Unsubscribe: <mailto:rm-0b334p9kbf5qcthauchyw5byjgt4etw@webinar.compliancekey.net>
+From: "Compliance Key, Inc." <training@webinar.compliancekey.net>
+To: ---------- <abc@example.com>
+Subject: =?UTF-8?B?TGl2ZSBXZWJpbmFyOiBIb3cgSG9tZSBIZWFsdGhjYXJlIGlzIEM=?=
+ =?UTF-8?B?aGFuZ2luZyB0aGUgTWVkaWNhbCBEZXZpY2UgR2FtZQ==?=
+MIME-Version: 1.0
+Reply-To: ---------- <abc@example.com>
+X-Mailer: CheetahMailer
+X-mid: 2105632185
+X-aid: 2099947238
+Content-type: multipart/alternative; boundary="=b334p9kbf5qcthauchyw5byjgt4etw"
+
+
+--=b334p9kbf5qcthauchyw5byjgt4etw
+Content-Type: text/plain; charset="utf-8"
+Content-transfer-encoding: 8bit
+
+Hello,
+I am extending 
+you the invitations for the live webinar on "How Home Healthcare is Changing the Medical Device Game" that we are hosting with Compliance Key. 
+If you are already registered, I apologize for the extra 
+communication.I wanted to take a moment to highlight the key 
+features of our webinars and the speaker delivering this 
+session.
+Date & Time:- Tuesday, 3rd October 2017 at 03:30-04:30 pm EDT
+Topic:- How Home Healthcare is Changing the Medical Device Game
+http://webinar.compliancekey.net/a/tBZzjl9B9KqbmB9gWW5AAZqGbsZ/link10Register Now! : http://webinar.compliancekey.net/a/tBZzjl9B9KqbmB9gWW5AAZqGbsZ/link12
+
+Topic Overview:This medical device training program will provide an understanding of creative methodologies to solve design and development challenges of connected solutions for patient monitoring, scheduling, tracking, or drug delivery. It will demonstrate how consumer technologies vary by level of complexity and how they can be used in healthcare.
+
+Why should you attend this 
+webinar?Medical devices will look and feel different in the next 20 years because our design criteria are changing. Home healthcare and the demands of remote patient monitoring add a new level of complexity. Design and usability research for home-based medical devices will elicit vastly different design inputs, because the user profiles are drastically different than they are at the hospital. The technology requirements will continue to increase with real concerns regarding how personal data will be protected, along with potential interference of device functionality by hackers, which may directly affect efficacy.
+This session will explain how consumer vital tracking and clinical grade devices are converging. It will also discuss the issues developing these devices and how they've been solved in past development programs.
+
+Areas Covered in the 
+Session:
+
+* How consumer vital tracking and clinical grade devices are converging;
+* The issues developing these devices and how they've been solved in past development programs;
+* The four types of connectivity solutions by level of complexity; and
+
+* How to decide which device type and development route is best for your application.
+
+Speaker's Credentials:Tom has been a product innovator for over 26 years, and holds a Certificate in Master of Product Development at Northwestern University and a bachelor's degree in Industrial Design at MCAD. He also holds a certificate from Stanford University for the Cardiovascular System in Health and Disease...read more : http://webinar.compliancekey.net/a/tBZzjl9B9KqbmB9gWW5AAZqGbsZ/link14
+
+Register Now! : http://webinar.compliancekey.net/a/tBZzjl9B9KqbmB9gWW5AAZqGbsZ/link12http://webinar.compliancekey.net/a/tBZzjl9B9KqbmB9gWW5AAZqGbsZ/link12
+
+Take a look at our webinar 
+library:More Upcoming Webinar : http://webinar.compliancekey.net/a/tBZzjl9B9KqbmB9gWW5AAZqGbsZ/link13
+
+If 
+you have any questions, my line is always 
+open.
+Warm 
+regards,
+Simon ParkerCompliance 
+Key Inc | Training made easy...P: 717-208-8666 Ext: 
+100Email: 
+sparker@compliancekey.com
+http://webinar.compliancekey.net/a/tBZzjl9B9KqbmB9gWW5AAZqGbsZ/link8?track=webinar.compliancekey.net/a/tBZzjl9B9KqbmB9gWW5AAZqGbsZThis email and any 
+attachments thereto may contain private, confidential, and privileged 
+material for the sole use of the intended 
+recipient.
+If you believe you received this e-mail in error, please 
+click here : mailto:rm-2b334p9kbf5qcthauchyw5byjgt4etw@webinar.compliancekey.net?subject=Unsubscribe&body=You%20will%20be%20unsubscribed%20from%20mailing%20list.to remove yourself from my mailing list.
+
+--=b334p9kbf5qcthauchyw5byjgt4etw
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><img src=3D"http://webinar.compliancekey.net/a/hBZzjl9B9KqbmB9g=
+WW5AAZqGbsZ/spacer.gif" width=3D"1" height=3D"1" style=3D"display:none !imp=
+ortant; max-height:1px !important; max-width:1px !important; border:0 !impo=
+rtant; background-color:transparent !important; padding:0 !important; outli=
+ne:0 !important; min-height:1px !important; min-width:1px !important; heigh=
+t:1px !important; width:1px !important;" alt=3D""><div><font size=3D"3" col=
+or=3D"000000" face=3D"arial,helvetica,sans-serif">Hello,</font></div><div><=
+font size=3D"3" color=3D"000000" face=3D"arial,helvetica,sans-serif"><br>I =
+am extending=20
+you the invitations for the live webinar on "How Home Healthcare is Changin=
+g the Medical Device Game" that we are hosting with Compliance Key.=20
+If you are already registered, I apologize for the extra=20
+communication.</font></div><div><font size=3D"3" color=3D"000000" face=3D"a=
+rial,helvetica,sans-serif">I wanted to take a moment to highlight the key=
+=20
+features of our webinars and the speaker delivering this=20
+session.</font></div><font size=3D"3" color=3D"000000" face=3D"arial,helvet=
+ica,sans-serif"><b><br>Date &amp; Time:- </b>Tuesday, 3rd October 2017 at 0=
+3:30-04:30 pm EDT<br></font><font size=3D"3" color=3D"000000" face=3D"arial=
+,helvetica,sans-serif"><b>Topic:</b>- </font><font size=3D"3" color=3D"0000=
+00" face=3D"arial,helvetica,sans-serif">How Home Healthcare is Changing the=
+ Medical Device Game</font><font size=3D"3" color=3D"000000" face=3D"arial,=
+helvetica,sans-serif"></font><div><font size=3D"3" color=3D"000000" face=3D=
+"arial,helvetica,sans-serif"><a href=3D"http://webinar.compliancekey.net/a/=
+hBZzjl9B9KqbmB9gWW5AAZqGbsZ/link10"><br></a><b><a href=3D"http://webinar.co=
+mpliancekey.net/a/hBZzjl9B9KqbmB9gWW5AAZqGbsZ/link12">Register Now!</a><br>=
+<br></b></font></div><div><font size=3D"3" color=3D"000000" face=3D"arial,h=
+elvetica,sans-serif"><b>Topic Overview:</b></font></div><font size=3D"3" co=
+lor=3D"000000" face=3D"arial,helvetica,sans-serif">This medical device trai=
+ning program will provide an understanding of creative methodologies to sol=
+ve design and development challenges of connected solutions for patient mon=
+itoring, scheduling, tracking, or drug delivery. It will demonstrate how co=
+nsumer technologies vary by level of complexity and how they can be used in=
+ healthcare.<br><br></font><div><font size=3D"3" color=3D"000000" face=3D"a=
+rial,helvetica,sans-serif"><b>Why should you attend this=20
+webinar?</b></font></div><font size=3D"3" color=3D"000000" face=3D"arial,he=
+lvetica,sans-serif">Medical devices will look and feel different in the nex=
+t 20 years because our design criteria are changing. Home healthcare and th=
+e demands of remote patient monitoring add a new level of complexity. Desig=
+n and usability research for home-based medical devices will elicit vastly =
+different design inputs, because the user profiles are drastically differen=
+t than they are at the hospital. The technology requirements will continue =
+to increase with real concerns regarding how personal data will be protecte=
+d, along with potential interference of device functionality by hackers, wh=
+ich may directly affect efficacy.<br>This session will explain how consumer=
+ vital tracking and clinical grade devices are converging. It will also dis=
+cuss the issues developing these devices and how they've been solved in pas=
+t development programs.<br><br></font><div><font size=3D"3" color=3D"000000=
+" face=3D"arial,helvetica,sans-serif"><b>Areas Covered in the=20
+Session:</b></font><font size=3D"3" color=3D"000000" face=3D"arial,helvetic=
+a,sans-serif"><br></font></div><div><ul><li><font size=3D"3" color=3D"00000=
+0" face=3D"arial,helvetica,sans-serif">How consumer vital tracking and clin=
+ical grade devices are converging;</font></li><li><font size=3D"3" color=3D=
+"000000" face=3D"arial,helvetica,sans-serif">The issues developing these de=
+vices and how they've been solved in past development programs;</font></li>=
+<li><font size=3D"3" color=3D"000000" face=3D"arial,helvetica,sans-serif">T=
+he four types of connectivity solutions by level of complexity; and</font><=
+/li><li><font size=3D"3" color=3D"000000" face=3D"arial,helvetica,sans-seri=
+f">How to decide which device type and development route is best for your a=
+pplication.<b><br></b></font></li></ul></div><div><font size=3D"3" color=3D=
+"000000" face=3D"arial,helvetica,sans-serif"><b>Speaker's Credentials:</b><=
+/font></div><font size=3D"3" color=3D"000000" face=3D"arial,helvetica,sans-=
+serif"><b>Tom </b>has been a product innovator for over 26 years, and holds=
+ a Certificate in Master of Product Development at Northwestern University =
+and a bachelor's degree in Industrial Design at MCAD. He also holds a certi=
+ficate from Stanford University for the Cardiovascular System in Health and=
+ Disease...<a href=3D"http://webinar.compliancekey.net/a/hBZzjl9B9KqbmB9gWW=
+5AAZqGbsZ/link14">read more</a><br><a href=3D"http://webinar.compliancekey.=
+net/a/hBZzjl9B9KqbmB9gWW5AAZqGbsZ/link10"><br><a href=3D"http://webinar.com=
+pliancekey.net/a/hBZzjl9B9KqbmB9gWW5AAZqGbsZ/link12">Register Now!</a></a><=
+br></font><div><font size=3D"3" color=3D"000000" face=3D"arial,helvetica,sa=
+ns-serif"><br></font></div><div><font size=3D"3" color=3D"000000" face=3D"a=
+rial,helvetica,sans-serif"><b>Take a look at our webinar=20
+library:</b></font></div><div><font size=3D"3" color=3D"000000" face=3D"ari=
+al,helvetica,sans-serif"><a href=3D"http://webinar.compliancekey.net/a/hBZz=
+jl9B9KqbmB9gWW5AAZqGbsZ/link13">More Upcoming Webinar</a><br><br></font></d=
+iv><div><font size=3D"3" color=3D"000000" face=3D"arial,helvetica,sans-seri=
+f">If=20
+you have any questions, my line is always=20
+open.</font></div><div><font size=3D"3" color=3D"000000" face=3D"arial,helv=
+etica,sans-serif"><br></font></div><div><font size=3D"3" color=3D"000000" f=
+ace=3D"arial,helvetica,sans-serif"><b>Warm=20
+regards,</b></font></div><div><font size=3D"3" color=3D"000000" face=3D"ari=
+al,helvetica,sans-serif"><br></font></div><div><font size=3D"3" color=3D"00=
+0000" face=3D"arial,helvetica,sans-serif">Simon Parker</font></div><div><fo=
+nt size=3D"3" color=3D"000000" face=3D"arial,helvetica,sans-serif">Complian=
+ce=20
+Key Inc | Training made easy...</font></div><div><font size=3D"3" color=3D"=
+000000" face=3D"arial,helvetica,sans-serif">P: 717-208-8666 Ext:=20
+100</font></div><div><font size=3D"3" color=3D"000000" face=3D"arial,helvet=
+ica,sans-serif">Email:=20
+sparker@compliancekey.com<br></font><font size=3D"3" color=3D"000000" face=
+=3D"arial,helvetica,sans-serif"><a href=3D"http://webinar.compliancekey.net=
+/a/hBZzjl9B9KqbmB9gWW5AAZqGbsZ/link8?track=3Dwebinar.compliancekey.net/a/hB=
+Zzjl9B9KqbmB9gWW5AAZqGbsZ" target=3D"null"><img src=3D"http://compliancekey=
+.us/images/logo.jpg" alt=3D"" style=3D"width: 168px; height: 46px;"></a></f=
+ont></div><div><font size=3D"3" color=3D"000000" face=3D"arial,helvetica,sa=
+ns-serif">&nbsp;This email and any=20
+attachments thereto may contain private, confidential, and privileged=20
+material for the sole use of the intended=20
+recipient.&nbsp;</font></div><div><font size=3D"3" color=3D"000000" face=3D=
+"arial,helvetica,sans-serif"><br></font></div><div><font size=3D"3" color=
+=3D"000000" face=3D"arial,helvetica,sans-serif">If you believe you received=
+ this e-mail in error, please=20
+                             </font><font size=3D"3" color=3D"000000" face=
+=3D"arial,helvetica,sans-serif"><a href=3D"mailto:rm-2b334p9kbf5qcthauchyw5=
+byjgt4etw@webinar.compliancekey.net?subject=3DUnsubscribe&amp;body=3DYou%20=
+will%20be%20unsubscribed%20from%20mailing%20list." target=3D"_blank" style=
+=3D"text-decoration: none;">click here</a><font>&nbsp;to remove yourself fr=
+om my mailing list.&nbsp;
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20
+</font></font></div></body></html>
+
+
+--=b334p9kbf5qcthauchyw5byjgt4etw--
+

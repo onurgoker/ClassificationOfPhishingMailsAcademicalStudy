@@ -1,0 +1,517 @@
+Received: from unknown (HELO Newsletter-smtp14.iverycost.eu) (89.38.98.156)
+  by 0 with ESMTPS (DHE-RSA-AES256-GCM-SHA384 encrypted); 24 Aug 2017 06:51:26 -0000
+Received-SPF: pass (0: SPF record at iverycost.eu designates 89.38.98.156 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=iverycost.eu;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:
+ Content-Type:Content-Transfer-Encoding; i=newsletters@iverycost.eu;
+ bh=ediRK2AcdZB/LD7o0mPz0mDzYTE=;
+ b=J3cCPdmLDPNIHlQKBF5mnbasD0oclSDppuGu215BPugF2p1bKwsK1Y8dsmb2bP1Nrp2O2x/CDWTH
+   HJSsvqixY3aiMymZpCXM9yockXBQ2OFQsDCNmVJ9MqQd6NF2IiQnT4cJCp80jgNqbe8rERdMYM2Q
+   5lK8YPZbqqWS/EF0X0E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=iverycost.eu;
+ b=nsLwf6/ElkcMqIIVx23+nJ4DPasyg2KAYTAHAAY5GVFWqeVITgggkvbvvV9WBeoHPRWSonqa3Dte
+   /C6RCNECefXrjmaLGW+sNouV+PcSRsjwJIcU60kh3n7VH1E74LzRViNXiKf9JzIvWoUIAM4uEzz2
+   SlyoXeMKLjIedil8yxo=;
+Received: from iverycost.eu (94.23.194.125) by Newsletter-smtp14.iverycost.eu for <james@comodo.com>; Thu, 24 Aug 2017 10:43:04 +0200 (envelope-from <bounce-james=comodo.com@iverycost.eu>)
+To: ---------- <abc@example.com>
+Subject: =?UTF-8?B?QWtrdXJhdCBuw6Ugc3TDpXIgZmxlcmUgYmFua2VyIGtsYXJlIHRpbCDDpSB0aWxieSBkZWcgbMOlbi4=?=
+Message-ID: <a6612e09ba9d0d76a3884610787a195f@iverycost.eu>
+Return-Path: bounce@iverycost.eu
+Date: Thu, 24 Aug 2017 05:00:05 +0200
+From: "Kundeservice" <newsletters@iverycost.eu>
+Reply-To: newsletters@iverycost.eu
+MIME-Version: 1.0
+X-Mailer-LID: 3
+List-Unsubscribe: <http://iverycost.eu/unsubscribe.php?M=51139&C=848f7c5910e957ea2b4143ef481ca426&L=3&N=6>
+X-Mailer-RecptId: 51139
+X-Mailer-SID: 6
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_45efc8ecabbfb7f67a687f8f3a4da814"
+Content-Transfer-Encoding: 8bit
+
+--b1_45efc8ecabbfb7f67a687f8f3a4da814
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+
+
+
+
+NORDICFINANCE
+
+
+
+
+
+
+
+Send s&oslash;knad i dag!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   [http://iverycost.eu/link.php?M=51139&N=6&L=5&F=T]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Du har tidligere vist interesse for de l&aring;n vi kan tilby,
+og n&aring; st&aring;r flere banker klare til &aring; tilby deg l&aring;n.
+
+Du har muligheten her til &aring; l&aring;ne fra 5.000 til 500.000 kr.
+
+
+S&aring; enkelt er det:
+
+&radic; Send en inn s&oslash;knad, og f&aring; ditt svar
+
+&radic; Pengene blir satt direkte inn p&aring; din konto.
+
+&radic; Din s&oslash;knad er gratis og uforpliktende.
+
+
+Og ja: servicen er 100% gratis for deg!
+
+
+
+
+
+ Begynn din s&oslash;knad n&aring; her!
+[http://iverycost.eu/link.php?M=51139&N=6&L=6&F=T]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eff. rente 15,8%, 65.000 kr. over 5 &aring;r, etablering 950,-, Totalt:
+92.354 kr.
+
+
+Du mottar denne mailen fordi du tidligere har deltatt i en
+unders&oslash;kelse og/eller en konkurranse p&aring; internett.
+&Oslash;nsker du ikke &aring; motta disse tilbudene kan du melde deg av her
+[http://iverycost.eu/unsubscribe.php?M=51139&C=848f7c5910e957ea2b4143ef481ca426&L=3&N=6]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- #*#*# FLIPMODE! #*#*# -->
+
+--b1_45efc8ecabbfb7f67a687f8f3a4da814
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!--[if IE]><html
+xmlns="http://www.w3.org/1999/xhtml" class="ie-browser"
+xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"><![endif]--><!--[if
+!IE]><!--><html style="margin: 0;padding: 0;"
+xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
+    <!--[if gte mso 9]><xml>
+     <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+     </o:OfficeDocumentSettings>
+    </xml><![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width">
+    <!--[if !mso]><!--><meta http-equiv="X-UA-Compatible"
+content="IE=edge"><!--<![endif]-->
+    <title>BF-basic-onecolumn</title>
+
+
+    <style type="text/css" id="media-query">
+      body {
+  margin: 0;
+  padding: 0; }
+
+table {
+  border-collapse: collapse;
+  table-layout: fixed; }
+
+* {
+  line-height: inherit; }
+
+a[x-apple-data-detectors=true] {
+  color: inherit !important;
+  text-decoration: none !important; }
+
+ .ie-browser .col, [owa] .block-grid .col {
+  display: table-cell;
+  float: none !important;
+  vertical-align: top; }
+
+ .ie-browser .num12, .ie-browser .block-grid, [owa] .num12, [owa]
+block-grid {
+  width: 500px !important; }
+
+ .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass
+font, .ExternalClass td, .ExternalClass div {
+  line-height: 100%; }
+
+ .ie-browser .mixed-two-up .num4, [owa] .mixed-two-up .num4 {
+  width: 164px !important; }
+
+ .ie-browser .mixed-two-up .num8, [owa] .mixed-two-up .num8 {
+  width: 328px !important; }
+
+ .ie-browser .block-grid.two-up .col, [owa] .block-grid.two-up .col {
+  width: 250px !important; }
+
+ .ie-browser .block-grid.three-up .col, [owa] .block-grid.three-up .col {
+  width: 166px !important; }
+
+ .ie-browser .block-grid.four-up .col, [owa] .block-grid.four-up .col {
+  width: 125px !important; }
+
+ .ie-browser .block-grid.five-up .col, [owa] .block-grid.five-up .col {
+  width: 100px !important; }
+
+ .ie-browser .block-grid.six-up .col, [owa] .block-grid.six-up .col {
+  width: 83px !important; }
+
+ .ie-browser .block-grid.seven-up .col, [owa] .block-grid.seven-up .col {
+  width: 71px !important; }
+
+ .ie-browser .block-grid.eight-up .col, [owa] .block-grid.eight-up .col {
+  width: 62px !important; }
+
+ .ie-browser .block-grid.nine-up .col, [owa] .block-grid.nine-up .col {
+  width: 55px !important; }
+
+ .ie-browser .block-grid.ten-up .col, [owa] .block-grid.ten-up .col {
+  width: 50px !important; }
+
+ .ie-browser .block-grid.eleven-up .col, [owa] .block-grid.eleven-up .col
+{
+  width: 45px !important; }
+
+ .ie-browser .block-grid.twelve-up .col, [owa] .block-grid.twelve-up .col
+{
+  width: 41px !important; }
+
+@media only screen and (min-width: 520px) {
+  .block-grid {
+    width: 500px !important; }
+  .block-grid .col {
+    display: table-cell;
+    Float: none !important;
+    vertical-align: top; }
+    .block-grid .col.num12 {
+      width: 500px !important; }
+  .block-grid.mixed-two-up .col.num4 {
+    width: 164px !important; }
+  .block-grid.mixed-two-up .col.num8 {
+    width: 328px !important; }
+  .block-grid.two-up .col {
+    width: 250px !important; }
+  .block-grid.three-up .col {
+    width: 166px !important; }
+  .block-grid.four-up .col {
+    width: 125px !important; }
+  .block-grid.five-up .col {
+    width: 100px !important; }
+  .block-grid.six-up .col {
+    width: 83px !important; }
+  .block-grid.seven-up .col {
+    width: 71px !important; }
+  .block-grid.eight-up .col {
+    width: 62px !important; }
+  .block-grid.nine-up .col {
+    width: 55px !important; }
+  .block-grid.ten-up .col {
+    width: 50px !important; }
+  .block-grid.eleven-up .col {
+    width: 45px !important; }
+  .block-grid.twelve-up .col {
+    width: 41px !important; } }
+
+@media (max-width: 520px) {
+  .block-grid, .col {
+    min-width: 320px !important;
+    max-width: 100% !important; }
+  .block-grid {
+    width: calc(100% - 40px) !important; }
+  .col {
+    width: 100% !important; }
+    .col > div {
+      margin: 0 auto; }
+  img.fullwidth {
+    max-width: 100% !important; } }
+
+    </style>
+</head>
+<!--[if mso]>
+<body class="mso-container" style="background-color:#FFFFFF;">
+<!--[endif]----> <!--[if !mso]><!--><!--<![endif]-->
+<div class="nl-container" style="min-width: 320px; margin: 0 auto;
+background-color: #ffffff;">
+<div style="background-color: #3b474d;">
+<div rel="col-num-container-box" style="margin: 0 auto; min-width: 320px;
+max-width: 500px; width: calc(19000% - 98300px); overflow-wrap: break-word;
+word-wrap: break-word; word-break: break-word; background-color:
+transparent;" class="block-grid ">
+<div style="border-collapse: collapse; display: table; width:
+100%;"><!--[if (mso)|(IE)]><table width="100%" cellpadding="0"
+cellspacing="0" border="0"><tr><td style="background-color:#3B474D;"
+align="center"><table cellpadding="0" cellspacing="0" border="0"
+style="width: 500px;"><tr class="layout-full-width"
+style="background-color:transparent;"><![endif]--> <!--[if (mso)|(IE)]><td
+align="center"  width="500" style=" width:500px; padding-right: 0px;
+padding-left: 0px; border-top: 0px solid transparent; border-left: 0px
+solid transparent; border-bottom: 0px solid transparent; border-right: 0px
+solid transparent;" valign="top"><![endif]-->
+<div rel="col-num-container-box" class="col num12" style="min-width: 320px;
+max-width: 500px; width: calc(18000% - 89500px); background-color:
+transparent;">
+<div style="background-color: transparent; border: 0px solid
+transparent;">
+<div style="line-height: 20px; font-size: 1px;">&nbsp;</div>
+<div style="margin-right: 10px; margin-left: 10px;">
+<div style="line-height: 10px; font-size: 1px;">&nbsp;</div>
+<div style="font-size: 12px; line-height: 14px; color: #f5f2f2;
+font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; text-align:
+left;">
+<p style="margin: 0; font-size: 12px; line-height: 14px; text-align:
+center;"><strong><span style="font-size: 26px; line-height:
+31px;">NORDICFINANCE</span></strong></p>
+</div>
+</div>
+<div style="margin-right: 10px; margin-left: 10px;">
+<div style="line-height: 5px; font-size: 1px;">&nbsp;</div>
+<div style="font-size: 12px; line-height: 14px; color: #d9d9d9;
+font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; text-align:
+left;">
+<p style="margin: 0; font-size: 14px; line-height: 17px; text-align:
+center;"><strong>Send s&oslash;knad i dag!</strong></p>
+</div>
+<div style="line-height: 10px; font-size: 1px;">&nbsp;</div>
+</div>
+<div style="line-height: 20px; font-size: 1px;">&nbsp;</div>
+</div>
+</div>
+<!--[if (mso)|(IE)]></td></table></td></tr></table><![endif]--></div>
+</div>
+</div>
+<div style="background-color: #d1dde1;">
+<div rel="col-num-container-box" style="margin: 0 auto; min-width: 320px;
+max-width: 500px; width: calc(19000% - 98300px); overflow-wrap: break-word;
+word-wrap: break-word; word-break: break-word; background-color:
+transparent;" class="block-grid ">
+<div style="border-collapse: collapse; display: table; width:
+100%;"><!--[if (mso)|(IE)]><table width="100%" cellpadding="0"
+cellspacing="0" border="0"><tr><td style="background-color:#D1DDE1;"
+align="center"><table cellpadding="0" cellspacing="0" border="0"
+style="width: 500px;"><tr class="layout-full-width"
+style="background-color:transparent;"><![endif]--> <!--[if (mso)|(IE)]><td
+align="center"  width="500" style=" width:500px; padding-right: 10px;
+padding-left: 10px; border-top: 0px solid transparent; border-left: 0px
+solid transparent; border-bottom: 0px solid transparent; border-right: 0px
+solid transparent;" valign="top"><![endif]-->
+<div rel="col-num-container-box" class="col num12" style="min-width: 320px;
+max-width: 500px; width: calc(18000% - 89500px); background-color:
+transparent;">
+<div style="background-color: transparent; border: 0px solid
+transparent;">
+<div style="line-height: 10px; font-size: 1px;">&nbsp;</div>
+<!--[if !mso]><!-->
+<div style="margin-right: 10px; margin-left: 10px;"><!--<![endif]-->
+<div align="center" style="margin-right: 0px; margin-left: 0px;"><a
+href="http://iverycost.eu/link.php?M=51139&N=6&L=5&F=H" target="_blank">
+<img class="center fullwidth" border="0"
+src="http://us1-eu1.ckcdnassets.com/579/creatives/201637/400x400.png"
+alt="Image" title="Image" style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; clear: both; display: block; border: none;
+height: auto; width: 100%; max-width: 480px;" width="200" height="200" />
+</a></div>
+<!--[if !mso]><!--></div>
+<!--<![endif]-->
+<div style="line-height: 10px; font-size: 1px;">&nbsp;</div>
+</div>
+</div>
+<!--[if (mso)|(IE)]></td></table></td></tr></table><![endif]--></div>
+</div>
+</div>
+<div style="background-color: #71939e;">
+<div rel="col-num-container-box" style="margin: 0 auto; min-width: 320px;
+max-width: 500px; width: calc(19000% - 98300px); overflow-wrap: break-word;
+word-wrap: break-word; word-break: break-word; background-color:
+transparent;" class="block-grid ">
+<div style="border-collapse: collapse; display: table; width:
+100%;"><!--[if (mso)|(IE)]><table width="100%" cellpadding="0"
+cellspacing="0" border="0"><tr><td style="background-color:#71939E;"
+align="center"><table cellpadding="0" cellspacing="0" border="0"
+style="width: 500px;"><tr class="layout-full-width"
+style="background-color:transparent;"><![endif]--> <!--[if (mso)|(IE)]><td
+align="center"  width="500" style=" width:500px; padding-right: 0px;
+padding-left: 0px; border-top: 0px solid transparent; border-left: 0px
+solid transparent; border-bottom: 0px solid transparent; border-right: 0px
+solid transparent;" valign="top"><![endif]-->
+<div rel="col-num-container-box" class="col num12" style="min-width: 320px;
+max-width: 500px; width: calc(18000% - 89500px); background-color:
+transparent;">
+<div style="background-color: transparent; border: 0px solid
+transparent;">
+<div style="margin-right: 25px; margin-left: 10px;">
+<div style="font-size: 12px; line-height: 14px; color: #170e0e;
+font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; text-align:
+left;">
+<p align="center"><span style="font-size: medium; color:
+#ffffff;"><strong><br />Du har tidligere vist interesse for de l&aring;n vi
+kan tilby,<br />og&nbsp;n&aring; st&aring;r flere banker klare til &aring;
+tilby deg l&aring;n.<br /><br />Du har muligheten her til &aring;
+l&aring;ne&nbsp;<u>fra 5.000 til 500.000 kr.</u></strong></span></p>
+<p align="center"><span style="font-size: medium; color:
+#ffffff;"><strong><u><br />S&aring; enkelt er det:</u></strong></span></p>
+<p align="center"><span style="font-size: medium; color:
+#ffffff;"><strong>&radic; Send en inn s&oslash;knad, og f&aring; ditt
+svar</strong></span></p>
+<p align="center"><span style="font-size: medium; color:
+#ffffff;"><strong>&radic; Pengene blir satt direkte inn p&aring; din
+konto.<br /><br /></strong><strong>&radic; Din s&oslash;knad er gratis og
+uforpliktende.<br /><br /><br /></strong>Og ja: servicen er 100% gratis for
+deg!</span></p>
+</div>
+</div>
+<div align="left" class="button-container left" style="margin-right: 10px;
+margin-left: 10px;">
+<div style="color: #ffffff; background-color: #2496d5; border-radius: 5px;
+-webkit-border-radius: 5px; -moz-border-radius: 5px; max-width: 480px;
+width: calc(100% - 40px); padding-top: 5px; padding-right: 20px;
+padding-bottom: 5px; padding-left: 20px; font-family: Arial, 'Helvetica
+Neue', Helvetica, sans-serif; text-align: center; border: 0px solid
+transparent;"><!--<![endif]--> <span style="text-decoration:
+underline;"><span style="color: #ffffff;"><strong><span style="font-size:
+x-large; line-height: 32px;"><a
+href="http://iverycost.eu/link.php?M=51139&N=6&L=6&F=H"
+target="_blank"><span style="color: #ffffff; text-decoration:
+underline;">Begynn din s&oslash;knad n&aring;
+her!</span></a></span></strong></span></span> <!--[if !mso]><!--></div>
+<div style="line-height: 10px; font-size: 1px;">&nbsp;</div>
+</div>
+<div style="line-height: 30px; font-size: 1px;">&nbsp;</div>
+</div>
+</div>
+<!--[if (mso)|(IE)]></td></table></td></tr></table><![endif]--></div>
+</div>
+</div>
+<div style="background-color: #444444;">
+<div rel="col-num-container-box" style="margin: 0 auto; min-width: 320px;
+max-width: 500px; width: calc(19000% - 98300px); overflow-wrap: break-word;
+word-wrap: break-word; word-break: break-word; background-color:
+transparent;" class="block-grid ">
+<div style="border-collapse: collapse; display: table; width:
+100%;"><!--[if (mso)|(IE)]><table width="100%" cellpadding="0"
+cellspacing="0" border="0"><tr><td style="background-color:#444444;"
+align="center"><table cellpadding="0" cellspacing="0" border="0"
+style="width: 500px;"><tr class="layout-full-width"
+style="background-color:transparent;"><![endif]--> <!--[if (mso)|(IE)]><td
+align="center"  width="500" style=" width:500px; padding-right: 0px;
+padding-left: 0px; border-top: 0px solid transparent; border-left: 0px
+solid transparent; border-bottom: 0px solid transparent; border-right: 0px
+solid transparent;" valign="top"><![endif]-->
+<div rel="col-num-container-box" class="col num12" style="min-width: 320px;
+max-width: 500px; width: calc(18000% - 89500px); background-color:
+transparent;">
+<div style="background-color: transparent; border: 0px solid
+transparent;">
+<div style="line-height: 25px; font-size: 1px;">&nbsp;</div>
+<div style="margin-right: 10px; margin-left: 10px;">
+<div style="line-height: 10px; font-size: 1px;">&nbsp;</div>
+<div style="font-size: 12px; line-height: 14px; color: #bbbbbb;
+font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; text-align:
+left;">
+<p style="margin: 0; font-size: 18px; line-height: 22px; text-align:
+center;"><span style="font-size: 10px; line-height: 12px;">Eff. rente
+15,8%, 65.000 kr. over 5 &aring;r, etablering 950,-, Totalt: 92.354 kr.<br
+/><br /><br /><span>Du mottar denne mailen fordi du tidligere har deltatt i
+en unders&oslash;kelse og/eller en konkurranse p&aring;
+internett.&nbsp;</span><br /><span>&Oslash;nsker du ikke &aring; motta
+disse tilbudene kan du melde deg av&nbsp;<a
+href="http://iverycost.eu/unsubscribe.php?M=51139&C=848f7c5910e957ea2b4143ef481ca426&L=3&N=6"
+target="_blank"><span>her</span></a></span><br /><br /><br /></span></p>
+</div>
+<div style="line-height: 10px; font-size: 1px;">&nbsp;</div>
+</div>
+<div style="line-height: 25px; font-size: 1px;">&nbsp;</div>
+</div>
+</div>
+<!--[if (mso)|(IE)]></td></table></td></tr></table><![endif]--></div>
+</div>
+</div>
+</div>
+<!--![endif]---->
+<br/><!-- #*#*# FLIPMODE! #*#*# --><img
+src="http://iverycost.eu/open.php?M=51139&L=3&N=6&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_45efc8ecabbfb7f67a687f8f3a4da814--
+
+

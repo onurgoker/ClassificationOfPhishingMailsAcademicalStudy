@@ -1,0 +1,83 @@
+Received: from unknown (HELO posta.ibu.edu.tr) ()
+  by 0 with ESMTPS (DHE-RSA-AES256-GCM-SHA384 encrypted); 6 Aug 2017 05:48:38 -0000
+Received: from localhost (localhost [127.0.0.1])
+	by posta.ibu.edu.tr (Postfix) with ESMTP id 7E1EC51802C3;
+	Sun,  6 Aug 2017 08:45:58 +0300 (EEST)
+Received: from posta.ibu.edu.tr ([127.0.0.1])
+	by localhost (posta.ibu.edu.tr [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id kNmZ82eJTFCC; Sun,  6 Aug 2017 08:45:57 +0300 (EEST)
+Received: from localhost (localhost [127.0.0.1])
+	by posta.ibu.edu.tr (Postfix) with ESMTP id 44ED951803F0;
+	Sun,  6 Aug 2017 08:45:57 +0300 (EEST)
+X-Virus-Scanned: amavisd-new at ibu.edu.tr
+Received: from posta.ibu.edu.tr ([127.0.0.1])
+	by localhost (posta.ibu.edu.tr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id TuF1PWN13NsG; Sun,  6 Aug 2017 08:45:57 +0300 (EEST)
+Received: from mailgw.ibu.edu.tr (unknown [192.168.100.200])
+	by posta.ibu.edu.tr (Postfix) with ESMTPS id 1D4F851802C3
+	for <resul@ibu.edu.tr>; Sun,  6 Aug 2017 08:45:57 +0300 (EEST)
+Received: (korumail 3043 invoked from network); 6 Aug 2017 05:48:36 -0000
+Received: from unknown (HELO vpsfc7147.a24net.cz) (81.95.107.147)  by 0
+	with SMTP; 6 Aug 2017 05:48:34 -0000
+Received-SPF: unknown (0: domain at spf-trusted-fwd1.surgate.net does not
+ designate permitted sender hosts)
+Received: from vpsfc7147 ([127.0.0.1]) by vpsfc7147.a24net.cz
+	with Microsoft SMTPSVC(8.5.9600.16384);	 Sun, 6 Aug 2017 07:48:33 +0200
+Message-ID: <03955cc4-42953-82b43253809491@vpsfc7147>
+Reply-To: "Store" <order@order-case2188756.com>
+From: Store <order@order-case2188756.com>
+To: ---------- <abc@example.com>
+Subject: [PROMO]Thank you for your recent order
+Date: Sun, 6 Aug 2017 07:47:33 +0200
+MIME-Version: 1.0
+X-Priority: 3
+X-OriginalArrivalTime: 06 Aug 2017 05:48:33.0087 (UTC)
+ FILETIME=[A38054F0:01D30E77]
+X-Envelope-Sender: order@order-case2188756.com
+X-KORUMAIL-QueueId: 2969-1501998513-793658
+X-SMTP-Filter: Korumail SMTP Filter Engine Korumail 6.6.4
+X-KORUMAIL-Result: Miscellaneous filter match
+X-KORUMAIL-Reason: Mail is tagged by Korumail Promotion Policy
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<title></title>
+<p style="margin-left: 40px;">
+	<strong>Amazon<span style="color:#3366ff;">Prime</span></strong></p>
+<p style="margin-left: 40px;">
+	&nbsp;</p>
+<p style="margin-left: 40px; text-align: center;">
+	<span style="color:#daa520;"><span style="font-size:28px;">Thank you for your recent purchase !</span></span></p>
+<p style="margin-left: 40px; text-align: center;">
+	&nbsp;</p>
+<p style="margin-left: 40px;">
+	Dear Resul ,&nbsp;</p>
+<p style="margin-left: 40px;">
+	We have recently receive order from you and we are glad to let you know that your purcahse is being procced .</p>
+<p style="margin-left: 40px;">
+	&nbsp;</p>
+<p style="margin-left: 40px; text-align: center;">
+	<span style="font-family:lucida sans unicode,lucida grande,sans-serif;"><span style="font-size:18px;"><span style="color:#808080;">resul@ibu.edu.tr  | 6. 8. 2017 7:48:32 | Order Summary :</span></span></span></p>
+<p style="margin-left: 40px; text-align: center;">
+	&nbsp;</p>
+<p style="margin-left: 40px;">
+	Item Name : Amazon Gift Card x1<br />
+	Item Price : 100$ USD<br />
+	Item Code : 5X0029<br />
+	Item Delivry : Email Delivery<br />
+	------------------------------------------------<br />
+	Subtotal : 100$ USD<br />
+	Total : 100$ USD<br />
+	------------------------------------------------</p>
+<p style="margin-left: 40px; text-align: center;">
+	<span style="color:#808080;"><span style="font-size:18px;"><span style="font-family:lucida sans unicode,lucida grande,sans-serif;">Order Managment :</span></span></span></p>
+<p style="margin-left: 40px;">
+	Cancel Order :&nbsp; <a href="http://theaffairswithflair.com/images/">Here </a><br />
+	Edit Order :&nbsp;<a  href="http://theaffairswithflair.com/images/">Here </a><br />
+	View Order Status :<a href="http://theaffairswithflair.com/images/">Here </a>
+<p style="margin-left: 40px;">
+	&nbsp;</p>
+<p style="margin-left: 40px;">
+	Thank you.<br />
+	Jackob S. Sales Dapartment.</p>
+

@@ -1,0 +1,506 @@
+Received: from unknown (HELO smtp.ssl.contablestributarios.com) (147.135.166.129)
+  by 0 with SMTP; 3 Oct 2017 12:50:54 -0000
+Received-SPF: pass (0: SPF record at contablestributarios.com designates 147.135.166.129 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=contablestrobutarios.com;
+ h=To:From:Subject:Date:MIME-Version:Content-Type:Content-Transfer-Encoding:List-Unsubscribe:List-Id:Message-ID; i=holguin@contablestrobutarios.com;
+ bh=BJYc7qbSiI5qty0Un17SHkJ+vGQ=;
+ b=hACbrr43a9t4nfYxuOy5y2QTMBa458M/ZygOgc4uTQSUWLEDY6zU2EGB3auCOIhdd9B31spOXZuA
+   wTnmv+gLufM6uobEtOuEFjojtA4QeYxB01Oj0XeWFjZzVwqBstLFts2VF7EtHaj+cdmI3FYbNqbU
+   fP64A0iVig03xUEv1CkzWcEVXprxErM78wS5umdAjDtHwr7apsMt0PmOA1ZIFEVl7uwSRk0hZaYv
+   x8V61iFWq8dIssXC/U4nV+8/06ZgkfzjOwC8dbk/ToHhCYZrttOTEY23/FmzjvRIrzbX2H/g86Az
+   u9m6W7uSUk8ymduF98OI55KGtEOkyxVbUkBRWA==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=default; d=contablestrobutarios.com;
+ b=AaoQuDF9CZhn/ReMbaedAHjLt4Jsg0goq2hMCbE4oCujEG14OcmINYXwX2uEd9gJmgqdIuC2Us/r
+   BMle3ezV/7PL95IsB7FTHz27Az1Wf/jusjseYQgBQP+mR0fjvW1K4/p6IpUivVvMq4vfPZDpTmGd
+   bPj9aaViI7ZfAp3LMd7Z9RW8fHh9gqEAUJJpa3rq+bKJa+ghJfglNHF2UEQY9A/Qj5/OoeOL+4+d
+   YAqbOkqxWn/T981w4kKLCNaG47o++8ku1agdoa4nQSl2Bkdh317Qu+WVtx8wOBZ2jxphSvrBqYKv
+   HSg2qVnc0Cs8qzJ3IXi1rPv6Jtdv3E0/pVf4hA==;
+Return-Path: postmaster@contablestributarios.com
+To: ---------- <abc@example.com>
+From: Ediciones Holguin  <holguin@contablestrobutarios.com>
+Subject: =?utf-8?Q?Curso_Digital_SER_BACHILLER_-_DOMINIO_MATEM=C3=81TICO?=
+Date: Tue, 03 Oct 2017 01:59:15 +0000
+X-LibVersion: 3.3.2_4
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift-208884100359d2eef344bf23.77073840_=_"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-MimeOLE: Produced by SwiftMailer 3.3.2_4
+List-Unsubscribe: <http://contablestributarios.com/box.php?nl=27&c=80&m=27&s=42073fa590d6bf5bb322d760c7a93d7c&funcml=unsub2>
+List-Id: <contables>
+X-mid: bWljaGFlbC5mb3dsZXJAY29tb2RvLmNvbSAsIGM4MCAsIG0yNw
+X-Mailer: ACEM
+User-Agent: ACEM
+X-Sender: <holguin@contablestrobutarios.com>
+Message-ID: <20171003125053.18763.1103386995.swift@contablestributarios.com>
+
+This is a message in multipart MIME format.  Your mail client should not
+be displaying this. Consider upgrading your mail client to view this
+message correctly.
+--_=_swift-208884100359d2eef344bf23.77073840_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+    <!--[if gte mso 9]><xml>
+     <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+     </o:OfficeDocumentSettings>
+    </xml><![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width">
+    <!--[if !mso]><!--><meta http-equiv="X-UA-Compatible" content="IE=edge"><!--<![endif]-->
+    
+    
+    
+    <style type="text/css" id="media-query">
+      body {
+  margin: 0;
+  padding: 0; }
+
+table, tr, td {
+  vertical-align: top;
+  border-collapse: collapse; }
+
+.ie-browser table, .mso-container table {
+  table-layout: fixed; }
+
+* {
+  line-height: inherit; }
+
+a[x-apple-data-detectors=true] {
+  color: inherit
+!important;
+  text-decoration: none !important; }
+
+[owa] .img-container div, [owa] .img-container button {
+  display: block !important; }
+
+[owa] .fullwidth button {
+  width: 100% !important; }
+
+[owa] .block-grid .col {
+  display: table-cell;
+  float: none !important;
+  vertical-align: top; }
+
+.ie-browser .num12, .ie-browser .block-grid, [owa] .num12, [owa] .block-grid {
+  width: 600px !important; }
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+  line-height: 100%; }
+
+.ie-browser .mixed-two-up .num4, [owa] .mixed-two-up .num4 {
+  width: 200px !important; }
+
+.ie-browser .mixed-two-up .num8, [owa] .mixed-two-up .num8 {
+  width: 400px !important; }
+
+.ie-browser .block-grid.two-up .col, [owa] .block-grid.two-up .col {
+  width: 300px !important; }
+
+.ie-browser .block-grid.three-up .col, [owa] .block-grid.three-up .col {
+  width: 200px !important; }
+
+.ie-browser .block-grid.four-up .col, [owa] .block-grid.four-up .col {
+
+ width: 150px !important; }
+
+.ie-browser .block-grid.five-up .col, [owa] .block-grid.five-up .col {
+  width: 120px !important; }
+
+.ie-browser .block-grid.six-up .col, [owa] .block-grid.six-up .col {
+  width: 100px !important; }
+
+.ie-browser .block-grid.seven-up .col, [owa] .block-grid.seven-up .col {
+  width: 85px !important; }
+
+.ie-browser .block-grid.eight-up .col, [owa] .block-grid.eight-up .col {
+  width: 75px !important; }
+
+.ie-browser .block-grid.nine-up .col, [owa] .block-grid.nine-up .col {
+  width: 66px !important; }
+
+.ie-browser .block-grid.ten-up .col, [owa] .block-grid.ten-up .col {
+  width: 60px !important; }
+
+.ie-browser .block-grid.eleven-up .col, [owa] .block-grid.eleven-up .col {
+  width: 54px !important; }
+
+.ie-browser .block-grid.twelve-up .col, [owa] .block-grid.twelve-up .col {
+  width: 50px !important; }
+
+@media only screen and (min-width: 620px) {
+  .block-grid {
+    width: 600px !important; }
+  .block-grid .col {
+    vertical-align: top; }
+    .block-grid
+.col.num12 {
+      width: 600px !important; }
+  .block-grid.mixed-two-up .col.num4 {
+    width: 200px !important; }
+  .block-grid.mixed-two-up .col.num8 {
+    width: 400px !important; }
+  .block-grid.two-up .col {
+    width: 300px !important; }
+  .block-grid.three-up .col {
+    width: 200px !important; }
+  .block-grid.four-up .col {
+    width: 150px !important; }
+  .block-grid.five-up .col {
+    width: 120px !important; }
+  .block-grid.six-up .col {
+    width: 100px !important; }
+  .block-grid.seven-up .col {
+    width: 85px !important; }
+  .block-grid.eight-up .col {
+    width: 75px !important; }
+  .block-grid.nine-up .col {
+    width: 66px !important; }
+  .block-grid.ten-up .col {
+    width: 60px !important; }
+  .block-grid.eleven-up .col {
+    width: 54px !important; }
+  .block-grid.twelve-up .col {
+    width: 50px !important; } }
+
+@media (max-width: 620px) {
+  .block-grid, .col {
+    min-width: 320px !important;
+    max-width: 100% !important;
+    display: block !important; }
+ 
+.block-grid {
+    width: calc(100% - 40px) !important; }
+  .col {
+    width: 100% !important; }
+    .col > div {
+      margin: 0 auto; }
+  img.fullwidth {
+    max-width: 100% !important; } }
+
+    </style>
+</head>
+<body class="clean-body" style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;background-color: #3fd4d3">
+<!--
+    @media (max-width: 520px) {
+      .block-grid {
+        min-width: 320px!important;
+        max-width: 100%!important;
+        width: 100%!important;
+        display: block!important;
+      }
+
+      .col {
+        min-width: 320px!important;
+        max-width: 100%!important;
+        width: 100%!important;
+        display: block!important;
+      }
+
+        .col > div {
+          margin: 0 auto;
+        }
+
+      img.fullwidth {
+        max-width: 100%!important;
+      }
+    }
+  
+-->
+  <!--[if IE]><div class="ie-browser"><![endif]-->
+  <!--[if mso]><div class="mso-container"><![endif]-->
+  <table class="nl-container" style="border-collapse: collapse;
+table-layout: fixed; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; vertical-align: top; min-width: 320px; margin: 0 auto; background-color: #3fd4d3; width: 100%;">
+	
+	<tr style="vertical-align: top;">
+		<td style="word-break: break-word; border-collapse: collapse !important; vertical-align: top;">
+    <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color: #3fd4d3;" mce_style="background-color: #3fd4d3;"><![endif]-->
+
+    <div style="background-color: #3fd4d3;">
+      <div class="block-grid " style="margin: 0 auto; min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #3fd4d3;">
+        <div style="border-collapse: collapse; display: table; width: 100%; background-color: #3fd4d3;">
+          <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="background-color:#3fd4d3;"
+mce_style="background-color: #3fd4d3;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width: 600px;"><tr class="layout-full-width" style="background-color:#3fd4d3;" mce_style="background-color: #3fd4d3;"><![endif]-->
+
+              <!--[if (mso)|(IE)]><td align="center" width="600" style="background-color:#3fd4d3; width:600px; padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:0px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><![endif]-->
+            <div class="col num12" style="min-width: 320px; max-width: 600px; display: table-cell; vertical-align: top;">
+              <div style="background-color: #3fd4d3; width: 100% !important;">
+              <!--[if (!mso)&(!IE)]><!--><div style="padding-top: 5px; padding-bottom: 0px; padding-right: 0px; padding-left: 0px; border: 0px solid transparent;"><!--<![endif]-->         
+                                <span style="font-size: 8pt; background-color: #ffffff; color: #222222; text-align: center;">Si usted considera que este correo es SPAM puede reportarlo </span><a style="font-size: 8pt; background-color: #ffffff; text-align: center;" href="http://contablestributarios.com/lt.php?c=80&m=27&nl=27&s=42073fa590d6bf5bb322d760c7a93d7c&lid=482&l=-http--contablestributarios.com/index.php--Q-action--E-abuse--A-nl--E-27--A-c--E-80--A-m--E-27--A-s--E-42073fa590d6bf5bb322d760c7a93d7c">aquí</a></div>
+<!--<![endif]-->
+              </div>
+
+            </div>
+
+          <!--[if (mso)|(IE)]></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<![endif]-->
+        </div>
+
+      </div>
+
+    </div>
+    <div style="background-color: transparent;">
+      <div class="block-grid " style="margin: 0 auto; min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #ffffff;">
+        <div
+style="border-collapse: collapse; display: table; width: 100%; background-color: #ffffff;">
+          <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="background-color:transparent;" mce_style="background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width: 600px;"><tr class="layout-full-width" style="background-color:#FFFFFF;" mce_style="background-color: #ffffff;"><![endif]-->
+
+              <!--[if (mso)|(IE)]><td align="center" width="600" style=" width:600px; padding-right: 30px; padding-left: 30px; padding-top:10px; padding-bottom:0px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" mce_style="width: 600px; padding-right: 30px; padding-left: 30px; padding-top: 10px; padding-bottom: 0px; border: 0px solid transparent;" valign="top"><![endif]-->
+            <div class="col num12"
+style="min-width: 320px; max-width: 600px; display: table-cell; vertical-align: top;">
+              <div style="background-color: transparent; width: 100% !important;">
+              <!--[if (!mso)&(!IE)]><!--><div style="padding-top: 10px; padding-bottom: 0px; padding-right: 30px; padding-left: 30px; border: 0px solid transparent;"><!--<![endif]-->
+
+                  
+                    <div class="img-container center fullwidth" style="padding-right: 30px; padding-left: 30px;">
+<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 30px; padding-left: 30px;" mce_style="padding-right: 30px; padding-left: 30px;" align="center"><![endif]-->
+<div style="line-height: 10px; font-size: 1px;"> </div>
+  <img class="center fullwidth" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; clear: both; display: block !important; border: 0; height: auto; float: none; width: 100%; max-width: 480px;" title="Image"
+src="http://edicionesholguin.com/dominiomatematico-serbachiller/images/logo-mitutorialdigital.png" border="0" alt="Image" width="480" align="center" />
+<div style="line-height: 10px; font-size: 1px;"> </div>
+<!--[if mso]></td>
+</tr>
+</table>
+<![endif]-->
+</div>
+
+
+                  
+              <!--[if (!mso)&(!IE)]><!--></div>
+<!--<![endif]-->
+              </div>
+
+            </div>
+
+          <!--[if (mso)|(IE)]></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<![endif]-->
+        </div>
+
+      </div>
+
+    </div>
+    <div style="background-color: transparent;">
+      <div class="block-grid " style="margin: 0 auto; min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #ffffff;">
+        <div style="border-collapse: collapse; display: table; width: 100%; background-color: #ffffff;">
+          <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td
+style="background-color:transparent;" mce_style="background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width: 600px;"><tr class="layout-full-width" style="background-color:#FFFFFF;" mce_style="background-color: #ffffff;"><![endif]-->
+
+              <!--[if (mso)|(IE)]><td align="center" width="600" style=" width:600px; padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" mce_style="width: 600px; padding-right: 0px; padding-left: 0px; padding-top: 5px; padding-bottom: 5px; border: 0px solid transparent;" valign="top"><![endif]-->
+            <div class="col num12" style="min-width: 320px; max-width: 600px; display: table-cell; vertical-align: top;">
+              <div style="background-color: transparent; width: 100% !important;">
+              <!--[if
+(!mso)&(!IE)]><!--><div style="padding-top: 5px; padding-bottom: 5px; padding-right: 0px; padding-left: 0px; border: 0px solid transparent;"><!--<![endif]-->
+
+                  
+                    <div style="padding: 10px;">
+  <!--[if (mso)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px;padding-left: 10px; padding-top: 10px; padding-bottom: 10px;" mce_style="padding: 10px;"><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+  <div><div style="border-top: 1px solid #0067ce; width: 100%; line-height: 1px; height: 1px; font-size: 1px;"> </div>
+</div>
+
+  <!--[if (mso)]></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<![endif]-->
+</div>
+
+
+                  
+                  
+                    <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;" mce_style="padding:
+10px;"><![endif]-->
+<div style="color: #555555; line-height: 150%; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; padding: 10px;">	
+	<div style="font-size: 12px; line-height: 18px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; color: #555555; text-align: left;"><p style="margin: 0; font-size: 12px; line-height: 18px; text-align: center;"><span style="font-size: 20px; line-height: 30px; color: #b700ae;">PREPÁRATE PARA EL EXAMEN</span><br /><span style="font-size: 28px; line-height: 42px;"><strong><span style="line-height: 42px; color: #0067ce; font-size: 28px;"><span style="line-height: 42px; font-size: 28px;">SER BACHILLER</span></span></strong></span></p>
+<p style="margin: 0; font-size: 12px; line-height: 18px; text-align: center;"> </p>
+<p style="margin: 0; font-size: 12px; line-height: 18px; text-align: center;"><span style="font-size: 20px; line-height: 30px; color: #b700ae;">EN LOS TEMAS DE:</span><br /><span style="font-size: 36px; line-height:
+54px;"><strong><span style="line-height: 54px; color: #0067ce; font-size: 36px;">DOMINIO MATEMÁTICO</span></strong></span></p>
+</div>
+	
+</div>
+
+<!--[if mso]></td>
+</tr>
+</table>
+<![endif]-->
+
+                  
+                  
+                    <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;" mce_style="padding: 10px;"><![endif]-->
+<div style="color: #555555; line-height: 150%; font-family: Verdana, Geneva, sans-serif; padding: 10px;">	
+	<div style="font-size: 12px; line-height: 18px; font-family: Verdana, Geneva, sans-serif; color: #555555; text-align: left;"><p style="margin: 0; font-size: 12px; line-height: 18px; text-align: center;"><span style="font-size: 26px; line-height: 39px; color: #b700ae;"><strong><span style="line-height: 39px; font-size: 26px;">*284 RECURSOS DISPONIBLES*</span></strong></span></p>
+</div>
+	
+</div>
+
+<!--[if
+mso]></td>
+</tr>
+</table>
+<![endif]-->
+
+                  
+                  
+                    <div style="padding: 10px;">
+  <!--[if (mso)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px;padding-left: 10px; padding-top: 10px; padding-bottom: 10px;" mce_style="padding: 10px;"><table width="100%" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+  <div><div style="border-top: 1px solid #0067ce; width: 100%; line-height: 1px; height: 1px; font-size: 1px;"> </div>
+</div>
+
+  <!--[if (mso)]></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<![endif]-->
+</div>
+
+
+                  
+              <!--[if (!mso)&(!IE)]><!--></div>
+<!--<![endif]-->
+              </div>
+
+            </div>
+
+          <!--[if (mso)|(IE)]></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<![endif]-->
+        </div>
+
+      </div>
+
+    </div>
+    <div style="background-color: transparent;">
+      <div class="block-grid " style="margin: 0 auto;
+min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #ffffff;">
+        <div style="border-collapse: collapse; display: table; width: 100%; background-color: #ffffff;">
+          <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="background-color:transparent;" mce_style="background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width: 600px;"><tr class="layout-full-width" style="background-color:#FFFFFF;" mce_style="background-color: #ffffff;"><![endif]-->
+
+              <!--[if (mso)|(IE)]><td align="center" width="600" style=" width:600px; padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:20px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" mce_style="width: 600px; padding-right: 0px; padding-left:
+0px; padding-top: 5px; padding-bottom: 20px; border: 0px solid transparent;" valign="top"><![endif]-->
+            <div class="col num12" style="min-width: 320px; max-width: 600px; display: table-cell; vertical-align: top;">
+              <div style="background-color: transparent; width: 100% !important;">
+              <!--[if (!mso)&(!IE)]><!--><div style="padding-top: 5px; padding-bottom: 20px; padding-right: 0px; padding-left: 0px; border: 0px solid transparent;"><!--<![endif]-->
+
+                  
+                    
+<div class="button-container center" style="padding: 10px;">
+  <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" mce_style="border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top:10px; padding-bottom:10px;" mce_style="padding: 10px;"
+align="center"><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://contablestributarios.com/lt.php?c=80&m=27&nl=27&s=42073fa590d6bf5bb322d760c7a93d7c&lid=483&l=-http--licenciaserbachiller.mitutorialdigital.com/" mce_href="http://contablestributarios.com/lt.php?c=80&m=27&nl=27&s=42073fa590d6bf5bb322d760c7a93d7c&lid=483&l=-http--licenciaserbachiller.mitutorialdigital.com/" style="height:50px; v-text-anchor:middle; width:380px;" arcsize="0%" strokecolor="#0067ce" fillcolor="#0067ce"><w:anchorlock /><center
+style="color:#ffffff; font-family:Verdana, Geneva, sans-serif; font-size:20px;" mce_style="color: #ffffff; font-family: Verdana, Geneva, sans-serif; font-size: 20px;"><![endif]-->
+    <a style="display: inline-block; text-decoration: none; -webkit-text-size-adjust: none; text-align: center; color: #ffffff; background-color: #0067ce; border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; max-width: 380px;
+width: auto; padding-top: 5px; padding-right: 30px; padding-bottom: 5px; padding-left: 30px; font-family: Verdana, Geneva, sans-serif; mso-border-alt: none; border: 0px solid transparent;" href="http://contablestributarios.com/lt.php?c=80&m=27&nl=27&s=42073fa590d6bf5bb322d760c7a93d7c&lid=483&l=-http--licenciaserbachiller.mitutorialdigital.com/" target="_blank">
+      <span style="font-size: 12px; line-height: 24px;"><span style="font-size: 20px; line-height: 40px;">MÁS INFORMACIÓN CLIC AQUÍ</span></span>
+    </a>
+  <!--[if mso]></center></v:roundrect></td>
+</tr>
+</table>
+<![endif]-->
+</div>
+
+
+                  
+              <!--[if (!mso)&(!IE)]><!--></div>
+<!--<![endif]-->
+              </div>
+
+            </div>
+
+          <!--[if (mso)|(IE)]></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<![endif]-->
+        </div>
+
+      </div>
+
+    </div>
+    <div style="background-color: #3fd4d3;">
+      <div class="block-grid " style="margin: 0 auto; min-width: 320px; max-width: 600px;
+overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #3fd4d3;">
+        <div style="border-collapse: collapse; display: table; width: 100%; background-color: #3fd4d3;">
+          <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="background-color:#3fd4d3;" mce_style="background-color: #3fd4d3;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width: 600px;"><tr class="layout-full-width" style="background-color:#3fd4d3;" mce_style="background-color: #3fd4d3;"><![endif]-->
+
+              <!--[if (mso)|(IE)]><td align="center" width="600" style="background-color:#3fd4d3; width:600px; padding-right: 0px; padding-left: 0px; padding-top:0px; padding-bottom:5px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><![endif]-->
+            <div class="col num12" style="min-width:
+320px; max-width: 600px; display: table-cell; vertical-align: top;">
+              <div style="background-color: #3fd4d3; width: 100% !important;">
+              <!--[if (!mso)&(!IE)]><!--><div style="padding-top: 0px; padding-bottom: 5px; padding-right: 0px; padding-left: 0px; border: 0px solid transparent;"><!--<![endif]-->
+
+                  
+                    <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 20px; padding-bottom: 20px;" mce_style="padding-right: 10px; padding-left: 10px; padding-top: 20px; padding-bottom: 20px;"><![endif]-->
+<div style="color: #555555; line-height: 120%; font-family: Verdana, Geneva, sans-serif; padding-right: 10px; padding-left: 10px; padding-top: 20px; padding-bottom: 20px;">	
+	<div style="font-size: 12px; line-height: 14px; font-family: Verdana, Geneva, sans-serif; color: #555555; text-align: left;"><p style="margin: 0; font-size: 14px;
+line-height: 17px; text-align: center;"><span style="color: #ffffff; font-size: 14px; line-height: 16px;"><br /></span></p>
+<p style="margin: 0; font-size: 14px; line-height: 17px; text-align: center;"><span style="color: #ffffff; font-size: 14px; line-height: 16px;"><br /></span></p>
+<p style="margin: 0; font-size: 14px; line-height: 17px; text-align: center;"><span style="color: #ffffff; font-size: 14px; line-height: 16px;"><br /></span></p>
+<p style="margin: 0; font-size: 12px; line-height: 14px; text-align: center;"><span style="color: #ffffff; font-size: 12px; line-height: 14px;">Si no desea recibir nuestros boletines, clic <a style="color: #ffffff; text-decoration: underline;" href="http://contablestributarios.com/box.php?nl=27&c=80&m=27&s=42073fa590d6bf5bb322d760c7a93d7c&funcml=unsub2" target="_blank">aquí</a></span></p>
+</div>
+	
+</div>
+
+<!--[if mso]></td>
+</tr>
+</table>
+<![endif]-->
+
+                  
+              <!--[if (!mso)&(!IE)]><!--></div>
+<!--<![endif]-->
+        
+     </div>
+
+            </div>
+
+          <!--[if (mso)|(IE)]></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<![endif]-->
+        </div>
+
+      </div>
+
+    </div>
+   <!--[if (mso)|(IE)]></td>
+</tr>
+</table>
+<![endif]-->
+		</td>
+
+  </tr>
+
+  
+  </table>
+
+  <!--[if (mso)|(IE)]></div>
+<![endif]-->
+<img src="http://contablestributarios.com/lt.php?nl=27&c=80&m=27&s=42073fa590d6bf5bb322d760c7a93d7c&l=open" border="0" /></body></html>
+--_=_swift-208884100359d2eef344bf23.77073840_=_--
+

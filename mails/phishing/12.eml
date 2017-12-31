@@ -1,0 +1,62 @@
+Received: from [115.238.72.223] (helo=V-MDB-223.localdomain)
+	by mxsrv3.spamgateway.comodo.com with esmtp (Exim 4.89)
+	(envelope-from <noreply@mail.com>)
+	id 1dysiO-00078D-IF
+	for cleveleys@allitt.co.uk; Mon, 02 Oct 2017 04:52:25 +0000
+Received: from User (localhost [127.0.0.1])
+	by V-MDB-223.localdomain (Postfix) with SMTP id 35CB382D98;
+	Mon,  2 Oct 2017 12:16:26 +0800 (CST)
+From: "RBS"<noreply@mail.com>
+Subject: Important
+Date: Sun, 1 Oct 2017 22:35:34 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20171002041626.35CB382D98@V-MDB-223.localdomain>
+To: ---------- <abc@example.com>
+Received-SPF: fail (mxsrv3.spamgateway.comodo.com: domain of mail.com does not designate 115.238.72.223 as permitted sender) client-ip=115.238.72.223; envelope-from=noreply@mail.com; helo=V-MDB-223.localdomain;
+X-SPF-Result: mxsrv3.spamgateway.comodo.com: domain of mail.com does not designate 115.238.72.223 as permitted sender
+X-Sender-Warning: Reverse DNS lookup failed for 115.238.72.223 (failed)
+Authentication-Results:  spamgateway.comodo.com; spf=fail smtp.mailfrom=noreply@mail.com
+X-Qasd-Class: phish
+X-Qasd-Evidence: SPF
+X-Recommended-Action: reject
+X-Filter-ID: PqwsvolAWURa0gwxuN3S5dmKoWm/PyPNJ26y77/Bg5TVbadsSl5FaiCpW/m0lVly/9ZgjdJx1GQE
+ Z8peyD7B6yhx+5WlZCJkcZUp1tvKIueEJF9LV0XHNV+8e8xFWNJRi9ZHhxUna39acDtReBRoaQQ0
+ IqmUOPhcwu1XUEpOVoLTFxxnilCo42A3G4+CNJWl74RNhUCx+vuVZKzveCpgpHLYM3A6BXfvel8O
+ EFDbU50CkXMQrweXk8C0OdZv4C2vb9AplEO5lC9WMqtkdrVRq+r3+fBPD3k5Uvk9QOLtdPPUQ5JF
+ nKR+Pxz2U8kFW2t2lR7/NmeKSD/DWFW6UEUhMtDTy9as8OAxdKnQ8P/7RiORf96k4/uKOm7Tj5+E
+ K7Qydw+CpnK6ug3RjzoBB+JlYnFF8Yf8NxqgBhRPYmCOlVeDYVHwjVBbURe+XW/2E8jSp7FiDM3Z
+ qWvUJ2i/D6oVCcZRMkoQsQvYs45O9bLZsrhJwbf+raWLFCRAGRIw3VoZdf2raDz16YHGOTi9tJoQ
+ rsTBk4VaTZM0bw0lhfMnwEFikSThWxENxxfP7JFRGPOisvFP/XQYpScxnYeECZ6rD7LFCA3Kqp/8
+ g3jzPWWmjo4wklRmdtHOdZ2BxyES3YkqrSOIPpeqwlm2NDGXIJ2x7Jeff3Sn6hvZUtx3NbKL9Sea
+ kIJSLpIN3LbkA3F0jOYWRqhutDU90G3oIU9fgPjSVlefJT/vE5cbnx1/zJWPPGL2vxDKDuNuuDnp
+ XCCyMe7bF3UQCiGoLKKdwWTtssjcPkPd6/wKUdlM7P0TbkoWQBg=
+X-Report-Abuse-To: ---------- <abc@example.com>
+
+<HTML><HEAD></HEAD>
+<BODY>
+<P>
+<TABLE style="HEIGHT: 60px; WIDTH: 577px; PADDING-BOTTOM: 0px; PADDING-TOP: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(10,47,100)">
+<TBODY>
+<TR>
+<TD style="FONT-FAMILY: arial, sans-serif; MARGIN: 0px">
+<CENTER><IMG class=CToWUd style="HEIGHT: 29px; WIDTH: 112px" src="https://ci6.googleusercontent.com/proxy/qVCq-7a26aSgCi6OkVbRKIfuHcFmHrLSsLjqwQuOiMOEulfTSUXYTX5_TEANiJF8lLV5tr8XhbEyuWRRz20mewWxkxfMUFIlPSVyCH6gZ9KbJQESxPdv5XniAlsQ=s0-d-e1-ft#http://newweb.jaxpaintsthailand.com/downloader/skin/images/official.gif" width=91 height=24></CENTER></TD>
+<TD style="HEIGHT: 38px; FONT-FAMILY: arial, sans-serif; WIDTH: 20px; PADDING-BOTTOM: 25px; PADDING-TOP: 10px; PADDING-LEFT: 30px; MARGIN: 0px"></TD></TR></TBODY></TABLE></P>
+<P>Dear Customer,</P>
+<P>For your security, We have temporarily disable access to your account and certain features within our online banking system as a security measure. Such as (Receive payments, Make payments or withdraw funds).</P>
+<P>We have been trying to contact you. However, we are unable to reach you. This is due to a slight error detected with your Customer number, PIN.</P>
+<P>For your security &amp; to ensure that your service is not interrupted please review your account as soon as possible by following the secure log in reference button giving below.</P>
+<P><A href="http://www.acs-truck.com/Advance/Secure/"><STRONG><FONT color=#004080 size=4>Login</FONT></STRONG></A></P>
+<P>Remember. We don't recommend storing data on a shared computer.</P>
+<P>Yours sincerely</P>
+<P>Managing Director, Retail Banking<BR>Online and mobile banking Security Team.</P>
+<P>2005-2017 The Royal Bank of Scotland plc</P>
+<P>Fraudsters may claim to be the bank to try and access security information. If you receive a call or email from RBS that you are suspicious about, cease the call immediately,</P>
+<P>The Royal Bank of Scotland plc, Registered in England and Wales No. 929027. Registered Office: 135 Bishopsgate, London, EC2M 3UR.</P>
+<P>Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Our Financial Services Register number is 121878.</P></BODY></HTML>

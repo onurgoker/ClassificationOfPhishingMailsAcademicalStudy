@@ -1,0 +1,271 @@
+Received: from unknown (HELO smtp-02-9757.kriter.com.tr) (81.22.97.57)  by 0
+	with SMTP; 28 Jul 2017 06:43:15 -0000
+Received: from mail-311.kriter.com.tr (mail-177-97-kadikoy.kriter.com.tr [81.22.97.177])
+	by smtp-102.kriter.com.tr (Postfix) with ESMTP id 975F61442F3
+	for <mogun@doratelekom.com.tr>; Fri, 28 Jul 2017 09:43:13 +0300 (GMT-3)
+Received: from sonic305-46.consmr.mail.sg3.yahoo.com (sonic305-46.consmr.mail.sg3.yahoo.com [106.10.241.109])
+	by mail-311.kriter.com.tr (Postfix) with ESMTP id C9D9914092E
+	for <hostmaster@kriweb.com>; Fri, 28 Jul 2017 09:43:10 +0300 (GMT-3)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.in; s=s2048;
+ t=1501224188; bh=pCVAkHf9KdqcTUbz04EcT3rnT8YJcHm5Xcb5gnFZ+To=;
+ h=Date:From:Reply-To:Subject:References:From:Subject;
+ b=B6ljGFYIbJtHZzphGqGh2RXUadwNnPxKcnnuTRW73GY876mMA51fDEbDm9SqynxKBae4dIAvC
+	73sRx0u0YhFATpDEt+sHqfLQ4mXVm6hLJu5UB82n+MzCnvZNyqVZOE2pUMm7MRQxjZLECAyVNNCZqrInMaJ55iqtZTCiprKQdTpND5I+jPS9TCVo2BJeghA0CwjVC5fCLxl07qpASpZtJ1NwyBVsTuWpm0S0E8GXcyIje7H0Gxj8JKlwdGplJfDttR47/zK5GYPCo4AUaQvUmKbiyzdpgeaEoc15eVmDGrNVM9XY0c89r3BSMJxqYPyxqWxvVRUMh4WIYkDYc7sJg==
+X-YMail-OSG: 8YeheG8VM1mbCi_yW.VsqhXCY6PqeCberUm3UzgHj3L7KerkE4VNNHwVm2GhOcg
+ BYDLbBu_EGJhbMea.2GNGXsXEAaCTvQClE2Q9uSk1_8d1YK3EbPse8Se_N84SPQotrEZdyjycQh
+	h
+ 4pLzpCeonsc.EKAErcLyGGt7C_M.g6GjESaw6ntAe6dPHO3XOxca1LM5FZvf4bE1YjSIoS3ewT8
+	J
+ QKcA_yo.yfa8lg0NGjYaFpc1n5toaHSZiMxMDzS7pHETOC1nyNpFo1rMjtjQqkSf0EM6XdqV3WH
+	Q
+ 5ZWq_JaW.sJbqZOgRpJm35ZL9gZnwMEjfLNtGEgHHuO4UNlJxvZ_JvOLVRzfzEr5HZZQTxR69Mt
+	m
+ KMlMByj1AB9ocHQlQ84orx7lNPfDbkvZkASD4YZSJwTEWl2C7YZfUy3DWBbvAOMFfutqFIAkKHO
+	.
+ O42fkhQ7mmkbj.aqV0NJW6dLgmG4E22IZKOjNUhG1N6kDb0nwRmqec6wWM1GVmSqYWzfZwtbJzS
+	C wJeNLhzhu9W_vMHcIG5KTD6F2ELgC
+Received: from sonic.gate.mail.ne1.yahoo.com
+	by sonic305.consmr.mail.sg3.yahoo.com with HTTP;
+	Fri, 28 Jul 2017 06:43:08 +0000
+Date: Fri, 28 Jul 2017 06:39:04 +0000 (UTC)
+From: Sophia Watson <sophia.marketingmanager@yahoo.in>
+To: ---------- <abc@example.com>
+Message-ID: <1402367602.1342405.1501223944015@mail.yahoo.com>
+Subject: Web Design & Development Services
+MIME-Version: 1.0
+References: <1402367602.1342405.1501223944015.ref@mail.yahoo.com>
+X-Mailer: WebService/1.1.10181 YahooMailNeo Mozilla/5.0 (Windows NT 6.1;
+ WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
+X-Virus-Scanned: Clean
+X-Sniffer-Scanned: Clean
+X-Envelope-Sender: sophia.marketingmanager@yahoo.in
+X-KORUMAIL-QueueId: 3464-1501224194-639501
+X-SMTP-Filter: Korumail SMTP Filter Engine Korumail 6.6.4
+X-KORUMAIL-Result: Clean (Content eval: 44.000000 points)
+X-KORUMAIL-Reason: 
+Content-Type: multipart/alternative;
+	boundary="----=_Part_1342404_1174282095.1501223944012"
+
+------=_Part_1342404_1174282095.1501223944012
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello,We are a leading web design company in India, we combine knowledge, e=
+xperience and talent to produce cutting edge visuals in web designing. Our =
+dynamic website packages provide absolute solution to the businesses or ind=
+ividuals, to post simple information about themselves or about their compan=
+y onto the Dynamic web pages.Our team of dynamic web designers and develope=
+rs use advanced programming languages like PHP and ASP.net. We are a profes=
+sional dynamic web design & development company in India, we are offering o=
+ur services to all types or size of businesses.Benefits of Dynamic Web Desi=
+gn & Development Services -=C2=B7=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0Easily manage the content, without the help of webmasters or te=
+chnical knowledge=C2=B7=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0Generate dynamic reports=C2=B7=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0Easily accessible control panel for making all kind of changes=
+=C2=B7=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0Effective & Qui=
+ck in loading website=C2=B7=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0SecurePlease share=C2=A0your full requirements with any reference web=
+site (Which you have in your mind), if you are interested then we provide y=
+ou all details about our company and service=E2=80=99s cost etc.=C2=A0Thank=
+sSophia
+------=_Part_1342404_1174282095.1501223944012
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"color:#000; background-color:#fff; f=
+ont-family:Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font=
+-size:13px"><div style=3D"-webkit-padding-start: 0px; margin: 0.1em 0px; pa=
+dding: 0px; display: block; color: rgb(0, 0, 0); font-family: &quot;Helveti=
+ca Neue&quot;, Helvetica, Arial, &quot;Lucida Grande&quot;, sans-serif; fon=
+t-size: 13px; font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; =
+text-align: start; text-indent: 0px; text-transform: none; white-space: nor=
+mal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-dec=
+oration-style: initial; text-decoration-color: initial;" id=3D"yui_3_16_0_y=
+m19_1_1501222024357_2807"><a name=3D"OLE_LINK1" style=3D"-webkit-padding-st=
+art: 0px; margin: 0px; padding: 0px; text-decoration: underline; background=
+: transparent; color: blue; outline: none; cursor: text !important;" id=3D"=
+yui_3_16_0_ym19_1_1501222024357_2808" href=3D""><span style=3D"-webkit-padd=
+ing-start: 0px;" id=3D"yui_3_16_0_ym19_1_1501222024357_2809">Hello,</span><=
+/a></div><div style=3D"-webkit-padding-start: 0px; margin: 0.1em 0px; paddi=
+ng: 0px; display: block; color: rgb(0, 0, 0); font-family: &quot;Helvetica =
+Neue&quot;, Helvetica, Arial, &quot;Lucida Grande&quot;, sans-serif; font-s=
+ize: 13px; font-style: normal; font-variant-ligatures: normal; font-variant=
+-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; tex=
+t-align: start; text-indent: 0px; text-transform: none; white-space: normal=
+; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decora=
+tion-style: initial; text-decoration-color: initial;" id=3D"yui_3_16_0_ym19=
+_1_1501222024357_2810"><span style=3D"-webkit-padding-start: 0px;" id=3D"yu=
+i_3_16_0_ym19_1_1501222024357_2811">We are a leading web design company in =
+India, we combine knowledge, experience and talent to produce cutting edge =
+visuals in web designing. Our dynamic website packages provide absolute sol=
+ution to the businesses or individuals, to post simple information about th=
+emselves or about their company onto the Dynamic web pages.</span></div><di=
+v style=3D"-webkit-padding-start: 0px; margin: 0.1em 0px; padding: 0px; dis=
+play: block; color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, =
+Helvetica, Arial, &quot;Lucida Grande&quot;, sans-serif; font-size: 13px; f=
+ont-style: normal; font-variant-ligatures: normal; font-variant-caps: norma=
+l; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: sta=
+rt; text-indent: 0px; text-transform: none; white-space: normal; widows: 2;=
+ word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: =
+initial; text-decoration-color: initial;" id=3D"yui_3_16_0_ym19_1_150122202=
+4357_2812"><span style=3D"-webkit-padding-start: 0px;" id=3D"yui_3_16_0_ym1=
+9_1_1501222024357_2813">Our team of dynamic web designers and developers us=
+e advanced programming languages like PHP and ASP.net. We are a professiona=
+l dynamic web design &amp; development company in India, we are offering ou=
+r services to all types or size of businesses.</span></div><div style=3D"-w=
+ebkit-padding-start: 0px; margin: 0.1em 0px; padding: 0px; display: block; =
+color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, Helvetica, Ar=
+ial, &quot;Lucida Grande&quot;, sans-serif; font-size: 13px; font-style: no=
+rmal; font-variant-ligatures: normal; font-variant-caps: normal; font-weigh=
+t: normal; letter-spacing: normal; orphans: 2; text-align: start; text-inde=
+nt: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing=
+: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text=
+-decoration-color: initial;" id=3D"yui_3_16_0_ym19_1_1501222024357_2814"><s=
+pan style=3D"-webkit-padding-start: 0px;" id=3D"yui_3_16_0_ym19_1_150122202=
+4357_2815"><span style=3D"-webkit-padding-start: 0px;" id=3D"yui_3_16_0_ym1=
+9_1_1501222024357_2816"><b style=3D"-webkit-padding-start: 0px;" id=3D"yui_=
+3_16_0_ym19_1_1501222024357_2817">Benefits of Dynamic Web Design &amp; Deve=
+lopment Services -</b></span></span></div><div style=3D"-webkit-padding-sta=
+rt: 0px; margin: 0.1em 0px 0.0001pt; padding: 0px; display: block; color: r=
+gb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, &qu=
+ot;Lucida Grande&quot;, sans-serif; font-size: 13px; font-style: normal; fo=
+nt-variant-ligatures: normal; font-variant-caps: normal; font-weight: norma=
+l; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px;=
+ text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -=
+webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decorat=
+ion-color: initial;" id=3D"yui_3_16_0_ym19_1_1501222024357_2818"><span styl=
+e=3D"-webkit-padding-start: 0px;" id=3D"yui_3_16_0_ym19_1_1501222024357_281=
+9"><span style=3D"-webkit-padding-start: 0px;" id=3D"yui_3_16_0_ym19_1_1501=
+222024357_2820"><span style=3D"-webkit-padding-start: 0px; font-family: Sym=
+bol;" id=3D"yui_3_16_0_ym19_1_1501222024357_2821"><span style=3D"-webkit-pa=
+dding-start: 0px;" id=3D"yui_3_16_0_ym19_1_1501222024357_2822">=C2=B7<span =
+style=3D"-webkit-padding-start: 0px; font-variant-numeric: normal; font-str=
+etch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times=
+ New Roman&quot;;" id=3D"yui_3_16_0_ym19_1_1501222024357_2823">&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style=
+=3D"-webkit-padding-start: 0px;" id=3D"yui_3_16_0_ym19_1_1501222024357_2824=
+">Easily manage the content, without the help of webmasters or technical kn=
+owledge</span></span></span></div><div style=3D"-webkit-padding-start: 0px;=
+ margin: 0.1em 0px; padding: 0px; display: block; color: rgb(0, 0, 0); font=
+-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, &quot;Lucida Grande&=
+quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatu=
+res: normal; font-variant-caps: normal; font-weight: normal; letter-spacing=
+: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: =
+none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-strok=
+e-width: 0px; text-decoration-style: initial; text-decoration-color: initia=
+l;" id=3D"yui_3_16_0_ym19_1_1501222024357_2825"><span style=3D"-webkit-padd=
+ing-start: 0px;" id=3D"yui_3_16_0_ym19_1_1501222024357_2826"><span style=3D=
+"-webkit-padding-start: 0px;" id=3D"yui_3_16_0_ym19_1_1501222024357_2827"><=
+span style=3D"-webkit-padding-start: 0px; font-family: Symbol;" id=3D"yui_3=
+_16_0_ym19_1_1501222024357_2828"><span style=3D"-webkit-padding-start: 0px;=
+" id=3D"yui_3_16_0_ym19_1_1501222024357_2829">=C2=B7<span style=3D"-webkit-=
+padding-start: 0px; font-variant-numeric: normal; font-stretch: normal; fon=
+t-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;=
+" id=3D"yui_3_16_0_ym19_1_1501222024357_2830">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style=3D"-webkit-paddin=
+g-start: 0px;" id=3D"yui_3_16_0_ym19_1_1501222024357_2831">Generate dynamic=
+ reports</span></span></span></div><div style=3D"-webkit-padding-start: 0px=
+; margin: 0.1em 0px; padding: 0px; display: block; color: rgb(0, 0, 0); fon=
+t-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, &quot;Lucida Grande=
+&quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligat=
+ures: normal; font-variant-caps: normal; font-weight: normal; letter-spacin=
+g: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform:=
+ none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stro=
+ke-width: 0px; text-decoration-style: initial; text-decoration-color: initi=
+al;" id=3D"yui_3_16_0_ym19_1_1501222024357_2832"><span style=3D"-webkit-pad=
+ding-start: 0px;" id=3D"yui_3_16_0_ym19_1_1501222024357_2833"><span style=
+=3D"-webkit-padding-start: 0px;" id=3D"yui_3_16_0_ym19_1_1501222024357_2834=
+"><span style=3D"-webkit-padding-start: 0px; font-family: Symbol;" id=3D"yu=
+i_3_16_0_ym19_1_1501222024357_2835"><span style=3D"-webkit-padding-start: 0=
+px;" id=3D"yui_3_16_0_ym19_1_1501222024357_2836">=C2=B7<span style=3D"-webk=
+it-padding-start: 0px; font-variant-numeric: normal; font-stretch: normal; =
+font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quo=
+t;;" id=3D"yui_3_16_0_ym19_1_1501222024357_2837">&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style=3D"-webkit-pad=
+ding-start: 0px;" id=3D"yui_3_16_0_ym19_1_1501222024357_2838">Easily access=
+ible control panel for making all kind of changes</span></span></span></div=
+><div style=3D"-webkit-padding-start: 0px; margin: 0.1em 0px; padding: 0px;=
+ display: block; color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quo=
+t;, Helvetica, Arial, &quot;Lucida Grande&quot;, sans-serif; font-size: 13p=
+x; font-style: normal; font-variant-ligatures: normal; font-variant-caps: n=
+ormal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align:=
+ start; text-indent: 0px; text-transform: none; white-space: normal; widows=
+: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-sty=
+le: initial; text-decoration-color: initial;" id=3D"yui_3_16_0_ym19_1_15012=
+22024357_2839"><span style=3D"-webkit-padding-start: 0px;" id=3D"yui_3_16_0=
+_ym19_1_1501222024357_2840"><span style=3D"-webkit-padding-start: 0px;" id=
+=3D"yui_3_16_0_ym19_1_1501222024357_2841"><span style=3D"-webkit-padding-st=
+art: 0px; font-family: Symbol;" id=3D"yui_3_16_0_ym19_1_1501222024357_2842"=
+><span style=3D"-webkit-padding-start: 0px;" id=3D"yui_3_16_0_ym19_1_150122=
+2024357_2843">=C2=B7<span style=3D"-webkit-padding-start: 0px; font-variant=
+-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal=
+; font-family: &quot;Times New Roman&quot;;" id=3D"yui_3_16_0_ym19_1_150122=
+2024357_2844">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>=
+</span></span><span style=3D"-webkit-padding-start: 0px;" id=3D"yui_3_16_0_=
+ym19_1_1501222024357_2845">Effective &amp; Quick in loading website</span><=
+/span></span></div><div style=3D"-webkit-padding-start: 0px; margin: 0.1em =
+0px; padding: 0px; display: block; color: rgb(0, 0, 0); font-family: &quot;=
+Helvetica Neue&quot;, Helvetica, Arial, &quot;Lucida Grande&quot;, sans-ser=
+if; font-size: 13px; font-style: normal; font-variant-ligatures: normal; fo=
+nt-variant-caps: normal; font-weight: normal; letter-spacing: normal; orpha=
+ns: 2; text-align: start; text-indent: 0px; text-transform: none; white-spa=
+ce: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; t=
+ext-decoration-style: initial; text-decoration-color: initial;" id=3D"yui_3=
+_16_0_ym19_1_1501222024357_2846"><span style=3D"-webkit-padding-start: 0px;=
+" id=3D"yui_3_16_0_ym19_1_1501222024357_2847"><span style=3D"-webkit-paddin=
+g-start: 0px;" id=3D"yui_3_16_0_ym19_1_1501222024357_2848"><span style=3D"-=
+webkit-padding-start: 0px; font-family: Symbol;" id=3D"yui_3_16_0_ym19_1_15=
+01222024357_2849"><span style=3D"-webkit-padding-start: 0px;" id=3D"yui_3_1=
+6_0_ym19_1_1501222024357_2850">=C2=B7<span style=3D"-webkit-padding-start: =
+0px; font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; li=
+ne-height: normal; font-family: &quot;Times New Roman&quot;;" id=3D"yui_3_1=
+6_0_ym19_1_1501222024357_2851">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;</span></span></span><span style=3D"-webkit-padding-start: 0px;" =
+id=3D"yui_3_16_0_ym19_1_1501222024357_2852">Secure</span></span></span></di=
+v><div style=3D"-webkit-padding-start: 0px; margin: 0.1em 0px 0.0001pt; pad=
+ding: 0px; display: block; color: rgb(0, 0, 0); font-family: &quot;Helvetic=
+a Neue&quot;, Helvetica, Arial, &quot;Lucida Grande&quot;, sans-serif; font=
+-size: 13px; font-style: normal; font-variant-ligatures: normal; font-varia=
+nt-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; t=
+ext-align: start; text-indent: 0px; text-transform: none; white-space: norm=
+al; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-deco=
+ration-style: initial; text-decoration-color: initial;" id=3D"yui_3_16_0_ym=
+19_1_1501222024357_2853"><span style=3D"-webkit-padding-start: 0px;" id=3D"=
+yui_3_16_0_ym19_1_1501222024357_2854">Please share&nbsp;<b style=3D"-webkit=
+-padding-start: 0px;" id=3D"yui_3_16_0_ym19_1_1501222024357_2855">your full=
+ requirements with any reference website (Which you have in your mind)</b>,=
+ if you are interested then we provide you all details about our company an=
+d service=E2=80=99s cost etc.</span></div><div style=3D"-webkit-padding-sta=
+rt: 0px; margin: 0.1em 0px 0.0001pt; padding: 0px; display: block; color: r=
+gb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, &qu=
+ot;Lucida Grande&quot;, sans-serif; font-size: 13px; font-style: normal; fo=
+nt-variant-ligatures: normal; font-variant-caps: normal; font-weight: norma=
+l; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px;=
+ text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -=
+webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decorat=
+ion-color: initial;" id=3D"yui_3_16_0_ym19_1_1501222024357_2856"><span styl=
+e=3D"-webkit-padding-start: 0px;" id=3D"yui_3_16_0_ym19_1_1501222024357_285=
+7">&nbsp;</span></div><div style=3D"-webkit-padding-start: 0px; margin: 0.1=
+em 0px 0.0001pt; padding: 0px; display: block; color: rgb(0, 0, 0); font-fa=
+mily: &quot;Helvetica Neue&quot;, Helvetica, Arial, &quot;Lucida Grande&quo=
+t;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures=
+: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: n=
+ormal; orphans: 2; text-align: start; text-indent: 0px; text-transform: non=
+e; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-w=
+idth: 0px; text-decoration-style: initial; text-decoration-color: initial;"=
+ id=3D"yui_3_16_0_ym19_1_1501222024357_2858"><span style=3D"-webkit-padding=
+-start: 0px;" id=3D"yui_3_16_0_ym19_1_1501222024357_2859">Thanks</span></di=
+v><div dir=3D"ltr" style=3D"-webkit-padding-start: 0px; margin: 0.1em 0px 0=
+.0001pt; padding: 0px; text-align: start; display: block; color: rgb(0, 0, =
+0); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, &quot;Lucida=
+ Grande&quot;, sans-serif; font-size: 13px; font-style: normal; font-varian=
+t-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter=
+-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white=
+-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0p=
+x; text-decoration-style: initial; text-decoration-color: initial;" id=3D"y=
+ui_3_16_0_ym19_1_1501222024357_2860"><span style=3D"-webkit-padding-start: =
+0px;" id=3D"yui_3_16_0_ym19_1_1501222024357_2861">Sophia</span></div></div>=
+</body></html>
+------=_Part_1342404_1174282095.1501223944012--

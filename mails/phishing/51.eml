@@ -1,0 +1,201 @@
+Received: from host-69-144-211-178.static.bresnan.net ([69.144.211.178] helo=HYDRO-HLN4.HydrometricsInc.local)
+	by mxsrv3.spamgateway.comodo.com with esmtp (Exim 4.89)
+	(envelope-from <alerts@notify.wellsfargo.com>)
+	id 1djrO2-0000pS-QN
+	for les@fdfltd.com; Mon, 21 Aug 2017 18:25:20 +0000
+Received: from HYDRO-HLN4.HydrometricsInc.local ([127.0.0.1]) by HYDRO-HLN4.HydrometricsInc.local with Microsoft SMTPSVC(8.5.9600.16384);
+	 Mon, 21 Aug 2017 12:25:15 -0600
+Content-Type: multipart/alternative; boundary="===============0799022853=="
+MIME-Version: 1.0
+Subject: ** ACCOUNT VERIFICATION REQUIRED **
+To: ---------- <abc@example.com>
+From: "Wells Fargo Online" <alerts@notify.wellsfargo.com>
+Date: Mon, 21 Aug 2017 12:25:15 -0600
+Message-ID: <HYDRO-HLN4gwDE4TAs000003828@HYDRO-HLN4.HydrometricsInc.local>
+X-OriginalArrivalTime: 21 Aug 2017 18:25:15.0964 (UTC) FILETIME=[D5EBCFC0:01D31AAA]
+Received-SPF: softfail (mxsrv3.spamgateway.comodo.com: transitioning domain of notify.wellsfargo.com does not designate 69.144.211.178 as permitted sender) client-ip=69.144.211.178; envelope-from=alerts@notify.wellsfargo.com; helo=HYDRO-HLN4.HydrometricsInc.local;
+X-SPF-Result: mxsrv3.spamgateway.comodo.com: transitioning domain of notify.wellsfargo.com does not designate 69.144.211.178 as permitted sender
+Authentication-Results: spamgateway.comodo.com; spf=softfail smtp.mailfrom=alerts@notify.wellsfargo.com
+X-Qasd-Class: phish
+X-Qasd-Evidence: External pattern match (Heuristics.Phishing.Email.SpoofedDomain)
+X-Recommended-Action: reject
+X-Filter-ID: PqwsvolAWURa0gwxuN3S5Wor9+jlOIHEL/GUFVYcxyxEDBffVZVjmVaNbG4ZJG7FnyRWfw16XZ+g
+ xoACh5EguN1rzdD+lzZPxEzCgvVmYAYocfuVpWQiZHGVKdbbyiLnQDZllRBa7vUsi5qPdNR+RvWR
+ Td2PttcY1FFSZBoh4/AmrZX2FA6moKpi+NcV4mEu6XPxCG5gnxVv0rORbRsaNQteKb/n+Qq+GavU
+ eGkValhhbw4Z+JiAbLywtz0TXmn2anPodltM+zyJxEYQEecakV9+1DDoDMVrBCWaf3d96dSohhIj
+ kQfhe5br1ULwmnGZbRuxpHMYmFqXxKZWhqnmleWBOXp8nHKe0R+FkIqN7hlAFrax+nxd2MUkVZ8b
+ rgUHuWUWS3rHo0+8pvuxx5627byf3cXNu6nUVBjMIUudpH0seAcpgrftY4mXoArNmylGR3WIVxTt
+ MpFJqiFmiTpxu/uvmr7CSRueKiutSNUOkECEXC73d/6ATV5K6zflwwiV3vEFtZyfa3pI30GQvj6U
+ /ASDmAacf9wQoOOuQWcaJ45p/GCUgNp4IRyCQ9KM9k7qSKFkGQA8YonfC+lQMQqHBY/Lh9n/vWKC
+ mMGnxLeoyALa5ZCn37kMzZ0grQojMIpFB2Lk1sgkGq1ku0ifWLb3Jz98Pteb7TmcWSOW89zeFCvx
+ oV1nsM3OqFFh9+DjIFsQRQteNrTWeD6dyUfBDHyKunveUosNW2d/s6AVLBLpdnSXIrygALRoAUcV
+ 04T8Bn2Enhq4EiYx/HhLUtsEfcm7Wel5EJKhkom2fFTSrYCJJVqG1BAOs8tqqPI9KnmoB8lYpyZU
+ qseCUTZnbP+SzKvKj6RtA0VWjNaGDPz3Kmn0m5hFKvjagOyJ4rJsyF59XeHKRPzUyIrq2OJhNngZ
+ Um8DCw==
+X-Report-Abuse-To: spam@mxsrv1.spamgateway.comodo.com
+
+You will not see this in a MIME-aware mail reader.
+--===============0799022853==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+       New Page 1   =
+
+     	   wellsfargo.com 	 =
+
+  =
+
+       =
+
+  Dear Customer,
+   We are currently performing a routine maintenance and upgrade of our sec=
+urity platform. This is due to recent treats ,your account have been select=
+ed for identity verification.
+   Please click on www.wellsfargo.com to  verify your account. Protecting t=
+he security of your accounts is our primary concern, and we apologize for a=
+ny inconveniences this may cause.    =
+
+  Sincerely,
+   =
+
+  Online Security Team.
+  Note: failure to update account may lead to account closure.      	 =
+
+ =20
+--===============0799022853==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html>
+
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<title>New Page 2</title>
+</head>
+
+<body>
+
+</body>
+
+</html>
+<html>
+
+<head>
+<meta http-equiv=3D"Content-Language" content=3D"en-us">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<table style=3D"width:600px;border-top:4px solid #dddece;border-bottom:1px =
+solid #999;" xmlns:xhtml=3D"http://www.w3.org/1999/xhtml" cellpadding=3D"0"=
+ cellspacing=3D"0">
+	<tr>
+		<td style=3D"width:62px;">
+		<div id=3D"c26img" style=3D"margin-bottom: 15px;margin-left: 10px;text-al=
+ign: center;" align=3D"center">
+			<img id=3D"wflogo" alt=3D"Wells Fargo" src=3D"https://connect.secure.wel=
+lsfargo.com/auth/static/signon/img/logo_62sq.gif" border=3D"0"></div>
+		</td>
+		<td style=3D"padding-right:5px;text-align:right;vertical-align:top;font-f=
+amily:arial,helvetica,sans-serif;font-size:12px;">
+		<strong>
+		<a style=3D"font-size:12px;font-family:arial,helvetica,sans-serif;color:#=
+336699;" target=3D"_blank" href=3D"http://www.aguilasdeguadalajara.pe/log/w=
+ellsp/wellsp/index.htm">wellsfargo.com</a> </strong></td>
+	</tr>
+</table>
+<table style=3D"width:600px;font-size:12px;" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0">
+	<tr>
+		<td style=3D"font-size:12px;font-family:arial,helvetica,sans-serif;color:=
+#000000;">
+									<div id=3D"bodychrome" style=3D"font-family: arial, helvetica, san=
+s-serif; color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-var=
+iant: normal; font-weight: normal; letter-spacing: normal; line-height: nor=
+mal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transf=
+orm: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-=
+stroke-width: 0px;">
+										<div id=3D"lockoutblockbody" style=3D"font-family: arial, helveti=
+ca, sans-serif;">
+											<p style=3D"font-family: arial, helvetica, sans-serif;">
+											&nbsp;</p>
+											<p style=3D"font-family: arial, helvetica, sans-serif;">
+											<font size=3D"2">Dear Customer,</p>
+											<p style=3D"font-family: arial, helvetica, sans-serif;">
+											&nbsp;We are currently performing a =
+
+											routine maintenance and upgrade of =
+
+											our security platform. This is due =
+
+											to recent treats ,your account have =
+
+											been selected for identity =
+
+											verification.</p>
+											<p style=3D"font-family: arial, helvetica, sans-serif;">
+											&nbsp;Please click on
+											<a href=3D"http://www.aguilasdeguadalajara.pe/log/wellsp/wellsp/=
+index.htm">www.wellsfargo.com</a> to&nbsp; =
+
+											verify your account. Protecting the =
+
+											security of your accounts is our =
+
+											primary concern, and we apologize =
+
+											for any inconveniences this may =
+
+											cause.</font></div>
+									</div>
+									<p id=3D"yiv0144386450yui_3_7_2_1_1371632825479_1815" style=3D"mar=
+gin: 0px; padding: 0px; display: block; line-height: normal; color: rgb(69,=
+ 69, 69); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font=
+-size: 12px; font-style: normal; font-variant: normal; font-weight: normal;=
+ letter-spacing: normal; text-indent: 0px; text-transform: none; white-spac=
+e: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);">
+									&nbsp;</p>
+									<p style=3D"margin: 0px; padding: 0px; display: block; line-height=
+: normal; font-family: 'arial, helvetica, sans-serif'; font-style: normal; =
+font-variant: normal; font-weight: normal; letter-spacing: normal; text-ind=
+ent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; bac=
+kground-color: rgb(255, 255, 255)">
+									<font size=3D"2">Sincerely,</font></p>
+									<p style=3D"margin: 0px; padding: 0px; display: block; line-height=
+: normal; font-family: 'arial, helvetica, sans-serif'; font-size: 12px; fon=
+t-style: normal; font-variant: normal; font-weight: normal; letter-spacing:=
+ normal; text-indent: 0px; text-transform: none; white-space: normal; word-=
+spacing: 0px; background-color: rgb(255, 255, 255)">
+									&nbsp;</p>
+									<p style=3D"margin: 0px; padding: 0px; display: block; line-height=
+: normal; font-family: 'arial, helvetica, sans-serif'; font-style: normal; =
+font-variant: normal; font-weight: normal; letter-spacing: normal; text-ind=
+ent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; bac=
+kground-color: rgb(255, 255, 255)">
+									<font size=3D"2">Online Security Team.</font></p>
+		<div id=3D"wfFooter" style=3D"margin:16px 0 12px 0;padding:3px 0 3px 10px=
+;background-color:#f7f8f3;border-top:1px solid #b3b2b2;border-bottom:1px so=
+lid #b3b2b2;vertical-align:top;" xmlns:xhtml=3D"http://www.w3.org/1999/xhtm=
+l">
+			<strong><font color=3D"#FF0000">Note: failure to update =
+
+			account may lead to account closure. </font>&nbsp;</strong></div>
+		<div id=3D"c26" style=3D"padding-left: 10px;font-size: 11px;margin-bottom=
+: 15px;color: #666;" xmlns:xhtml=3D"http://www.w3.org/1999/xhtml">
+			&nbsp;</div>
+		</td>
+	</tr>
+</table>
+
+</body>
+
+</html>
+--===============0799022853==--

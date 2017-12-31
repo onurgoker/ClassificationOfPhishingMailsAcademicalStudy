@@ -1,0 +1,77 @@
+Received: from unknown (HELO mail.caothang.edu.vn) (123.30.108.39)  by 0
+	with SMTP; 16 Aug 2017 02:31:25 -0000
+Received-SPF: pass (0: SPF record at caothang.edu.vn designates
+ 123.30.108.39 as permitted sender)
+Received: from CITRIX.LAAD.LOCAL
+	by mail.caothang.edu.vn (MDaemon PRO v11.0.0)	with ESMTP
+	id md50000349824.msg	for <steve@comodo.net>;
+	Wed, 16 Aug 2017 09:30:20 +0700
+X-Spam-Processed: mail.caothang.edu.vn, Wed, 16 Aug 2017 09:30:20 +0700	(not
+ processed: message from trusted or authenticated source)
+X-Authenticated-Sender: webmaster@caothang.edu.vn
+X-MDRemoteIP: 50.59.196.116
+X-Return-Path: webmaster@caothang.edu.vn
+X-Envelope-From: webmaster@caothang.edu.vn
+X-MDaemon-Deliver-To: steve@comodo.net
+MIME-Version: 1.0
+Subject: Important notice
+To: ---------- <abc@example.com>
+From: Nationwide <webmaster@caothang.edu.vn>
+Date: Mon, 14 Aug 2017 23:28:16 -0400
+X-Envelope-Sender: webmaster@caothang.edu.vn
+X-KORUMAIL-QueueId: 22708-1502850685-156637
+X-SMTP-Filter: Korumail SMTP Filter Engine Korumail 6.6.4
+X-KORUMAIL-Result: Clean (Content eval: 37.000000 points)
+X-KORUMAIL-Reason: 
+Content-Type: multipart/alternative;
+	boundary="===============0882491776=="
+
+You will not see this in a MIME-aware mail reader.
+--===============0882491776==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Dear Customer,
+
+
+For the safety of your account, you are required to verify your account det=
+ails as they seem out of date. =
+
+Failure to verify account will lead to account restrictions. =
+
+
+
+Update using the secured channel provided below =
+
+
+Verify account =
+
+
+Thank you for helping us protect you.
+
+Security Team.
+=A9 2017 Nationwide Mutual Insurance Company.
+
+
+--===============0882491776==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" http-
+
+equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.10240.16644"></HEAD>
+<BODY><P><FONT size=3D2 face=3DArial>Dear Customer,<BR><BR><BR>For the safe=
+ty of your account, you are required to verify your account details as they=
+ seem out of date. <BR>Failure to verify account will lead to account restr=
+ictions. <BR><BR><BR>Update using the secured channel provided below <BR><B=
+R><A href=3D"http://www.deangelisviaggi.it//icon/mime/cg.php">Verify accoun=
+t</A> <BR><BR>Thank you for helping us protect you.<BR><BR>Security Team.<B=
+R>=A9 2017 Nationwide Mutual Insurance Company.</FONT><BR></P></BODY></HTML>
+--===============0882491776==--
+

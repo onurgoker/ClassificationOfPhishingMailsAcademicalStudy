@@ -1,0 +1,120 @@
+Received: from [83.167.229.208] (helo=mail.computerpacer.com)
+	by mxsrv3.spamgateway.comodo.com with esmtp (Exim 4.89)
+	(envelope-from <1ink-pajanor=housingcollaborative.org@computerpacer.com>)
+	id 1e8t4M-0004Kt-8k
+	for pajanor@housingcollaborative.org; Sun, 29 Oct 2017 19:16:26 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=computerpacer.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=1ink@computerpacer.com;
+ bh=eqv9l0bLftRU3Yz3NdyBCzCPPMM=;
+ b=xfcubfX9CKM3vpzfCeba4HZfXeM62JdS+TYwrmAe5QYWTCNmHUpZAEkSbQnlPVc9E61xTLljo5EA
+   bDmioeWhJZLGAerZhehh2bmiEOwXlLOOumvY45dzbqcl8hXUfjZASRrBKQG2DJuxECSbCLaWRhij
+   emsMobRsze4aQDLBQbs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=computerpacer.com;
+ b=GmPs9+LZgvE7RxdzrA5iJ6gxjjRlmw1nfeP8Sayz+YmJztucJo58T7rwCoIzNvkTxjtFREANvzJD
+   dHjc3gM3KP7qLrIHcH6WruKxtvYZMFLTY2NRpJhE3nC4aki5C/fgPtTCitnppoB2//mV2Q9orDpZ
+   K9G9mY4aSC2ifB6LuZk=;
+Received: by mail.computerpacer.com id huokgk0001gm for <pajanor@housingcollaborative.org>; Sun, 29 Oct 2017 14:08:14 -0500 (envelope-from <1ink-pajanor=housingcollaborative.org@computerpacer.com>)
+Date: Sun, 29 Oct 2017 14:08:14 -0500
+From: 1ink <1ink@computerpacer.com>
+To: ---------- <abc@example.com>
+Subject: Why Pay Full Price for Printer Ink? Save Today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_136_1949840456.1509304061511"
+List-Unsubscribe: <http://www.computerpacer.com/6Bb6sDh2385ILk8913Dzl11UBu1b44s33ftDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ5Ms2j65ikih@/yellow>
+Message-ID: <0.0.0.E.1D350E94571B322.53B52@mail.computerpacer.com>
+Received-SPF: pass (mxsrv3.spamgateway.comodo.com: domain of computerpacer.com designates 83.167.229.208 as permitted sender) client-ip=83.167.229.208; envelope-from=1ink-pajanor=housingcollaborative.org@computerpacer.com; helo=mail.computerpacer.com;
+X-SPF-Result: mxsrv3.spamgateway.comodo.com: domain of computerpacer.com designates 83.167.229.208 as permitted sender
+X-Sender-Warning: Reverse DNS lookup failed for 83.167.229.208 (failed)
+Authentication-Results: mxsrv3.spamgateway.comodo.com; dmarc=pass header.from=computerpacer.com
+Authentication-Results:  spamgateway.comodo.com; spf=pass smtp.mailfrom=1ink-pajanor=housingcollaborative.org@computerpacer.com; dkim=pass header.i=computerpacer.com; dkim=pass header.i=1ink@computerpacer.com
+X-Filter-Label: newsletter
+X-Qasd-Class: spam
+X-Qasd-Evidence: dnsbl/se-reputation (spam)
+X-Recommended-Action: reject
+X-Filter-ID: PqwsvolAWURa0gwxuN3S5dbLZBtEelHx626yyIFROGCV7lGjJVSQDAZL4S1pJN3Ywlyz76wIn+aX
+ g3AE0I0dgpGzYNneBJhWRRjZlxmvBO4V0V/ePa3PKm1o2BiWcOKCHioSqHBsw98cI/Nxa+eHyI8j
+ iM5/kolCxhVm1CN6bdqfozfdf8XYSYJNtr4hqBX4v+pPD/UIKBZ6GfSREW4gENTdVDtfmxVfNE0G
+ xWwikoM6E4FubQgtxpAb3JHGTYwIwtxL87KOtEh43vDT4W9qTKg6L7eeflOeOZi51F/32VPZZ4m5
+ d73AalZr0AeANfGnzFK9bLgHgD3PjXybH74BgPH1jljDF6F3kAf4bndT3kRD5g9DTsRFLPgEFtny
+ PhTSeVnrjB+csBkUyiKcs/vPaMZRMkoQsQvYs45O9bLZsrhJwbf+raWLFCRAGRIw3VoZVNS4c644
+ EDzbw99x7Z+sgiZjTdpysqtZqgYPuFy61LQmuCBHmlO4zYpK87zyXMrW4pWx7WxWFZpsjT/483ew
+ gsXqrDkAHl9EWIlrBGpBwrREqgIOOlrhzWayPs8WQGXjjDQ5zGyQRBbzIvhw8vRj7fCE9JiE3xSy
+ TU1+2XiGZan8Ih+/8V42iDA6U+D5kHK0dP77M8Ww0YYaGry7wwRvt7vXXG5l23ZwX+A8tGWUWxjJ
+ IFkIZaBCBQxuHnm838r50+2yH3CXrWoQ9KC7PYabDUnBt/6tpYsUJEAZEjDdWhlxny/2HjlXQmVJ
+ LR2Rehz5pNTnOPHJQ/MqyEyxMIkxuHERVUZXPIEoRHVb6FLGh6EKeBk3AArAbZ/EDdE0NIHLVzwN
+ 19EKoajk69CUxCt42U19srvIPDX/ucXgyU4k6+ctIKGaYtiTGMhmQieoCL8Xhig1iZXoWx4Y9vIK
+ kyPfchPMo8NlPOF9RJvnX7VleWnT+1xo7JaG/1S1+ze+nEsK9jihx+Za/cV70jOJzN2r4A==
+X-Report-Abuse-To: ---------- <abc@example.com>
+
+------=_Part_136_1949840456.1509304061511
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Why Pay Full Price for Printer Ink? Save Today
+
+http://www.computerpacer.com/little/33c6G2RK385SW8v611nd1a3B1b44F33stDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ7IJK26vr6s0ihO1
+
+
+
+Update Preferences- http://www.computerpacer.com/pass/d6e5K238P5Jw86q12adJ1a4U1b44P33OtDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ7iG2VAS66SPJyih
+
+------=_Part_136_1949840456.1509304061511
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+ <head> 
+  <title>generic_2016</title> 
+  <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type" /> 
+ </head> 
+ <body bgcolor="#FFFFFF" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0"> 
+  <center> 
+   <h3><strong><a href="http://www.computerpacer.com/blue/6664f2385y8Wi613Kd1a3DSH1b44D33DtDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ6Pnq26P6c1PJih">Why Pay Full Price for Printer Ink? Save Today</a></strong></h3> 
+  </center> 
+  <table align="center" border="0" cellpadding="0" cellspacing="0" id="templateContainer" style="background-color: #ffffff; " width="650"> 
+   <tbody> 
+    <tr> 
+     <td><a href="http://www.computerpacer.com/blue/6664f2385y8Wi613Kd1a3DSH1b44D33DtDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ6Pnq26P6c1PJih"><img alt="" border="0" class="auto-style1" height="32" src="http://www.computerpacer.com/blue/her/8836W2mW385Sz7aM11Dd1a6M1b44D33rtDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ5yB2K65mAMih" style="border-width: 0px; " width="650" /></a></td> 
+    </tr> 
+    <tr> 
+     <td><a href="http://www.computerpacer.com/blue/6664f2385y8Wi613Kd1a3DSH1b44D33DtDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ6Pnq26P6c1PJih"><img alt="" border="0" class="auto-style1" height="175" src="http://www.computerpacer.com/8f96fs2q385C7LXa13Qdx1ar7D1b44t33ItDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ5ooT265gp2ih/step" style="border-width: 0px; " width="650" /></a></td> 
+    </tr> 
+    <tr> 
+     <td><a href="http://www.computerpacer.com/blue/6664f2385y8Wi613Kd1a3DSH1b44D33DtDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ6Pnq26P6c1PJih"><img alt="" border="0" class="auto-style1" height="32" src="http://www.computerpacer.com/red/be/a635J2X385zy7Fa13ULd1a8wS1b44M33QtDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ5e2s6R6plikUh" style="border-width: 0px; " width="650" /></a></td> 
+    </tr> 
+    <tr> 
+     <td><a href="http://www.computerpacer.com/blue/6664f2385y8Wi613Kd1a3DSH1b44D33DtDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ6Pnq26P6c1PJih"><img alt="" border="0" class="auto-style1" height="114" src="http://www.computerpacer.com/will/blue/1216e23W8L5Q7aSi11yd1a9I1b44j33HtDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ5B2J6o5X@ih1" style="border-width: 0px; " width="650" /></a></td> 
+    </tr> 
+    <tr> 
+     <td><a href="http://www.computerpacer.com/blue/6664f2385y8Wi613Kd1a3DSH1b44D33DtDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ6Pnq26P6c1PJih"><img alt="" border="0" class="auto-style1" height="149" src="http://www.computerpacer.com/eb75c238z5e7Vma12ud1aqaU1b44Q33stDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ6ts2oW66rlq3ih/green" style="border-width: 0px; " width="650" /></a></td> 
+    </tr> 
+    <tr> 
+     <td><a href="http://www.computerpacer.com/blue/6664f2385y8Wi613Kd1a3DSH1b44D33DtDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ6Pnq26P6c1PJih"><img alt="" border="0" class="auto-style1" height="157" src="http://www.computerpacer.com/ef35sm2385lJ7aI13mhd1abv_1b44k33ztDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ7hp2WJw66tT@ihy/red/her" style="border-width: 0px; " width="650" /></a></td> 
+    </tr> 
+    <tr> 
+     <td><a href="http://www.computerpacer.com/8f94P2385R8Yo611Nd1a4m1b44Q33XtDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ7mS2IMs66eppi3h/red/will"><img alt="" border="0" class="auto-style1" height="31" src="http://www.computerpacer.com/blue/24c4V2385n7jaN12jd1achu1b44X33FtDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ5L2xW66Q0zMih" style="border-width: 0px; " width="650" /></a></td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <br /> 
+  <br /> 
+  <br /> 
+  <br /> 
+  <br /> 
+  <br /> 
+  <br /> 
+  <br /> 
+  <br /> &nbsp; 
+  <center>
+   <br /> 
+   <a href="http://www.computerpacer.com/red/c064k2385wvL8911Vd1a5D1b44_33etDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ7gh2ZQ6s5QXyih" target="_blank"><img border="0" src="http://www.computerpacer.com/yellow/daa5VY2385R7asN12Vd1adDG1b44q33vtDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ5B2QL65y1ijh/what" /></a>
+  </center> <img src="http://www.computerpacer.com/yellow/7926H2X3G85c8qR512rd1GaeK1b44p33wtDcDrsvfas4wbrZGshhDFsvDxb5IEsvZ5Eu26Q6O0iMhX/will" alt=""/>
+  <br /> 
+  <font style="color: #FCFCFC"><big><style id="kind"><span size="wonder"></big></span><span></style></span><small><font></small><font dir="earth"></font></font><big></big></font>  
+ </body>
+</html>
+
+------=_Part_136_1949840456.1509304061511--
+

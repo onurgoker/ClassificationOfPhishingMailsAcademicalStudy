@@ -1,0 +1,75 @@
+Received: from unknown (HELO dealer.com) (212.237.61.100)
+  by 0 with SMTP; 4 Aug 2017 07:32:31 -0000
+Received-SPF: unknown (0: domain at spf-00144001.pphosted.com does not designate permitted sender hosts)
+Received: from CSP-XA01.cspsp.local (unknown [64.213.247.162])
+	by dealer.com (Postfix) with ESMTPA id 9B419C061B
+	for <msari@pau.edu.tr>; Fri,  4 Aug 2017 01:54:29 -0400 (EDT)
+Content-Type: multipart/alternative; boundary="===============1464753594=="
+MIME-Version: 1.0
+Subject: Your password is set to expire..
+To: ---------- <abc@example.com>
+From: "Microsoft account team" <admin@dealer.com>
+Date: Fri, 04 Aug 2017 01:52:30 -0400
+
+You will not see this in a MIME-aware mail reader.
+--===============1464753594==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Microsoft account
+
+ =
+
+Dear msari@pau.edu.tr User
+
+It has come to our notice that your password has been scheduled to expire p=
+ermanently in 6-hours time.
+
+This development will cause loss of access to our numerous services if not =
+rectified as soon as possible.
+
+Want to resolve this once and for all?
+
+Kindly follow directives below: =
+
+
+RESOLVE PASSWORD ABNORMALITIES =
+
+
+Thanks.
+
+Microsoft Office 365
+
+--===============1464753594==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><P style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verd=
+ana, Geneva, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANS=
+FORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORP=
+HANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-=
+ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0p=
+x; text-decoration-style: initial; text-decoration-color: initial"><SPAN st=
+yle=3D"FONT-SIZE: 36pt; COLOR: rgb(255,102,0)" data-mce-style=3D"font-size:=
+ 36pt; color: #ff6600;">Microsoft account</SPAN><BR></P>
+<P style=3D"FONT-SIZE: 13px; FONT-FAMILY: Verdana, Geneva, sans-serif; WHIT=
+E-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: norm=
+al; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SP=
+ACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-varia=
+nt-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: ini=
+tial; text-decoration-color: initial"><BR><SPAN>Dear msari@pau.edu.tr User<=
+/SPAN><BR><BR><SPAN>It has come to our notice that your password has been s=
+cheduled to expire permanently in 6-hours time.</SPAN><BR><BR><SPAN>This de=
+velopment will cause loss of access to our numerous services if not rectifi=
+ed as soon as possible.</SPAN><BR><BR><STRONG>Want to resolve this once and=
+ for all?</STRONG><BR><BR><SPAN>Kindly follow directives below:&nbsp;</SPAN=
+><BR><BR><A href=3D"http://makekat.tk/ab/abc" data-mce-href=3D"http://makek=
+at.tk/ab/abc">RESOLVE PASSWORD ABNORMALITIES</A><SPAN>&nbsp;</SPAN><BR><BR>=
+<SPAN>Thanks.</SPAN><BR><BR><SPAN>Microsoft Office 365</SPAN></P></BODY></H=
+TML>
+--===============1464753594==--

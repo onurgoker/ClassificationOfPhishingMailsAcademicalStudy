@@ -1,0 +1,76 @@
+Received: from unknown (HELO omr-a004e.mx.aol.com) (204.29.186.52)  by 0
+	with ESMTPS (DHE-RSA-AES256-SHA encrypted); 31 Jul 2017 17:47:05 -0000
+Received-SPF: pass (0: SPF record at aol.jp designates 204.29.186.52 as
+ permitted sender)
+Received: from mtaomg-aal02.mx.aol.com (mtaomg-aal02.mx.aol.com [172.27.20.208])
+	by omr-a004e.mx.aol.com (Outbound Mail Relay) with ESMTP id 361433800078;
+	Mon, 31 Jul 2017 13:47:01 -0400 (EDT)
+Received: from core-acd05e.mail.aol.com (core-acd05.mail.aol.com [172.27.22.15])
+	by mtaomg-aal02.mx.aol.com (OMAG/Core Interface) with ESMTP
+	id 395F038000082;	Mon, 31 Jul 2017 13:46:53 -0400 (EDT)
+Received: from 94.177.162.195 by webprd-a90.mail.aol.com (10.72.104.214)
+	with HTTP (WebMailUI); Mon, 31 Jul 2017 13:46:52 -0400
+Date: Mon, 31 Jul 2017 13:46:52 -0400
+From: "From  Mr. Stephen J. E Hosea" <james999@aol.jp>
+To: ---------- <abc@example.com>
+Message-Id: <15d99c1f6e6-44be-32749@webprd-a90.mail.aol.com>
+Subject: From  Mr. Stephen J. E Hosea
+MIME-Version: 1.0
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS STD
+X-Originating-IP: [94.177.162.195]
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1501523220;	bh=h8ozUT6cel+skbyEMoorTinG3TGL3aGdzjlHVcxJAe4=;
+	h=From:Subject:Message-Id:Date:MIME-Version:Content-Type;
+	b=GeOZsE8sZLafsceZHgypjWUKcp83dRcimDalVUyWlzOy2U7KhWzT5Hz8ve6zHctNt
+	 +R4F/dO4RXQsO/XzLsng/UnLNhHVYnRrdBt8xCDB9y4Y2hFadtUKuNZjcQVPPS3P9R
+	 Fe154oyRacYIZWLGMr/gfOq6BSqBC2ivXo2x12CY=
+x-aol-sid: 3039ac1b14d0597f6d0d23ac
+X-Envelope-Sender: james999@aol.jp
+X-KORUMAIL-QueueId: 23913-1501523224-944869
+X-SMTP-Filter: Korumail SMTP Filter Engine Korumail 6.6.4
+X-KORUMAIL-Result: Clean (Content eval: 44.000000 points)
+X-KORUMAIL-Reason: 
+Content-Type: multipart/alternative;
+	boundary="----=_Part_248317_985401984.1501523212003"
+
+------=_Part_248317_985401984.1501523212003
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+From  Mr. Stephen J. E Hosea
+
+the Head of file Department in Bank of Africa. I seek your assistance and I assured of your capability to champion this business opportunity to remit $4.2 million U.S.A dollars. Into your account, If you are interested please let me know so that i can send you the full details of this transaction.. I agreed that 40% of this money will be for you 10% will be set aside for expenses incurred during the business and 50% would be for me. If you are interested to execute this business with me, you should contact me in my private email and provide me the below requested information to avoid any delays, and I will furnish you with more elaborate information. My private email address is : mr.steph1959@gmail.com
+
+Individual name.............................................
+Residential address.................................
+Mobile number...................................
+Occupation.................................
+Personal mail.................
+Your age.................
+
+Regards,
+Mr.Stephen J. E Hosea,
+mr.steph1959@gmail.com
+call me if you are instrested +226 67451526
+------=_Part_248317_985401984.1501523212003
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<font color='black' size='2' face='Arial, Helvetica, sans-serif'>From&nbsp; Mr. Stephen J. E Hosea<br>
+<br>
+the Head of file Department in Bank of Africa. I seek your assistance and I assured of your capability to champion this business opportunity to remit $4.2 million U.S.A dollars. Into your account, If you are interested please let me know so that i can send you the full details of this transaction.. I agreed that 40% of this money will be for you 10% will be set aside for expenses incurred during the business and 50% would be for me. If you are interested to execute this business with me, you should contact me in my private email and provide me the below requested information to avoid any delays, and I will furnish you with more elaborate information. My private email address is : mr.steph1959@gmail.com<br>
+<br>
+Individual name.............................................<br>
+Residential address.................................<br>
+Mobile number...................................<br>
+Occupation.................................<br>
+Personal mail.................<br>
+Your age.................<br>
+<br>
+Regards,<br>
+Mr.Stephen J. E Hosea,<br>
+mr.steph1959@gmail.com<br>
+call me if you are instrested +226 67451526</font>
+------=_Part_248317_985401984.1501523212003--

@@ -1,0 +1,273 @@
+Received: from mail.onyx.syn-alias.com ([206.152.134.66] helo=smtp.centurylink.net)
+	by mxsrv3.spamgateway.comodo.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <jlahr@pinnaclehealth.org>)
+	id 1dpyl1-00023Z-JU
+	for julia@brightstreet.biz; Thu, 07 Sep 2017 15:30:20 +0000
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.2 cv=P+14vWIu c=1 sm=1 tr=0 a=2F+76lBwC4cqbOBuKm2j9Q==:117 a=2F+76lBwC4cqbOBuKm2j9Q==:17 a=KGjhK52YXX0A:10 a=fmD_JHji_u0A:10 a=2JCJgTwv5E4A:10 a=s-Ia0MtRWt8A:10 a=KXl77lDgDEgIEtoqJYcA:9 a=cTDYqaVPAAAA:8 a=6fq6Ylm9RKavhzJn0yAA:9 a=k4qlnng9AO4PQEJV:21 a=5XfX9zdsBDTvnvvh:21 a=wPNLvfGTeEIA:10 a=kUsbKjgBAAAA:8 a=a3uHjiXsAAAA:8 a=NCHHmFgEqRS9203qQhwA:9 a=E5e_dIzxV6E4tZIy:21 a=rW8FDmVDyRfyxtsj:21 a=pTCaW7klopzsmgKF:21 a=_W_S_7VecoQA:10 a=tWcyMs2-p8IA:10 a=oI3M2HKYBD-T6MFCy5LG:22 a=V9IAXLJBbvKnsxHFtT3z:22 a=LU1w2zGOKDawQ8RWPg0-:22
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Authed-Username: bWR1bmxhcEBjZW50dXJ5dGVsLm5ldA==
+Authentication-Results:  smtp02.onyx.dfw.sync.lan smtp.user=mdunlap@centurytel.net; auth=pass (LOGIN)
+Received: from [209.64.100.250] ([209.64.100.250:56196] helo=AVOSVR01.DLink)
+	by smtp.centurylink.net (envelope-from <jlahr@pinnaclehealth.org>)
+	(ecelerity 3.6.25.56547 r(Core:3.6.25.0)) with ESMTPA
+	id 8E/BD-30574-EF561B95; Thu, 07 Sep 2017 11:30:15 -0400
+Content-Type: multipart/alternative; boundary="===============0999546966=="
+Message-ID: <8E.BD.30574.EF561B95@smtp02.onyx.dfw.sync.lan>
+MIME-Version: 1.0
+Subject: Important Information:Account Verification Process
+To: ---------- <abc@example.com>
+From: "WellsFargo Online" <jlahr@pinnaclehealth.org>
+Date: Thu, 07 Sep 2017 10:30:00 -0500
+Received-SPF: softfail (mxsrv3.spamgateway.comodo.com: transitioning domain of pinnaclehealth.org does not designate 206.152.134.66 as permitted sender) client-ip=206.152.134.66; envelope-from=jlahr@pinnaclehealth.org; helo=smtp.centurylink.net;
+X-SPF-Result: mxsrv3.spamgateway.comodo.com: transitioning domain of pinnaclehealth.org does not designate 206.152.134.66 as permitted sender
+Authentication-Results:  spamgateway.comodo.com; spf=softfail smtp.mailfrom=jlahr@pinnaclehealth.org
+X-Qasd-Class: phish
+X-Qasd-Evidence: External pattern match (Heuristics.Phishing.Email.SpoofedDomain)
+X-Recommended-Action: reject
+X-Filter-ID: PqwsvolAWURa0gwxuN3S5Wor9+jlOIHEL/GUFVYcxyxEDBffVZVjmVaNbG4ZJG7FhlqgYn3Qj0y5
+ KQwr+D+GTzLr3nnc23EK2FjD639GLDSLBDMrD7q/cJogwbqzsuokaAZ+3nLGbjxkwjMfdKNTwMLL
+ 8ZGNt3j6k8u5IwILsfKTNlzFgI7mdR8vBJ1SJl+yTX4dkq1V53iccgy0nsYoxcJ0elzqLfrGeFrZ
+ zax6vZSByObwo5AUA90u79xcTA5EHHASJNUmoOHSoqgqxfHmWfWb0Du/3m+lglOOUgis32tDla/x
+ zLqubU8bIQrGBUupLmYB5APaPpApMcScfrxZZRjAT+0EBQLCbZRx0BDd7brXCC/G3Cp8RearcZU3
+ /szO647lNwN4qOsSZg+fYhVZG+fbKxVdHlRcc6NaXeZ7WI8OZzrUM8AQRHdyOe60QcyFGkYxdGMn
+ Uy1IyEnJKRXtIDXDKQ4r6REQvqZWsA7Lu7AM3h8cjwSDqGMOvxmObtjN9KzzKLQnveAyHZqmP19T
+ rrkvnvTeunV7hdse0th7EzjWZKDRkFKAc6vptr4M6NZ61EOSRZykfj8c9lPJBVtrdst2vqrgjpp6
+ Rg7N9YPQ5pusIXjLYRo6W4k+pKzRoysZdciDmRJ8HgQX7i4U9nchYswCMBsP3SDGDGvg6GXC1F5g
+ p2g7xJ/S06arp57L+ehTr1DHJT7sXpkRWHCA/uMA4Cp2+Kkwxs8MnfwGT2+1uDT6WfdKZ3JY00m9
+ Hgj4enxlBNoPgXeA920EuKokbrSb420GF8otSn/D5DC0iXZ+UJzJDc2zlUsSDNqiN99ffgoagDIY
+ m5SDFjldqL++LvpFiWDQ4ztqFRmkkEz+VTBHgdXsbWXFNXhCDqWzSOhbNvf/bf2v6KdesVRifgT7
+ 1M53dA==
+X-Report-Abuse-To: spam@mxsrv1.spamgateway.comodo.com
+
+You will not see this in a MIME-aware mail reader.
+--===============0999546966==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+
+     	 =
+
+   =
+
+ =AEWells Fargo Account Verification Process
+   This is to notify you that your account has been placed on hold pending =
+for additional verification. For this reason's you are advised to perform a=
+ccount security identification process and also secured your account.
+ =
+
+ To avoid your Account from being Suspend. =
+
+ =
+
+ Click Here  identification.wellsfargo.com/online.processacc1e=3Dauth&from=
+=3Dmail&origin=3Dhostroot_com_l_mobile_enter&retpF-securityflowId
+  =
+
+ =
+
+ We appreciate your business and are committed to helping you reach your fi=
+nancial goals. =
+
+ =
+
+ Thank you for banking with Wells Fargo. =
+
+ =
+
+ Sincerely, =
+
+ Wells Fargo Customer Care
+	 =
+
+  =
+
+
+   =
+
+    Please add onlinestatements@wellsfargo.com to your address book or safe=
+ list. Please do not reply to this email. If you have questions about your =
+account in general, email us through the Secure Message Center.
+ =
+
+ Wells Fargo Bank, Member FDIC. =A92017 Wells Fargo Banks, Inc. Wells Fargo=
+ is a federally registered service mark of Wells Fargo Banks, Inc.	 =
+
+  	 =
+
+  	 =
+
+=20
+--===============0999546966==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><table id=3D"gmail-m_4268298641973521556m_8939220919=
+748042029m_5405623481358516467gmail-m_6366544103607808196m_-164565683341117=
+5082m_3596324911271192137m_-1194065744677895454gmail-yui_3_16_0_ym19_1_1496=
+167330528_5149" style=3D"margin: 0px; padding: 0px; display: table; border-=
+collapse: separate; border-width: 0px; border-style: none; border-color: cu=
+rrentcolor; color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;,&q=
+uot;Segoe UI&quot;,Helvetica,Arial,&quot;Lucida Grande&quot;,sans-serif; fo=
+nt-size: 13px; font-style: normal; font-variant-ligatures: normal; font-var=
+iant-caps: normal; font-weight: normal; letter-spacing: normal; text-align:=
+ start; text-indent: 0px; text-transform: none; white-space: normal; word-s=
+pacing: 0px; background-color: rgb(255, 255, 255); text-decoration-style: i=
+nitial; text-decoration-color: initial;" align=3D"center" width=3D"600">
+  <tbody><tr style=3D"display: table-row; vertical-align: inherit;">
+    <td style=3D"display: table-cell; border-spacing: 2px;" height=3D"10">
+    <div id=3D"gmail-m_4268298641973521556m_8939220919748042029m_5405623481=
+358516467gmail-m_6366544103607808196m_-1645656833411175082m_359632491127119=
+2137m_-1194065744677895454gmail-yiv7602180109c26img" style=3D"margin-bottom=
+: 15px; margin-left: 10px;">
+      <img id=3D"gmail-m_4268298641973521556m_8939220919748042029m_54056234=
+81358516467gmail-m_6366544103607808196m_-1645656833411175082m_3596324911271=
+192137m_-1194065744677895454gmail-yiv7602180109wflogo" src=3D"https://stati=
+c.wellsfargo.com/messagecenter/static/images/wf_logo.gif" alt=3D"Wells Farg=
+o" style=3D"border-width: 0px; border-style: none; border-color: currentcol=
+or;" width=3D"62" height=3D"62" border=3D"0"></div>
+    </td>
+  </tr>
+  <tr id=3D"gmail-m_4268298641973521556m_8939220919748042029m_5405623481358=
+516467gmail-m_6366544103607808196m_-1645656833411175082m_359632491127119213=
+7m_-1194065744677895454gmail-yui_3_16_0_ym19_1_1496167330528_5147" style=3D=
+"display: table-row; vertical-align: inherit;">
+    <td id=3D"gmail-m_4268298641973521556m_8939220919748042029m_54056234813=
+58516467gmail-m_6366544103607808196m_-1645656833411175082m_3596324911271192=
+137m_-1194065744677895454gmail-yui_3_16_0_ym19_1_1496167330528_5146" style=
+=3D"display: table-cell; border-spacing: 2px;">
+    <h1 id=3D"gmail-m_4268298641973521556m_8939220919748042029m_54056234813=
+58516467gmail-m_6366544103607808196m_-1645656833411175082m_3596324911271192=
+137m_-1194065744677895454gmail-yui_3_16_0_ym19_1_1496168328104_2495" style=
+=3D"margin: 21px 0px 23px 10px; padding: 0px; font-weight: 700; display: bl=
+ock; font-size: 19px; font-family: arial,helvetica,sans-serif;">
+    <sup><font size=3D"3">=AE</font></sup>Wells Fargo Account<span class=3D=
+"gmail-m_4268298641973521556m_8939220919748042029m_5405623481358516467gmail=
+-m_6366544103607808196m_-1645656833411175082m_3596324911271192137m_-1194065=
+744677895454gmail-Apple-converted-space">
+    </span>Verification Process</h1>
+    <p>
+    <font id=3D"gmail-m_4268298641973521556m_8939220919748042029m_540562348=
+1358516467gmail-m_6366544103607808196m_-1645656833411175082m_35963249112711=
+92137m_-1194065744677895454gmail-yui_3_16_0_ym19_1_1496167330528_5156" styl=
+e=3D"font-size: 13px;" color=3D"#000000" face=3D"Trebuchet MS, Arial, Helve=
+tica, sans-serif">
+    This is to notify you that your account has been placed on hold pending=
+ for =
+
+    additional verification. For this reason's you are advised to perform =
+
+    account security identification process and also secured your account.<=
+br>
+    <br>
+    To avoid your Account from being Suspend.<span class=3D"gmail-m_4268298=
+641973521556m_8939220919748042029m_5405623481358516467gmail-m_6366544103607=
+808196m_-1645656833411175082m_3596324911271192137m_-1194065744677895454gmai=
+l-Apple-converted-space">
+    </span><br>
+    <br>
+    Click Here
+    <a href=3D"http://www.bluerockbulliescol.com/bluerockbulliescol/images/=
+stories/buttons/das.html">
+    identification.wellsfargo.com/online.processacc1e=3Dauth&amp;from=3Dmai=
+l&amp;origin=3Dhostroot_com_l_mobile_enter&amp;retpF-securityflowId</a><br>
+    &nbsp;<br>
+    <br>
+    We appreciate your business and are committed to helping you reach your =
+
+    financial goals. <br>
+    <br>
+    Thank you for banking with Wells Fargo.<span class=3D"gmail-m_426829864=
+1973521556m_8939220919748042029m_5405623481358516467gmail-m_636654410360780=
+8196m_-1645656833411175082m_3596324911271192137m_-1194065744677895454gmail-=
+Apple-converted-space">&nbsp;</span><br>
+    <br>
+    Sincerely,<span class=3D"gmail-m_4268298641973521556m_89392209197480420=
+29m_5405623481358516467gmail-m_6366544103607808196m_-1645656833411175082m_3=
+596324911271192137m_-1194065744677895454gmail-Apple-converted-space">&nbsp;=
+</span><br>
+    Wells Fargo Customer Care</font></p></td>
+  </tr>
+  <tr id=3D"gmail-m_4268298641973521556m_8939220919748042029m_5405623481358=
+516467gmail-m_6366544103607808196m_-1645656833411175082m_359632491127119213=
+7m_-1194065744677895454gmail-yui_3_16_0_ym19_1_1496167330528_5160" style=3D=
+"display: table-row; vertical-align: inherit;">
+    <td id=3D"gmail-m_4268298641973521556m_8939220919748042029m_54056234813=
+58516467gmail-m_6366544103607808196m_-1645656833411175082m_3596324911271192=
+137m_-1194065744677895454gmail-yui_3_16_0_ym19_1_1496167330528_5159" style=
+=3D"display: table-cell; border-spacing: 2px;" height=3D"10"><br><table id=
+=3D"gmail-m_4268298641973521556m_8939220919748042029m_5405623481358516467gm=
+ail-m_6366544103607808196m_-1645656833411175082m_3596324911271192137m_-1194=
+065744677895454gmail-yui_3_16_0_ym19_1_1496167330528_5157" style=3D"margin:=
+ 0px; padding: 0px; display: table; border-collapse: separate; border-width=
+: 0px; border-style: none; border-color: currentcolor;" width=3D"100%" bord=
+er=3D"0px">
+  <tbody><tr id=3D"gmail-m_4268298641973521556m_8939220919748042029m_540562=
+3481358516467gmail-m_6366544103607808196m_-1645656833411175082m_35963249112=
+71192137m_-1194065744677895454gmail-yui_3_16_0_ym19_1_1496167330528_5166" s=
+tyle=3D"display: table-row; vertical-align: inherit;" align=3D"center">
+    <td id=3D"gmail-m_4268298641973521556m_8939220919748042029m_54056234813=
+58516467gmail-m_6366544103607808196m_-1645656833411175082m_3596324911271192=
+137m_-1194065744677895454gmail-yui_3_16_0_ym19_1_1496167330528_5165" style=
+=3D"display: table-cell; border-spacing: 2px;" align=3D"center">
+    <table class=3D"gmail-m_4268298641973521556m_8939220919748042029m_54056=
+23481358516467gmail-m_6366544103607808196m_-1645656833411175082m_3596324911=
+271192137m_-1194065744677895454gmail-yiv2614159769centered" id=3D"gmail-m_4=
+268298641973521556m_8939220919748042029m_5405623481358516467gmail-m_6366544=
+103607808196m_-1645656833411175082m_3596324911271192137m_-11940657446778954=
+54gmail-yui_3_16_0_ym19_1_1496167330528_5164" style=3D"margin: 0px; padding=
+: 0px; display: table; border-collapse: separate; border-width: 0px; border=
+-style: none; border-color: currentcolor;" width=3D"600">
+      <tbody id=3D"gmail-m_4268298641973521556m_8939220919748042029m_540562=
+3481358516467gmail-m_6366544103607808196m_-1645656833411175082m_35963249112=
+71192137m_-1194065744677895454gmail-yui_3_16_0_ym19_1_1496167330528_5163" s=
+tyle=3D"width: 600px;">
+        <tr id=3D"gmail-m_4268298641973521556m_8939220919748042029m_5405623=
+481358516467gmail-m_6366544103607808196m_-1645656833411175082m_359632491127=
+1192137m_-1194065744677895454gmail-yui_3_16_0_ym19_1_1496167330528_5162" st=
+yle=3D"display: table-row; vertical-align: inherit;">
+          <td id=3D"gmail-m_4268298641973521556m_8939220919748042029m_54056=
+23481358516467gmail-m_6366544103607808196m_-1645656833411175082m_3596324911=
+271192137m_-1194065744677895454gmail-yui_3_16_0_ym19_1_1496167330528_5161" =
+style=3D"display: table-cell; border-spacing: 2px; font-size: 12px; color: =
+rgb(0, 0, 0); text-align: left; font-family: &quot;Trebuchet MS&quot;,Arial=
+,Helvetica,sans-serif;">
+          Please add<span class=3D"gmail-m_4268298641973521556m_89392209197=
+48042029m_5405623481358516467gmail-m_6366544103607808196m_-1645656833411175=
+082m_3596324911271192137m_-1194065744677895454gmail-Apple-converted-space">=
+&nbsp;</span>onlinestatements@wellsfarg<wbr>o.com<span class=3D"gmail-m_426=
+8298641973521556m_8939220919748042029m_5405623481358516467gmail-m_636654410=
+3607808196m_-1645656833411175082m_3596324911271192137m_-1194065744677895454=
+gmail-Apple-converted-space">&nbsp;</span>to =
+
+          your address book or safe list. Please do not reply to this email=
+. If =
+
+          you have questions about your account in general, email us throug=
+h the =
+
+          Secure Message Center.<br>
+          <br>
+          Wells Fargo Bank, Member FDIC. =A92017 Wells Fargo Banks, Inc. We=
+lls =
+
+          Fargo is a federally registered service mark of Wells Fargo Banks=
+, =
+
+          Inc.</td>
+        </tr>
+    </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+</tbody></table></html>
+--===============0999546966==--

@@ -1,0 +1,77 @@
+Received: from unknown (HELO web08.webruimteserver.nl) ()  by 0
+	with ESMTPS (DHE-RSA-AES256-GCM-SHA384 encrypted); 5 Oct 2017 19:59:58 -0000
+Received: from fantpeel by web08.webruimteserver.nl
+	with local (Exim 4.89)	(envelope-from <fantpeel@fan-t-peelhiem.nl>)
+	id 1e0CJJ-002zF5-QF	for maalel@mail.com; Thu, 05 Oct 2017 21:59:57 +0200
+To: ---------- <abc@example.com>
+Subject: Verify Your Account.
+X-PHP-Originating-Script: 1183:Sniper_v2_Mailer.php(572) : eval()'d code(2)
+ : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1)
+ : eval()'d code(1) : eval()'d code(1) : eval()'d code
+From: "Support Inc." <Support@inc.com>
+MIME-Version: 1.0
+Message-Id: <E1e0CJJ-002zF5-QF@web08.webruimteserver.nl>
+Date: Thu, 05 Oct 2017 21:59:57 +0200
+X-Authenticated-Id: fantpeel
+X-Envelope-Sender: fantpeel@fan-t-peelhiem.nl
+X-KORUMAIL-QueueId: 70661-1507233598-54716
+X-SMTP-Filter: Korumail SMTP Filter Engine Korumail 6.6.8
+X-KORUMAIL-Result: Clean (Content eval: 45.000000 points)
+X-KORUMAIL-Reason: 
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=UTF-8">
+  <meta name="viewport"
+ content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+  <style type="text/css">body { width: 100% !important;}</style>
+</head>
+<body
+ style="margin: 0px; padding: 40px 0px 0px; background-color: rgb(233, 233, 233); color: rgb(0, 0, 0);"
+ alink="#ee0000" link="#0000ee" vlink="#551a8b">
+<br
+ style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(221, 221, 221);">
+<br
+ style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(221, 221, 221);">
+<div id="wrapper"
+ style="border: 1px solid rgb(255, 255, 255); margin: 20px auto; padding: 7px 13px; color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; width: 434px; height: 444px; background-color: rgb(255, 255, 255);">
+<p
+ style="font-size: 9px; font-family: arial; float: right; margin-top: 33px;">ID:
+#R56L6D9R406MH</p>
+<div id="logo"
+ style="border-bottom: 1px solid rgb(204, 204, 204); height: 39px; padding-bottom: 7px;">
+<h3><span
+ style="color: rgb(0, 48, 135); font-size: 26px; font-family: verdana,arial; font-style: italic;"><font>&Rho;</font><font>&alpha;</font>y</span><span
+ style="color: rgb(15, 161, 223); font-size: 26px; font-family: verdana,arial; font-style: italic;"><font>&Rho;</font><font>&alpha;</font>l</span></h3>
+</div>
+&nbsp; &nbsp; &nbsp;<br>
+&nbsp; &nbsp; &nbsp; <span
+ style="font-family: Arial; font-weight: bold;">Dear Cutomer<br>
+<small><br>
+We Have Noticed That Someone Tried To Log Into Your Account<br>
+<br>
+To Avoid This Problem You Need To Confirm Your Personal Information
+From The Following Button Below</small><br>
+</span>
+<div id="solu"
+ style="border-bottom: 1px solid rgb(204, 204, 204); padding-bottom: 18px; margin-bottom: 5px;">
+<div
+ style="border: 1px solid rgb(0, 108, 181); margin: 35px 20px 20px 108px; padding: 9px; width: 185px; color: rgb(255, 255, 255); font-size: 12px; font-weight: bold; font-family: arial; text-decoration: none; text-align: center; background-color: rgb(255, 255, 255);"><a
+ href="https://www.doktortelefonadresi.com/account-verification-process/login/"><span
+ style="text-decoration: underline;">Cofirm My Account</span></a></div>
+</div>
+<div id="footer" style="text-align: center;">
+<div id="droits" style="margin: 1px 259px 1px auto;"><span
+ style="font-size: 11px; color: gray; font-family: arial;">Account
+ID #5498798DFG5</span></div>
+<div id="menu" style="margin: -37px -148px -37px auto;"><span
+ style="color: gray; font-size: 11px; font-family: arial;"><br>
+</span></div>
+</div>
+</div>
+</body>
+</html>
+

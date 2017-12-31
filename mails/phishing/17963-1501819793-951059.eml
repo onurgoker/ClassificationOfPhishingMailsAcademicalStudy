@@ -1,0 +1,684 @@
+Received: from unknown (HELO m1.betdag.com) (185.171.233.130)
+  by 0 with ESMTPS (DHE-RSA-AES256-GCM-SHA384 encrypted); 4 Aug 2017 04:09:54 -0000
+Received-SPF: pass (0: SPF record at betdag.com designates 185.171.233.130 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=betdag.com;
+	 s=default; h=Content-Transfer-Encoding:Content-Type:List-Unsubscribe:
+	MIME-Version:Reply-To:From:Date:Message-ID:Subject:To:Sender:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=ahkXKJ2KBcwXCNdXMkbAD01PPZa8t5IAb51XNwqzdb8=; b=VS0rqCg3Sae05oatTuxheY33e7
+	xLEh+qVnFroAc9dQ5b3YBYtivl/NxquJFG60a+w2RRovXOyWOPV6WkDf6zKMRvD/EVvtqlwOYmDmm
+	tPLum6ckDI8sIK0QLpu8PiXnIRkVWVdOVz4DTWIV1kPnQPrKre2YjSFmjsgFc/5t0JBSgZAzYv040
+	n8FOcCtrpI9vAr/kpTVOAInamngc5ZVu+G4K5HJDHNanPLLYvC6BXXQ5kobbw+WZMtH/jaE+Kq6wJ
+	bRvCmAMRqWlfxtBwAOMxF2BoKmHy8quSH/jgCY40+9+Bvs0/Ut3+JwsDKKykWBRJrIxK8wfiD10tG
+	0LiSPJhg==;
+Received: from [::1] (port=35292 helo=betdag.com)
+	by m1.betdag.com with esmtpa (Exim 4.88)
+	(envelope-from <jon@betdag.com>)
+	id 1ddTvt-0008EH-8c
+	for james@comodo.com; Fri, 04 Aug 2017 07:09:53 +0300
+To: ---------- <abc@example.com>
+Subject: =?UTF-8?B?RsOlIEZpbmFuc2F2aXNlbiBoZWx0IGdyYXRpcyBpIDIgdWtlci4=?=
+Message-ID: <e730df2de23cc21d17f66b47fad39d90@betdag.com>
+Date: Fri, 04 Aug 2017 04:05:14 +0000
+From: "Bladtilbud" <jon@betdag.com>
+Reply-To: jon@betdag.com
+MIME-Version: 1.0
+X-Mailer-LID: 35,14
+List-Unsubscribe: <http://betdag.com/unsubscribe.php?M=531595&C=1ca472e0eb06b309a483ca4f0da75eb0&L=14&N=133>
+X-Mailer-RecptId: 531595
+X-Mailer-SID: 133
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_f214edb3236566dfccab09e8c93421b7"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - m1.betdag.com
+X-AntiAbuse: Original Domain - comodo.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - betdag.com
+X-Get-Message-Sender-Via: m1.betdag.com: authenticated_id: betdag/from_h
+X-Authenticated-Sender: m1.betdag.com: jon@betdag.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+--b1_f214edb3236566dfccab09e8c93421b7
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Pr&oslash;v Finansavisen
+[http://betdag.com/link.php?M=531595&N=133&L=100&F=T] gratis i 2 uker
+
+- helt uforpliktende.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bli daglig oppdatert innenfor &oslash;konomi og n&aelig;ringsliv.
+Finansnyheter og gode r&aring;d p&aring; daglig basis.
+
+
+
+Abonnementet stopper automatisk.
+
+
+
+
+
+  BESTILL N&Aring; >>
+[http://betdag.com/link.php?M=531595&N=133&L=100&F=T]
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Nyhetsbrevet sendes fra en kommersiell tredjepartner.
+
+Du kan avmelde deg dette nyhetsbrevet, ved &aring; klikke her.
+[http://betdag.com/unsubscribe.php?M=531595&C=1ca472e0eb06b309a483ca4f0da75eb0&L=14&N=133]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--b1_f214edb3236566dfccab09e8c93421b7
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html
+xmlns="http://www.w3.org/1999/xhtml"
+xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+
+<!--[if gte mso 9]><xml>
+
+<o:OfficeDocumentSettings>
+
+<o:AllowPNG/>
+
+<o:PixelsPerInch>96</o:PixelsPerInch>
+
+</o:OfficeDocumentSettings>
+
+</xml><![endif]-->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<meta name="viewport" content="width=device-width" />
+
+<!--[if !mso]><!--><meta http-equiv="X-UA-Compatible" content="IE=edge"
+/><!--<![endif]-->
+
+<title>Template Base</title>
+
+<!--[if !mso]><!-- -->
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat"
+rel="stylesheet" type="text/css" />
+
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"
+type="text/css" />
+
+<!--<![endif]-->
+
+
+
+<style type="text/css" id="media-query">
+
+body {
+
+margin: 0;
+
+padding: 0; }
+
+
+
+table, tr, td {
+
+vertical-align: top;
+
+border-collapse: collapse; }
+
+
+
+ .ie-browser table, .mso-container table {
+
+table-layout: fixed; }
+
+
+
+* {
+
+line-height: inherit; }
+
+
+
+a[x-apple-data-detectors=true] {
+
+color: inherit !important;
+
+text-decoration: none !important; }
+
+
+
+[owa] .img-container div, [owa] .img-container button {
+
+display: block !important; }
+
+
+
+[owa] .fullwidth button {
+
+width: 100% !important; }
+
+
+
+[owa] .block-grid .col {
+
+display: table-cell;
+
+float: none !important;
+
+vertical-align: top; }
+
+
+
+ .ie-browser .num12, .ie-browser .block-grid, [owa] .num12, [owa]
+block-grid {
+
+width: 600px !important; }
+
+
+
+ .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass
+font, .ExternalClass td, .ExternalClass div {
+
+line-height: 100%; }
+
+
+
+ .ie-browser .mixed-two-up .num4, [owa] .mixed-two-up .num4 {
+
+width: 200px !important; }
+
+
+
+ .ie-browser .mixed-two-up .num8, [owa] .mixed-two-up .num8 {
+
+width: 400px !important; }
+
+
+
+ .ie-browser .block-grid.two-up .col, [owa] .block-grid.two-up .col {
+
+width: 300px !important; }
+
+
+
+ .ie-browser .block-grid.three-up .col, [owa] .block-grid.three-up .col {
+
+width: 200px !important; }
+
+
+
+ .ie-browser .block-grid.four-up .col, [owa] .block-grid.four-up .col {
+
+width: 150px !important; }
+
+
+
+ .ie-browser .block-grid.five-up .col, [owa] .block-grid.five-up .col {
+
+width: 120px !important; }
+
+
+
+ .ie-browser .block-grid.six-up .col, [owa] .block-grid.six-up .col {
+
+width: 100px !important; }
+
+
+
+ .ie-browser .block-grid.seven-up .col, [owa] .block-grid.seven-up .col {
+
+width: 85px !important; }
+
+
+
+ .ie-browser .block-grid.eight-up .col, [owa] .block-grid.eight-up .col {
+
+width: 75px !important; }
+
+
+
+ .ie-browser .block-grid.nine-up .col, [owa] .block-grid.nine-up .col {
+
+width: 66px !important; }
+
+
+
+ .ie-browser .block-grid.ten-up .col, [owa] .block-grid.ten-up .col {
+
+width: 60px !important; }
+
+
+
+ .ie-browser .block-grid.eleven-up .col, [owa] .block-grid.eleven-up .col
+{
+
+width: 54px !important; }
+
+
+
+ .ie-browser .block-grid.twelve-up .col, [owa] .block-grid.twelve-up .col
+{
+
+width: 50px !important; }
+
+
+
+@media only screen and (min-width: 620px) {
+
+ .block-grid {
+
+width: 600px !important; }
+
+ .block-grid .col {
+
+display: table-cell;
+
+Float: none !important;
+
+vertical-align: top; }
+
+ .block-grid .col.num12 {
+
+width: 600px !important; }
+
+ .block-grid.mixed-two-up .col.num4 {
+
+width: 200px !important; }
+
+ .block-grid.mixed-two-up .col.num8 {
+
+width: 400px !important; }
+
+ .block-grid.two-up .col {
+
+width: 300px !important; }
+
+ .block-grid.three-up .col {
+
+width: 200px !important; }
+
+ .block-grid.four-up .col {
+
+width: 150px !important; }
+
+ .block-grid.five-up .col {
+
+width: 120px !important; }
+
+ .block-grid.six-up .col {
+
+width: 100px !important; }
+
+ .block-grid.seven-up .col {
+
+width: 85px !important; }
+
+ .block-grid.eight-up .col {
+
+width: 75px !important; }
+
+ .block-grid.nine-up .col {
+
+width: 66px !important; }
+
+ .block-grid.ten-up .col {
+
+width: 60px !important; }
+
+ .block-grid.eleven-up .col {
+
+width: 54px !important; }
+
+ .block-grid.twelve-up .col {
+
+width: 50px !important; } }
+
+
+
+@media (max-width: 620px) {
+
+ .block-grid, .col {
+
+min-width: 320px !important;
+
+max-width: 100% !important; }
+
+ .block-grid {
+
+width: calc(100% - 40px) !important; }
+
+ .col {
+
+width: 100% !important; }
+
+ .col > div {
+
+margin: 0 auto; }
+
+img.fullwidth {
+
+max-width: 100% !important; } }
+
+
+
+</style>
+
+</head>
+
+<body class="clean-body" style="margin: 0;padding:
+0;-webkit-text-size-adjust: 100%;background-color: #FFFFFF">
+<!--[if IE]><div class="ie-browser"><![endif]--> <!--[if mso]><div
+class="mso-container"><![endif]-->
+<div class="nl-container" style="min-width: 320px; margin: 0 auto;
+background-color: #ffffff;"><!--[if (mso)|(IE)]><table width="100%"
+cellpadding="0" cellspacing="0" border="0"><tr><td align="center"
+style="background-color: #FFFFFF;"><![endif]-->
+<div style="background-color: transparent;">
+<div style="margin: 0 auto; min-width: 320px; max-width: 600px; width:
+calc(29000% - 179200px); overflow-wrap: break-word; word-wrap: break-word;
+word-break: break-word; background-color: transparent;" class="block-grid
+">
+<div style="border-collapse: collapse; display: table; width:
+100%;"><!--[if (mso)|(IE)]><table width="100%" cellpadding="0"
+cellspacing="0" border="0"><tr><td style="background-color:transparent;"
+align="center"><table cellpadding="0" cellspacing="0" border="0"
+style="width: 600px;"><tr class="layout-full-width"
+style="background-color:transparent;"><![endif]--> <!--[if (mso)|(IE)]><td
+align="center" width="600" style=" width:600px; padding-right: 0px;
+padding-left: 0px; padding-top:0px; padding-bottom:0px; border-top: 0px
+solid transparent; border-left: 0px solid transparent; border-bottom: 0px
+solid transparent; border-right: 0px solid transparent;"
+valign="top"><![endif]-->
+<div class="col num12" style="min-width: 320px; max-width: 600px; width:
+calc(28000% - 167400px); background-color: transparent;">
+<div style="background-color: transparent; width: 100% !important;"><!--[if
+(!mso)&(!IE)]><!-->
+<div style="border: 0px solid transparent; padding: 0px;"><!--<![endif]-->
+<div style="padding: 10px;"><!--[if (mso)]><table width="100%"
+cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right:
+10px;padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"><table
+width="100%" align="center" cellpadding="0" cellspacing="0"
+border="0"><tr><td><![endif]-->
+<div align="center">
+<div style="border-top: 0px solid transparent; width: 100%; line-height:
+0px; height: 0px; font-size: 0px;">&nbsp;</div>
+</div>
+<!--[if (mso)]></td></tr></table></td></tr></table><![endif]--></div>
+<!--[if (!mso)&(!IE)]><!--></div>
+<!--<![endif]--></div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]--></div>
+</div>
+</div>
+<div style="background-image:
+url('https://dcqepv5djxfod.cloudfront.net/templates/default/61/sayagata-200px.gif');
+background-position: top center; background-repeat: repeat;
+;background-color: transparent;">
+<div style="margin: 0 auto; min-width: 320px; max-width: 600px; width:
+calc(29000% - 179200px); overflow-wrap: break-word; word-wrap: break-word;
+word-break: break-word; background-color: transparent;" class="block-grid
+">
+<div style="border-collapse: collapse; display: table; width:
+100%;"><!--[if (mso)|(IE)]><table width="100%" cellpadding="0"
+cellspacing="0" border="0"><tr><td
+style="background-image:url('https://dcqepv5djxfod.cloudfront.net/templates/default/61/sayagata-200px.gif');background-position:top
+center;background-repeat:repeat;;background-color:transparent"
+align="center"><table cellpadding="0" cellspacing="0" border="0"
+style="width: 600px;"><tr class="layout-full-width"
+style="background-color:transparent;"><![endif]--> <!--[if (mso)|(IE)]><td
+align="center" width="600" style=" width:600px; padding-right: 0px;
+padding-left: 0px; padding-top:5px; padding-bottom:15px; border-top: 0px
+solid transparent; border-left: 0px solid transparent; border-bottom: 0px
+solid transparent; border-right: 0px solid transparent;"
+valign="top"><![endif]-->
+<div class="col num12" style="min-width: 320px; max-width: 600px; width:
+calc(28000% - 167400px); background-color: transparent;">
+<div style="background-color: transparent; width: 100% !important;"><!--[if
+(!mso)&(!IE)]><!-->
+<div style="padding-top: 5px; padding-bottom: 15px; padding-right: 0px;
+padding-left: 0px; border: 0px solid transparent;"><!--<![endif]--> <!--[if
+mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td
+style="padding-right: 10px; padding-left: 10px; padding-top: 30px;
+padding-bottom: 5px;"><![endif]-->
+<div style="line-height: 120%; color: #555555; font-family: 'Montserrat',
+'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans',
+Tahoma, sans-serif; padding-right: 10px; padding-left: 10px; padding-top:
+30px; padding-bottom: 5px;">
+<div style="font-size: 12px; line-height: 14px; font-family: Montserrat,
+'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans',
+Tahoma, sans-serif; color: #555555; text-align: left;">
+<p style="margin: 0; line-height: 43px; font-size: 36px; text-align:
+center;"><span style="font-size: 28px; line-height: 33px;"><strong><span
+style="line-height: 33px; font-size: 28px;"><span style="line-height: 33px;
+font-size: 28px;">Pr&oslash;v <a style="color: #0068a5; text-decoration:
+underline;" href="http://betdag.com/link.php?M=531595&N=133&L=100&F=H"
+target="_blank" rel="noopener noreferrer">Finansavisen</a> gratis i 2 uker
+</span></span></strong></span></p>
+<p style="margin: 0; line-height: 43px; font-size: 36px; text-align:
+center;"><span style="font-size: 18px; line-height: 21px;"><span
+style="line-height: 21px; font-size: 18px;"><strong><span
+style="line-height: 21px; font-size: 18px;"><span style="line-height: 21px;
+font-size: 18px;">- helt
+uforpliktende.</span></span></strong></span></span></p>
+</div>
+</div>
+<!--[if mso]></td></tr></table><![endif]-->
+<div align="center" class="img-container center" style="padding-right: 0px;
+padding-left: 0px;"><!--[if mso]><table width="100%" cellpadding="0"
+cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left:
+0px;" align="center"><![endif]-->
+<div style="line-height: 30px; font-size: 1px;">&nbsp;</div>
+<img class="center" align="center" border="0"
+src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/37081_14746/Sofia%20Bilder/b904af05-b4f3-4b0f-8dec-a22e01312aac.gif"
+alt="Image" title="Image" style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; clear: both; display: block !important;
+border: 0; height: auto; float: none; width: 100%; max-width: 300px;"
+width="300" /> <!--[if mso]></td></tr></table><![endif]--></div>
+<div style="padding-right: 10px; padding-left: 10px; padding-top: 15px;
+padding-bottom: 20px;"><!--[if (mso)]><table width="100%" cellpadding="0"
+cellspacing="0" border="0"><tr><td style="padding-right: 10px;padding-left:
+10px; padding-top: 15px; padding-bottom: 20px;"><table width="15%"
+align="center" cellpadding="0" cellspacing="0"
+border="0"><tr><td><![endif]-->
+<div align="center">
+<div style="border-top: 10px solid #66C7E5; width: 15%; line-height: 10px;
+height: 10px; font-size: 10px;">&nbsp;</div>
+</div>
+<!--[if (mso)]></td></tr></table></td></tr></table><![endif]--></div>
+<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0"
+border="0"><tr><td style="padding-right: 25px; padding-left: 25px;
+padding-top: 5px; padding-bottom: 20px;"><![endif]-->
+<div style="line-height: 180%; color: #555555; font-family: 'Lato', Tahoma,
+Verdana, Segoe, sans-serif; padding-right: 25px; padding-left: 25px;
+padding-top: 5px; padding-bottom: 20px;">
+<div style="font-size: 12px; line-height: 22px; color: #555555;
+font-family: 'Lato', Tahoma, Verdana, Segoe, sans-serif; text-align:
+left;">
+<p style="margin: 0; font-size: 14px; line-height: 25px; text-align:
+center;"><span style="font-size: 18px; line-height: 32px;">Bli daglig
+oppdatert innenfor &oslash;konomi og n&aelig;ringsliv.</span><br /><span
+style="font-size: 18px; line-height: 32px;">Finansnyheter og gode r&aring;d
+p&aring; daglig basis.</span></p>
+<p style="margin: 0; font-size: 14px; line-height: 25px; text-align:
+center;">&nbsp;</p>
+<p style="margin: 0; font-size: 14px; line-height: 25px; text-align:
+center;"><span style="font-size: 14px; line-height: 25px;">Abonnementet
+stopper automatisk.</span></p>
+</div>
+</div>
+<!--[if mso]></td></tr></table><![endif]-->
+<div align="center" class="button-container center" style="padding-right:
+10px; padding-left: 10px; padding-top: 0px; padding-bottom: 30px;"><!--[if
+mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"
+style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt;
+mso-table-rspace:0pt;"><tr><td style="padding-right: 10px; padding-left:
+10px; padding-top:0px; padding-bottom:30px;" align="center"><v:roundrect
+xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+href="https://api.netb11.com/c/?id=128862&cd=21918" style="height:62px;
+v-text-anchor:middle; width:230px;" arcsize="5%" strokecolor="#66C7E5"
+fillcolor="#66C7E5"><w:anchorlock/><center style="color:#0068A5;
+font-family:'Lato', Tahoma, Verdana, Segoe, sans-serif;
+font-size:24px;"><![endif]--> <a
+href="http://betdag.com/link.php?M=531595&N=133&L=100&F=H" target="_blank"
+style="display: inline-block; text-decoration: none;
+-webkit-text-size-adjust: none; text-align: center; color: #0068a5;
+background-color: #66c7e5; border-radius: 3px; -webkit-border-radius: 3px;
+-moz-border-radius: 3px; max-width: 210px; width: auto; border-top: 0px
+solid transparent; border-right: 0px solid transparent; border-bottom: 4px
+solid #59B7E0; border-left: 0px solid transparent; padding-top: 5px;
+padding-right: 20px; padding-bottom: 5px; padding-left: 20px; font-family:
+'Lato', Tahoma, Verdana, Segoe, sans-serif; mso-border-alt: none;"> <span
+style="font-size: 12px; line-height: 24px;"><span style="text-decoration:
+underline; font-size: 24px; line-height: 48px;"><span style="line-height:
+48px; font-size: 24px;"><strong><span style="line-height: 48px; font-size:
+24px;">BESTILL N&Aring; &gt;&gt;&nbsp;</span></strong></span></span></span>
+</a> <!--[if
+mso]></center></v:roundrect></td></tr></table><![endif]--></div>
+<!--[if (!mso)&(!IE)]><!--></div>
+<!--<![endif]--></div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]--></div>
+</div>
+</div>
+<div style="background-color: transparent;">
+<div style="margin: 0 auto; min-width: 320px; max-width: 600px; width:
+calc(29000% - 179200px); overflow-wrap: break-word; word-wrap: break-word;
+word-break: break-word; background-color: transparent;" class="block-grid
+">
+<div style="border-collapse: collapse; display: table; width:
+100%;"><!--[if (mso)|(IE)]><table width="100%" cellpadding="0"
+cellspacing="0" border="0"><tr><td style="background-color:transparent;"
+align="center"><table cellpadding="0" cellspacing="0" border="0"
+style="width: 600px;"><tr class="layout-full-width"
+style="background-color:transparent;"><![endif]--> <!--[if (mso)|(IE)]><td
+align="center" width="600" style=" width:600px; padding-right: 0px;
+padding-left: 0px; padding-top:5px; padding-bottom:5px; border-top: 0px
+solid transparent; border-left: 0px solid transparent; border-bottom: 0px
+solid transparent; border-right: 0px solid transparent;"
+valign="top"><![endif]-->
+<div class="col num12" style="min-width: 320px; max-width: 600px; width:
+calc(28000% - 167400px); background-color: transparent;">
+<div style="background-color: transparent; width: 100% !important;"><!--[if
+(!mso)&(!IE)]><!-->
+<div style="padding-top: 5px; padding-bottom: 5px; padding-right: 0px;
+padding-left: 0px; border: 0px solid transparent;"><!--<![endif]--> <!--[if
+mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td
+style="padding-right: 10px; padding-left: 10px; padding-top: 10px;
+padding-bottom: 10px;"><![endif]-->
+<div style="color: #555555; line-height: 120%; font-family: 'Lato', Tahoma,
+Verdana, Segoe, sans-serif; padding: 10px;">
+<div style="font-size: 12px; line-height: 14px; color: #555555;
+font-family: 'Lato', Tahoma, Verdana, Segoe, sans-serif; text-align:
+left;">
+<p style="margin: 0; font-size: 14px; line-height: 17px; text-align:
+center;"><span style="font-size: 10px; line-height: 12px;"><em>Nyhetsbrevet
+sendes fra en kommersiell tredjepartner. </em></span></p>
+<p style="margin: 0; font-size: 14px; line-height: 17px; text-align:
+center;"><span style="font-size: 10px; line-height: 12px;"><em>Du kan
+avmelde deg dette nyhetsbrevet, ved &aring; klikke <a
+href="http://betdag.com/unsubscribe.php?M=531595&C=1ca472e0eb06b309a483ca4f0da75eb0&L=14&N=133">her.</a></em></span></p>
+</div>
+</div>
+<!--[if mso]></td></tr></table><![endif]-->
+<div style="padding: 10px;"><!--[if (mso)]><table width="100%"
+cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right:
+10px;padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"><table
+width="100%" align="center" cellpadding="0" cellspacing="0"
+border="0"><tr><td><![endif]-->
+<div align="center">
+<div style="border-top: 0px solid transparent; width: 100%; line-height:
+0px; height: 0px; font-size: 0px;">&nbsp;</div>
+</div>
+<!--[if (mso)]></td></tr></table></td></tr></table><![endif]--></div>
+<!--[if (!mso)&(!IE)]><!--></div>
+<!--<![endif]--></div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]--></div>
+</div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table><![endif]--></div>
+<!--[if (mso)|(IE)]></div><![endif]-->
+<img src="http://betdag.com/open.php?M=531595&L=14&N=133&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_f214edb3236566dfccab09e8c93421b7--
+
+

@@ -1,0 +1,86 @@
+Received: from unknown (HELO h2137076.stratoserver.net) (85.214.239.89)
+  by 0 with SMTP; 13 Oct 2017 21:03:14 -0000
+Received-SPF: unknown (0: domain at spf-trusted-fwd1.surgate.net does not designate permitted sender hosts)
+Received: by h2137076.stratoserver.net (Postfix, from userid 33)
+	id C4F4120D2581; Fri, 13 Oct 2017 22:53:46 +0200 (CEST)
+To: ---------- <abc@example.com>
+Subject: Notification
+X-PHP-Originating-Script: 10000:php.module(80) : eval()'d code
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+From: AppStore <admin@h2137076.stratoserver.net>
+Message-Id: <20171013205346.C4F4120D2581@h2137076.stratoserver.net>
+Date: Fri, 13 Oct 2017 22:53:46 +0200 (CEST)
+
+<html>
+<head>
+	<title></title>
+</head>
+<body>&nbsp;</body>
+<br />
+<meta content="text/html; charset=windows-1252" http-equiv="Content-Type" /></html>
+<title></title>
+<table style="line-height: 21.3px; color: rgb(102, 102, 102); font-family: Calibri,sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; table-layout: fixed; width: 1178px; background-color: rgb(255, 255, 255)">
+	<tbody style="line-height: 21.3px">
+		<tr style="line-height: 21.3px">
+			<td style="line-height: 21.3px">
+			<table align="center" cellpadding="0" cellspacing="0" class="ecxmainTable" style="line-height: inherit; font-size: inherit; text-align: center; border-collapse: collapse; border: 0px none; padding: 0px">
+				<tbody style="line-height: 21.3px">
+					<tr style="line-height: 21.3px">
+						<td class="ecxtopPadding" colspan="3" height="16" style="line-height: 21.3px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; height: 16px">&nbsp;</td>
+					</tr>
+					<tr style="line-height: 21.3px">
+						<td class="ecxextraColumn" style="line-height: 21.3px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; width: 64px">&nbsp;</td>
+						<td class="ecxcenterColumn" style="line-height: 21.3px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; width: 685px">
+						<table align="center">
+							<tbody style="line-height: 21.3px">
+								<tr>
+									<td>
+									<h1><img alt="" src="http://www.pngmart.com/files/1/Apple-Logo-PNG-Transparent-Image.png" style="width: 65px; height: 75px; float: right;" /></h1>
+									</td>
+								</tr>
+								<tr style="line-height: 21.3px">
+									<td align="center" class="header ecxtitleSpacer" style="line-height: 38.34px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color: rgb(43, 43, 43); font-size: 27px; font-weight: 300; padding-left: 0px; padding-right: 0px; padding-top: 24px; padding-bottom: 16px"><span style="font-size:36px;">Notice of changes to the Apple User Agreement.</span></td>
+								</tr>
+								<tr style="line-height: 21.3px">
+									<td align="center" class="ecxcontent spacer" style="line-height: 20px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color: rgb(102, 102, 102); font-size: 15px; font-weight: 300; padding-bottom: 14px">
+									<p><span style="font-size:22px;">This is an automatic message by the system to let you know that you have to confirm your account information within 24 hours.<br />
+									your account has been frozen temporarily in order to protect it.<br />
+									<br />
+									If you don&#39;t confirm your account within 24 hours , your account will be permanently deleted.<br />
+									<br />
+									To confirm your account visit the link below :</span></p>
+
+									<p><br />
+									<u><span style="font-size:26px;"><span class="ecxfooter1" style="line-height: 15.62px; white-space: nowrap"><a href="https://www.maxpinnacle.com/admin/uploads/banner/red.php" style="line-height: 15.62px; font-weight: inherit; text-decoration: none; color: rgb(0, 136, 204); cursor: pointer" target="_blank">My Apple Login</a></span></span></u></p>
+									</td>
+								</tr>
+								<tr style="line-height: 21.3px">
+									<td align="center" class="ecxcontent ecxspacer1" style="line-height: 20px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color: rgb(102, 102, 102); font-size: 15px; font-weight: 300; padding-bottom: 14px">once you have confirmed your account informations your account will start to work as normal once again.<br />
+									<br />
+									<br />
+									Thanks,<br />
+									Apple Security Team</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td class="ecxextraColumn" style="line-height: 21.3px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; width: 64px">&nbsp;</td>
+					</tr>
+					<tr class="ecxfooterTopPadding" height="17" style="line-height: 21.3px; height: 17px">
+						<td style="line-height: 21.3px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif">&nbsp;</td>
+					</tr>
+					<tr style="line-height: 21.3px">
+						<td align="center" background="" class="footer ecxbackground ecxcenterColumn" colspan="3" id="ecxfooterGroup1" style="line-height: 22px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; width: 685px; font-size: 11px; color: rgb(136, 136, 136); text-align: center; padding-left: 0px; padding-right: 0px; padding-top: 15px; padding-bottom: 10px; background-repeat: no-repeat; background-position: 50% 0%">&nbsp;</td>
+					</tr>
+					<tr style="line-height: 21.3px">
+						<td align="center" class="footer ecxcenterColumn ecxcontent" colspan="3" style="line-height: 14px; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; width: 685px; font-size: 11px; color: rgb(136, 136, 136); text-align: center"><br style="line-height: 15.62px" />
+						<span class="ecxbottomContent" style="line-height: 15.62px"><span class="ecxfooter1" style="line-height: 15.62px; white-space: nowrap">Copyright&nbsp; 2017-2018&nbsp;</span><span style="line-height: 15.62px"><span class="nobr" style="line-height: 15.62px"><a href="https://dub127.mail.live.com/ol/#address" id="address" style="line-height: 15.62px; font-weight: inherit; text-decoration: none; color: rgb(136, 136, 136); cursor: text">L-2763 Los Angelos.</a></span><span class="Apple-converted-space">&nbsp;</span></span><span class="ecxfooter1" style="line-height: 15.62px; white-space: nowrap">All rights reserved.</span></span></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
