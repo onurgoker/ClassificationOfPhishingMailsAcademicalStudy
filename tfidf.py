@@ -1,9 +1,62 @@
 from __future__ import division
-import string
-import math
+import os, re, string, node, nltk, math, sys
+from email import message_from_file
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+
+
+"""------------------------"""
+#Functions
+"""------------------------"""
+def cleanhtml(raw_html):
+    cleanr = re.compile('<.*?>')
+    cleantext = re.sub(cleanr, '', raw_html)
+    return cleantext
+
+def isLineEmpty(line):
+    return len(line.strip()) == 0
+
+def mail_exists (f):
+    """Checks whether eml file exists or not."""
+    return os.path.exists(os.path.join("./", f))
+
+
+"""------------------------"""
+#Program Execution
+"""------------------------"""
+
+if __name__ == '__main__':
+    stopWords = set(stopwords.words('english'))
+    numbers = ["0","1","2","3","4","5","6","7","8","9"]
+    attachmentPath = "./attachments"
+    emailPath = "mails/phishing/"
+    all_documents = []
+    mailCount = 300
+
+    #return and count all words
+    for i in range(1,mailCount+1):
+        fileName = emailPath + str(i) + ".eml" 
+        word_document = ""
+
+        if(mail_exists(fileName)):
+            fileOpen = open(fileName) #file open
+            fileRead = fileOpen.read()
+            fileRead = cleanhtml(fileRead)
+            wordList = word_tokenize(fileRead) #tokenize
+
+            for word in wordList:
+                word = word.strip()
+                if word not in stopWords and not isLineEmpty(word) and word not in numbers and word is not None:
+                    word = re.sub('[^A-Za-z0-9]+', '', word)
+                    word_document = word_document + " " + word
+
+
+            all_documents.append(word_document)
+            fileOpen.close()
 
 tokenize = lambda doc: doc.lower().split(" ")
 
+"""
 document_0 = "China has a strong economy that is growing at a rapid pace. However politically it differs greatly from the US Economy."
 document_1 = "At last, China seems serious about confronting an endemic problem: domestic violence and corruption."
 document_2 = "Japan's prime minister, Shinzo Abe, is working towards healing the economic turmoil in his own country for his view on the future of his people."
@@ -11,8 +64,10 @@ document_3 = "Vladimir Putin is working hard to fix the economy in Russia as the
 document_4 = "What's the future of Abenomics? We asked Shinzo Abe for his views"
 document_5 = "Obama has eased sanctions on Cuba while accelerating those against the Russian Economy, even as the Ruble's value falls almost daily."
 document_6 = "Vladimir Putin is riding a horse while hunting deer. Vladimir Putin always seems so serious about things - even riding horses. Is he crazy?"
+document_7 = "fdsfsd"
 
 all_documents = [document_0, document_1, document_2, document_3, document_4, document_5, document_6]
+"""
 
 def jaccard_similarity(query, document):
     intersection = set(query).intersection(set(document))

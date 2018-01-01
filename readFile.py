@@ -1,23 +1,18 @@
 # Author Onur GOKER
 # Created in 31/12/2017
 
+import os, re, string, node, nltk, math, sys
 from email import message_from_file
-import os
-import string
-import re
-import node
-import nltk
-import math, sys
 from nltk import word_tokenize
 from nltk.corpus import stopwords
 
-path = "./attachments"
+attachmentPath = "./attachments"
 emailPath = "mails/phishing/"
+mailCount = 300
 
-
-"""------------------------"""
+"""""------------------------"""
 # Node class
-"""------------------------"""
+"""------------------------"""""
 
 class Node(object):
     
@@ -136,6 +131,13 @@ class LinkedList(object):
 """------------------------"""
 #Functions
 """------------------------"""
+def cleanhtml(raw_html):
+    cleanr = re.compile('<.*?>')
+    cleantext = re.sub(cleanr, '', raw_html)
+    return cleantext
+
+def isLineEmpty(line):
+    return len(line.strip()) == 0
 
 def mail_exists (f):
     """Checks whether eml file exists or not."""
@@ -143,7 +145,7 @@ def mail_exists (f):
 
 def file_exists (f):
     """Checks whether extracted file was extracted before."""
-    return os.path.exists(os.path.join(path, f))
+    return os.path.exists(os.path.join(attachmentPath, f))
 
 def extract (msgfile, key):
     """Extracts all data from e-mail, including From, To, etc., and returns it as a dictionary.
@@ -155,7 +157,7 @@ def extract (msgfile, key):
     For more see __doc__ for pullout() and caption() functions.
     """
     m = message_from_file(msgfile)
-    Subject = caption(m)
+    #Subject = caption(m)
     Text, Html, Files, Parts = pullout(m, key)
     Text = Text.strip(); Html = Html.strip()
     msg = Text
@@ -173,7 +175,7 @@ def caption (origin):
 
 def save_file (fn, cont):
     """Saves cont to a file fn"""
-    file = open(os.path.join(path, fn), "w")
+    file = open(os.path.join(attachmentPath, fn), "w")
     file.write(cont)
     file.close()
 
@@ -265,25 +267,24 @@ def disgra (s):
 """------------------------"""
 
 if __name__ == '__main__':
-    llist = LinkedList()
-
     stopWords = set(stopwords.words('english'))
+    numbers = ["0","1","2","3","4","5","6","7","8","9"]
+    word_document = ""
 
     #return and count all words
-    for i in range(1,301):
-
+    for i in range(1,mailCount+1):
         fileName = emailPath + str(i) + ".eml" 
 
         if(mail_exists(fileName)):
-            fileOpen = open(fileName, "rb")
-            fileRead = extract(fileOpen, fileOpen.name)
-
-            #tokenize
-            wordList = word_tokenize(fileRead)
+            fileOpen = open(fileName) #file open
+            fileRead = fileOpen.read()
+            fileRead = cleanhtml(fileRead)
+            wordList = word_tokenize(fileRead) #tokenize
 
             for word in wordList:
-                if word not in stopWords:
-                    llist.insert(word)
+                word = word.strip()
+                if word not in stopWords and not isLineEmpty(word) and word not in numbers and word is not None:
+                    word = re.sub('[^A-Za-z0-9]+', '', word)
+                    word_document = word_document + " " + word
 
             fileOpen.close()
-    llist.printList()
