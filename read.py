@@ -283,11 +283,7 @@ if __name__ == '__main__':
 
             for word in wordList:
                 if word not in stopWords:
-                    
-
                     llist.insert(word)
-                    print(word)
-                    sys.exit(0)
 
             fileOpen.close()
     llist.printList()
