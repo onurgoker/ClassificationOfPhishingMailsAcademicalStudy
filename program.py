@@ -1,52 +1,32 @@
 from __future__ import division
 import os, re, string, node, nltk, math, sys
+import custom_methods, prm
+from nltk.corpus import stopwords
 from email import message_from_file
 from nltk import word_tokenize
-from nltk.corpus import stopwords
-
-
-"""------------------------"""
-#Functions
-"""------------------------"""
-def cleanhtml(raw_html):
-    cleanr = re.compile('<.*?>')
-    cleantext = re.sub(cleanr, '', raw_html)
-    return cleantext
-
-def isLineEmpty(line):
-    return len(line.strip()) == 0
-
-def mail_exists (f):
-    """Checks whether eml file exists or not."""
-    return os.path.exists(os.path.join("./", f))
-
 
 """------------------------"""
 #Program Execution
 """------------------------"""
 
-if __name__ == '__main__':
-    stopWords = set(stopwords.words('english'))
-    numbers = ["0","1","2","3","4","5","6","7","8","9"]
-    attachmentPath = "./attachments"
-    emailPath = "mails/phishing/"
-    all_documents = []
-    mailCount = 300
+stopWords = set(stopwords.words(prm.language))
+all_documents = []
 
+if __name__ == '__main__':
     #return and count all words
-    for i in range(1,mailCount+1):
-        fileName = emailPath + str(i) + ".eml" 
+    for i in range(1,prm.mailCount+1):
+        fileName = prm.emailPath + str(i) + ".eml" 
         word_document = ""
 
-        if(mail_exists(fileName)):
+        if(custom_methods.mail_exists(fileName)):
             fileOpen = open(fileName) #file open
             fileRead = fileOpen.read()
-            fileRead = cleanhtml(fileRead)
+            fileRead = custom_methods.cleanhtml(fileRead)
             wordList = word_tokenize(fileRead) #tokenize
 
             for word in wordList:
                 word = word.strip()
-                if word not in stopWords and not isLineEmpty(word) and word not in numbers and word is not None:
+                if word not in stopWords and not custom_methods.isLineEmpty(word) and word not in prm.numbers and word is not None:
                     word = re.sub('[^A-Za-z0-9]+', '', word)
                     word_document = word_document + " " + word
 
