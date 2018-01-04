@@ -2,9 +2,7 @@
 # Created in 24/12/2017
 
 from email import message_from_file
-import os
-import string
-import re
+import os, string, re, sys
 #import linkedlist
 
 # Node class
@@ -254,8 +252,7 @@ def extract (msgfile, key):
 #create empty linkedlist
 if __name__ == '__main__':
     llist = LinkedList()
-    stopWords = set(stopwords.words('english'))
- 
+
 #return and count all words
 for i in range(1,150):
 

@@ -9,13 +9,15 @@ from nltk import word_tokenize
 #Program Execution
 """------------------------"""
 
+emailPath = sys.argv[1] #e.g.: "mails/phishing/"
+outputPath = sys.argv[2] #.g.: "output.txt"
 stopWords = set(stopwords.words(prm.language))
 all_documents = []
 
 if __name__ == '__main__':
     #return and count all words
     for i in range(1,prm.mailCount+1):
-        fileName = prm.emailPath + str(i) + ".eml" 
+        fileName = emailPath + str(i) + ".eml" 
         word_document = ""
 
         if(custom_methods.mail_exists(fileName)):
@@ -114,5 +116,11 @@ for count_0, doc_0 in enumerate(sklearn_representation.toarray()):
     for count_1, doc_1 in enumerate(sklearn_representation.toarray()):
         skl_tfidf_comparisons.append((cosine_similarity(doc_0, doc_1), count_0, count_1))
 
+THIS_FOLDER = os.path.dirname(os.path.abspath(__file__))
+my_file = THIS_FOLDER + '/' + outputPath
+file = open(my_file, 'w+')
+
 for x in zip(sorted(our_tfidf_comparisons, reverse = True), sorted(skl_tfidf_comparisons, reverse = True)):
-    print(x)
+    file.writelines(str(x) + "\n")
+
+file.close()
