@@ -1,11 +1,13 @@
-# parse email messages in ../data/input subdirectories (ham, spam, phishing, ...) and put the clean text messages in ../data/output (stop words and other junk cleaned)
+parse email messages in ../data/input subdirectories (ham, spam, phishing, ...) and put the clean text messages in ../data/output (stop words and other junk cleaned)
+
 python parse.py -input ../data/input -output ../data/output
 
-# read all ham and spam emails in the directories -ham and -spam, calculate tf.idf average scores for each word in each batch
-# and take the difference of scores and write to -output file in (word, weight) format.
+read all ham and spam emails in the directories -ham and -spam, calculate tf.idf average scores for each word in each batch and take the difference of scores and write to -output file in (word, weight) format.
+
 python wordweight.py -ham ../data/output/ham -spam ../data/output/spam -output ../data/dict.txt
 
-# create word vectors with weights for each email file in -ham and -spam directories, and write the vectors to -output file in the format (???).
+create word vectors with weights for each email file in -ham and -spam directories, and write the vectors to -output file in the format (???).
+
 python vectorize.py -ham ../data/output/ham -spam ../data/output/spam -dict ../data/dict.txt -output ../data/vectors.txt
 
 
