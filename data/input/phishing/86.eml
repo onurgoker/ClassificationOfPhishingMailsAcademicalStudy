@@ -1,0 +1,37 @@
+Received: from unknown (HELO plutos.hoster.kg) (176.126.165.114)
+  by 0 with SMTP; 22 Jul 2017 15:07:16 -0000
+Received: by plutos.hoster.kg (Postfix, from userid 7340)
+	id 5BFDFAE77; Sat, 22 Jul 2017 21:07:10 +0600 (KGT)
+To: ---------- <abc@example.com>
+Subject: Your PayPal Accounts will be Limited
+X-PHP-Script: pls98.kg/readme.php for 105.105.211.68, 105.105.211.68
+X-PHP-Originating-Script: 7340:readme.php(394) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(3) : eval()'d code
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: PayPal.inc <service@info.com>
+Message-Id: <20170722150710.5BFDFAE77@plutos.hoster.kg>
+Date: Sat, 22 Jul 2017 21:07:10 +0600 (KGT)
+
+<meta charset="utf-8">
+<center>
+<font style="font-size: 40px;font-style: italic;font-weight: bold;font-family: tahoma,geneva,sans-serif;color: #003366;">Pay</font>
+<font style="font-size: 40px;font-style: italic;font-weight: bold;font-family: tahoma,geneva,sans-serif;color: #009cde;">Pal</font>
+<br>
+<br>
+<div style="border: 1px solid #efe9e9;width: 650px;text-align: center;padding: 2px;">
+<h4>
+<font color="#019be1">Notice of Policy Updates</font></h4>
+paypaI Client,
+<br>
+<br>
+Some of your informations are  missing or incorrect.
+<br>
+Please update your information promptly
+<br>
+<h5>
+<a href="https://canyonmassageandbodywork.com/index.php">Click Here To Check your Account</a>
+</h5>
+</div>
+<br>
+Copyright © 1999-2017 P4yPaI, Inc. All Right Reserved.
+</center>
