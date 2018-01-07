@@ -58,5 +58,5 @@ if __name__ == '__main__':
             with open(outputFileName, 'a') as the_file:
                 for word in wordList:
                     word = re.sub('[^A-Za-z0-9]+', '', word)
-                    if word and word not in stopWords and not word.isdigit() and word is not custom_methods.isLineEmpty(word) and word not in prm.numbers and word is not None and word.strip() != " " and word.strip() != "\n":
+                    if word and word not in stopWords and not word.isdigit() and word is not custom_methods.isLineEmpty(word) and word not in prm.numbers and word is not None and word.strip() != " " and word.strip() != "\n" and len(word) > 2:
                         the_file.write(word + '\n')
