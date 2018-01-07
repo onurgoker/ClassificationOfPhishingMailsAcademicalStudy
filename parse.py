@@ -1,10 +1,12 @@
+# encoding=utf8  
 from __future__ import division
-import os, re, string, node, nltk, math, sys
+import os, re, string, node, nltk, math, io
 import custom_methods, prm
 import email
 from nltk.corpus import stopwords
 from email import message_from_file
 from nltk import word_tokenize
+import sys  
 
 """------------------------"""
 #Program Execution
@@ -23,37 +25,35 @@ if len(sys.argv) > 2:
         if p == "-output":
             outputType = "output"
 else:
-    print "Please use this program with parameter!"
+    print("Please use this program with parameter!")
 
 stopWords = set(stopwords.words(prm.language))
-all_documents = []
+count = 0
 
 if sys.argv[1] != "-input":
-    print "Use -input parameter to parse the emails first!"
+    print("Use -input parameter to parse the emails first!")
     sys.exit()
 
 if __name__ == '__main__':
     #return and count all words
     for i in range(1,prm.mailCount+1):
-        fileName = inputPath + str(i) + ".eml" 
-        word_document = ""
+        inputFileName = inputPath + str(i) + ".eml" 
+        outputFileName = outputPath
 
-        if(custom_methods.mail_exists(fileName)):
-            fileOpen = open(fileName) #file open
-            fileRead = fileOpen.read()
-            body     = custom_methods.get_mail_body(fileRead)
-            body     = custom_methods.cleanhtml(body)
-            wordList = word_tokenize(body) #tokenize
+        if(custom_methods.mail_exists(inputFileName)):
+            readFile = open(inputFileName, 'r')
+            body     = str(custom_methods.get_mail_body(readFile.read()))
+            wordList = custom_methods.cleanhtml(body)
+            wordList = word_tokenize(wordList) #tokenize
+            readFile.close() 
+
+
+        if(custom_methods.mail_exists(outputFileName)):
+            writeFile       = open(outputFileName, 'w+')
 
             for word in wordList:
-                word = word.strip()
                 if word not in stopWords and not word.isdigit() and word is not custom_methods.isLineEmpty(word) and word not in prm.numbers and word is not None:
                     word = re.sub('[^A-Za-z0-9]+', '', word)
+                    writeFile.writelines("fdsf\n")
 
-                    if word != '':
-                        word_document = word_document + "," + word
-
-            all_documents.append(word_document)
-            fileOpen.close()
-
-print all_documents
+            writeFile.close()
