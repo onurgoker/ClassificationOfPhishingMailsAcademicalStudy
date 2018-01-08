@@ -1,12 +1,11 @@
-import re,os,email,sys
+import re,os,email,sys,xml
 
 """------------------------"""
 #Functions
 """------------------------"""
 def cleanhtml(raw_html):
-    cleanr = re.compile('<.*?>')
-    cleantext = re.sub(cleanr, '', raw_html)
-    return cleantext
+    cleanr = "</?[^\W].{0,10}?>"
+    return re.sub(cleanr, '', raw_html)
 
 def isLineEmpty(line):
     return len(line.strip()) == 0
@@ -36,11 +35,11 @@ def get_mail_body(fileRead):
 
             # skip any text/plain (txt) attachments
             if ctype == 'text/plain' and 'attachment' not in cdispo:
-                body = part.get_payload(decode=True)  # decode
+                body = part.get_payload(decode=False)  # decode
                 break
     # not multipart - i.e. plain text, no attachments, keeping fingers crossed
     else:
-        body = b.get_payload(decode=True)
+        body = b.get_payload(decode=False)
 
     return body
 

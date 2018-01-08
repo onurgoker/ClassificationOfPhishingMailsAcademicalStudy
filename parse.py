@@ -38,13 +38,6 @@ if sys.argv[1] != "-input":
     sys.exit()
 
 if __name__ == '__main__':
-    
-    #truncate the output file first
-    f = open('data/output/output.txt', 'r+')
-    f.truncate()
-    f.close()
-
-    #return and count all words
     for i in range(1,mailCount+1):
         inputFileName = inputPath + str(i) + ".eml" 
         outputFileName = outputPath + str(i) + ".eml"
@@ -53,18 +46,20 @@ if __name__ == '__main__':
             readFile    = open(inputFileName, 'r')
             read        = readFile.read()
             body        = str(custom_methods.get_mail_body(read))
-            body        = re.sub(r'http\S+', '', body)
-            title       = str(custom_methods.get_mail_title(read))
+            body        = custom_methods.cleanhtml(re.sub(r'http\S+', '', body))
+            title       = str(custom_methods.get_mail_title(read)) + "\n"
 
-            #wordList = custom_methods.cleanhtml(body)
-            #wordList = word_tokenize(wordList) #tokenize
             readFile.close()
 
             writeFile = open(outputFileName, "w+")
-            writeFile.write(title)
+            writeFile.write(title) #write title
+            writeFile.write(body) #write title
             writeFile.close()
 
         """
+            #wordList = custom_methods.cleanhtml(body)
+            #wordList = word_tokenize(wordList) #tokenize
+
         #print the words
         if(custom_methods.mail_exists(outputFileName)):
             with open(outputFileName, 'a') as the_file:
