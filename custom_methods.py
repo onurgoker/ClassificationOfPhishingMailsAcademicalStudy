@@ -1,4 +1,4 @@
-import re,os,email
+import re,os,email,sys
 
 """------------------------"""
 #Functions
@@ -43,3 +43,8 @@ def get_mail_body(fileRead):
         body = b.get_payload(decode=True)
 
     return body
+
+def get_mail_title(fileRead):
+    msg = email.message_from_string(fileRead)
+    
+    return msg['subject']
