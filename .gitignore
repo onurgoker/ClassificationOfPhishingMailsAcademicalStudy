@@ -9,9 +9,6 @@ __pycache__/
 #VS code
 .vscode/
 
-#data
-data/
-
 # Distribution / packaging
 .Python
 env/

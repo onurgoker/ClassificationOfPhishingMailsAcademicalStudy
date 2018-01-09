@@ -1,0 +1,467 @@
+PayPal : Account Update - Receipt .H447449963374704782843
+<!DOCTYPE html>
+<meta  content="text/html; charset=utf-8">
+    
+    <style type="text/css">
+        #outlook a {
+            padding: 0;
+        }
+
+        body {
+            width: 100% !important;
+            background-color: #ffffff;
+            -webkit-text-size-adjust: none;
+            -ms-text-size-adjust: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .ReadMsgBody {
+            width: 100%;
+        }
+
+        .ExternalClass {
+            width: 100%;
+        }
+
+        ol li, ol li p {
+            margin: 0;
+            padding: 0;
+        }
+
+        .pe-ol {
+            margin-left: 20px !important;
+        }
+
+        img {
+            height: auto;
+            line-height: 100%;
+            outline: none;
+            text-decoration: none;
+        }
+
+        #backgroundTable {
+            height: 100% !important;
+            margin: 0;
+            padding: 0px;
+            width: 100% !important;
+        }
+
+        p {
+            margin: 0 0;
+        }
+
+        .aolReplacedBody p {
+            margin: 0 !important;
+        }
+
+        .pe-bullets p, .pe-sub-bullets p {
+            margin: 0 0;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            color: #333333 !important;
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 100% !important;
+        }
+
+        table td {
+            border-collapse: collapse;
+        }
+
+        .yshortcuts, .yshortcuts a, .yshortcuts a:link, .yshortcuts a:visited, .yshortcuts a:hover, .yshortcuts a span {
+            color: black;
+            text-decoration: none !important;
+            border-bottom: none !important;
+            background: none !important;
+        }
+
+        .im {
+            color: black;
+        }
+
+        div[id="tablewrap"] {
+            width: 100%;
+            max-width: 740px !important;
+        }
+
+        div[id="tablewrap"] {
+            width: 100%;
+            max-width: 740px !important;
+        }
+
+        table[class="fulltable"], td[class="fulltd"] {
+            max-width: 100% !important;
+            width: 100% !important;
+            height: auto !important;
+        }
+
+        .ExternalClass * {
+            line-height: 100%;
+        }
+
+        .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {
+            line-height: 100%;
+        }
+
+        .ecxoutlookcom {
+            padding-top: 20px;
+            padding-bottom: 20px;
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+
+        .ecxoutlookcomsocial {
+            padding-left: 4px;
+            padding-right: 4px;
+        }
+
+        .ecxwidthfix {
+            width: 100% !important;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .ecxdisc-bg {
+            background: #ffffff !important;
+        }
+
+        .ecxlogo-marg {
+            padding-top: 15px;
+            padding-bottom: 10px;
+        }
+
+        .ecxpe-headline p {
+            padding-top: 10px !important;
+        }
+
+        .ecxpe-btn {
+            height: 70px !important;
+        }
+
+        .ecxpe-ol {
+            Padding-left: 20px !important;
+            padding-bottom: 0px !important;
+            margin: 0 !important;
+        }
+
+        .ExternalClass .ecxpe-across-image {
+            padding-bottom: 20px !important;
+        }
+
+        .ExternalClass .ecxpe-text p, .ExternalClass .ecxpe-id-details p {
+            display: inline;
+            line-height: 200% !important;
+        }
+
+        .ExternalClass .ecxpe-subtitle p {
+            display: inline;
+            line-height: 150% !important;
+            padding-bottom: 10px;
+        }
+
+        .ExternalClass .ecxpe-headline p {
+            display: inline;
+            line-height: 120% !important;
+        }
+
+        .ExternalClass .ecxpe-headline {
+            padding-bottom: 20px !important;
+        }
+
+        .ExternalClass .ecxpe-subtitle {
+            padding-top: 10px !important;
+        }
+
+        .ecxpe-bullets p, .ecxpe-sub-bullets p, .ecxpe-ol p {
+            display: inline !important;
+        }
+
+        table[class=pe-data-table] {
+            background-color: #fff;
+            border-collapse: collapse;
+            border: none !important;
+        }
+
+            table[class=pe-data-table] tr {
+                background-color: #f5f5f5;
+            }
+
+                table[class=pe-data-table] tr:nth-child(even) {
+                    background-color: #efefef;
+                }
+
+            table[class=pe-data-table] td {
+                border-bottom: 0 !important;
+            }
+
+        a[href^=tel] {
+            color: #333333;
+            text-decoration: none;
+        }
+
+        @media screen and (max-device-width: 620px), screen and (max-width: 620px) {
+            .pe-split-image-con {
+                padding: 0 !important;
+            }
+
+            img[class=pe-across-image] {
+                width: auto !important;
+                max-width: 100% !important;
+            }
+
+            table[class=pe-split-image-con] {
+                background: none !important;
+            }
+
+            td[class=pe-split-image] {
+                display: block !important;
+                width: 100% !important;
+                float: right !important;
+                padding-left: 0 !important;
+            }
+
+                td[class=pe-split-image] img {
+                    display: block !important;
+                    margin-bottom: 0px !important;
+                    margin-top: 10px !important;
+                    max-width: 333px !important;
+                }
+
+            td[id=pe-split-image-b] img {
+                display: block !important;
+                margin-bottom: 10px !important;
+                margin-top: 0px !important;
+                max-width: 333px !important;
+            }
+
+            table[id="backgroundTable"] {
+                padding: 0px !important;
+            }
+
+            td[class=btn-center-td] {
+                text-align: center !important;
+            }
+
+            div[class=centering-btn], table[class=centering-btn] {
+                width: 100% !important;
+            }
+
+            table[class=btn-width] {
+                text-align: center !important;
+                width: 100% !important;
+            }
+
+            table[class=pe-data-table-con] {
+                width: 100% !important;
+            }
+
+            table[class=pe-data-table] {
+                width: 100% !important;
+            }
+
+                table[class=pe-data-table] td {
+                    padding-left: 10px !important;
+                    padding-right: 10px !important;
+                    border-bottom: 0 !important;
+                }
+        }
+    
+    <!--Target Outlook 2007 and 2010-->
+    <!--[if gte mso 9]>
+    
+    .pe-ol{Margin-left:28px !important; padding-top:10px; padding-bottom:10px;}
+    .pe-ol td{border-bottom:1px solid #dddddd !important; border-bottom-width:1px; border-bottom-color:#dddddd; border-bottom-style:solid;}
+    .pe-bullets p, .pe-sub-bullets p{line-height:20px !important; margin-bottom:5px !important;}
+    .pe-subtitle p{margin-bottom:5px !important; }
+    .pe-image img{width:auto !important;  padding-bottom:20px !important; }
+    .pe-image{padding-bottom:15px !important;}
+    }
+    
+    <![endif]-->
+    <!--Target Outlook older than 2007 and 2010-->
+    <!--[if lte mso 9]>
+    
+    #tablewrap{width:740px !important;}
+    .pe-ol{Margin-left:28px !important; padding-top:10px; padding-bottom:10px;}
+    .pe-ol td{border-bottom:1px solid #dddddd !important; border-bottom-width:1px; border-bottom-color:#dddddd; border-bottom-style:solid;}
+    .pe-bullets p, .pe-sub-bullets p{line-height:20px !important;}
+    .pe-subtitle p{margin-bottom:5px !important; }
+    .pe-image img{width:auto !important; padding-bottom:10px !important;}
+    }
+    
+    <![endif]-->
+
+
+<body style="width:100%; margin:0; padding:0; -webkit-text-size-adjust:none; -ms-text-size-adjust:none; background-color:#ffffff;">
+    <table cellpadding="0" cellspacing="0" border="0" id="backgroundTable" style="height:auto !important; margin:0; padding:25px; background-color:#ccc; color:#333333;">
+        
+            
+                <div id="tablewrap" style="width:100% !important; max-width:740px !important; text-align:center; margin:0 auto;">
+                    <table id="contenttable" width="740" align="center" cellpadding="0" cellspacing="0" border="0" style="background-color:#FFFFFF; margin:0 auto; text-align:center; border:none; width: 100% !important; max-width:740px !important;">
+                        
+                            <td width="90%" valign="top">
+                                <div class="outlookcom">
+                                    <table bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0" width="90%" style="margin-left:auto; margin-right:auto; margin-top:25px; margin-bottom:15px;" dir="ltr" class="widthfix logo-marg pe-header">
+
+
+<div style="FONT-SIZE:14px;FONT-FAMILY:Arial;COLOR:#747474">
+<p align="left">
+<div style="FONT-SIZE:10px;FONT-FAMILY:Arial black;COLOR:#828282;padding-left:30px">
+<p style="FONT-SIZE:36px"><font color="#003084">&#80;&#97;y<font color="#0098db">&#80;&#97;&#108;
+<span class="" alt="free-tools-anon"> ✔ 
+
+
+
+
+
+
+                                    
+                                    <table bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0" width="90%" style="margin:0 auto;  border-top:1px solid #cccccc; padding-top:25px;" dir="ltr" class="widthfix pe-main-con">
+                                        
+                                            <td width="100%" valign="top" bgcolor="#ffffff" style="text-align:left;" class="pe-content">
+                                                <!-- Bold text (Dear) -->                    
+<table border="0" cellspacing="0" cellpadding="0" dir="ltr" class="pe-text">
+	
+		<p style="text-align:left; color:#333333; font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:22px; margin:0px;  padding:0; margin-top:10px; font-weight:bold;">Dear ,
+	
+
+  <!-- Paragraph -->                    
+<table border="0" cellspacing="0" cellpadding="0" dir="ltr" class="pe-text">
+	
+		<p style="text-align:left; color:#333333; font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:22px; margin:0px;  padding:0; margin-top:10px; font-weight:normal;">You received a payment to your Global Payment Service!
+	
+
+  <!-- Data in Table  format -->                          
+<table border="0" cellspacing="0" cellpadding="0" class="pe-data-table-con" style="padding-top:20px; padding-bottom:20px;">
+  
+    <table border="0" cellspacing="0" cellpadding="0" style=" border-collapse:collapse; background-color:#f1f1f1;" bgcolor="#f1f1f1" dir="ltr" class="pe-data-table">
+        
+          <td valign="middle" style="text-align:left; color:#333333; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:22px; margin:0px; padding-top:10px; padding-bottom:10px; padding-right:15px; padding-left:15px; border-bottom:1px solid #dddddd; font-weight:bold;">Amount:
+          <td valign="middle" style="text-align:left; color:#333333; font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:22px; margin:0px; padding-top:10px; padding-bottom:10px; padding-right:15px; padding-left:15px; border-bottom:1px solid #dddddd; font-weight:normal;">$0.2
+        
+        
+          <td valign="middle" style="text-align:left; color:#333333; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:22px; margin:0px; padding-top:10px; padding-bottom:10px; padding-right:15px; padding-left:15px; border-bottom:1px solid #dddddd; font-weight:bold;">Reference Number:
+          <td valign="middle" style="text-align:left; color:#333333; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:22px; margin:0px; padding-top:10px; padding-bottom:10px; padding-right:15px; padding-left:15px; border-bottom:1px solid #dddddd; font-weight:normal;">PP-95330175
+        
+      
+  
+
+  <!-- Paragraph -->                    
+<table border="0" cellspacing="0" cellpadding="0" dir="ltr" class="pe-text">
+	
+		<p style="text-align:left; color:#333333; font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:22px; margin:0px;  padding:0; margin-top:10px; font-weight:normal;"> While you can continue to receive payments, your Global Payment Service has not yet been verified and future payments may be held for review until verification is complete.
+	
+
+  <!-- Paragraph -->                    
+<table border="0" cellspacing="0" cellpadding="0" dir="ltr" class="pe-text">
+	
+		<p style="text-align:left; color:#333333; font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:22px; margin:0px;  padding:0; margin-top:10px; font-weight:normal;">In order to verify your Global Payment Service, please:
+	
+
+ <!-- Number Bullet -->					  
+<table border="0" cellspacing="0" cellpadding="0" dir="ltr" class="pe-ol-table">
+	
+		<ol style="padding:0; Margin-left:25px; margin-top:10px; margin-bottom:0;" class="pe-ol">
+			<li style="text-align:left; color:#0098db; font-family:Arial, Helvetica, sans-serif; font-size:15px; font-weight:bold;">
+				<p style="text-align:left; color:#333333; font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:22px; margin-bottom:8px; margin-top:8px; font-weight:normal;">Complete a short service questionnaire.
+			
+			<li style="text-align:left; color:#0098db; font-family:Arial, Helvetica, sans-serif; font-size:15px; font-weight:bold;">
+				<p style="text-align:left; color:#333333; font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:22px; margin-bottom:8px; margin-top:8px; font-weight:normal;">Submit a copy of your government-issued photo ID (such as your national ID card, passport, or driver's license).
+			
+		
+	
+
+<!-- Questioneer Button -->                     
+<table width="100%" border="0" cellpadding="0" cellspacing="0" dir="ltr" class="pe-btn">
+  
+    <td valign="top" width="100%" style="text-align:left;"><table border="0" cellspacing="0" cellpadding="0" dir="ltr" class="centering-btn">
+        
+          <td valign="top">&nbsp;
+        
+        
+          <td class="btn-center-td" style="text-align:left; padding-bottom:10px;"><div class="centering-btn" style="display:inline-block;">
+              <table border="0" cellspacing="0" cellpadding="0" dir="ltr" class="btn-width">
+                
+                  <td style="background:#0098db; padding:12px 10px; border:6px solid rgb(239,239,239);"><a href=" style="text-decoration:none; font-family:Arial, Helvetica, sans-serif; color:#fff; background:#ff4800; text-align:center;"><span class="btn-inner" style="text-decoration:none !important; color:#fff; font-size:16px; line-height:28px; text-align:center; display:block;">&nbsp;&nbsp; Complete Questionnaire &nbsp;&nbsp;
+                
+              
+            
+        
+      
+  
+
+  <!-- Paragraph -->                    
+<table border="0" cellspacing="0" cellpadding="0" dir="ltr" class="pe-text">
+	
+		<p style="text-align:left; color:#333333; font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:22px; margin:0px;  padding:0; margin-top:10px; font-weight:normal;">After you submit your questionnaire answers, you will be directed to an online document uploader where you can submit a copy of your government-issued photo ID (such as your national ID card, passport, or driver's license).
+	
+
+  <!-- Paragraph -->                    
+<table border="0" cellspacing="0" cellpadding="0" dir="ltr" class="pe-text">
+	
+		<p style="text-align:left; color:#333333; font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:22px; margin:0px;  padding:0; margin-top:10px; font-weight:normal;">Once submitted, you will receive an e-mail with further details within a few business days.  If you are not able to use the online document uploader, you may provide your documents as attachments in reply to this e-mail.
+	
+
+                                            
+                                        
+                                        
+                                            
+                                                <table width="100%" border="0" cellpadding="0" cellspacing="0" dir="ltr" class="pe-signature">
+                                                    
+                                                        <td width="100%" valign="top" bgcolor="#ffffff" style="text-align:left;" class="pe-end-msg">
+
+                                                            <table style="text-align:left;" width="100%" border="0" cellpadding="0" cellspacing="0" dir="ltr" class="pe-signature">
+                                                                
+                                                                    &nbsp;
+                                                                
+                                                                
+                                                                    &nbsp;
+                                                                
+                                                                
+                                                                    <td style="text-align:left;" dir="ltr">
+                                                                        <span style=" color:#333333; font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:19px; margin:0; padding:0; padding-bottom:10px; font-weight:normal;">
+                                                                              Thank you,The &#80;&#97;y&#80;&#97;&#108; Team
+                                                                        
+                                                                    
+                                                                
+                                                            
+
+                                                            <table style="margin:0 auto; text-align:left;" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0" width="100%" dir="ltr" class="pe-social-icons">
+                                                                
+                                                                    <td width="100%" bgcolor="#ffffff" style="text-align:left; padding-top:10px;">
+                                                                        <div style="display:block; max-width:100% !important; width:100% !important; height:auto !important;padding-top:5px;padding-right:0px;padding-bottom:5px;">
+                                                                            <table border="0" cellspacing="0" cellpadding="0" style="margin-bottom:10px; padding-bottom:20px; text-align:left;">
+                                                                            
+                                                                        
+                                                                    
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+								<table border="0" cellspacing="0" cellpadding="25" width="100%" dir="ltr" class="pe-footer">
+                                        
+                                            <td width="100%" bgcolor="#cccccc" class="disc-bg" style="text-align:center;">
+                                                <p style="color:#999999; font-family:Arial, Helvetica, sans-serif; font-size:10px; line-height:14px; margin-top:0; margin-bottom:15px; padding:0; font-weight:normal;">To unsubscribe from getting emails from&nbsp;&#80;&#97;y&#80;&#97;&#108;, you&nbsp;must request to&nbsp;close your account. To close your account please <a style="color: #0098db" <a="" href="#" target="_blank">contact our Customer Support Department&nbsp;via email, telephone, or live chat.&nbsp;For more information please visit us at
+                                                <p style="color:#999999; font-family:Arial, Helvetica, sans-serif; font-size:9px; line-height:14px; margin-top:0; margin-bottom:15px; padding:0; font-weight:normal;">
+                                                    © 2017 &#80;&#97;y&#80;&#97;&#108;, All Rights Reserved
+                                                    &#80;&#97;y&#80;&#97;&#108; payment services are provided in partnership with various financial institutions, please see your account/card terms and conditions for further details.
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+
