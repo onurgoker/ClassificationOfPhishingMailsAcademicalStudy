@@ -1,7 +1,6 @@
 from nltk.corpus import stopwords
 import sys, prm, os, custom_methods, argparse
 
-
 #Define Paths
 parser = argparse.ArgumentParser()
 
@@ -18,26 +17,8 @@ outputPath = results.output
 """------------------------"""
 #Program Execution
 """------------------------"""
-stopWords = set(stopwords.words(prm.language))
-
-#clean stop words
-
-def write_without_stopwords(inputPath, outputPath):
-    mailCount = len(os.listdir(inputPath))
-
-    for i in range(1,mailCount+1):
-        inputFileName = inputPath + str(i) + ".eml" 
-
-        if(custom_methods.mail_exists(inputFileName)):
-            readFile    = open(inputFileName, 'r')
-            text        = str(readFile.read())
-            read        = custom_methods.remove_stopwords(text)
-
-            writeFile = open(inputFileName, "w+")
-            writeFile.write(read) #write without stopwords
-            writeFile.close()
 
 if __name__ == '__main__':
-    write_without_stopwords(hamInputPath, outputPath)
-    write_without_stopwords(phishingInputPath, outputPath)
-    
+    #clean stop words
+    custom_methods.write_without_stopwords(hamInputPath, outputPath)
+    custom_methods.write_without_stopwords(phishingInputPath, outputPath)

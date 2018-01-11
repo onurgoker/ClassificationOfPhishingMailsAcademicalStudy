@@ -61,3 +61,18 @@ def remove_stopwords(text):
 	stops = stopwords.words("english")
 	text = ' '.join([word for word in text.split() if word not in stops])
 	return text
+
+def write_without_stopwords(inputPath, outputPath):
+    mailCount = len(os.listdir(inputPath))
+
+    for i in range(1,mailCount+1):
+        inputFileName = inputPath + str(i) + ".eml" 
+
+        if(mail_exists(inputFileName)):
+            readFile    = open(inputFileName, 'r')
+            text        = str(readFile.read())
+            read        = remove_stopwords(text)
+
+            writeFile = open(inputFileName, "w+")
+            writeFile.write(read) #write without stopwords
+            writeFile.close()
