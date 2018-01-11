@@ -1,42 +1,43 @@
 from nltk.corpus import stopwords
-import sys, prm, os
+import sys, prm, os, custom_methods, argparse
+
+
+#Define Paths
+parser = argparse.ArgumentParser()
+
+parser.add_argument('-ham', dest='ham')
+parser.add_argument('-phishing', dest='phishing')
+parser.add_argument('-output', dest='output')
+
+results = parser.parse_args()
+hamInputPath = results.ham
+phishingInputPath = results.phishing
+outputPath = results.output
+#End of Path Definition
 
 """------------------------"""
 #Program Execution
 """------------------------"""
-inputType = outputType = inputPath = outputPath = ""
-if len(sys.argv) > 2:
-    for p in sys.argv:
-        if inputType == "input":
-            inputPath = p
-            inputType = ""
-        if p == "-ham" or p == "-spam":
-            inputType = "input"
-        if outputType == "output":
-            outputPath = p 
-            outputType = ""
-        if p == "-output":
-            outputType = "output"
-else:
-    print("Please use this program with parameter!")
-
 stopWords = set(stopwords.words(prm.language))
-mailCount = len(os.listdir(inputPath))
-count = 0
 
-parser = Parser()
+#clean stop words
 
-if sys.argv[1] != "-input":
-    print("Use -input parameter to parse the emails first!")
-    sys.exit()
+def write_without_stopwords(inputPath, outputPath):
+    mailCount = len(os.listdir(inputPath))
 
-if __name__ == '__main__':
     for i in range(1,mailCount+1):
         inputFileName = inputPath + str(i) + ".eml" 
-        outputFileName = outputPath + str(i) + ".eml"
-        
+
         if(custom_methods.mail_exists(inputFileName)):
             readFile    = open(inputFileName, 'r')
-            read        = readFile.read()
+            text        = str(readFile.read())
+            read        = custom_methods.remove_stopwords(text)
 
-            print(read)
+            writeFile = open(inputFileName, "w+")
+            writeFile.write(read) #write without stopwords
+            writeFile.close()
+
+if __name__ == '__main__':
+    write_without_stopwords(hamInputPath, outputPath)
+    write_without_stopwords(phishingInputPath, outputPath)
+    
