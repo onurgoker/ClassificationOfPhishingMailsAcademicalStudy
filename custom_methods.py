@@ -47,3 +47,16 @@ def get_mail_title(fileRead):
     msg = email.message_from_string(fileRead)
     
     return msg['subject']
+
+def remove_nonascii(text):
+	ans = ""
+	text.lower()
+	for x in text:
+		if (ord(x)>=97 or ord(x)<=122) and (ord(x)<48 or ord(x)>57) and ord(x)<128:
+			ans+=x
+	return ans
+
+def remove_stopwords(text):
+	stops = stopwords.words("english")
+	text = ' '.join([word for word in text.split() if word not in stops])
+	return text

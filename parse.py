@@ -4,7 +4,6 @@ from email.parser import Parser
 import os, re, string, node, nltk, math, io
 import custom_methods, prm
 import email
-from nltk.corpus import stopwords
 from email import message_from_file
 from nltk import word_tokenize
 import sys  
@@ -28,7 +27,6 @@ if len(sys.argv) > 2:
 else:
     print("Please use this program with parameter!")
 
-stopWords = set(stopwords.words(prm.language))
 mailCount = len(os.listdir(inputPath))
 count = 0
 parser = Parser()
