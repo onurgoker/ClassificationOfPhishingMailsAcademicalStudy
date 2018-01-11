@@ -11,16 +11,16 @@ import sys
 """------------------------"""
 #Program Execution
 """------------------------"""
-inputType = outputType = inputPath = outputPath = ""
+inputType = outputType = inputDir = outputDir = ""
 if len(sys.argv) > 2:
     for p in sys.argv:
         if inputType == "input":
-            inputPath = p
+            inputDir = p
             inputType = ""
         if p == "-input":
             inputType = "input"
         if outputType == "output":
-            outputPath = p 
+            outputDir = p 
             outputType = ""
         if p == "-output":
             outputType = "output"
@@ -31,37 +31,47 @@ mailCount = len(os.listdir(inputPath))
 count = 0
 parser = Parser()
 
-if sys.argv[1] != "-input":
-    print("Use -input parameter to parse the emails first!")
-    sys.exit()
+for directory in os.listdir(inputDir):
+    inputPath = inputDir + directory + '/'
+    outputPath = outputDir + directory + '/'
+    mailCount = len(os.listdir(inputPath))
+    count = 0
+    parser = Parser()
 
-if __name__ == '__main__':
-    for i in range(1,mailCount+1):
-        inputFileName = inputPath + str(i) + ".eml" 
-        outputFileName = outputPath + str(i) + ".eml"
+    if not os.path.exists(outputPath):
+        os.makedirs(outputPath)
 
-        if(custom_methods.mail_exists(inputFileName)):
-            readFile    = open(inputFileName, 'r')
-            read        = readFile.read()
-            body        = str(custom_methods.get_mail_body(read))
-            body        = custom_methods.cleanhtml(re.sub(r'http\S+', '', body))
-            title       = str(custom_methods.get_mail_title(read)) + "\n"
+    if sys.argv[1] != "-input":
+        print("Use -input parameter to parse the emails first!")
+        sys.exit()
 
-            readFile.close()
+    if __name__ == '__main__':
+        for i in range(1,mailCount+1):
+            inputFileName = inputPath + str(i) + ".eml" 
+            outputFileName = outputPath + str(i) + ".eml"
 
-            writeFile = open(outputFileName, "w+")
-            writeFile.write(title) #write title
-            writeFile.write(body) #write title
-            writeFile.close()
+            if(custom_methods.mail_exists(inputFileName)):
+                readFile    = open(inputFileName, 'r')
+                read        = readFile.read()
+                body        = str(custom_methods.get_mail_body(read))
+                body        = custom_methods.cleanhtml(re.sub(r'http\S+', '', body))
+                title       = str(custom_methods.get_mail_title(read)) + "\n"
 
-        """
-            #wordList = custom_methods.cleanhtml(body)
-            #wordList = word_tokenize(wordList) #tokenize
+                readFile.close()
 
-        #print the words
-        if(custom_methods.mail_exists(outputFileName)):
-            with open(outputFileName, 'a') as the_file:
-                for word in wordList:
-                    word = re.sub('[^A-Za-z0-9]+', '', word)
-                    if word and word and not word.isdigit() and word is not custom_methods.isLineEmpty(word) and word not in prm.numbers and word is not None and word.strip() != " " and word.strip() != "\n" and len(word) > 2:
-                        the_file.write(word + '\n')"""
+                writeFile = open(outputFileName, "w+")
+                writeFile.write(title) #write title
+                writeFile.write(body) #write title
+                writeFile.close()
+
+            """
+                #wordList = custom_methods.cleanhtml(body)
+                #wordList = word_tokenize(wordList) #tokenize
+
+            #print the words
+            if(custom_methods.mail_exists(outputFileName)):
+                with open(outputFileName, 'a') as the_file:
+                    for word in wordList:
+                        word = re.sub('[^A-Za-z0-9]+', '', word)
+                        if word and word and not word.isdigit() and word is not custom_methods.isLineEmpty(word) and word not in prm.numbers and word is not None and word.strip() != " " and word.strip() != "\n" and len(word) > 2:
+                            the_file.write(word + '\n')"""
