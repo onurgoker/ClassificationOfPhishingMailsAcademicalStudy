@@ -62,9 +62,7 @@ def remove_stopwords(text):
 	text = ' '.join([word for word in text.split() if word not in stops])
 	return text
 
-def write_without_stopwords(inputPath, outputPath):
-    mailCount = len(os.listdir(inputPath))
-
+def write_without_stopwords(inputPath, outputPath, mailCount):
     for i in range(1,mailCount+1):
         inputFileName = inputPath + str(i) + ".eml" 
 
