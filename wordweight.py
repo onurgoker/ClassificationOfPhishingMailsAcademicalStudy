@@ -95,6 +95,8 @@ if __name__ == '__main__':
     #create unique keyword list and tfid in data/output/{parameter}/output.txt
     generate_output_file(outputPath, 'ham')
     generate_output_file(outputPath, 'phishing')
+    print(outputPath)
+    sys.exit()
 
     #sort ham and phishing files alphabetically
     order_output_keyword_list_output(outputPath, 'ham')

@@ -1,1 +1,184 @@
-I'm push button... <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" " w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <!-- Email template: email_header Description: The email header used across templates --><html xmlns=3D" <meta name=3D"viewport" content=3D"width=3Ddevice-width"> <meta content=3D"text/html; charset=3DUTF-8= "> <meta charset=3D"UTF-8"> =20 /* ------------------------------------- RESPONSIVENESS !importants necessary since email clients automatically override ------------------------------------- */ @media screen (max-device-width: 700px) { .table-wrapper { width: 100% !important; margin-top: 0px !important; border-radius: 0px !important; } .header { border-radius: 0px !important; } .header-title { padding-left: 20px !important; padding-right: 20px !important; } .header-title h1 { font-size: 25px !important; } .data-table { width: 100% !important; margin: 0 !important; } } <body style=3D'-webkit-font-smoothing:antialiased;-webkit-text-size-adjus= t:none;margin:0;padding:0;font-family:"Helvetica Neue", "Helvetica", Helvet= ica, Arial, sans-serif;font-size:100%;line-height:1.6'> <table style=3D"background: #F5F6F7;" width=3D"100%" cellpadding=3D"0" = cellspacing=3D"0"> <!-- body --> <table cellpadding=3D"0" cellspacing=3D"0" class=3D"table-wrapper= " style=3D"width:700px;margin:auto;margin-top:50px;border-radius:7px;-webki= t-border-radius:7px;-moz-border-radius:7px;box-shadow:0 8px 20px #e3e7ea !i= mportant;-webkit-box-shadow:0 8px 20px #e3e7ea !important;-moz-box-shadow:0= 8px 20px #e3e7ea !important;box-shadow: 0 8px 20px #e3e7ea !important; -we= bkit-box-shadow: 0 8px 20px #e3e7ea !important; -moz-box-shadow: 0 8px 20px= #e3e7ea !important;"> <!-- Brand Header --> <td class=3D"container header" style=3D"border-top-left-rad= ius:6px;border-top-right-radius:6px;height:80px;background:#004669;backgrou= nd-size:300px;background-position:100%;background-repeat:no-repeat;line-hei= ght:55px;padding-top:40px;text-align:center;color:#ffffff;display:block !im= portant;margin:0 auto !important;clear:both !important"> =20 <img src=3D" xfQg6yKAyLcI7V1_TV-Circle-Large.png" height=3D"40" style=3D"max-width:100%;= border-radius:50%;padding:5px"> =20 <td class=3D"content" style=3D"background:#fff;border-bottom-left-radiu= s:6px;border-bottom-right-radius:6px;padding-bottom:40px;margin:0 auto !imp= ortant;clear:both !important"> <!-- Email template: email Description: This email sent student emailed directly= . --> <!-- Content --> <p style=3D'font-weight:normal;padding:0;font-family:"Helvetica Neue", "Hel= vetica", Helvetica, Arial, sans-serif;line-height:1.7;margin-bottom:1.3em;f= ont-size:15px;color:#47505E;padding-left:40px;padding-right:40px;margin-top= :0px;padding-top:40px'><img src=3D" O6HSySTqGzFA7sI" class=3D"img-responsive" alt=3D"" style=3D"max-width:100%;= float: right; margin: 0px 0px 10px 10px;">That button release Fall= 2017 edition LearnToProgram Magazine. <p style=3D'font-weight:normal;padding:0;font-family:"Helvetica Neue", "Hel= vetica", Helvetica, Arial, sans-serif;line-height:1.7;margin-bottom:1.3em;f= ont-size:15px;color:#47505E;padding-left:40px;padding-right:40px'>Get th= e list <a href=3D" xgEBDxwmGQzr2HAFoesiEGYwz794mQPm7SX7_vTtAWjHPAR-mCmGaRevQc3SrUI7kEAo0zYUbOZ= SWpZJyioeRrlJIiS1BPhHCNWTEgEnWSbo2Zwaog27P3L0MYQtVSCcQUrl1pzZZmlXHPOnOp38yr= lvDr-6Niz1Y42HyWdOW3ZxqG8Gztb-4xIPpKURP40iXazP-FAkrzHfE_gz1ristp42rAdHf9a61= VSXPBeqGPythEh1Njcf3ilmlds8CoV8CjL7TD3n8ySccVwliWA0bIdxaXqs4nhHSJ-t59UF647O= BxYfgHm1Guy" style=3D'word-wrap:break-word;font-family:"Helvetica Neue", "H= elvetica", Helvetica, Arial, sans-serif;color:#fa9f16'>redeem free sub= scription. <p style=3D'font-weight:normal;padding:0;font-family:"Helvetica Neue", "Hel= vetica", Helvetica, Arial, sans-serif;line-height:1.7;margin-bottom:1.3em;f= ont-size:15px;color:#47505E;padding-left:40px;padding-right:40px'><a href= =3D" GYwz794mQPm7SX7_vTtAWjHPAR-mCmGaRevQc3SrUI7kEAo0zYUbOZSWpZJyioeRrlJIiS1BPhH= CNWTEgEnWSbo2Zwaog27P3L0MYQtVSCcQUrl1pzZZmlXHPOnOp38yrlvDr-6Niz1Y42HyWdOW3Z= xqG8Gztb-4xIPpKURP40iXazP-FAkrzHfE_gz1ristp42rAdHf9a61VSXPBeqGPythEh1Njcf3i= lmlds8CoV8CjL7TD3n8ySccVwliWA0bIdxaXqs4nhHSJ-t59UF647OBxYfgHm1Guy" style=3D= 'word-wrap:break-word;font-family:"Helvetica Neue", "Helvetica", Helvetica,= Arial, sans-serif;color:#fa9f16'><img src=3D" /file/NBkhc5CLRhmuHWBlWGxV" class=3D"img-responsive" alt=3D"" style=3D"max-= width:100%;display: block; margin: auto;"> <p style=3D'font-weight:normal;padding:0;font-family:"Helvetica Neue", "Hel= vetica", Helvetica, Arial, sans-serif;line-height:1.7;margin-bottom:1.3em;f= ont-size:15px;color:#47505E;padding-left:40px;padding-right:40px'>I think y= ou'll really enjoy learn lot! Let know think. <p style=3D'font-weight:normal;padding:0;font-family:"Helvetica Neue", "Hel= vetica", Helvetica, Arial, sans-serif;line-height:1.7;margin-bottom:1.3em;f= ont-size:15px;color:#47505E;padding-left:40px;padding-right:40px'>See s= oon, <p style=3D'font-weight:normal;padding:0;font-family:"Helvetica Neue", "Hel= vetica", Helvetica, Arial, sans-serif;line-height:1.7;margin-bottom:1.3em;f= ont-size:15px;color:#47505E;padding-left:40px;padding-right:40px;margin-bot= tom:0;padding-bottom:0'>-Mark <table width=3D"100%"> <a data-skip-click=3D"true" href=3D" c/eJwtkMluwkAQRL8G34xmXw4-AAmIHIJChI24oJnpcZgYL_ICEl-fsRSpD9WlVtVTQyYtUAxJy= LgGoVxZgsVCXhktgQFBhBmsiCYCGbJgCKTmWHCWSoHKlFlLUsO4TxniIuZIDVYuaxPuyS2jSinE= lDPaKAqYagpIE6WAGiI8M8k9u41jt6CrBdnGuXvTN2Pb9e1Pb-rl-IjeHFUFV0U5THZwfejG0DZ= D3Nerm92cqrArcAf1fbwU4wqKj84RfDPFc7J1jta_7e6YH7vYwMm2f6xRFTZ5_rqc97vDc737_t= 5_OfLZWqKH8-v9eXg7zf4pTb0CqTwojErmFIdSamel1QYzwxV1SGrtGBERZGr-0axP_Ax87b3zE= fQaIFMCIU6FTPqsDo9Q-yp-cbJhmA-XjR__ALeZd9s" class=3D"unsubscribe-link" styl= e=3D"color:#fa9f16;word-wrap:break-word;font-size:12px;margin-top:50px;disp= lay:block;text-align:center;text-decoration:underline">Unsubscribe Mar= keting Emails <!-- /body --> <!-- footer --> <div class=3D"footer" style=3D"padding-top:30px;padding-bottom:55px;w= idth:100%;text-align:center;clear:both !important"> <p style=3D'font-weight:normal;padding:0;font-family:"Helvetica Neu= e", "Helvetica", Helvetica, Arial, sans-serif;line-height:1.7;margin-bottom= :1.3em;font-size:15px;color:#47505E;font-size:12px;color:#666;margin-top:0p= x'>=C2=A9 LearnToProgram, Inc. =20 <!-- close student_email_footer --> <img width=3D"1px" height=3D"1px" alt=3D"" src=3D" l.com/o/eJwVjUsOwiAQQE8jO5oB5gMLztJAByLRGlOr55fu30ezVA1OzciUlOPWu1bHsmLoiur= BY3HRJ89Q_A1BJZFjQisM3WKt3hakZhGIZ0eSVln2Mp7mntFTSmkqvYhD8oGLYhTEbbabA9MucD= 3a1sb7XIfmyAAUWMyR9_Ebe3vM5beOzwUur3b-AVGQMkI">
+I'm about to push the button...
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+Email template: email_header
+Description: The email header used across all templates
+ --><html xmlns=3D"
+  
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+    <meta  content=3D"text/html; charset=3DUTF-8=
+">
+    <meta charset=3D"UTF-8">
+    
+   =20
+
+
+
+/* -------------------------------------
+RESPONSIVENESS
+!importants in here are necessary since email clients
+don't automatically override these
+------------------------------------- */
+@media only screen and (max-device-width: 700px) {
+  .table-wrapper {
+    width: 100% !important;
+    margin-top: 0px !important;
+    border-radius: 0px !important;
+  }
+
+  .header {
+    border-radius: 0px !important;
+  }
+
+  .header-title {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+
+  .header-title h1 {
+    font-size: 25px !important;
+  }
+
+  .data-table {
+    width: 100% !important;
+    margin: 0 !important;
+  }
+}
+
+
+  
+  <body style=3D'-webkit-font-smoothing:antialiased;-webkit-text-size-adjus=
+t:none;margin:0;padding:0;font-family:"Helvetica Neue", "Helvetica", Helvet=
+ica, Arial, sans-serif;font-size:100%;line-height:1.6'>
+    <table style=3D"background: #F5F6F7;" width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0">
+      
+        
+          <!-- body -->
+          <table cellpadding=3D"0" cellspacing=3D"0" class=3D"table-wrapper=
+" style=3D"width:700px;margin:auto;margin-top:50px;border-radius:7px;-webki=
+t-border-radius:7px;-moz-border-radius:7px;box-shadow:0 8px 20px #e3e7ea !i=
+mportant;-webkit-box-shadow:0 8px 20px #e3e7ea !important;-moz-box-shadow:0=
+ 8px 20px #e3e7ea !important;box-shadow: 0 8px 20px #e3e7ea !important; -we=
+bkit-box-shadow: 0 8px 20px #e3e7ea !important; -moz-box-shadow: 0 8px 20px=
+ #e3e7ea !important;">
+            
+              <!-- Brand Header -->
+                <td class=3D"container header" style=3D"border-top-left-rad=
+ius:6px;border-top-right-radius:6px;height:80px;background:#004669;backgrou=
+nd-size:300px;background-position:100%;background-repeat:no-repeat;line-hei=
+ght:55px;padding-top:40px;text-align:center;color:#ffffff;display:block !im=
+portant;margin:0 auto !important;clear:both !important">
+                 =20
+                    <img src=3D"
+xfQg6yKAyLcI7V1_TV-Circle-Large.png" height=3D"40" style=3D"max-width:100%;=
+border-radius:50%;padding:5px">
+                 =20
+               
+            
+
+  
+    <td class=3D"content" style=3D"background:#fff;border-bottom-left-radiu=
+s:6px;border-bottom-right-radius:6px;padding-bottom:40px;margin:0 auto !imp=
+ortant;clear:both !important">
+      <!--
+Email template: email
+Description: This email is sent to a student when they are emailed directly=
+.
+ -->
+
+<!-- Content -->
+<p style=3D'font-weight:normal;padding:0;font-family:"Helvetica Neue", "Hel=
+vetica", Helvetica, Arial, sans-serif;line-height:1.7;margin-bottom:1.3em;f=
+ont-size:15px;color:#47505E;padding-left:40px;padding-right:40px;margin-top=
+:0px;padding-top:40px'><img src=3D"
+O6HSySTqGzFA7sI" class=3D"img-responsive" alt=3D"" style=3D"max-width:100%;=
+float: right; margin: 0px 0px 10px 10px;">That button will release the Fall=
+ 2017 edition of LearnToProgram Magazine.
+
+<p style=3D'font-weight:normal;padding:0;font-family:"Helvetica Neue", "Hel=
+vetica", Helvetica, Arial, sans-serif;line-height:1.7;margin-bottom:1.3em;f=
+ont-size:15px;color:#47505E;padding-left:40px;padding-right:40px'>Get on th=
+e list now to <a href=3D"
+xgEBDxwmGQzr2HAFoesiEGYwz794mQPm7SX7_vTtAWjHPAR-mCmGaRevQc3SrUI7kEAo0zYUbOZ=
+SWpZJyioeRrlJIiS1BPhHCNWTEgEnWSbo2Zwaog27P3L0MYQtVSCcQUrl1pzZZmlXHPOnOp38yr=
+lvDr-6Niz1Y42HyWdOW3ZxqG8Gztb-4xIPpKURP40iXazP-FAkrzHfE_gz1ristp42rAdHf9a61=
+VSXPBeqGPythEh1Njcf3ilmlds8CoV8CjL7TD3n8ySccVwliWA0bIdxaXqs4nhHSJ-t59UF647O=
+BxYfgHm1Guy" style=3D'word-wrap:break-word;font-family:"Helvetica Neue", "H=
+elvetica", Helvetica, Arial, sans-serif;color:#fa9f16'>redeem your free sub=
+scription.
+
+<p style=3D'font-weight:normal;padding:0;font-family:"Helvetica Neue", "Hel=
+vetica", Helvetica, Arial, sans-serif;line-height:1.7;margin-bottom:1.3em;f=
+ont-size:15px;color:#47505E;padding-left:40px;padding-right:40px'><a href=
+=3D"
+GYwz794mQPm7SX7_vTtAWjHPAR-mCmGaRevQc3SrUI7kEAo0zYUbOZSWpZJyioeRrlJIiS1BPhH=
+CNWTEgEnWSbo2Zwaog27P3L0MYQtVSCcQUrl1pzZZmlXHPOnOp38yrlvDr-6Niz1Y42HyWdOW3Z=
+xqG8Gztb-4xIPpKURP40iXazP-FAkrzHfE_gz1ristp42rAdHf9a61VSXPBeqGPythEh1Njcf3i=
+lmlds8CoV8CjL7TD3n8ySccVwliWA0bIdxaXqs4nhHSJ-t59UF647OBxYfgHm1Guy" style=3D=
+'word-wrap:break-word;font-family:"Helvetica Neue", "Helvetica", Helvetica,=
+ Arial, sans-serif;color:#fa9f16'><img src=3D"
+/file/NBkhc5CLRhmuHWBlWGxV" class=3D"img-responsive" alt=3D"" style=3D"max-=
+width:100%;display: block; margin: auto;">
+
+<p style=3D'font-weight:normal;padding:0;font-family:"Helvetica Neue", "Hel=
+vetica", Helvetica, Arial, sans-serif;line-height:1.7;margin-bottom:1.3em;f=
+ont-size:15px;color:#47505E;padding-left:40px;padding-right:40px'>I think y=
+ou'll really enjoy it and learn a lot! Let me know what you think.
+
+<p style=3D'font-weight:normal;padding:0;font-family:"Helvetica Neue", "Hel=
+vetica", Helvetica, Arial, sans-serif;line-height:1.7;margin-bottom:1.3em;f=
+ont-size:15px;color:#47505E;padding-left:40px;padding-right:40px'>See you s=
+oon,
+
+<p style=3D'font-weight:normal;padding:0;font-family:"Helvetica Neue", "Hel=
+vetica", Helvetica, Arial, sans-serif;line-height:1.7;margin-bottom:1.3em;f=
+ont-size:15px;color:#47505E;padding-left:40px;padding-right:40px;margin-bot=
+tom:0;padding-bottom:0'>-Mark
+
+
+    
+  
+
+<table width=3D"100%">
+  
+    
+      
+        <a data-skip-click=3D"true" href=3D"
+c/eJwtkMluwkAQRL8G34xmXw4-AAmIHIJChI24oJnpcZgYL_ICEl-fsRSpD9WlVtVTQyYtUAxJy=
+LgGoVxZgsVCXhktgQFBhBmsiCYCGbJgCKTmWHCWSoHKlFlLUsO4TxniIuZIDVYuaxPuyS2jSinE=
+lDPaKAqYagpIE6WAGiI8M8k9u41jt6CrBdnGuXvTN2Pb9e1Pb-rl-IjeHFUFV0U5THZwfejG0DZ=
+D3Nerm92cqrArcAf1fbwU4wqKj84RfDPFc7J1jta_7e6YH7vYwMm2f6xRFTZ5_rqc97vDc737_t=
+5_OfLZWqKH8-v9eXg7zf4pTb0CqTwojErmFIdSamel1QYzwxV1SGrtGBERZGr-0axP_Ax87b3zE=
+fQaIFMCIU6FTPqsDo9Q-yp-cbJhmA-XjR__ALeZd9s" class=3D"unsubscribe-link" styl=
+e=3D"color:#fa9f16;word-wrap:break-word;font-size:12px;margin-top:50px;disp=
+lay:block;text-align:center;text-decoration:underline">Unsubscribe from Mar=
+keting Emails
+
+      
+    
+  
+        
+      <!-- /body -->
+      <!-- footer -->
+      <div class=3D"footer" style=3D"padding-top:30px;padding-bottom:55px;w=
+idth:100%;text-align:center;clear:both !important">
+        <p style=3D'font-weight:normal;padding:0;font-family:"Helvetica Neu=
+e", "Helvetica", Helvetica, Arial, sans-serif;line-height:1.7;margin-bottom=
+:1.3em;font-size:15px;color:#47505E;font-size:12px;color:#666;margin-top:0p=
+x'>=C2=A9  LearnToProgram, Inc.
+       =20
+      
+      
+    
+  
+
+
+
+<!-- the  close is student_email_footer -->
+<img width=3D"1px" height=3D"1px" alt=3D"" src=3D"
+l.com/o/eJwVjUsOwiAQQE8jO5oB5gMLztJAByLRGlOr55fu30ezVA1OzciUlOPWu1bHsmLoiur=
+BY3HRJ89Q_A1BJZFjQisM3WKt3hakZhGIZ0eSVln2Mp7mntFTSmkqvYhD8oGLYhTEbbabA9MucD=
+3a1sb7XIfmyAAUWMyR9_Ebe3vM5beOzwUur3b-AVGQMkI">
+

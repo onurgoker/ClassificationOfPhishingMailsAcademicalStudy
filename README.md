@@ -6,7 +6,7 @@ python parse.py -input ../data/input -output ../data/output
 
 **read all ham and spam emails in the directories -ham and -spam, calculate tf.idf average scores for each word in each batch and take the difference of scores and write to -output file in (word, weight) format.**
 
-python wordweight.py -ham data/output/ham/ -phishing data/output/phishing/ -output data/dict.txt
+python wordweight.py -ham data/output/ham/ -phishing data/output/phishing/ -output data/output/dict.txt
 
 **create word vectors with weights for each email file in -ham and -spam directories, and write the vectors to -output file in the format (???).**
 
@@ -27,4 +27,3 @@ open prm.py file and change the parameters as follow:
 language: language for stopword removal
 numbers: one digit strings to exclude from word list (0-9)
 mailCount: number of mails to be processed (1-300)
-
