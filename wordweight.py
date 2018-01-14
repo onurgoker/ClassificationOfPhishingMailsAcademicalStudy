@@ -1,7 +1,7 @@
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 from textblob import TextBlob as tb
-import math, sys, prm, os, time, custom_methods, argparse, pandas as pd
+import re, math, sys, prm, os, time, custom_methods, codecs, argparse, pandas as pd
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -24,10 +24,13 @@ def tfidf(word, blob, bloblist):
 
 
 def generate_output_file(outputPath, mailType, inputPath):
+    time.sleep(2)
     arrList = []
     mailCount = len(os.listdir(inputPath))
     # ham output
     for i in range(1, mailCount + 1):
+        print(i)
+        print("\n")
         outputFileName = inputPath + str(i) + ".eml"
 
         if(custom_methods.mail_exists(outputFileName)):
@@ -36,9 +39,27 @@ def generate_output_file(outputPath, mailType, inputPath):
 
             arrList.append(text)
 
+    blobListArr = []
+
+    for i in arrList:
+        arrWordList = i.split()
+        tempArrWordList = []
+        for j in arrWordList:
+            j = j.replace("=","")
+            j = j.strip(' \t\n\r')
+            j = re.sub(r'^https?:\/\/.*[\r\n]*', '', j, flags=re.MULTILINE)
+            j = custom_methods.remove_tags(j)
+
+            if custom_methods.remove_nonascii(j) and len(j) < 30 and len(j) > 2 and not j.isdigit():
+                tempArrWordList.append(j)
+
+        empty = " "
+        tempArrWordList = empty.join(tempArrWordList)
+        blobListArr.append(tempArrWordList)
+
     # convert texts to blob text
     bloblist = []
-    for i in arrList:
+    for i in blobListArr:
         bloblist.append(tb(i))
 
     outputPath = outputPath.replace('/dict.txt', '/' + mailType + '/dict.txt')
@@ -47,11 +68,12 @@ def generate_output_file(outputPath, mailType, inputPath):
     for i, blob in enumerate(bloblist):
         #res = "Document {}".format(i + 1)
         #writeFile.write(res + "\n")
+
         scores = {word: tfidf(word, blob, bloblist) for word in blob.words}
         sorted_words = sorted(scores.items(), key=lambda x: x[1], reverse=True)
 
         for word, score in sorted_words:
-            res = word.decode('utf-8') + " " + str(score)
+            res = word + " " + str(score)
 
             if len(word) > 1:
                 writeFile.write(res + "\n")
@@ -139,8 +161,8 @@ if __name__ == '__main__':
     # print("Executing ham output word sorting...")
     # order_output_keyword_list_output(outputPath, 'ham')
 
-    # print("Cleaning stop words for phishing data...")
-    # custom_methods.write_without_stopwords(phishingInputPath)
+    print("Cleaning stop words for phishing data...")
+    custom_methods.write_without_stopwords(phishingInputPath)
 
     print("Executing phishing output files...")
     generate_output_file(outputPath, 'phishing', phishingInputPath)

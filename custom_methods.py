@@ -4,6 +4,7 @@ import os
 import email
 import sys
 import xml
+import time
 
 """------------------------"""
 # Functions
@@ -61,6 +62,10 @@ def get_mail_title(fileRead):
     return msg['subject']
 
 
+def remove_tags(text):
+    TAG_RE = re.compile(r'<[^>]+>')
+    return TAG_RE.sub('', text)
+
 def remove_nonascii(text):
     ans = ""
     text.lower()
@@ -77,9 +82,12 @@ def remove_stopwords(text):
 
 
 def write_without_stopwords(inputPath):
+    time.sleep(2)
     mailCount = len(os.listdir(inputPath))
 
     for i in range(1, mailCount + 1):
+        print(i)
+        print("\n")
         inputFileName = inputPath + str(i) + ".eml"
 
         if(mail_exists(inputFileName)):
