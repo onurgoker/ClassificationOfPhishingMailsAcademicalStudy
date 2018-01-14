@@ -57,8 +57,6 @@ def generate_output_file(outputPath, mailType, inputPath):
                 writeFile.write(res + "\n")
 
     writeFile.close()
-    sys.exit()
-
 
 def order_output_keyword_list_output(outputPath, mailType):
     outputPath = outputPath.replace('/dict.txt', '/' + mailType + '/dict.txt')
