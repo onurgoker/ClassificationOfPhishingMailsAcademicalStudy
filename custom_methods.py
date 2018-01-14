@@ -1,19 +1,28 @@
 from nltk.corpus import stopwords
-import re,os,email,sys,xml
+import re
+import os
+import email
+import sys
+import xml
 
 """------------------------"""
-#Functions
+# Functions
 """------------------------"""
+
+
 def cleanhtml(raw_html):
     cleanr = "</?[^\W].{0,10}?>"
     return re.sub(cleanr, '', raw_html)
 
+
 def isLineEmpty(line):
     return len(line.strip()) == 0
 
-def mail_exists (f):
+
+def mail_exists(f):
     """Checks whether eml file exists or not."""
     return os.path.exists(os.path.join("./", f))
+
 
 def word_count(string):
     my_string = string.lower().split()
@@ -24,6 +33,7 @@ def word_count(string):
         else:
             my_dict[item] = 1
     print(my_dict)
+
 
 def get_mail_body(fileRead):
     b = email.message_from_string(fileRead)
@@ -44,33 +54,39 @@ def get_mail_body(fileRead):
 
     return body
 
+
 def get_mail_title(fileRead):
     msg = email.message_from_string(fileRead)
-    
+
     return msg['subject']
 
+
 def remove_nonascii(text):
-	ans = ""
-	text.lower()
-	for x in text:
-		if (ord(x)>=97 or ord(x)<=122) and (ord(x)<48 or ord(x)>57) and ord(x)<128:
-			ans+=x
-	return ans
+    ans = ""
+    text.lower()
+    for x in text:
+        if (ord(x) >= 97 or ord(x) <= 122) and (ord(x) < 48 or ord(x) > 57) and ord(x) < 128:
+            ans += x
+    return ans
+
 
 def remove_stopwords(text):
-	stops = stopwords.words("english")
-	text = ' '.join([word for word in text.split() if word not in stops])
-	return text
+    stops = stopwords.words("english")
+    text = ' '.join([word for word in text.split() if word not in stops])
+    return text
 
-def write_without_stopwords(inputPath, outputPath, mailCount):
-    for i in range(1,mailCount+1):
-        inputFileName = inputPath + str(i) + ".eml" 
+
+def write_without_stopwords(inputPath):
+    mailCount = len(os.listdir(inputPath))
+
+    for i in range(1, mailCount + 1):
+        inputFileName = inputPath + str(i) + ".eml"
 
         if(mail_exists(inputFileName)):
-            readFile    = open(inputFileName, 'r')
-            text        = str(readFile.read())
-            read        = remove_stopwords(text)
+            readFile = open(inputFileName, 'r')
+            text = str(readFile.read())
+            read = remove_stopwords(text)
 
             writeFile = open(inputFileName, "w+")
-            writeFile.write(read) #write without stopwords
+            writeFile.write(read)  # write without stopwords
             writeFile.close()
