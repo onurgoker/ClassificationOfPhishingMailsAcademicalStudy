@@ -144,17 +144,22 @@ def average_tfid_dictionary(inputPath):
     f.close()
 
 def get_diff_of_vectors(hamInputPath, phishingInputPath):
+    hamArr = phishingArr = {}
     with open(hamInputPath + 'dict.txt') as hamLines:
-        with open(phishingInputPath + 'dict.txt') as phishingLines:
-            x = y = 1
-            for hamLine in hamLines:
-                hamLineArr = hamLine.split()
+        for hamLine in hamLines:
+            lineH = hamLine.split()
+            hamArr[lineH[0]] = lineH[1]
 
-                for phishingLine in phishingLines:
-                    phishingLineArr = phishingLine.split()
+    with open(phishingInputPath + 'dict.txt') as phishingLines:
+        for phishingLine in phishingLines:
+            lineP = phishingLine.split()
+            phishingArr[lineP[0]] = lineP[1]
 
-                    if hamLineArr[0].strip() == phishingLineArr[0].strip():
-                        print(hamLineArr[0])
+    for hamKey, hamValue in hamArr.items():
+        for phishingKey, phishingValue in phishingArr.items():
+                    if hamKey == phishingKey:
+                        print(hamKey + " " + phishingKey)
+                        time.sleep(2)
 
 # Define Paths
 parser = argparse.ArgumentParser()
@@ -176,7 +181,8 @@ outputPath = results.output
 if __name__ == '__main__':
     print("Please wait...")
     time.sleep(2)
-    
+
+    """    
     print("Cleaning stop words for ham data...")
     custom_methods.write_without_stopwords(hamInputPath)
 
@@ -200,6 +206,7 @@ if __name__ == '__main__':
 
     print("Executing phishing output word sorting...")
     order_output_keyword_list_output(outputPath, 'phishing')
-    
+    """
+        
     print("Getting diff of vectors...")
     get_diff_of_vectors(hamInputPath, phishingInputPath)
