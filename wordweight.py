@@ -145,6 +145,7 @@ def average_tfid_dictionary(inputPath):
 
 def get_diff_of_vectors(hamInputPath, phishingInputPath):
     hamArr = phishingArr = {}
+
     with open(hamInputPath + 'dict.txt') as hamLines:
         for hamLine in hamLines:
             lineH = hamLine.split()
@@ -155,11 +156,7 @@ def get_diff_of_vectors(hamInputPath, phishingInputPath):
             lineP = phishingLine.split()
             phishingArr[lineP[0]] = lineP[1]
 
-    for hamKey, hamValue in hamArr.items():
-        for phishingKey, phishingValue in phishingArr.items():
-                    if hamKey == phishingKey:
-                        print(hamKey + " " + phishingKey)
-                        time.sleep(2)
+    #TODO: compare
 
 # Define Paths
 parser = argparse.ArgumentParser()
