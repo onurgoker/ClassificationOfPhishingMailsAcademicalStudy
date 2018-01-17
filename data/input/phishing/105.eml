@@ -1,71 +1,121 @@
-Received: from unknown (HELO sonic324-22.consmr.mail.ne1.yahoo.com) (66.163.187.84)
-  by 0 with SMTP; 17 Jul 2017 23:45:50 -0000
-Received-SPF: pass (0: SPF record at _spf.mail.yahoo.com designates 66.163.187.84 as permitted sender)
-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1500335147; bh=nucHYth8ZRBDlh00XTpxwk6LmueL5rBjehOGe8AqCKw=; h=Date:From:Reply-To:Subject:References:From:Subject; b=ToSfaHMUGOiW6VutjFQmQIH90gNiAuB3YiHFRzmdSGSmw1ekSEWrGqPWyscXxNqFGS/cXB2glYdPrAqy/g93zJPLeR1YYkVP47wcrHiywPQGDLr5nKW0L2Cu95cTLyLskK9LrDrvQ1nxXjmnT44vjN7GT8zcKV8hh/HLwWzIrWypTA98yx2pf10KIvhBjGvKAFHqhwHmQswc22r61MPcVPk46cIj5MscT+yTeFFMHtngKV6hJU3m6TaoLWx96XFwYzj5ywNpwdbq6RAaUO7vQTRYzf4BPgEM6tRsqp++arTVMSRtHjbd2kILbkXo9+rDZCSSMxvTfcGXnEIH8RGhTA==
-X-YMail-OSG: htijRVEVM1nEjkGAUlYyTc6JMC.EtTMaD5l8kuFrFOQ1VTpxwvZPpxVjYKBlNt6
- iBo6XATioBPITUoY3QwK1_mLzdDSuX1MDTRg2NyEC_k4I5TYMSVy3q63plpxQr_q6Y9QGhxGMEXg
- N4nnbQrVwdj_37llQkOOSwgJNOOJ6MKKMNdvj.VSG6tqjhnrq.5RE.91ws0T1aFMc0mAC3lUtD9w
- iD5JYkrfPo81DQUUomPUJ2UhI1I2kKnb8xdBAHv_c4MQHv68qCJVl1DRAZEF_0nsRRz94nRV3F43
- HGYLKSqig7mUz47BYZoZMIfnudi_BKAnD7i.0.r.W5OoJhMiM3XkYuFgG3EhN8o0WzU.XO2Wr4VZ
- FIN2KuErxavAvnkhJ4RV6GfGPwAW2q4yXwV7U59FBtQeXRReFIB717glt1pXkWl.92iM2ogvX3EX
- anov_GkbMkRy2HMKWlDVXK9W.FJOg4VZmHrFJGyBYLIXbzdwL3TA4a4dh777kjXmTEZ41YTc36ok
- or.Y9rmIeWrY97xTVLzhMju8d5NzXOUxkzDqrDqKGGcjrrL4L4a0-
-Received: from sonic.gate.mail.ne1.yahoo.com by sonic324.consmr.mail.ne1.yahoo.com with HTTP; Mon, 17 Jul 2017 23:45:47 +0000
-Date: Mon, 17 Jul 2017 23:45:46 +0000 (UTC)
-From: Email Administrator <kealeboga.kudumane@yahoo.com>
+Received: from [107.174.26.163] (helo=trails.kollaborus.com)
+	by mxsrv2.spamgateway.comodo.com with esmtp (Exim 4.89)
+	(envelope-from <Rebecca_Reed@trails.kollaborus.com>)
+	id 1diJOI-0000Go-Ty
+	for sparcher@parcher.net; Thu, 17 Aug 2017 11:55:11 +0000
+Date: Thu, 17 Aug 2017 04:54:48 -0700
+Message-ID: <7357765.0.0.13558822.e447280e159e3162f5ce85c1b0a3db41@trails.kollaborus.com_bx2>
 To: ---------- <abc@example.com>
-Reply-To: Email Administrator <kealeboga.kudumane@yahoo.com>
-Message-ID: <931939353.2700638.1500335146301@mail.yahoo.com>
-Subject: Upgrade Your Mailbox
-MIME-Version: 1.0
-Content-Type: multipart/alternative; 
-	boundary="----=_Part_2700636_1363792260.1500335146300"
-References: <931939353.2700638.1500335146301.ref@mail.yahoo.com>
-X-Mailer: WebService/1.1.10092 YahooMailNeo Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0
-Content-Length: 3071
+From: Rebecca Reed <Rebecca_Reed@trails.kollaborus.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="--Part.13558822.7357765"
+Content-Transfer-Encoding: 8bit
+Request-Feedback: 735776513558822
+Subject: Amazon Launches GiftCard GiveAway, Claim Yours Today New Amazon Promotion, Claim Your $50 Award Today #7357765
+Received-SPF: pass (mxsrv2.spamgateway.comodo.com: domain of trails.kollaborus.com designates 107.174.26.163 as permitted sender) client-ip=107.174.26.163; envelope-from=Rebecca_Reed@trails.kollaborus.com; helo=trails.kollaborus.com;
+X-SPF-Result: mxsrv2.spamgateway.comodo.com: domain of trails.kollaborus.com designates 107.174.26.163 as permitted sender
+X-Sender-Warning: Reverse DNS lookup failed for 107.174.26.163 (failed)
+Authentication-Results: spamgateway.comodo.com; spf=pass smtp.mailfrom=Rebecca_Reed@trails.kollaborus.com
+X-Qasd-Class: spam
+X-Qasd-Evidence: urlbl/url-02.rbl.spamrl.com kollaborus . com
+X-Recommended-Action: reject
+X-Filter-ID: PqwsvolAWURa0gwxuN3S5dbLZBtEelHx626yyIFROGA/ShBb66PBGbn+mA02cIqvLJ2egnFQLjnw
+ coWTp5OnBbObNMbU4J6e6MaAEZnjjkrmXTSk+rnA5RSwuXwXzSxnT7t0RxjH37+VVHrl3a7LxNnj
+ 1VoWu0pjp50ArnriGG0VwYYoLr5AD+cLSQI6g4leIKz7A/2Pg46APYryax+np3bnJpXDTfwg2KXj
+ IEWQw9Rc9aUV1oY4fX3W5eOCNA39uaNO4b6M+IWdagKf6OBp+dQ8AMDKl+DUXG3tHX5I0pFXLg3B
+ cvdnIqCw8wbyrMGwzL8CpXrxFexa3/Cll1LuuGz6jvF/65sHkiRI5g4v1Bn1H/aAwarQpYDOYx/6
+ JtUOPKSjwM19IEgUK8wCy0FW9v833+cvmKuX7PGNUpPLOvQaRjF0YydTLUjISckpFe0gNcMpDivp
+ ERC+plawDsu7sFrPJMcW8vj2ObK1pHR901dYXPfzorjoCT18UdSv7VlJT4Am+u4xvkVHofsvlRUq
+ JFptZPp8MrKHL6XZSDVwdWieyryGFnJ55pnc6D7XpgPybzBnE6G61e3BwULGCFVsT2YKMdXtD6Lj
+ CtmuEpBuIbvfooSO7kuWQyNhWrKJuT76/UFmtIY+piQzTSwVcwj02fVdyPOcJwZf+mGEJuzRRI/x
+ VFhTqRgfROPQSONrPlyEA+YVNX6pmsqztMER5Wr3dYHEl19VHSo1rkCTO6VcEMs9noP0ku0MnsMP
+ BeTp9SARMFHeiQ8grluDFNazMemOethvDLBCFSJvc9VhC0x7j8bBq2e1AWSkhlns0BwqTyB1MS+4
+ ayUpOtEhdxekWDmK9g==
+X-Report-Abuse-To: spam@mxsrv1.spamgateway.comodo.com
 
-------=_Part_2700636_1363792260.1500335146300
-Content-Type: text/plain; charset=UTF-8
+
+----Part.13558822.7357765
+Content-Type: text/plain; charset=utf-8
 Content-Transfer-Encoding: 7bit
 
+Attn: sparcher@parcher.net,
+
+We appreciate your recent order on Amazon.com.
+
+You're invited to review your product and receive your new $50-voucher.
+
+Your feedback helps customers choose the right products on Amazon.com (=
+http://getithere.kollaborus.com/treaty/e447280e159e3162f5ce85c1b0a3db41
+
+It's an easy process! You are just one click away to activate your $50 voucher.
+
+REVIEW AND PRINT REWARD http://getithere.kollaborus.com/treaty/e447280e159e3162f5ce85c1b0a3db41
+------------------------------------------------------------
+
+Tips
+
+If the above button doesn't work, you may submit your review and redeem your gift by following these easy steps:
+
+1. Visit your Amazon http://getithere.kollaborus.com/treaty/e447280e159e3162f5ce85c1b0a3db41 account and navigate to your rewards.
+2. In the "My Rewards" section, Press the "Redeem Gift" button.
+3. Submit your information and redeem your gift
+------------------------------------------------------------
+
+Thank you for shopping on Amazon, we appreciate your feedback.
+
+Please note that this gift reward is only valid to one per customer. You must be the account holder that is registered with the email address listed below. You have 10 days to submit your review and redeem your eGift from Amazon.com http://getithere.kollaborus.com/treaty/e447280e159e3162f5ce85c1b0a3db41
+( AmazonReward )
+Reference #:7357765
+This Message was sent to the following e-mail address: sparcher@parcher.net
 
 
-| 
- | Dear User, 
-
-Your mailbox quota is full
-This may cause your mailbox fault or you may not be able to receive more e-mail
-
-To continue using your mailbox, you need to immediately upgrade your mailbox quota. This service is free. 
 
 
-| Upgrade mailbox quota here  |
-
-
-
-Once the upgrade is complete, your mailbox will work effectively. 
-
-Mail Administrator 2017  |
-
-
-------=_Part_2700636_1363792260.1500335146300
-Content-Type: text/html; charset=UTF-8
+----Part.13558822.7357765
+Content-Type: text/html; charset=us-ascii
 Content-Transfer-Encoding: 7bit
 
-<html><head></head><body><div style="color:#000; background-color:#fff; font-family:Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:13px"><div id="yui_3_16_0_ym19_1_1500334951115_9573"><br id="yui_3_16_0_ym19_1_1500334951115_9675">
-</div><table class="yahoo-compose-table-card" id="yui_3_16_0_ym19_1_1500334951115_9676">
-<tbody id="yui_3_16_0_ym19_1_1500334951115_9677">
-<tr id="yui_3_16_0_ym19_1_1500334951115_9678">
-<td id="yui_3_16_0_ym19_1_1500334951115_9679" width="30"><br id="yui_3_16_0_ym19_1_1500334951115_9680"></td>
-<td id="yui_3_16_0_ym19_1_1500334951115_9681" width="500"><font id="yui_3_16_0_ym19_1_1500334951115_9682" size="2" face="verdana">Dear User, <br id="yui_3_16_0_ym19_1_1500334951115_9683"><br id="yui_3_16_0_ym19_1_1500334951115_9684">Your mailbox quota is 
-full<br id="yui_3_16_0_ym19_1_1500334951115_9685">This may cause your mailbox fault or you may not be able to receive more 
-e-mail<br id="yui_3_16_0_ym19_1_1500334951115_9686"><br id="yui_3_16_0_ym19_1_1500334951115_9687">To continue using your mailbox, you need to immediately upgrade 
-your mailbox quota. This service is free. <br id="yui_3_16_0_ym19_1_1500334951115_9688"><br id="yui_3_16_0_ym19_1_1500334951115_9689">
-<table class="yahoo-compose-table-card" id="yui_3_16_0_ym19_1_1500334951115_9690" width="400" height="40" bgcolor="#424242">
-<tbody id="yui_3_16_0_ym19_1_1500334951115_9691">
-<tr id="yui_3_16_0_ym19_1_1500334951115_9692">
-<td id="yui_3_16_0_ym19_1_1500334951115_9693">
-<div id="yui_3_16_0_ym19_1_1500334951115_9694" align="center"><a style="text-decoration:none" href="https://recordata.com.br/images/alldomain/crypt/index.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://app-1497899886.000webhostapp.com/VALIDATE%2520NOW/mail.htm&amp;source=gmail&amp;ust=1500417601521000&amp;usg=AFQjCNERHvPv1yj2CgMTz8Am5fA7rFMfRA" id="yui_3_16_0_ym19_1_1500334951115_9695"><font id="yui_3_16_0_ym19_1_1500334951115_9696" size="2" color="#ffffff" face="verdana">Upgrade mailbox quota here </font></a></div></td></tr></tbody></table><br id="yui_3_16_0_ym19_1_1500334951115_9697"><br id="yui_3_16_0_ym19_1_1500334951115_9698">Once the upgrade is complete, 
-your mailbox will work effectively. <br id="yui_3_16_0_ym19_1_1500334951115_9699"><br id="yui_3_16_0_ym19_1_1500334951115_9700">Mail Administrator 2017 
-</font></td></tr></tbody></table></div></body></html>
-------=_Part_2700636_1363792260.1500335146300--
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html;  charset=UTF-8" /> 
+  <title>Amazon</title> 
+ </head> 
+ <body style="font-family:arial,helvetica; "> 
+  <table style="background-color:#1abce3; " width="500" align="center"> 
+   <tbody>
+    <tr> 
+     <td style="text-align:center; " width="150"> <a href="http://getithere.kollaborus.com/treaty/e447280e159e3162f5ce85c1b0a3db41" style="text-decoration:none; "> <img src="http://getithere.kollaborus.com/img/5bwjrZQ.png" width="150" /> </a> </td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <table style="border-left-style:solid; border-right-style:solid; border-bottom-style:solid; border-color:#1abce3; " width="500" align="center"> 
+   <tbody>
+    <tr> 
+     <td style="text-align:justify; padding:10px; font-size:14px; "><p><font size="-1" face="verdana,arial,helvetica"><span style="text-transform:capitalize; ">Attn:</span> sparcher@parcher.net,</span><br /> </font><font size="-1" face="verdana,arial,helvetica"></font></p><p><font size="-1" face="verdana,arial,helvetica">
+Thank you for your recent order on  <a href="http://getithere.kollaborus.com/treaty/e447280e159e3162f5ce85c1b0a3db41"> Amazon.com</a>. </font></p> <p><font size="-1" face="verdana,arial,helvetica">You were selected to review your product and redeem your new </font><font face="verdana,arial,helvetica"><span style="color:#060;  font-weight:bold;  font-size:15px; text-decoration:underline; "> $50-reward</span></font>. </p> <p><font size="-1" face="verdana,arial,helvetica">Your feedback helps customers pick the right products on <a href="http://getithere.kollaborus.com/treaty/e447280e159e3162f5ce85c1b0a3db41">Amazon.com</a>. </font></p> <p><font size="-1" face="verdana,arial,helvetica">It's an easy process! You are just one click away to activate your $50 voucher.</font></p></td> 
+    </tr> 
+    <tr> 
+     <td style="text-align:center; padding:20px; "> 
+      <table align="center"> 
+       <tbody>
+        <tr> 
+         <td style="padding:10px; font-size:14px; "> <br /> <p><a href="http://getithere.kollaborus.com/treaty/e447280e159e3162f5ce85c1b0a3db41" style="font-size:16px;  color:#000;  background-color:#FC0;  text-decoration:none;  padding:10px;  font-weight:bold;  -webkit-border-radius: 6px 6px 6px 6px;  border-radius: 6px 6px 6px 6px; ">REVIEW AND PRINT REWARD</a> </p></td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <hr /> <p style="text-align:justify; font-size:14px; font-family:serif; "> <font style="color:#ff9800; font-size:20px; "><b>Tips</b></font><br /><br /> If the above button doesn't work, you may submit your review and redeem your gift by following these easy steps: <br /><br /> 1. Go to your <a href="http://getithere.kollaborus.com/treaty/e447280e159e3162f5ce85c1b0a3db41">Amazon.com</a> account and navigate to your rewards.<br /> 2. In the "My Rewards" section, Press the "Redeem Gift" button.<br /> 3. Submit your information and redeem your gift </p> 
+      <hr /> <p style="font-size:10px; text-align:justify; "> Thank you for shopping on Amazon, we appreciate your feedback. <br /><br /> Please note that this gift reward is only valid to one per customer. You must be the account holder that is registered with the email address listed below. You have 10 days to submit your review and redeem your eGift from <a href="http://getithere.kollaborus.com/treaty/e447280e159e3162f5ce85c1b0a3db41">Amazon.com</a> <br /> ( AmazonReward ) <br /> Reference #:7357765 <br /> This Message was sent to the following e-mail address: sparcher@parcher.net </p> </td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <table width="500" align="center"> 
+   <tbody> 
+    <tr> 
+     <td style="text-align:center; font-size:10px; "> <br /><br /><br /><br /><br /><br /><br /><br /><br /> <p><a href="http://getithere.kollaborus.com/revealing/13558822_close" style="color:#000; "><img src="http://getithere.kollaborus.com/img/vsNXBhc.png" alt="e447280e159e3162f5ce85c1b0a3db41" /></a></td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </body>
+</html>
+
+----Part.13558822.7357765--
