@@ -33,8 +33,6 @@ def word_count(string):
             my_dict[item] += 1
         else:
             my_dict[item] = 1
-    print(my_dict)
-
 
 def get_mail_body(fileRead):
     b = email.message_from_string(fileRead)
@@ -82,12 +80,12 @@ def remove_stopwords(text):
 
 
 def write_without_stopwords(inputPath):
+    print("Starting job: Stopword Removal")
     time.sleep(2)
     mailCount = len(os.listdir(inputPath))
-
-    for i in range(1, mailCount + 1):
-        print(i)
-        print("\n")
+    
+    for i in range(1, mailCount):
+        print("File: " + str(i))
         inputFileName = inputPath + str(i) + ".eml"
 
         if(mail_exists(inputFileName)):
@@ -98,3 +96,5 @@ def write_without_stopwords(inputPath):
             writeFile = open(inputFileName, "w+")
             writeFile.write(read)  # write without stopwords
             writeFile.close()
+
+    print("Finishing job: Stopword Removal")

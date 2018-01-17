@@ -8,7 +8,7 @@ sys.setdefaultencoding('utf8')
 
 
 def tf(word, blob):
-    return float(blob.words.count(word)) / int(len(blob.words))
+    return float(blob.count(word)) / int(len(blob.split()))
 
 
 def n_containing(word, bloblist):
@@ -22,15 +22,15 @@ def idf(word, bloblist):
 def tfidf(word, blob, bloblist):
     return tf(word, blob) * idf(word, bloblist)
 
-
 def generate_output_file(outputPath, mailType, inputPath):
+    print("Starting job: Generating output file...")
     time.sleep(2)
     arrList = []
     mailCount = len(os.listdir(inputPath))
+
+
     # ham output
-    for i in range(1, mailCount + 1):
-        print(i)
-        print("\n")
+    for i in range(1, mailCount):
         outputFileName = inputPath + str(i) + ".eml"
 
         if(custom_methods.mail_exists(outputFileName)):
@@ -41,7 +41,12 @@ def generate_output_file(outputPath, mailType, inputPath):
 
     blobListArr = []
 
+    print("Reading Files...")
+    count = 1
     for i in arrList:
+        print("Generating output file > Reading Files > File: " + str(count))
+        count = count + 1
+
         arrWordList = i.split()
         tempArrWordList = []
         for j in arrWordList:
@@ -56,20 +61,29 @@ def generate_output_file(outputPath, mailType, inputPath):
         empty = " "
         tempArrWordList = empty.join(tempArrWordList)
         blobListArr.append(tempArrWordList)
+        
+    print("End of file read...")
 
     # convert texts to blob text
+    print("Generating blob list")
     bloblist = []
+    count = 1
     for i in blobListArr:
         bloblist.append(tb(i))
+        print("Generating output file > Generating blob list > File: " + str(count))
+        count = count + 1
 
     outputPath = outputPath.replace('/dict.txt', '/' + mailType + '/dict.txt')
     writeFile = open(outputPath, "w+")
 
+    print("\nCALCULATING TFIDF SCORES\n")
+    count = 1
     for i, blob in enumerate(bloblist):
-        #res = "Document {}".format(i + 1)
-        #writeFile.write(res + "\n")
+        print("Generating output file > Calculating TFIDF scores > File: " + str(i))
 
-        scores = {word: tfidf(word, blob, bloblist) for word in blob.words}
+        blob = custom_methods.cleanhtml(str(blob))
+        blobList = blob.split()
+        scores = {word: tfidf(word, blob, bloblist) for word in blobList}
         sorted_words = sorted(scores.items(), key=lambda x: x[1], reverse=True)
 
         for word, score in sorted_words:
@@ -79,6 +93,7 @@ def generate_output_file(outputPath, mailType, inputPath):
                 writeFile.write(res + "\n")
 
     writeFile.close()
+    print("Finishing job: Generating output file...")
 
 def order_output_keyword_list_output(outputPath, mailType):
     outputPath = outputPath.replace('/dict.txt', '/' + mailType + '/dict.txt')
@@ -128,6 +143,19 @@ def average_tfid_dictionary(inputPath):
             f.write(key + " " + str(val) + "\n")
     f.close()
 
+def get_diff_of_vectors(hamInputPath, phishingInputPath):
+    with open(hamInputPath + 'dict.txt') as hamLines:
+        with open(phishingInputPath + 'dict.txt') as phishingLines:
+            x = y = 1
+            for hamLine in hamLines:
+                hamLineArr = hamLine.split()
+
+                for phishingLine in phishingLines:
+                    phishingLineArr = phishingLine.split()
+
+                    if hamLineArr[0].strip() == phishingLineArr[0].strip():
+                        print(hamLineArr[0])
+
 # Define Paths
 parser = argparse.ArgumentParser()
 
@@ -149,17 +177,17 @@ if __name__ == '__main__':
     print("Please wait...")
     time.sleep(2)
     
-    # print("Cleaning stop words for ham data...")
-    # custom_methods.write_without_stopwords(hamInputPath)
+    print("Cleaning stop words for ham data...")
+    custom_methods.write_without_stopwords(hamInputPath)
 
-    # print("Executing ham output files...")
-    # generate_output_file(outputPath, 'ham', hamInputPath)
+    print("Executing ham output files...")
+    generate_output_file(outputPath, 'ham', hamInputPath)
 
-    # print("Calculating average TFIDF score list for ham data...")
-    # average_tfid_dictionary(hamInputPath)
+    print("Calculating average TFIDF score list for ham data...")
+    average_tfid_dictionary(hamInputPath)
 
-    # print("Executing ham output word sorting...")
-    # order_output_keyword_list_output(outputPath, 'ham')
+    print("Executing ham output word sorting...")
+    order_output_keyword_list_output(outputPath, 'ham')
 
     print("Cleaning stop words for phishing data...")
     custom_methods.write_without_stopwords(phishingInputPath)
@@ -172,3 +200,6 @@ if __name__ == '__main__':
 
     print("Executing phishing output word sorting...")
     order_output_keyword_list_output(outputPath, 'phishing')
+    
+    print("Getting diff of vectors...")
+    get_diff_of_vectors(hamInputPath, phishingInputPath)
