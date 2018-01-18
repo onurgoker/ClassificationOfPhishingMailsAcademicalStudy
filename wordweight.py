@@ -1,7 +1,7 @@
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 from textblob import TextBlob as tb
-import re, math, sys, prm, os, time, custom_methods, codecs, argparse, pandas as pd
+import re, math, sys, prm, os, time, custom_methods, codecs, argparse, collections, pandas as pd
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -161,10 +161,21 @@ def get_diff_of_vectors(hamInputPath, phishingInputPath):
                 phishingValue = lineP[1]
                 newValue = float(hamValue)-float(phishingValue)
                 hamArr[lineP[0]] = newValue
-    
+
+    #filter array
+    filterArr = {}
+    p = re.compile("^(0[1-9]|1[012])[- /.](0[1-9]|[12][0-9]|3[01])[- /.](19|20)\d\d$")
+
+    for key,val in hamArr.items():
+        if val < 1 and val > -1 and not p.match(str(val)):
+            filterArr[key] = val
+
+    result = dict(zip(filterArr.values(), filterArr.keys()))
+    result = collections.OrderedDict(sorted(result.items(), reverse=True))
+
     #write to file
     with open(hamInputPath.replace("ham/","") + 'dict.txt', 'w+') as outFile:
-        for key,val in hamArr.items():
+        for val,key in result.items():
             outFile.write(key + " " + str(val) + "\n")
     
     print("done!")
@@ -190,6 +201,7 @@ if __name__ == '__main__':
     print("Please wait...")
     time.sleep(2)
 
+    """
     print("Cleaning stop words for ham data...")
     custom_methods.write_without_stopwords(hamInputPath)
 
@@ -213,6 +225,7 @@ if __name__ == '__main__':
 
     print("Executing phishing output word sorting...")
     order_output_keyword_list_output(outputPath, 'phishing')
-        
+    """   
+
     print("Getting diff of vectors...")
     get_diff_of_vectors(hamInputPath, phishingInputPath)
