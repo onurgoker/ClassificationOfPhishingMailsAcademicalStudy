@@ -1,23 +1,19 @@
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 from textblob import TextBlob as tb
-import re, math, sys, prm, os, time, custom_methods, codecs, argparse, collections, pandas as pd
+import nltk, re, math, sys, prm, os, time, custom_methods, codecs, argparse, collections, string, pandas as pd
 
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-
 def tf(word, blob):
     return float(blob.count(word)) / int(len(blob.split()))
-
 
 def n_containing(word, bloblist):
     return sum(1 for blob in bloblist if word in blob)
 
-
 def idf(word, bloblist):
     return math.log(len(bloblist) / (1 + n_containing(word, bloblist)))
-
 
 def tfidf(word, blob, bloblist):
     return tf(word, blob) * idf(word, bloblist)
@@ -27,7 +23,6 @@ def generate_output_file(outputPath, mailType, inputPath):
     time.sleep(2)
     arrList = []
     mailCount = len(os.listdir(inputPath))
-
 
     # ham output
     for i in range(1, mailCount):
@@ -150,7 +145,6 @@ def get_diff_of_vectors(hamInputPath, phishingInputPath):
         for hamLine in hamLines:
             lineH = hamLine.split()
             hamArr[lineH[0]] = lineH[1]
-        
 
     with open(phishingInputPath + 'dict.txt') as phishingLines:
         for phishingLine in phishingLines:
@@ -175,9 +169,25 @@ def get_diff_of_vectors(hamInputPath, phishingInputPath):
 
     #write to file
     with open(hamInputPath.replace("ham/","") + 'dict.txt', 'w+') as outFile:
+        invalidChars = set(string.punctuation)
+
         for val,key in result.items():
-            outFile.write(key + " " + str(val) + "\n")
+            #remove punctiations from list
+            flag = True
+            for punct in invalidChars:
+                if punct in key:
+                    flag = False 
+
+            if flag:
+                #remove prepositions
+                tokens = nltk.word_tokenize(key.lower())
+                prepCheck = nltk.pos_tag(tokens)
+                prepCheckArr = prepCheck[0]
     
+                if prepCheckArr[1] != "PRP":
+                    #write remaining words as output
+                    outFile.write(key + " " + str(val) + "\n")
+
     print("done!")
 
 # Define Paths
@@ -201,7 +211,6 @@ if __name__ == '__main__':
     print("Please wait...")
     time.sleep(2)
 
-    """
     print("Cleaning stop words for ham data...")
     custom_methods.write_without_stopwords(hamInputPath)
 
@@ -225,7 +234,6 @@ if __name__ == '__main__':
 
     print("Executing phishing output word sorting...")
     order_output_keyword_list_output(outputPath, 'phishing')
-    """   
 
     print("Getting diff of vectors...")
     get_diff_of_vectors(hamInputPath, phishingInputPath)

@@ -9,6 +9,8 @@ from nltk import word_tokenize
 import sys  
 
 def genarate_clean_mail(inputDir, outputDir, mailType):
+    print("Generating " + mailType + " mails...\n")
+
     inputPath = inputDir + mailType + '/'
     outputPath = outputDir + mailType + '/'
 
@@ -36,6 +38,8 @@ def genarate_clean_mail(inputDir, outputDir, mailType):
             writeFile.write(title) #write title
             writeFile.write(body) #write title
             writeFile.close()
+
+    print(mailType.upper() + " mails are generated!\n")
 
 """------------------------"""
 #Program Execution

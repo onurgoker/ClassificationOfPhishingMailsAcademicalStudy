@@ -1,10 +1,6 @@
 from nltk.corpus import stopwords
-import re
-import os
-import email
-import sys
-import xml
-import time
+from string import punctuation
+import re, os, email, sys, xml, time
 
 """------------------------"""
 # Functions
@@ -98,3 +94,5 @@ def write_without_stopwords(inputPath):
             writeFile.close()
 
     print("Finishing job: Stopword Removal")
+
+
