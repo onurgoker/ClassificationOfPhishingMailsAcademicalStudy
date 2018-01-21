@@ -186,7 +186,7 @@ def get_diff_of_vectors(hamInputPath, phishingInputPath):
     
                 if prepCheckArr[1] != "PRP":
                     #write remaining words as output
-                    outFile.write(key + " " + str(val) + "\n")
+                    outFile.write(key.lower() + " " + str(val) + "\n")
 
     print("done!")
 
