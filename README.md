@@ -10,8 +10,7 @@ python wordweight.py -ham data/output/ham/ -phishing data/output/phishing/ -outp
 
 **create word vectors with weights for each email file in -ham and -spam directories, and write the vectors to -output file in the format (???).**
 
-python vectorize.py -ham ../data/output/ham -spam ../data/output/spam -dict ../data/dict.txt -output ../data/vectors.txt
-
+python vectorize.py -ham data/output/ham/ -phishing data/output/spam/ -dict data/dict.txt -output data/vectors.txt
 
 -----------
 # phishing
