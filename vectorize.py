@@ -6,18 +6,19 @@ def generateVectors(path):
 	mailType = path.replace("data/output/", "").rstrip("/")
 
 	for f in arr:
-		try:
-			file = open(path + f, 'r')
-			words = list(file.read().lower().split())
-			words = [word.strip(string.punctuation) for word in words]
-		except UnicodeDecodeError:
-			continue
+		if ".eml" in f:
+			try:
+				file = open(path + f, 'r')
+				words = list(file.read().lower().split())
+				words = [word.strip(string.punctuation) for word in words]
+			except UnicodeDecodeError:
+				continue
 
-		vecfile.write('%s ' % f)
-		# create vector with weights multiplied by the occurrence count in the words list
-		for w in v:
-			vecfile.write('%s ' % str(round(w[1]*words.count(w[0]),3)))
-		vecfile.write(mailType + '\n')
+			vecfile.write('%s ' % f)
+			# create vector with weights multiplied by the occurrence count in the words list
+			for w in v:
+				vecfile.write('%s ' % str(round(w[1]*words.count(w[0]),3)))
+			vecfile.write(mailType + '\n')
 
 print("Starting job: Vectorizing")
 time.sleep(2)
