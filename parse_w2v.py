@@ -2,17 +2,18 @@
 # Created in 24/12/2017
 
 from email import message_from_file
+from datetime import datetime
 import os
 import string
 import re
 import sys
 import gensim
 import numpy as np
+import datetime
+import time
 #import linkedlist
 
 # Node class
-
-
 class Node(object):
 
     def __init__(self, data=None, next_node=None):
@@ -294,12 +295,19 @@ def extract(msgfile, key):
 if __name__ == '__main__':
     llist = LinkedList()
 
+print(str(time.time()))
+
 # the model is loaded here
 model = gensim.models.KeyedVectors.load_word2vec_format(
-    'GoogleNews-vectors-negative300.bin', binary=True)
+    '/media/onur/onur/GoogleNews-vectors-negative300.bin', binary=True)
+
+print(str(time.time()))
+
 # open a csv file to write vectors
 output_csv = open("output_vectors.csv", 'w')
 #return and count all words
+
+
 for i in range(1, 150):
 
     fileName = str(i) + ".eml"
@@ -365,3 +373,5 @@ print(extract(f, f.name))
 f.close()
 >>>>>>> 5bb22efea870c0e4731a3880e3ba731a60927eaf
 """
+
+print(str(time.time()))
