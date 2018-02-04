@@ -1,19 +1,21 @@
 # Author Onur GOKER
 # Created in 24/12/2017
 
-from email import message_from_file
-from datetime import datetime
 import os
-import string
-import re
 import sys
+import time
+from email import message_from_file
+
 import gensim
 import numpy as np
-import datetime
-import time
+
+
 #import linkedlist
 
 # Node class
+from nltk import word_tokenize
+
+
 class Node(object):
 
     def __init__(self, data=None, next_node=None):
@@ -122,7 +124,7 @@ class LinkedList(object):
         while current.get_next() is not None:
             if current.get_data() == current.get_next().get_data():
                 next_next = current.get_next().get_next()
-                removeNode(current.get_next())
+                self.removeNode(current.get_next())
                 current.get_next().setData(next_next)
             else:
                 current = current.get_next()
@@ -198,7 +200,7 @@ def pullout(m, key):
             Files[fn] = (cfn, None)
             if file_exists(cfn):
                 return Text, Html, Files, 1
-            save_file(cfn, m.get_payload(decode=True))
+            #save_file(cfn, m.get_payload(decode=True))
             return Text, Html, Files, 1
         # Not an attachment!
         # See where this belongs. Text, Html or some other data:
@@ -231,7 +233,7 @@ def pullout(m, key):
             Files[fn] = (cfn, id)
             if file_exists(cfn):
                 return Text, Html, Files, 1
-            save_file(cfn, m.get_payload(decode=True))
+    #        save_file(cfn, m.get_payload(decode=True))
         return Text, Html, Files, 1
     # This IS a multipart message.
     # So, we iterate over it and call pullout() recursively for each part.
@@ -295,83 +297,71 @@ def extract(msgfile, key):
 if __name__ == '__main__':
     llist = LinkedList()
 
-print(str(time.time()))
+    print(str(time.time()))
 
-# the model is loaded here
-model = gensim.models.KeyedVectors.load_word2vec_format(
-    '/media/onur/onur/GoogleNews-vectors-negative300.bin', binary=True)
+    # the model is loaded here
+    model = gensim.models.KeyedVectors.load_word2vec_format(
+       'GoogleNews-vectors-negative300.bin', binary=True)
+    
+    print(str(time.time()))
+    
+    # open a csv file to write vectors
+    output_csv = open("output_vectors.csv", 'w')
+    #return and count all words
+    
+    
+    for i in range(1, 150):
+    
+        fileName = "data/input/phishing/" + str(i) + ".eml"
+    
+        if(mail_exists(fileName)):
+            fileOpen = open(fileName, "rb")
+            fileRead = extract(fileOpen, fileOpen.name)
+    
+            #tokenize
+            wordList = word_tokenize(fileRead)
+    
+            word2vec_arr = []  # vectors array
+            counter = 1  # word counter
+            for word in wordList:
+                if word in model.vocab:
+                    llist.insert(word)
+                    # insert the vector of each word to word2vec_arr array
+                    word2vec_arr.append(model[word] * tdıdf)
+                    counter = counter + 1
+            fileOpen.close()
+    
+            word2vec_np = np.zeros(300)
+            for item in word2vec_arr:
+                word2vec_np = word2vec_np + np.array(item)
+    
+            word2vec_np = word2vec_np / (counter * 1.0)  # the vector of each email
+            word2vec_arr = np.asarray(word2vec_np)
 
-print(str(time.time()))
-
-# open a csv file to write vectors
-output_csv = open("output_vectors.csv", 'w')
-#return and count all words
-
-
-for i in range(1, 150):
-
-    fileName = str(i) + ".eml"
-
-    if(mail_exists(fileName)):
-        fileOpen = open(fileName, "rb")
-        fileRead = extract(fileOpen, fileOpen.name)
-
-        #tokenize
-        wordList = word_tokenize(fileRead)
-
-        word2vec_arr = []  # vectors array
-        counter = 1  # word counter
-        for word in wordList:
-            if word not in stopWords:
-                llist.insert(word)
-                # insert the vector of each word to word2vec_arr array
-                word2vec_arr.append(model[word])
-                counter = counter + 1
-        fileOpen.close()
-
-        word2vec_np = np.zeros(300)
-        for item in word2vec_arr:
-            word2vec_np = word2vec_np + np.array(item)
-
-        word2vec_np = word2vec_np / (counter * 1.0)  # the vector of each email
-        word2vec_arr = np.asarray(word2vec_np)
-
-        for item in word2vec_arr:
-            output_csv.write(str(item) + ",")  # write each vector to .csv file
-        # write the class of each mail, 1 for "ham", 0 for "spam"
-        output_csv.write("1" + "\r\n")
-
-llist.printList()
-sys.exit(0)
-
-totalList = llist
-llist.removeDuplicates()
-uniqueList = llist
-
-
-vArray = {}
-vArrayCount = 0
-
-while word in uniqueList:
-    vArray[vArrayCount]['word'] = word.get_data()
-    vArray[vArrayCount]['count'] = totalList.search(word)
-    vArrayCount = vArrayCount + 1
-
-print(vArray)
-output_csv.close()
-
-"""
-if(llist.search("xx")):
-    print("Data in list")
-else:
-    print("Data NOT in list!")
-"""
-"""
-f = open("test.eml", "rb")
-#print caption(f)
-print(extract(f, f.name))
-f.close()
->>>>>>> 5bb22efea870c0e4731a3880e3ba731a60927eaf
-"""
-
-print(str(time.time()))
+            strTemp = ""
+            for item in word2vec_arr:
+                output_csv.write(str(item) + ",")  # write each vector to .csv file
+                strTemp = strTemp + (str(item) + ",")
+            # write the class of each mail, 1 for "ham", 0 for "spam"
+            print(strTemp)
+            output_csv.write("0" + "\r\n")
+    
+    llist.printList()
+    output_csv.close()
+    
+    """
+    if(llist.search("xx")):
+        print("Data in list")
+    else:
+        print("Data NOT in list!")
+    """
+    """
+    f = open("test.eml", "rb")
+    #print caption(f)
+    print(extract(f, f.name))
+    f.close()
+    >>>>>>> 5bb22efea870c0e4731a3880e3ba731a60927eaf
+    """
+    
+    print(str(time.time()))
+    
