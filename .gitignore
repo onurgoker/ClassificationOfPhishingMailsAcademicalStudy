@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+GoogleNews-vectors-negative300.bin
+
 # C extensions
 *.so
 
@@ -11,6 +13,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+data/
+preprocessed_input_data/
 env/
 build/
 develop-eggs/

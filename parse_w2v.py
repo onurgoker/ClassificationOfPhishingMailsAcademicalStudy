@@ -1,20 +1,14 @@
 # Author Onur GOKER
 # Created in 24/12/2017
 
-import os
+import os, re
 import sys
 import time
 from email import message_from_file
-
 import gensim
 import numpy as np
-
-
-#import linkedlist
-
-# Node class
+import merge_vectors
 from nltk import word_tokenize
-
 
 class Node(object):
 
@@ -46,6 +40,7 @@ class Node(object):
             curr = curr.getNextNode()
 
         return False
+
 
 # Linked List class
 
@@ -87,7 +82,7 @@ class LinkedList(object):
             else:
                 current = current.get_next()
         if current is None:
-             return 0
+            return 0
 
         return count
 
@@ -110,7 +105,7 @@ class LinkedList(object):
 
     def printList(self):
         temp = self.head
-        while(temp):
+        while (temp):
             print(temp.data + " \n"),
             temp = temp.next_node
 
@@ -132,6 +127,7 @@ class LinkedList(object):
 
 # Path to directory where attachments will be stored:
 path = "./attachments"
+
 
 # To have attachments extracted into memory, change behaviour of 2 following functions:
 
@@ -200,7 +196,7 @@ def pullout(m, key):
             Files[fn] = (cfn, None)
             if file_exists(cfn):
                 return Text, Html, Files, 1
-            #save_file(cfn, m.get_payload(decode=True))
+            # save_file(cfn, m.get_payload(decode=True))
             return Text, Html, Files, 1
         # Not an attachment!
         # See where this belongs. Text, Html or some other data:
@@ -233,7 +229,7 @@ def pullout(m, key):
             Files[fn] = (cfn, id)
             if file_exists(cfn):
                 return Text, Html, Files, 1
-    #        save_file(cfn, m.get_payload(decode=True))
+        #        save_file(cfn, m.get_payload(decode=True))
         return Text, Html, Files, 1
     # This IS a multipart message.
     # So, we iterate over it and call pullout() recursively for each part.
@@ -292,49 +288,43 @@ def extract(msgfile, key):
     msg = Text
     return msg
 
+def generateMailVector(mailType, mailCount, model, featureCount):
+    if mailType == "phishing":
+        mailTypeBinary = 0
+    else:
+        mailTypeBinary = 1
 
-#create empty linkedlist
-if __name__ == '__main__':
-    llist = LinkedList()
-
-    print(str(time.time()))
-
-    # the model is loaded here
-    model = gensim.models.KeyedVectors.load_word2vec_format(
-       'GoogleNews-vectors-negative300.bin', binary=True)
-    
-    print(str(time.time()))
-    
     # open a csv file to write vectors
-    output_csv = open("output_vectors.csv", 'w')
-    #return and count all words
-    
-    
-    for i in range(1, 150):
-    
-        fileName = "data/input/phishing/" + str(i) + ".eml"
-    
-        if(mail_exists(fileName)):
+    output_csv = open("output_vectors_" + str(mailCount) + "_" + mailType + ".csv", 'w')
+    # return and count all words
+
+    for i in range(1, mailCount+1):
+        fileName = "data/input/" + mailType + "/" + str(i) + ".eml"
+
+        print("Mail No: " + str(i))
+
+        if mail_exists(fileName):
             fileOpen = open(fileName, "rb")
             fileRead = extract(fileOpen, fileOpen.name)
-    
-            #tokenize
+            fileRead = re.sub(r'[^\x00-\x7F]+', ' ', fileRead)
+
+            # tokenize
             wordList = word_tokenize(fileRead)
-    
+
             word2vec_arr = []  # vectors array
             counter = 1  # word counter
             for word in wordList:
                 if word in model.vocab:
                     llist.insert(word)
                     # insert the vector of each word to word2vec_arr array
-                    word2vec_arr.append(model[word] * tdıdf)
+                    word2vec_arr.append(model[word])  # todo: tfidif ile model[word] carp
                     counter = counter + 1
             fileOpen.close()
-    
-            word2vec_np = np.zeros(300)
+
+            word2vec_np = np.zeros(featureCount)
             for item in word2vec_arr:
                 word2vec_np = word2vec_np + np.array(item)
-    
+
             word2vec_np = word2vec_np / (counter * 1.0)  # the vector of each email
             word2vec_arr = np.asarray(word2vec_np)
 
@@ -343,25 +333,29 @@ if __name__ == '__main__':
                 output_csv.write(str(item) + ",")  # write each vector to .csv file
                 strTemp = strTemp + (str(item) + ",")
             # write the class of each mail, 1 for "ham", 0 for "spam"
-            print(strTemp)
-            output_csv.write("0" + "\r\n")
-    
-    llist.printList()
+
+            output_csv.write(str(mailTypeBinary) + "\r\n")
     output_csv.close()
-    
-    """
-    if(llist.search("xx")):
-        print("Data in list")
-    else:
-        print("Data NOT in list!")
-    """
-    """
-    f = open("test.eml", "rb")
-    #print caption(f)
-    print(extract(f, f.name))
-    f.close()
-    >>>>>>> 5bb22efea870c0e4731a3880e3ba731a60927eaf
-    """
-    
-    print(str(time.time()))
-    
+
+
+# create empty linkedlist
+if __name__ == '__main__':
+    llist = LinkedList()
+
+    print("Start Date: " + str(time.time()))
+
+    # the model is loaded here
+    model = gensim.models.KeyedVectors.load_word2vec_format(
+        'GoogleNews-vectors-negative300.bin', binary=True)
+
+    print("Google News vectors read at: " + str(time.time()))
+
+    featureCount = 300
+    mailCount = 300
+
+    generateMailVector("phishing", mailCount, model, featureCount)
+    generateMailVector("ham", mailCount, model, featureCount)
+
+    merge_vectors.merge_vectors(mailCount)
+
+    print("Vectors created at: " + str(time.time()))

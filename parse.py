@@ -35,7 +35,7 @@ def genarate_clean_mail(inputDir, outputDir, mailType):
             readFile.close()
 
             writeFile = open(outputFileName, "w+")
-            writeFile.write(title) #write title
+            #writeFile.write(title) #write title
             writeFile.write(body) #write title
             writeFile.close()
 

@@ -3,9 +3,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from textblob import TextBlob as tb
 import nltk, re, math, sys, prm, os, time, custom_methods, codecs, argparse, collections, string, pandas as pd
 
-reload(sys)
-sys.setdefaultencoding('utf8')
-
 def tf(word, blob):
     return float(blob.count(word)) / int(len(blob.split()))
 
@@ -161,6 +158,8 @@ def get_diff_of_vectors(hamInputPath, phishingInputPath):
     p = re.compile("^(0[1-9]|1[012])[- /.](0[1-9]|[12][0-9]|3[01])[- /.](19|20)\d\d$")
 
     for key,val in hamArr.items():
+        print(val)
+        sys.exit()
         if val < 1 and val > -1 and not p.match(str(val)):
             filterArr[key] = val
 
