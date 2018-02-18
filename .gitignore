@@ -13,7 +13,6 @@ GoogleNews-vectors-negative300.bin
 
 # Distribution / packaging
 .Python
-data/
 env/
 build/
 develop-eggs/
