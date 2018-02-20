@@ -351,7 +351,7 @@ if __name__ == '__main__':
     print("Google News vectors read at: " + str(time.time()))
 
     featureCount = 300
-    mailCount = 300
+    mailCount = 100
 
     generateMailVector("phishing", mailCount, model, featureCount)
     generateMailVector("ham", mailCount, model, featureCount)
