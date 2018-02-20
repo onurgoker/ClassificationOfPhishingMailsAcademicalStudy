@@ -11,7 +11,6 @@ import merge_vectors
 from nltk import word_tokenize
 
 class Node(object):
-
     def __init__(self, data=None, next_node=None):
         self.data = data
         self.next_node = next_node
@@ -123,14 +122,6 @@ class LinkedList(object):
                 current.get_next().setData(next_next)
             else:
                 current = current.get_next()
-
-
-# Path to directory where attachments will be stored:
-path = "./attachments"
-
-
-# To have attachments extracted into memory, change behaviour of 2 following functions:
-
 
 def mail_exists(f):
     """Checks whether eml file exists or not."""
@@ -342,6 +333,13 @@ def generateMailVector(mailType, mailCount, model, featureCount):
 if __name__ == '__main__':
     llist = LinkedList()
 
+    mailCount = input("Enter mail count: ")
+    featureCount = 300
+
+    if not mailCount.isdigit():
+        print("Enter number!")
+        sys.exit()
+
     print("Start Date: " + str(time.time()))
 
     # the model is loaded here
@@ -349,9 +347,6 @@ if __name__ == '__main__':
         'GoogleNews-vectors-negative300.bin', binary=True)
 
     print("Google News vectors read at: " + str(time.time()))
-
-    featureCount = 300
-    mailCount = 100
 
     generateMailVector("phishing", mailCount, model, featureCount)
     generateMailVector("ham", mailCount, model, featureCount)
