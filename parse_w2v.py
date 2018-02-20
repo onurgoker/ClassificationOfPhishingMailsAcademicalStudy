@@ -332,9 +332,6 @@ def generateAllVectors(mailCount, model, featureCount):
     generateMailVector("phishing", mailCount, model, featureCount)
     generateMailVector("ham", mailCount, model, featureCount)
 
-    print("test")
-    sys.exit()
-
     merge_vectors.merge_vectors(mailCount)
 
     print("Vectors created at: " + str(time.time()))
@@ -360,3 +357,6 @@ if __name__ == '__main__':
     print("Google News vectors read at: " + str(time.time()))
 
     generateAllVectors(int(mailCount), model, featureCount)
+
+    print("Code execution is done!")
+    sys.exit()
