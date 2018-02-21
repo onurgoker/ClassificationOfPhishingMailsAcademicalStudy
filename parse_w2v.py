@@ -290,13 +290,14 @@ def generateMailVector(mailType, mailCount, model, featureCount):
     # return and count all words
 
     for i in range(1, mailCount+1):
-        fileName = "data/input/" + mailType + "/" + str(i) + ".eml"
+        fileName = "data/input/" + mailType + "/" + str(i) + ".txt"
 
         print("Mail No: " + str(i))
 
         if mail_exists(fileName):
             fileOpen = open(fileName, "rb")
-            fileRead = extract(fileOpen, fileOpen.name)
+            #fileRead = extract(fileOpen, fileOpen.name)
+            fileRead = str(fileOpen.read())
             fileRead = re.sub(r'[^\x00-\x7F]+', ' ', fileRead)
 
             # tokenize
