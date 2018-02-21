@@ -322,6 +322,7 @@ def generateMailVector(mailType, mailCount, model, featureCount):
 
             strTemp = ""
             for item in word2vec_arr:
+                item = round(item, 4)
                 output_csv.write(str(item) + ",")  # write each vector to .csv file
                 strTemp = strTemp + (str(item) + ",")
             # write the class of each mail, 1 for "ham", 0 for "spam"
