@@ -23,11 +23,11 @@ def generate_output_file(outputPath, mailType, inputPath):
 
     # ham output
     for i in range(1, mailCount):
-        outputFileName = inputPath + str(i) + ".eml"
+        outputFileName = inputPath + str(i) + ".txt"
 
         if(custom_methods.mail_exists(outputFileName)):
-            readFile = open(outputFileName, 'r')
-            text = str(readFile.read())
+            with codecs.open(outputFileName, "r",encoding='utf-8', errors='ignore') as fdata:
+                text = fdata.read()
 
             arrList.append(text)
 
