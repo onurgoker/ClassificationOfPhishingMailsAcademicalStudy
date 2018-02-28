@@ -55,7 +55,7 @@ with open(dictPath) as f:
 
 # sort dictionary by weight
 sorted_x = sorted(d.items(), key=operator.itemgetter(1))
-# take the first 100
+# take the first 300
 v = sorted_x[0:wordCount]
 
 # read a file and split into 'words'
