@@ -2,8 +2,12 @@
 import os, argparse, sys, time, string, operator
 
 def generateVectors(path):
-
 	mailType = path.replace("data/output/", "").rstrip("/")
+
+	if mailType == "ham":
+    		mailNo = 1
+	else:
+    		mailNo = 0
 
 	for f in arr:
 		if ".eml" in f:
@@ -14,11 +18,11 @@ def generateVectors(path):
 			except UnicodeDecodeError:
 				continue
 
-			vecfile.write('%s ' % f)
+			# vecfile.write('%s ' % f)
 			# create vector with weights multiplied by the occurrence count in the words list
 			for w in v:
 				vecfile.write('%s ' % str(round(w[1]*words.count(w[0]),3)))
-			vecfile.write(mailType + '\n')
+			vecfile.write(str(mailNo) + '\n')
 
 print("Starting job: Vectorizing")
 time.sleep(2)

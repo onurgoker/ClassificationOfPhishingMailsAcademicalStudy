@@ -107,8 +107,10 @@ def order_output_keyword_list_output(outputPath, mailType):
 
     f.close()
 
-def average_tfid_dictionary(inputPath):
-    with open(inputPath + 'dict.txt') as lines:
+def average_tfid_dictionary(outputPath):
+    outputPath = outputPath.replace("input","output")
+
+    with open(outputPath + 'dict.txt') as lines:
         lineArray = {}
         for line in lines:
             rowArray = line.split()
@@ -128,7 +130,7 @@ def average_tfid_dictionary(inputPath):
 
             lineArray[key] = float(sum/count)
 
-    f = open(inputPath + 'dict.txt', 'w+')
+    f = open(outputPath + 'dict.txt', 'w+')
     f.truncate()
     for key,val in lineArray.items():
         if not key.isdigit():
@@ -138,12 +140,12 @@ def average_tfid_dictionary(inputPath):
 def get_diff_of_vectors(hamInputPath, phishingInputPath):
     hamArr = phishingArr = mergeDict = {}
 
-    with open(hamInputPath + 'dict.txt') as hamLines:
+    with open(hamInputPath.replace("input","output") + 'dict.txt') as hamLines:
         for hamLine in hamLines:
             lineH = hamLine.split()
             hamArr[lineH[0]] = lineH[1]
 
-    with open(phishingInputPath + 'dict.txt') as phishingLines:
+    with open(phishingInputPath.replace("input","output") + 'dict.txt') as phishingLines:
         for phishingLine in phishingLines:
             lineP = phishingLine.split()
 
