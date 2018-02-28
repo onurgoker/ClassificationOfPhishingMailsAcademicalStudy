@@ -21,7 +21,7 @@ def genarate_clean_mail(mailCount, inputDir, outputDir, mailType):
     if not os.path.exists(outputPath):
         os.makedirs(outputPath)
 
-    for i in range(1,mailCount):
+    for i in range(1,mailCount+1):
         inputFileName = inputPath + str(i) + ".txt" 
         outputFileName = outputPath + str(i) + ".txt"
 
