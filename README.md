@@ -2,7 +2,7 @@
 
 **parse email messages in ../data/input subdirectories (ham, spam, phishing, ...) and put the clean text messages in ../data/output (stop words and other junk cleaned)**
 
-python parse.py -input data/input/ -output data/output/
+python3.5 parse.py -input data/input/ -output data/output/
 
 **read all ham and spam emails in the directories -ham and -spam, calculate tf.idf average scores for each word in each batch and take the difference of scores and write to -output file in (word, weight) format.**
 
