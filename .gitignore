@@ -11,6 +11,8 @@ GoogleNews-vectors-negative300.bin
 #VS code
 .vscode/
 
+data/
+
 # Distribution / packaging
 .Python
 env/
