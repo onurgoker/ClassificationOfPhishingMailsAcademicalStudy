@@ -10,7 +10,7 @@ def generateVectors(path):
     		mailNo = 0
 
 	for f in arr:
-		if ".eml" in f:
+		if ".txt" in f:
 			try:
 				file = open(path + f, 'r')
 				words = list(file.read().lower().split())
