@@ -43,7 +43,9 @@ dictPath = results.dict
 wordCount = 300
 # End of Path Definition
 
-arr = os.listdir(hamInputPath)
+ignored = {"dict.txt"}
+arr = [x for x in os.listdir(hamInputPath) if x not in ignored]
+
 mailCount = len(os.listdir(hamInputPath))-1
 
 # read dict.txt to d
@@ -58,12 +60,21 @@ sorted_x = sorted(d.items(), key=operator.itemgetter(1))
 # take the first 300
 v = sorted_x[0:wordCount]
 
-# read a file and split into 'words'
-vecfile = open('vectors.txt', 'w+')
-vecfile.truncate()
+directory = "output/vector/wtfidf/"
 
-print(mailCount)
-sys.exit()
+if not os.path.exists(directory):
+    os.makedirs(directory)
+
+mailName = str(mailCount)
+
+if mailName.count("0") == 3:
+	mailName = mailName.replace("000","k")
+elif mailName.count("0") == 4:
+	mailName = mailName.replace("0000","0k")
+
+# read a file and split into 'words'
+vecfile = open(directory + "v" + mailName + ".txt", 'w+')
+vecfile.truncate()
 
 generateVectors(hamInputPath)
 generateVectors(phishingInputPath)

@@ -137,15 +137,15 @@ def average_tfid_dictionary(outputPath):
             f.write(key + " " + str(val) + "\n")
     f.close()
 
-def get_diff_of_vectors(hamInputPath, phishingInputPath):
+def get_diff_of_vectors(outputPath):
     hamArr = phishingArr = mergeDict = {}
 
-    with open(hamInputPath.replace("input","output") + 'dict.txt') as hamLines:
+    with open(outputPath.replace("output/","output/ham/")) as hamLines:
         for hamLine in hamLines:
             lineH = hamLine.split()
             hamArr[lineH[0]] = lineH[1]
 
-    with open(phishingInputPath.replace("input","output") + 'dict.txt') as phishingLines:
+    with open(outputPath.replace("output/","output/phishing/")) as phishingLines:
         for phishingLine in phishingLines:
             lineP = phishingLine.split()
 
@@ -160,16 +160,12 @@ def get_diff_of_vectors(hamInputPath, phishingInputPath):
     p = re.compile("^(0[1-9]|1[012])[- /.](0[1-9]|[12][0-9]|3[01])[- /.](19|20)\d\d$")
 
     for key,val in hamArr.items():
-        print(val)
-        sys.exit()
-        if val < 1 and val > -1 and not p.match(str(val)):
-            filterArr[key] = val
-
+        if float(val) < 1 and float(val) > -1 and not p.match(str(val)):
+            filterArr[key] = round(float(val), 4)
     result = dict(zip(filterArr.values(), filterArr.keys()))
     result = collections.OrderedDict(sorted(result.items(), reverse=True))
-
     #write to file
-    with open(hamInputPath.replace("ham/","") + 'dict.txt', 'w+') as outFile:
+    with open(outputPath, 'w+') as outFile:
         invalidChars = set(string.punctuation)
 
         for val,key in result.items():
@@ -211,7 +207,7 @@ outputPath = results.output
 if __name__ == '__main__':
     print("Please wait...")
     time.sleep(2)
-
+    """
     print("Cleaning stop words for ham data...")
     custom_methods.write_without_stopwords(hamInputPath)
 
@@ -235,6 +231,6 @@ if __name__ == '__main__':
 
     print("Executing phishing output word sorting...")
     order_output_keyword_list_output(outputPath, 'phishing')
-
+    """
     print("Getting diff of vectors...")
-    get_diff_of_vectors(hamInputPath, phishingInputPath)
+    get_diff_of_vectors(outputPath)
