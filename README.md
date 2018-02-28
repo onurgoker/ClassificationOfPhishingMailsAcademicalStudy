@@ -6,7 +6,7 @@ python parse.py -input data/input/ -output data/output/
 
 **read all ham and spam emails in the directories -ham and -spam, calculate tf.idf average scores for each word in each batch and take the difference of scores and write to -output file in (word, weight) format.**
 
-python wordweight.py -ham data/output/ham/ -phishing data/output/phishing/ -output data/output/dict.txt
+python3.5 wordweight.py -ham data/output/ham/ -phishing data/output/phishing/ -output data/output/dict.txt
 
 **create word vectors with weights for each email file in -ham and -spam directories, and write the vectors to -output file in the format (???).**
 
