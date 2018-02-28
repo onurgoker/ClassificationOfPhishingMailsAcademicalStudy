@@ -207,7 +207,7 @@ outputPath = results.output
 if __name__ == '__main__':
     print("Please wait...")
     time.sleep(2)
-    """
+
     print("Cleaning stop words for ham data...")
     custom_methods.write_without_stopwords(hamInputPath)
 
@@ -231,6 +231,6 @@ if __name__ == '__main__':
 
     print("Executing phishing output word sorting...")
     order_output_keyword_list_output(outputPath, 'phishing')
-    """
+    
     print("Getting diff of vectors...")
     get_diff_of_vectors(outputPath)
