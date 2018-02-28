@@ -11,6 +11,10 @@ GoogleNews-vectors-negative300.bin
 #VS code
 .vscode/
 
+data/output/phishing/dict.txt
+data/output/ham/dict.txt
+data/output/dict.txt
+
 # Distribution / packaging
 .Python
 env/
