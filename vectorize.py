@@ -62,5 +62,8 @@ v = sorted_x[0:wordCount]
 vecfile = open('vectors.txt', 'w+')
 vecfile.truncate()
 
+print(mailCount)
+sys.exit()
+
 generateVectors(hamInputPath)
 generateVectors(phishingInputPath)
